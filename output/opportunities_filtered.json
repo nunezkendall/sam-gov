@@ -1,0 +1,2704 @@
+[
+  {
+    "noticeId": "bf344e59b7154e1f9465ccfa270fcd1e",
+    "title": "Social Media Manager",
+    "solicitationNumber": "W911S8-26-Q-1B93",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-18",
+    "responseDeadline": "2026-03-04T13:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.418TH CSB.W6QM MICC-JB LEWIS-MC CHORD",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "North Lakewood",
+      "state": "Washington",
+      "zip": "98433"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/bf344e59b7154e1f9465ccfa270fcd1e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bf344e59b7154e1f9465ccfa270fcd1e",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Washington"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "7ae096d1de2a47c28000ae8cc4d6341c",
+    "title": "Synopsis/Solicitation W91CRB25C5071",
+    "solicitationNumber": "SynopsisSolicitationW91CRB25C5071",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-18",
+    "responseDeadline": "2026-02-28T12:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/7ae096d1de2a47c28000ae8cc4d6341c/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7ae096d1de2a47c28000ae8cc4d6341c",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d46ea93161c7440183d2c497c380cccd/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e97dd04a1d0041a7bd0ed00478d48f3a/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "migration",
+      "network",
+      "networking"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "migration",
+        "network",
+        "networking"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "on-site",
+        "in person"
+      ]
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "4355ee8841b144ba937d44cd87f0e228",
+    "title": "To acquire FlexDeploy DevOps Automation Tool for licensing, installation/implementation support services, training, maintenance support services and supplies.",
+    "solicitationNumber": "NIHOD0001",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-11",
+    "responseDeadline": "2026-02-12T12:00:00-05:00",
+    "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Bethesda",
+      "state": "Maryland",
+      "zip": "20892"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/4355ee8841b144ba937d44cd87f0e228/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4355ee8841b144ba937d44cd87f0e228",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd02f44288af43ab8f3fcd82769d809f/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "DevOps",
+      "automation"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "DevOps",
+        "automation"
+      ],
+      "description": [
+        "DevOps",
+        "automation"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "4dc325a3f91144ac9bb9a84d73b90827",
+    "title": "53--CASTER",
+    "solicitationNumber": "N0010426QAB20",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-30",
+    "responseDeadline": "2026-03-02T16:30:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP WEAPON SYSTEMS SUPPORT.NAVSUP WSS MECHANICSBURG.NAVSUP WEAPON SYSTEMS SUPPORT MECH",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/4dc325a3f91144ac9bb9a84d73b90827/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4dc325a3f91144ac9bb9a84d73b90827",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "c41c1aff89c74cd582bc514a8ee13c31",
+    "title": "RFI: Executive Decision Model",
+    "solicitationNumber": "EDM-RFI-001",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-28",
+    "responseDeadline": "2026-02-11T12:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.FA3002  338 ESS CC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "DWG",
+      "state": "Texas",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c41c1aff89c74cd582bc514a8ee13c31/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c41c1aff89c74cd582bc514a8ee13c31",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ee93d10f781543d1a5cb1b9830649571/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Texas"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "e9a7339834d649c3b5bc3e5b33189af2",
+    "title": "6350--Avigilon video surveillance system project",
+    "solicitationNumber": "36C26126Q0247",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-26",
+    "responseDeadline": "",
+    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.261-NETWORK CONTRACT OFFICE 21 (36C261)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/e9a7339834d649c3b5bc3e5b33189af2/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e9a7339834d649c3b5bc3e5b33189af2",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11315356531c4b56aa191c3996e7785d/download"
+      ]
+    },
+    "amountEstimate": 44233.97,
+    "amountSource": "award.amount",
+    "amountInRange": true,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": []
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "a0d3ebdfeeeb4544a7a000ad9438c37d",
+    "title": "IUID Hardware Support Services",
+    "solicitationNumber": "FA822226SSIUID",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-26",
+    "responseDeadline": "2026-02-09T13:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE SUSTAINMENT CENTER.FA8222  AFSC OL H PZIE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Hill Air Force Base",
+      "state": "Utah",
+      "zip": "84056"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/a0d3ebdfeeeb4544a7a000ad9438c37d/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a0d3ebdfeeeb4544a7a000ad9438c37d",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0964888fee7547d6accc09d1e23a347a/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "on-site"
+      ]
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Utah"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "6b85157acf1e4077bf1b8680e1125421",
+    "title": "DISN Advanced Engineering & Transport Solutions (DAETS)  formally MANDO v2",
+    "solicitationNumber": "832572039",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-21",
+    "responseDeadline": "2026-02-04T14:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEFENSE INFORMATION SYSTEMS AGENCY (DISA).IT CONTRACTING DIVISION - PL83",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "St James",
+      "state": "Maryland",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/6b85157acf1e4077bf1b8680e1125421/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6b85157acf1e4077bf1b8680e1125421",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5bfe8186d9534f70b453d3c95acd360d/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network",
+      "networking"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network",
+        "networking"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "0fa8f7efa44340dbafb8111e761b72ba",
+    "title": "Request for Information - Information Technology Global Operations",
+    "solicitationNumber": "RFI_DoDEA_GlobalOPS",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541513",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-17",
+    "responseDeadline": "2026-03-02T11:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF DEFENSE EDUCATION ACTIVITY (DODEA).DOD EDUCATION ACTIVITY",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Peachtree City",
+      "state": "Georgia",
+      "zip": "30269"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/0fa8f7efa44340dbafb8111e761b72ba/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0fa8f7efa44340dbafb8111e761b72ba",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a092b7940804c62ad9915ff3256afc8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fc23205cae9c4426bee8c26bbbd0aae8/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "CI/CD",
+      "Monitoring",
+      "modernization",
+      "network",
+      "networking",
+      "LAN",
+      "WAN",
+      "firewall",
+      "network operations",
+      "NOC"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "CI/CD",
+        "Monitoring",
+        "modernization",
+        "network",
+        "networking",
+        "LAN",
+        "WAN",
+        "firewall",
+        "network operations",
+        "NOC"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Georgia"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "fa25d68331a44e02ab72b1209478731d",
+    "title": "Cybersecurity Support Services for Offutt AFB Defense Red Switch Network (DRSN)",
+    "solicitationNumber": "FA460026Q0012",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541513",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-10",
+    "responseDeadline": "2026-02-17T13:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "St Columbans",
+      "state": "Nebraska",
+      "zip": "68113"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/fa25d68331a44e02ab72b1209478731d/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fa25d68331a44e02ab72b1209478731d",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/68fc07c377cd4c5dbca8ec3c3bba22eb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/71f328143d0a4af5bdee6dd97e8ff7dc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7e4d61b313fd4fa1ad35adf071929a5c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8f92bd963e154ba6a7331b9369303cd6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4d6cb554ec942d49f4dc55914c0ab62/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "network",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Nebraska"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "254e361d8fe744c7821788175e2d1960",
+    "title": "Enterprise Endpoint Support Services (EESS) Request for Information (RFI)",
+    "solicitationNumber": "GC-2641-01072026",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541513",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-09",
+    "responseDeadline": "2026-02-17T15:00:00-08:00",
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MANAGEMENT OFFICE -- JPL",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "La Canada Flintridge",
+      "state": "California",
+      "zip": "91011"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/254e361d8fe744c7821788175e2d1960/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=254e361d8fe744c7821788175e2d1960",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/37c2762dca0d4c20a73d97ba8868652d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6638924dee574363a0077c22ca1935e6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6e957b5ab44f474c909a8d9cd2e40b0e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2e7eddf01344808a4831b662275678e/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN",
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN",
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "on-site"
+      ]
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "California"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "33d0869ebcb9439da8f957e09de43791",
+    "title": "J065--RSO Medical Physics Services KC",
+    "solicitationNumber": "36C25526Q0205",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-12",
+    "responseDeadline": "2026-02-18T10:00:00-06:00",
+    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.255-NETWORK CONTRACT OFFICE 15 (36C255)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64128-2226"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/33d0869ebcb9439da8f957e09de43791/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=33d0869ebcb9439da8f957e09de43791",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e6acec943aa495daed7552ebbfc0b9b/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "MO"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "4d4c82334e8e44409055e6b16d4d10d8",
+    "title": "R--DENALI COMMISSION: STRATEGIC PLANNING REPORT",
+    "solicitationNumber": "140D0426R0022",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-09",
+    "responseDeadline": "2026-02-19T14:00:00-05:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.DEPARTMENTAL OFFICES.IBC ACQ SVCS DIRECTORATE (00004)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/4d4c82334e8e44409055e6b16d4d10d8/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4d4c82334e8e44409055e6b16d4d10d8",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/06b47ff7b9da48289c3999047b026ebb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/20c490a1577448fc9dfe3b157ae0960e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/534d084e771a471fa62976b64a1b490f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/71d1dc9c31944056816d4aa5b1c18536/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/910ecca18e9b44e8a90a359c89e96e64/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a83532ed0d67423a9fd2c6d37038d4db/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/afde2b696582498d875206be374c2fba/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7b52771151f4f10b4e9edfe6b15dae8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc0bfe734b0b44de9dd265489536191e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bfd80adc3e194c7ca4ad63cd2f918133/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d31b66b0ca3a4cb2b88ca492e62fd681/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f90fffa94977430b89405d69a8977c14/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fded1fbca0b946a78527fcf65208de9b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/feb3d38624104a9fa005baadd4ca85ac/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "6be22e86c3134900a7689c2ec8f90fc5",
+    "title": "Lower American River Monitoring Spawning and Stran",
+    "solicitationNumber": "140R2025Q0078",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Sources Sought",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-27",
+    "responseDeadline": "2026-02-24T10:00:00-08:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF RECLAMATION.MP-REGIONAL OFFICE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/6be22e86c3134900a7689c2ec8f90fc5/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6be22e86c3134900a7689c2ec8f90fc5",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3a63bee401c44cb28ff7683b424883ec/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5ac72e07558547c7a5968a4503b3d5a5/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "Monitoring"
+      ],
+      "description": []
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "daefe73174d3460e964208904854aa43",
+    "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
+    "solicitationNumber": "SEIS21226",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-18",
+    "responseDeadline": "2026-03-16T17:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.ELECTRONIC SYSTEMS.FA2381 FORCE PROTECTION AFLCMC/HBUK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Hanscom AFB",
+      "state": "Massachusetts",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/daefe73174d3460e964208904854aa43/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=daefe73174d3460e964208904854aa43",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2cdbfdf100874630bf83480b588bf75b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dbca6d797f324e3c96d532f705dcc55d/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Massachusetts"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "b31eb145745e47c08c9a508bb5a2395c",
+    "title": "Architect-Engineer (A-E) Services for Offutt AFB",
+    "solicitationNumber": "FA4600_A-E_2026",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-18",
+    "responseDeadline": "2026-03-06T16:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "St Columbans",
+      "state": "Nebraska",
+      "zip": "68113"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/b31eb145745e47c08c9a508bb5a2395c/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b31eb145745e47c08c9a508bb5a2395c",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04e5cf105b8f471798a529f49c8d7017/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Nebraska"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "6e072b9d92f346309d5a72f707123d11",
+    "title": "Engineering and Logistics Support (ELS)",
+    "solicitationNumber": "N39430-26-RFI-ELS",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-18",
+    "responseDeadline": "2026-03-09T15:00:00-07:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.EXPEDITIONARY WARFARE CENTER.NAVFAC SYSTEMS AND EXP WARFARE CTR",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/6e072b9d92f346309d5a72f707123d11/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6e072b9d92f346309d5a72f707123d11",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2ce1c76ef70e455986f2ea0e300eed69/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2eb780a6d7549828d4085399f9650e7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cadc19ec8b854a3f9ff4512fe37bb500/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fe87dd68b33f44c690d77de865a20fee/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN",
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN",
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "f582abdca6c04520bbfba7d74994d04c",
+    "title": "CANES Tactical Networks Market Survey",
+    "solicitationNumber": "N66604-26-R-3000-MS1",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-17",
+    "responseDeadline": "2026-02-27T14:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NUWC DIV NEWPORT",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/f582abdca6c04520bbfba7d74994d04c/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f582abdca6c04520bbfba7d74994d04c",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "7d8ebfe6dec1478584616ad957b3d19a",
+    "title": "AE IDIQ SERVICES EASTERN AND WESTERN REGIONS",
+    "solicitationNumber": "25-1060",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-17",
+    "responseDeadline": "2026-02-17T15:00:00-05:00",
+    "agency": "COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/7d8ebfe6dec1478584616ad957b3d19a/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7d8ebfe6dec1478584616ad957b3d19a",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/be6c154d2e524290b2b647f7ac65dba2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d07216354d7a45c6806dd0468516e115/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e99e1df829444a98bce10fce7b1acdb1/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "af7f6450215f4feba63f5715508d81dc",
+    "title": "MTNG Architect-Engineer (A-E) Single Award Task Order Contract (SATOC)",
+    "solicitationNumber": "W9124V26RA001",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-13",
+    "responseDeadline": "2026-03-16T10:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO MT.USPFO MT PROCUREMENT.W7NK USPFO ACTIVITY MT ARNG",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Great Falls",
+      "state": "Montana",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/af7f6450215f4feba63f5715508d81dc/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=af7f6450215f4feba63f5715508d81dc",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9688d979058a45e8b5b98cc824907c51/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "AWS",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "AWS",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "virtual"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "in person",
+        "in-person"
+      ]
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Montana"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "6f0a222ea2bd44408db15362359189b3",
+    "title": "Spectrum Information Systems (SIS) Helpdesk",
+    "solicitationNumber": "632674007",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-13",
+    "responseDeadline": "2026-02-26T16:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEFENSE INFORMATION SYSTEMS AGENCY (DISA).DEFENSE INFORMATION SYSTEMS AGENCY",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Maryland",
+      "zip": "20755"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/6f0a222ea2bd44408db15362359189b3/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6f0a222ea2bd44408db15362359189b3",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd49b6ac9b7b4948a27c00c901c4896f/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network",
+      "routing"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network",
+        "routing"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "6cf7187fa08f45cd8cfd68ef977a022b",
+    "title": "NAVWAR HQ 1.0 Accounting Support Services",
+    "solicitationNumber": "N0003926RE019",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-12",
+    "responseDeadline": "2026-02-25T15:30:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "92110"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/6cf7187fa08f45cd8cfd68ef977a022b/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6cf7187fa08f45cd8cfd68ef977a022b",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network",
+      "networking"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network",
+        "networking"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "5dc0e952d3934c5eb761ca7dcc253ff7",
+    "title": "Instrument Interface Design and Analyses Work for NASA\u2019s Boeing 777 Aircraft",
+    "solicitationNumber": "80NSSC26924733Q",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-12",
+    "responseDeadline": "2026-02-17T12:00:00-06:00",
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Greenbelt",
+      "state": "Maryland",
+      "zip": "20771"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5dc0e952d3934c5eb761ca7dcc253ff7/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5dc0e952d3934c5eb761ca7dcc253ff7",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8d3b34102565439da3a43ce4c2a0b707/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc503e1c345c4984afe1549a5d1674f0/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "ASA"
+      ],
+      "description": [
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "f975673fd21e46699e4096649c2abe3d",
+    "title": "H20 Engineering Services",
+    "solicitationNumber": "N0017826R3102",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-11",
+    "responseDeadline": "2026-03-09T12:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Dahlgren",
+      "state": "Virginia",
+      "zip": "22448"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/f975673fd21e46699e4096649c2abe3d/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f975673fd21e46699e4096649c2abe3d",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "system administration",
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "system administration",
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "15f6cf3e8fed4fbbbd152664b6d7f73e",
+    "title": "Construction Management Support Services",
+    "solicitationNumber": "A04132",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-11",
+    "responseDeadline": "2026-04-17T14:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION PACIFIC OCEAN.ENDIST ALASKA.W2SN ENDIST ALASKA",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Alaska",
+      "zip": "99506"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/15f6cf3e8fed4fbbbd152664b6d7f73e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=15f6cf3e8fed4fbbbd152664b6d7f73e",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Alaska"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "cb177170da494062bc2da62c83da9684",
+    "title": "A30 FiberOptic Waterfront Cabling Support",
+    "solicitationNumber": "N0017826R3009",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-06",
+    "responseDeadline": "2026-02-13T12:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Virginia",
+      "zip": "22448"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/cb177170da494062bc2da62c83da9684/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=cb177170da494062bc2da62c83da9684",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network",
+      "networking",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network",
+        "networking",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "890debb9bcef47158ab8f355fdb9f1e7",
+    "title": "Atrium Mezzanine Design Services for the Department of Public Works Building, United States Merchant Marine Academy, Kings Point, New York",
+    "solicitationNumber": "Solicitation_6923G226Q000003",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-05",
+    "responseDeadline": "2026-02-16T13:00:00-05:00",
+    "agency": "TRANSPORTATION, DEPARTMENT OF.MARITIME ADMINISTRATION.693JF7 DOT  MARITIME ADMINISTRATION",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Kings Point",
+      "state": "New York",
+      "zip": "11024"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/890debb9bcef47158ab8f355fdb9f1e7/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=890debb9bcef47158ab8f355fdb9f1e7",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b9d3fee4299e4caeadfd30e04fa2cd19/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "New York"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "e6d38ab60022435fa3b3fff32bc681f0",
+    "title": "Architect & Engineer (A&E) IDIQ",
+    "solicitationNumber": "FA441826AE_IDIQ",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-04",
+    "responseDeadline": "2026-02-25T16:30:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR MOBILITY COMMAND.FA4418  628 CONS PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Charleston AFB",
+      "state": "South Carolina",
+      "zip": "29404"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/e6d38ab60022435fa3b3fff32bc681f0/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e6d38ab60022435fa3b3fff32bc681f0",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "ECS",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "ECS",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "South Carolina"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "b94a8ea5a6684a9aa4676618f0d4f43f",
+    "title": "Construction Management Services, U.S. Army Corps of Engineers, New Orleans District, Indefinite Delivery Indefinite Quantity (IDIQ)",
+    "solicitationNumber": "W912P826RA007",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-03",
+    "responseDeadline": "2026-02-06T10:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION MISSISSIPPI VALLEY.ENDIST NEW ORLEANS.W07V ENDIST NEW ORLEANS",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/b94a8ea5a6684a9aa4676618f0d4f43f/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b94a8ea5a6684a9aa4676618f0d4f43f",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/037a1da89f5b4d76bfd6fa9321d04da4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04793af7aab24f2d91a3d5d063e93355/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a2a2382fe8348caba7bf476988be4f1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4d0baf819d9f4b12929837b44287829e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/59f54593a6b2474c890f0758d93ac61d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ab99d37850fe40a7a80b906242f04402/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cb153db56d2c4e628439b9768aa80ef3/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "5abce68845044f389ab77fb358b67903",
+    "title": "Ultrasonic Testing and Report for Dry Dock Caisson",
+    "solicitationNumber": "N5523626Q0020",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-03",
+    "responseDeadline": "2026-02-10T11:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.REGIONAL MAINTENANCE CENTER.SOUTHWEST REGIONAL MAINT CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92136"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5abce68845044f389ab77fb358b67903/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5abce68845044f389ab77fb358b67903",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0235dc25345149edad017b888edc7e8d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1f2e71a863b249fcaf2fb8376df2afc0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/40ef29fe1c0842c7820770f6912edbd8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8f7de72d6edd404eacc7ca6757640c86/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c1083b7dea2947dca50ae7acb19da032/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "AWS",
+      "LAN",
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "AWS",
+        "LAN",
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "in person"
+      ]
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "California"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "solicitationNumber": "N6600126R0002",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-03",
+    "responseDeadline": "2026-02-18T11:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "92152"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/2972b1f9a3824954954f8ccb7a1b99a7/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2972b1f9a3824954954f8ccb7a1b99a7",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "e5228e10146d4f4b90b484eb90ea5bbb",
+    "title": "Guam/JRM AE IDIQ",
+    "solicitationNumber": "FA8903-GUAM-JRM",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-02",
+    "responseDeadline": "2026-02-28T14:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Guam",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/e5228e10146d4f4b90b484eb90ea5bbb/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e5228e10146d4f4b90b484eb90ea5bbb",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/43e0d4da93414d86a6a223c387fc2310/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/852513629b1448e3ab48e7d1e3467dc0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ce0870e8a95d4a1c86e532eccbd45dda/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Guam"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "ccdf281c09904b759adfe1382329999a",
+    "title": "Repair Runway Charette Keesler AFB Synopsis",
+    "solicitationNumber": "FA3010-RepairRunwayCR-Mabonga",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-02",
+    "responseDeadline": "2026-02-16T14:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.FA3010  81 CONS CC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Biloxi",
+      "state": "Mississippi",
+      "zip": "39534"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ccdf281c09904b759adfe1382329999a/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ccdf281c09904b759adfe1382329999a",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Mississippi"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "5a69a0450fed48c8aad49ffcfeadf288",
+    "title": "C--Multiple Award IDIQ- Professional Fire Protection Engineering and Fire Protecti",
+    "solicitationNumber": "140PS126R0001",
+    "type": "Presolicitation",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-02",
+    "responseDeadline": "2026-02-16T17:00:00-05:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.DOI, NPS CONOPS STRATEGIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5a69a0450fed48c8aad49ffcfeadf288/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5a69a0450fed48c8aad49ffcfeadf288",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "on-site"
+      ]
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "27019d30a3f64915957a83d6b7f5ec5f",
+    "title": "Architect Engineer Support to support Mobile and Savannah Districts Planning and Environmental Divisions.",
+    "solicitationNumber": "W9127825RA003",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-02",
+    "responseDeadline": "2026-02-26T14:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH ATLANTIC.ENDIST MOBILE.W074 ENDIST MOBILE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Mobile",
+      "state": "Alabama",
+      "zip": "36602"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/27019d30a3f64915957a83d6b7f5ec5f/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=27019d30a3f64915957a83d6b7f5ec5f",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f1a38cda8df4426cb0e616b16b4eee5f/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Alabama"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "5b40e61220da466bb9ce322d06928c2a",
+    "title": "C--INDEFINITE DELIVERY             FACILITATION AND ARCHITECT- ENGINEER SERVICES       CONTRACT FOR CHARRETTES, VE WORKSHOPS AND SIMILAR MEETINGS, PRIMARILY VARIOUS LOCATIONS, ALASKA AND WAKE ISLAND",
+    "solicitationNumber": "W911KB26RA027",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-28",
+    "responseDeadline": "2026-02-27T14:00:00-09:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION PACIFIC OCEAN.ENDIST ALASKA.W2SN ENDIST ALASKA",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "99506"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5b40e61220da466bb9ce322d06928c2a/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5b40e61220da466bb9ce322d06928c2a",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "0fb54a66832047338223c74a534752e2",
+    "title": "70Z03026QCLEV0028 - U.S. Coast Guard REPFAC Structural Engineer Assessment",
+    "solicitationNumber": "70Z03026QCLEV0028",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-28",
+    "responseDeadline": "2026-02-06T16:00:00-05:00",
+    "agency": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.BASE CLEVELAND(00030)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Lakewood",
+      "state": "Ohio",
+      "zip": "44107"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/0fb54a66832047338223c74a534752e2/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0fb54a66832047338223c74a534752e2",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3fe6a786de514a579501e34fcae0f6a4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/51b4fb43227549e0883a17fb579ac252/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79cb8910e614412a97f6e4a8ecd0c1cd/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b05e892618564878a7279477ba79634a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c5e1fd08b235495086ba4f7e6ab5640f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa3e0b97a47443f2b9d70277f19a1e92/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Ohio"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "c75816606f32442c892ad560e2fe1bfa",
+    "title": "Artillery, Chemical Training (ACT)",
+    "solicitationNumber": "W900KK26R0011",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-27",
+    "responseDeadline": "2026-02-19T16:30:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-ORLANDO.W6QK ACC-ORLANDO",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Orlando",
+      "state": "Florida",
+      "zip": "32826"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c75816606f32442c892ad560e2fe1bfa/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c75816606f32442c892ad560e2fe1bfa",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b3a4658d94e4c6bae6baac250ffa746/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c719fa602e2447d28fb5315d905be2be/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc87387e69dd4c9fa7b81988d0f59239/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN",
+      "WAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN",
+        "WAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote",
+        "virtual"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "on-site",
+        "in person"
+      ]
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Florida"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "5dc850ecba1d4dd6bf4d0ee4828d2a3e",
+    "title": "Control Inspection of Graving Dock",
+    "solicitationNumber": "N5523626Q0022",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-27",
+    "responseDeadline": "2026-02-03T11:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.REGIONAL MAINTENANCE CENTER.SOUTHWEST REGIONAL MAINT CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92136"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5dc850ecba1d4dd6bf4d0ee4828d2a3e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5dc850ecba1d4dd6bf4d0ee4828d2a3e",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8036ac727cd84864b431de3080093ea0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b493963d31a4437f9a61a6ae187dda88/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "AWS",
+      "LAN",
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "AWS",
+        "LAN",
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "in person"
+      ]
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "California"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "d304ad4995e9428dbeae0d04018ca9e4",
+    "title": "Request for Proposals for Modeling, Simulation, Engineering, Analysis, and Tactics (MSEAT)",
+    "solicitationNumber": "N6133126R3105",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-23",
+    "responseDeadline": "2026-02-06T16:40:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "32407"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/d304ad4995e9428dbeae0d04018ca9e4/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d304ad4995e9428dbeae0d04018ca9e4",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "7b48be9b10b340168451112ba5b1f1aa",
+    "title": "A-E Shortlist for USDA-FS, Region 8 and 10, SRS-PNW-IITF Research Stations 2026",
+    "solicitationNumber": "12445124R0001",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-22",
+    "responseDeadline": "2026-03-31T12:00:00-08:00",
+    "agency": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA EAST 11",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/7b48be9b10b340168451112ba5b1f1aa/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7b48be9b10b340168451112ba5b1f1aa",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0981f75c606649d6877badb1306bedf0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d1b45773f8c4f7daea340033bad0cf8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2ddee05ca0ba40b38e1b196abf58e242/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2f47e3be4d5a4c90861f6fdca39be537/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/73d0ddc2a4cd4bc6819c9f6e05f945ca/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/75a4a413aaff42e1af32720831c6089b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79dd434e227a46ef850204fd85e75723/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2b9570cbadf4549b1ca1b9df6029763/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb0d55cae4124ed0b8fc64d1f219aa89/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f8c1a1624d114400a26ef1ab49622166/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faf1aca1555f42e0a64e7e899b63fd0b/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "AWS",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "AWS",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "virtual"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Georgia"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "fcc2a87979e543e69fd6a756d2ae86f8",
+    "title": "Notice of Intent to Increase Design IDIQ MATOC Capacity",
+    "solicitationNumber": "",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-29",
+    "responseDeadline": "2026-02-13T15:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH ATLANTIC.ENDIST JACKSONVILLE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/fcc2a87979e543e69fd6a756d2ae86f8/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fcc2a87979e543e69fd6a756d2ae86f8",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Florida"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "c2fd282835e44e9191df1ae9968f2644",
+    "title": "Southeast Regional Architecture Engineering 2 (SERAE 2) Indefinite Delivery Indefinite Quantity (IDIQ) contract",
+    "solicitationNumber": "80KSC025ZCS001L",
+    "type": "Presolicitation",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-28",
+    "responseDeadline": "2026-02-12T14:00:00-05:00",
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA KENNEDY SPACE CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Merritt Island",
+      "state": "Florida",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c2fd282835e44e9191df1ae9968f2644/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c2fd282835e44e9191df1ae9968f2644",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fbfaee5116064246862b5356b71615bb/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN",
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN",
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Florida"
+    },
+    "updatedDate": null
+  },
+  {
+    "noticeId": "d73d2b0ad96140e298f64808499091c1",
+    "title": "Multiple Award Task Order Contract for Resilient Architect-Engineer Services (RAES)",
+    "solicitationNumber": "FA8903-RAES",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-01-22",
+    "responseDeadline": "2025-12-15T14:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/d73d2b0ad96140e298f64808499091c1/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d73d2b0ad96140e298f64808499091c1",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d1f4aee7a9a4d73a12e95a4034b0458/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/275341e67914431dbafa1566278e203b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/44b20a1e26c34c60a5a7f915bc18a104/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e9d07140fd94c258231b7ae76408377/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b5d4b4fde3344383a4bd75658aa15162/download"
+      ]
+    },
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "virtual"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "updatedDate": null
+  }
+]
