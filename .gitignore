@@ -7,11 +7,12 @@ __pycache__/
 venv/
 
 # Outputs
+output/*
 !output/
 !output/*.json
-!data/state.json
-output/*
 data/*
+!data/
+!data/state.json
 
 # OS
 .DS_Store
