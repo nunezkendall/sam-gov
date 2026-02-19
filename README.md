@@ -13,7 +13,7 @@ This script pulls new/updated SAM.gov Contract Opportunities for selected NAICS 
    - `SAM_API_KEY` (required)
    - `OPENAI_API_KEY` (optional, required for scoring)
 3. Install dependencies:
-   - `pip install requests`
+   - `pip install -r requirements.txt`
 
 ## Run Manually
 
@@ -70,3 +70,4 @@ This repo includes a workflow at `.github/workflows/daily-sam.yml` that runs dai
 - Amount filtering is strict when a value is available; unknown amounts are kept unless `require_amount` is true.
 - Keyword matching is done against the title and the description text.
 - Full description text is included in scoring payloads (configurable).
+- Attachment files (PDFs) are downloaded and summarized for scoring (configurable limits).

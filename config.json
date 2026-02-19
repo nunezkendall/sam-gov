@@ -82,6 +82,10 @@
     "model": "gpt-5.2-chat-latest",
     "max_items": 200,
     "timeout_seconds": 120,
-    "include_description_full": true
+    "include_description_full": true,
+    "include_attachments": true,
+    "attachment_max_files": 5,
+    "attachment_max_bytes": 5000000,
+    "attachment_text_limit": 8000
   }
 }

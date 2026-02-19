@@ -1,4 +1,5 @@
 import argparse
+import io
 import json
 import os
 import sys
@@ -8,6 +9,7 @@ from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 import requests
+from pypdf import PdfReader
 
 
 DEFAULT_CONFIG = {
@@ -42,6 +44,10 @@ DEFAULT_CONFIG = {
         "max_items": 200,
         "timeout_seconds": 120,
         "include_description_full": True,
+        "include_attachments": True,
+        "attachment_max_files": 5,
+        "attachment_max_bytes": 5_000_000,
+        "attachment_text_limit": 8000,
     },
 }
 
@@ -245,6 +251,37 @@ def fetch_description_text(url: Optional[str], api_key: str, timeout_seconds: in
     except requests.RequestException:
         return ""
 
+def fetch_attachment_text(
+    url: str,
+    api_key: str,
+    timeout_seconds: int,
+    max_bytes: int,
+) -> Tuple[str, Optional[str], int]:
+    params = {}
+    if "api_key=" not in url:
+        params["api_key"] = api_key
+    try:
+        resp = requests.get(url, params=params, timeout=timeout_seconds)
+        if resp.status_code != 200:
+            return "", resp.headers.get("Content-Type"), 0
+        content = resp.content or b""
+        if max_bytes and len(content) > max_bytes:
+            return "", resp.headers.get("Content-Type"), len(content)
+        content_type = resp.headers.get("Content-Type")
+        text = ""
+        if (content_type and "pdf" in content_type.lower()) or url.lower().endswith(".pdf"):
+            try:
+                reader = PdfReader(io.BytesIO(content))
+                parts = []
+                for page in reader.pages:
+                    parts.append(page.extract_text() or "")
+                text = "\n".join(parts)
+            except Exception:
+                text = ""
+        return text, content_type, len(content)
+    except requests.RequestException:
+        return "", None, 0
+
 
 def make_snippet(text: str, limit: int = 800) -> str:
     if not text:
@@ -362,6 +399,10 @@ def build_clean_record(
     allow_onsite_states: List[str],
     scope_threshold: int,
     include_description_full: bool,
+    include_attachments: bool,
+    attachment_max_files: int,
+    attachment_max_bytes: int,
+    attachment_text_limit: int,
 ) -> Optional[Dict[str, Any]]:
     title = (record.get("title") or "").strip()
     notice_id = (record.get("noticeId") or "").strip()
@@ -405,6 +446,31 @@ def build_clean_record(
         desc_onsite = find_onsite_indicators(desc_text)
         desc_brand = find_brandname_indicators(desc_text)
         desc_scope = find_scope_indicators(desc_text)
+
+    attachments_summary = []
+    attachments_texts = []
+    if include_attachments:
+        links = record.get("resourceLinks") or []
+        if isinstance(links, list):
+            for link in links[:attachment_max_files]:
+                if not isinstance(link, str) or not link:
+                    continue
+                text, content_type, size = fetch_attachment_text(
+                    link,
+                    sam_api_key,
+                    timeout_seconds,
+                    attachment_max_bytes,
+                )
+                if text:
+                    attachments_texts.append(text)
+                attachments_summary.append(
+                    {
+                        "url": link,
+                        "contentType": content_type,
+                        "byteSize": size,
+                        "textSnippet": make_snippet(text, 800) if text else "",
+                    }
+                )
     keyword_hits = title_hits or desc_hits
     if not keyword_hits:
         return None
@@ -451,6 +517,13 @@ def build_clean_record(
         },
         "descriptionSnippet": make_snippet(desc_text, 800) if desc_text else "",
         "descriptionFull": desc_text if include_description_full else "",
+        "attachments": attachments_summary,
+        "attachmentsTextCombined": make_snippet(
+            " ".join(attachments_texts),
+            attachment_text_limit,
+        )
+        if attachments_texts
+        else "",
         "amountEstimate": amount,
         "amountSource": amount_source,
         "amountInRange": amount_in_range,
@@ -528,6 +601,7 @@ def openai_score(
             "For each opportunity, provide relevance (0-100) and ease (0-100). "
             "Relevance means fit to AWS, Terraform, DevOps, automation, Python, Linux. "
             "Ease means likely low complexity and within a small team capacity. "
+            "Use title, descriptionFull, and attachmentsTextCombined if present. "
             "Do not invent missing facts. If info missing, score conservatively. "
             "Also return a ranked top10 list of noticeIds with brief reason."
         ),
@@ -680,6 +754,10 @@ def main() -> int:
             sam_cfg.get("allow_onsite_states", ["AZ", "Arizona"]),
             int(sam_cfg.get("scope_indicator_threshold", 2)),
             bool(config.get("openai", {}).get("include_description_full", True)),
+            bool(config.get("openai", {}).get("include_attachments", True)),
+            int(config.get("openai", {}).get("attachment_max_files", 5)),
+            int(config.get("openai", {}).get("attachment_max_bytes", 5_000_000)),
+            int(config.get("openai", {}).get("attachment_text_limit", 8000)),
         )
         if clean:
             clean_records.append(clean)
