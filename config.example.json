@@ -11,7 +11,8 @@
     "page_limit": 500,
     "status": "active",
     "exclude_expired": true,
-    "allow_onsite_states": ["AZ", "Arizona"]
+    "allow_onsite_states": ["AZ", "Arizona"],
+    "exclude_brandname": true
   },
   "keywords": [
     "AWS",

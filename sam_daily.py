@@ -24,6 +24,7 @@ DEFAULT_CONFIG = {
         "status": "active",
         "exclude_expired": True,
         "allow_onsite_states": ["AZ", "Arizona"],
+        "exclude_brandname": True,
     },
     "keywords": ["AWS", "Terraform", "DevOps", "automation", "Python", "Linux"],
     "output": {
@@ -143,6 +144,32 @@ def find_onsite_indicators(text: str) -> List[str]:
         "requires onsite",
         "requires on-site",
         "requires in-person",
+    ]
+    hits = []
+    for term in indicators:
+        if term in hay:
+            hits.append(term)
+    return hits
+
+
+def find_brandname_indicators(text: str) -> List[str]:
+    if not text:
+        return []
+    hay = normalize_text(text)
+    indicators = [
+        "brand name",
+        "brand-name",
+        "sole source",
+        "sole-source",
+        "only one responsible source",
+        "intent to award",
+        "notice of intent",
+        "unique qualifications",
+        "proprietary",
+        "noncompetitive",
+        "no substitute",
+        "only source",
+        "exclusive",
     ]
     hits = []
     for term in indicators:
@@ -316,11 +343,13 @@ def build_clean_record(
     desc_hits: List[str] = []
     desc_remote: List[str] = []
     desc_onsite: List[str] = []
+    desc_brand: List[str] = []
     desc_text = fetch_description_text(record.get("description"), sam_api_key, timeout_seconds)
     if desc_text:
         desc_hits = keyword_matches(desc_text, keywords)
         desc_remote = find_remote_indicators(desc_text)
         desc_onsite = find_onsite_indicators(desc_text)
+        desc_brand = find_brandname_indicators(desc_text)
     keyword_hits = title_hits or desc_hits
     if not keyword_hits:
         return None
@@ -328,6 +357,7 @@ def build_clean_record(
     pop_state = place_state if isinstance(place_state, str) else ""
     allow_onsite = any(is_az_state(s) for s in [pop_state] + allow_onsite_states)
     onsite_indicators = title_onsite + desc_onsite
+    brand_indicators = desc_brand
     onsite_required = bool(onsite_indicators)
     remote_possible = bool(title_remote or desc_remote)
     onsite_possible = allow_onsite and not remote_possible
@@ -376,6 +406,8 @@ def build_clean_record(
         },
         "remotePossible": remote_possible,
         "onsitePossible": onsite_possible,
+        "brandNameLikely": bool(brand_indicators),
+        "brandNameIndicators": brand_indicators,
         "workModeNotes": {
             "onsiteRequired": onsite_required,
             "onsiteAllowedStates": allow_onsite_states,
@@ -590,6 +622,8 @@ def main() -> int:
         updated_days_back,
         bool(sam_cfg.get("exclude_expired", True)),
     )
+    if sam_cfg.get("exclude_brandname", True):
+        clean_records = [rec for rec in clean_records if not rec.get("brandNameLikely")]
 
     filtered_path = resolve_output_path(output_cfg["filtered"])
     ensure_parent(filtered_path)

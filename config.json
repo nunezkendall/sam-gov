@@ -10,7 +10,8 @@
     "updated_days_back": 60,
     "page_limit": 1000,
     "status": "active",
-    "allow_onsite_states": ["AZ", "Arizona"]
+    "allow_onsite_states": ["AZ", "Arizona"],
+    "exclude_brandname": true
   },
   "keywords": [
     "AWS",
