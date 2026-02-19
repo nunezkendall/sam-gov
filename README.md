@@ -68,4 +68,5 @@ This repo includes a workflow at `.github/workflows/daily-sam.yml` that runs dai
 
 - The script tracks both posted and updated items. It requests recent postings and then filters by last run or a fallback updated window.
 - Amount filtering is strict when a value is available; unknown amounts are kept unless `require_amount` is true.
-- Keyword matching is done against the title and, if needed, the description text.
+- Keyword matching is done against the title and the description text.
+- Full description text is included in scoring payloads (configurable).

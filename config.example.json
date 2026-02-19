@@ -12,7 +12,9 @@
     "status": "active",
     "exclude_expired": true,
     "allow_onsite_states": ["AZ", "Arizona"],
-    "exclude_brandname": true
+    "exclude_brandname": true,
+    "exclude_massive": true,
+    "scope_indicator_threshold": 2
   },
   "keywords": [
     "AWS",
@@ -80,6 +82,7 @@
   "openai": {
     "model": "gpt-5.2-chat-latest",
     "max_items": 200,
-    "timeout_seconds": 120
+    "timeout_seconds": 120,
+    "include_description_full": true
   }
 }

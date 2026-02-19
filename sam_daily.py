@@ -25,6 +25,8 @@ DEFAULT_CONFIG = {
         "exclude_expired": True,
         "allow_onsite_states": ["AZ", "Arizona"],
         "exclude_brandname": True,
+        "exclude_massive": True,
+        "scope_indicator_threshold": 2,
     },
     "keywords": ["AWS", "Terraform", "DevOps", "automation", "Python", "Linux"],
     "output": {
@@ -39,6 +41,7 @@ DEFAULT_CONFIG = {
         "model": "gpt-5.2-chat-latest",
         "max_items": 200,
         "timeout_seconds": 120,
+        "include_description_full": True,
     },
 }
 
@@ -178,6 +181,45 @@ def find_brandname_indicators(text: str) -> List[str]:
     return hits
 
 
+def find_scope_indicators(text: str) -> List[str]:
+    if not text:
+        return []
+    hay = normalize_text(text)
+    indicators = [
+        "global",
+        "worldwide",
+        "enterprise",
+        "enterprise-wide",
+        "enterprise wide",
+        "24x7",
+        "24x6",
+        "24/7",
+        "24/6",
+        "soc",
+        "security operations center",
+        "noc",
+        "network operations center",
+        "multi-region",
+        "multi region",
+        "multiple regions",
+        "multiple sites",
+        "multi-site",
+        "multi site",
+        "large scale",
+        "large-scale",
+        "major program",
+        "program management office",
+        "pmo",
+        "integrated support across",
+        "end-to-end",
+    ]
+    hits = []
+    for term in indicators:
+        if term in hay:
+            hits.append(term)
+    return hits
+
+
 def normalize_state(value: Optional[str]) -> str:
     if not value:
         return ""
@@ -202,6 +244,15 @@ def fetch_description_text(url: Optional[str], api_key: str, timeout_seconds: in
         return resp.text or ""
     except requests.RequestException:
         return ""
+
+
+def make_snippet(text: str, limit: int = 800) -> str:
+    if not text:
+        return ""
+    cleaned = " ".join(text.split())
+    if len(cleaned) <= limit:
+        return cleaned
+    return cleaned[: limit - 3] + "..."
 
 
 def pick_amount(record: Dict[str, Any]) -> Tuple[Optional[float], Optional[str]]:
@@ -309,6 +360,8 @@ def build_clean_record(
     sam_api_key: str,
     timeout_seconds: int,
     allow_onsite_states: List[str],
+    scope_threshold: int,
+    include_description_full: bool,
 ) -> Optional[Dict[str, Any]]:
     title = (record.get("title") or "").strip()
     notice_id = (record.get("noticeId") or "").strip()
@@ -344,12 +397,14 @@ def build_clean_record(
     desc_remote: List[str] = []
     desc_onsite: List[str] = []
     desc_brand: List[str] = []
+    desc_scope: List[str] = []
     desc_text = fetch_description_text(record.get("description"), sam_api_key, timeout_seconds)
     if desc_text:
         desc_hits = keyword_matches(desc_text, keywords)
         desc_remote = find_remote_indicators(desc_text)
         desc_onsite = find_onsite_indicators(desc_text)
         desc_brand = find_brandname_indicators(desc_text)
+        desc_scope = find_scope_indicators(desc_text)
     keyword_hits = title_hits or desc_hits
     if not keyword_hits:
         return None
@@ -358,11 +413,17 @@ def build_clean_record(
     allow_onsite = any(is_az_state(s) for s in [pop_state] + allow_onsite_states)
     onsite_indicators = title_onsite + desc_onsite
     brand_indicators = desc_brand
+    scope_indicators = desc_scope
     onsite_required = bool(onsite_indicators)
     remote_possible = bool(title_remote or desc_remote)
     onsite_possible = allow_onsite and not remote_possible
     if onsite_required and not allow_onsite:
         onsite_possible = False
+
+    deadline_dt = parse_date(response_deadline) if response_deadline else None
+    days_to_deadline = None
+    if deadline_dt:
+        days_to_deadline = (deadline_dt - utc_now()).total_seconds() / 86400.0
 
     clean = {
         "noticeId": notice_id,
@@ -388,6 +449,8 @@ def build_clean_record(
             "additionalInfoLink": record.get("additionalInfoLink"),
             "resourceLinks": record.get("resourceLinks"),
         },
+        "descriptionSnippet": make_snippet(desc_text, 800) if desc_text else "",
+        "descriptionFull": desc_text if include_description_full else "",
         "amountEstimate": amount,
         "amountSource": amount_source,
         "amountInRange": amount_in_range,
@@ -408,11 +471,14 @@ def build_clean_record(
         "onsitePossible": onsite_possible,
         "brandNameLikely": bool(brand_indicators),
         "brandNameIndicators": brand_indicators,
+        "scopeIndicators": scope_indicators,
+        "scopeRisk": len(scope_indicators) >= scope_threshold,
         "workModeNotes": {
             "onsiteRequired": onsite_required,
             "onsiteAllowedStates": allow_onsite_states,
             "placeOfPerformanceState": pop_state or None,
         },
+        "timeToDeadlineDays": days_to_deadline,
         "updatedDate": updated.isoformat().replace("+00:00", "Z") if updated else None,
     }
     return clean
@@ -612,6 +678,8 @@ def main() -> int:
             sam_key,
             int(config.get("openai", {}).get("timeout_seconds", 120)),
             sam_cfg.get("allow_onsite_states", ["AZ", "Arizona"]),
+            int(sam_cfg.get("scope_indicator_threshold", 2)),
+            bool(config.get("openai", {}).get("include_description_full", True)),
         )
         if clean:
             clean_records.append(clean)
@@ -624,6 +692,8 @@ def main() -> int:
     )
     if sam_cfg.get("exclude_brandname", True):
         clean_records = [rec for rec in clean_records if not rec.get("brandNameLikely")]
+    if sam_cfg.get("exclude_massive", True):
+        clean_records = [rec for rec in clean_records if not rec.get("scopeRisk")]
 
     filtered_path = resolve_output_path(output_cfg["filtered"])
     ensure_parent(filtered_path)
@@ -649,8 +719,25 @@ def main() -> int:
 
             top10_path = resolve_output_path(output_cfg["top10"])
             ensure_parent(top10_path)
+            by_id = {rec.get("noticeId"): rec for rec in clean_records}
+            enriched_top10 = []
+            for item in scored.get("top10", []):
+                notice_id = item.get("noticeId")
+                base = by_id.get(notice_id, {})
+                enriched_top10.append(
+                    {
+                        "noticeId": notice_id,
+                        "reason": item.get("reason"),
+                        "title": base.get("title"),
+                        "uiLink": (base.get("links") or {}).get("uiLink"),
+                        "descriptionSnippet": base.get("descriptionSnippet"),
+                        "responseDeadline": base.get("responseDeadline"),
+                        "timeToDeadlineDays": base.get("timeToDeadlineDays"),
+                        "awardEstimate": base.get("amountEstimate"),
+                    }
+                )
             with top10_path.open("w", encoding="utf-8") as f:
-                json.dump(scored.get("top10", []), f, indent=2, ensure_ascii=True)
+                json.dump(enriched_top10, f, indent=2, ensure_ascii=True)
         else:
             eprint("No records to score.")
     elif not openai_key and not args.no_score:
