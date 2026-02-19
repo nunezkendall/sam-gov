@@ -1,354 +1,249 @@
 {
   "scored": [
     {
-      "noticeId": "bf344e59b7154e1f9465ccfa270fcd1e",
+      "noticeId": "01f9c95ce6634e2fb98d389b076f9f5a",
       "relevance": 5,
-      "ease": 60,
-      "overall": 27,
-      "rationale": "Social media role; minimal alignment to AWS/DevOps despite NAICS 541519."
-    },
-    {
-      "noticeId": "7ae096d1de2a47c28000ae8cc4d6341c",
-      "relevance": 30,
-      "ease": 30,
-      "overall": 30,
-      "rationale": "Network migration with on-site requirement; limited explicit cloud/DevOps detail."
-    },
-    {
-      "noticeId": "4355ee8841b144ba937d44cd87f0e228",
-      "relevance": 85,
-      "ease": 20,
-      "overall": 59,
-      "rationale": "DevOps automation tool implementation; strong fit but likely vendor-specific and complex."
-    },
-    {
-      "noticeId": "4dc325a3f91144ac9bb9a84d73b90827",
-      "relevance": 0,
-      "ease": 50,
-      "overall": 20,
-      "rationale": "Hardware item (caster); no IT/DevOps relevance."
-    },
-    {
-      "noticeId": "c41c1aff89c74cd582bc514a8ee13c31",
-      "relevance": 20,
-      "ease": 40,
-      "overall": 28,
-      "rationale": "Executive decision model RFI; unclear technical DevOps scope."
+      "ease": 80,
+      "overall": 35,
+      "rationale": "Social media management unrelated to AWS/DevOps."
     },
     {
       "noticeId": "e9a7339834d649c3b5bc3e5b33189af2",
       "relevance": 10,
-      "ease": 0,
-      "overall": 6,
-      "rationale": "Award notice for surveillance system; not a bidding opportunity."
+      "ease": 90,
+      "overall": 42,
+      "rationale": "Award notice for video surveillance; not actionable and limited DevOps fit."
     },
     {
       "noticeId": "a0d3ebdfeeeb4544a7a000ad9438c37d",
-      "relevance": 25,
-      "ease": 30,
-      "overall": 27,
-      "rationale": "Hardware support with networking; limited cloud/automation scope and on-site."
+      "relevance": 40,
+      "ease": 40,
+      "overall": 40,
+      "rationale": "Includes software maintenance and network admin but primarily hardware onsite support."
     },
     {
       "noticeId": "6b85157acf1e4077bf1b8680e1125421",
-      "relevance": 35,
-      "ease": 10,
-      "overall": 25,
-      "rationale": "DISA advanced transport engineering; likely large, complex program."
-    },
-    {
-      "noticeId": "0fa8f7efa44340dbafb8111e761b72ba",
-      "relevance": 75,
-      "ease": 15,
-      "overall": 51,
-      "rationale": "IT global ops with CI/CD and monitoring; strong fit but enterprise-scale."
+      "relevance": 70,
+      "ease": 20,
+      "overall": 50,
+      "rationale": "Cloud and IP networking engineering aligned but large, complex DISA scope."
     },
     {
       "noticeId": "fa25d68331a44e02ab72b1209478731d",
-      "relevance": 40,
-      "ease": 35,
-      "overall": 38,
-      "rationale": "Cybersecurity and network support; moderate relevance, likely manageable size."
-    },
-    {
-      "noticeId": "254e361d8fe744c7821788175e2d1960",
-      "relevance": 30,
-      "ease": 20,
-      "overall": 26,
-      "rationale": "Enterprise endpoint support; more helpdesk-focused and on-site."
+      "relevance": 85,
+      "ease": 50,
+      "overall": 71,
+      "rationale": "Cybersecurity, RMF, and network support align with DevSecOps capabilities."
     },
     {
       "noticeId": "33d0869ebcb9439da8f957e09de43791",
       "relevance": 5,
-      "ease": 40,
-      "overall": 19,
-      "rationale": "Medical physics services; not aligned to core IT skills."
+      "ease": 70,
+      "overall": 31,
+      "rationale": "Medical physics services unrelated to IT/DevOps."
     },
     {
       "noticeId": "4d4c82334e8e44409055e6b16d4d10d8",
-      "relevance": 0,
-      "ease": 40,
-      "overall": 16,
-      "rationale": "Strategic planning report; no clear IT/DevOps scope."
+      "relevance": 5,
+      "ease": 60,
+      "overall": 27,
+      "rationale": "Strategic planning report with no clear IT scope."
     },
     {
       "noticeId": "6be22e86c3134900a7689c2ec8f90fc5",
-      "relevance": 10,
-      "ease": 40,
-      "overall": 22,
-      "rationale": "Environmental monitoring; not IT-focused."
+      "relevance": 5,
+      "ease": 60,
+      "overall": 27,
+      "rationale": "Environmental monitoring services not IT focused."
     },
     {
       "noticeId": "daefe73174d3460e964208904854aa43",
-      "relevance": 20,
-      "ease": 5,
-      "overall": 14,
-      "rationale": "Large defense engineering sustainment; likely complex and not DevOps-centric."
+      "relevance": 60,
+      "ease": 15,
+      "overall": 42,
+      "rationale": "Engineering and integration for C-sUAS; relevant to systems but likely large and complex."
     },
     {
       "noticeId": "b31eb145745e47c08c9a508bb5a2395c",
       "relevance": 5,
       "ease": 20,
       "overall": 11,
-      "rationale": "Architect-engineer services; minimal IT relevance."
-    },
-    {
-      "noticeId": "6e072b9d92f346309d5a72f707123d11",
-      "relevance": 15,
-      "ease": 10,
-      "overall": 13,
-      "rationale": "Engineering and logistics support; broad and likely complex."
+      "rationale": "Architect-engineer construction services unrelated to IT."
     },
     {
       "noticeId": "f582abdca6c04520bbfba7d74994d04c",
-      "relevance": 35,
-      "ease": 20,
-      "overall": 29,
-      "rationale": "Tactical networks survey; networking relevant but likely large scope."
-    },
-    {
-      "noticeId": "7d8ebfe6dec1478584616ad957b3d19a",
-      "relevance": 0,
+      "relevance": 75,
       "ease": 30,
-      "overall": 12,
-      "rationale": "AE IDIQ services; not IT-focused."
-    },
-    {
-      "noticeId": "af7f6450215f4feba63f5715508d81dc",
-      "relevance": 20,
-      "ease": 10,
-      "overall": 16,
-      "rationale": "A-E SATOC with AWS mention; primarily engineering construction."
-    },
-    {
-      "noticeId": "6f0a222ea2bd44408db15362359189b3",
-      "relevance": 40,
-      "ease": 25,
-      "overall": 34,
-      "rationale": "DISA helpdesk with networking; some relevance but likely sizable."
+      "overall": 57,
+      "rationale": "Tactical network services relevant but limited to SeaPort MAC holders and likely sizable."
     },
     {
       "noticeId": "6cf7187fa08f45cd8cfd68ef977a022b",
       "relevance": 5,
-      "ease": 20,
-      "overall": 11,
-      "rationale": "Accounting support; not aligned to IT services."
+      "ease": 50,
+      "overall": 23,
+      "rationale": "Accounting support services not aligned to DevOps."
     },
     {
       "noticeId": "5dc0e952d3934c5eb761ca7dcc253ff7",
-      "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Aircraft instrument engineering; not IT/DevOps related."
+      "relevance": 10,
+      "ease": 40,
+      "overall": 22,
+      "rationale": "Aerospace instrument engineering; minimal IT/DevOps fit."
     },
     {
       "noticeId": "f975673fd21e46699e4096649c2abe3d",
-      "relevance": 30,
+      "relevance": 70,
       "ease": 20,
-      "overall": 26,
-      "rationale": "Engineering support with system administration; partial IT relevance."
+      "overall": 50,
+      "rationale": "Systems engineering, IA, and system administration relevant but broad DoD scope."
     },
     {
       "noticeId": "15f6cf3e8fed4fbbbd152664b6d7f73e",
-      "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Construction management; not IT-focused."
+      "relevance": 5,
+      "ease": 30,
+      "overall": 15,
+      "rationale": "Construction management services unrelated to IT."
     },
     {
       "noticeId": "cb177170da494062bc2da62c83da9684",
-      "relevance": 30,
-      "ease": 20,
-      "overall": 26,
-      "rationale": "Fiber optic cabling support; networking relevant but physical infrastructure."
+      "relevance": 65,
+      "ease": 25,
+      "overall": 49,
+      "rationale": "Fiber optic networking support relevant but hardware/network heavy and likely complex."
     },
     {
       "noticeId": "890debb9bcef47158ab8f355fdb9f1e7",
-      "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Mezzanine design services; not IT-related."
+      "relevance": 5,
+      "ease": 30,
+      "overall": 15,
+      "rationale": "A&E mezzanine design unrelated to IT services."
     },
     {
       "noticeId": "e6d38ab60022435fa3b3fff32bc681f0",
       "relevance": 5,
       "ease": 20,
       "overall": 11,
-      "rationale": "A&E IDIQ; minimal IT scope."
+      "rationale": "Architect-engineer IDIQ for facilities not IT focused."
     },
     {
       "noticeId": "b94a8ea5a6684a9aa4676618f0d4f43f",
-      "relevance": 0,
-      "ease": 10,
-      "overall": 4,
-      "rationale": "Construction management IDIQ; not IT-related."
-    },
-    {
-      "noticeId": "5abce68845044f389ab77fb358b67903",
-      "relevance": 10,
+      "relevance": 5,
       "ease": 20,
-      "overall": 14,
-      "rationale": "Ultrasonic testing; AWS keyword incidental, not IT scope."
+      "overall": 11,
+      "rationale": "Construction management IDIQ unrelated to DevOps."
     },
     {
       "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
-      "relevance": 40,
-      "ease": 10,
-      "overall": 28,
-      "rationale": "Cyberspace R&D MAC; relevant domain but likely large and complex."
+      "relevance": 90,
+      "ease": 25,
+      "overall": 64,
+      "rationale": "Cyber, software development, and systems engineering strongly aligned but large MAC."
     },
     {
       "noticeId": "e5228e10146d4f4b90b484eb90ea5bbb",
       "relevance": 5,
       "ease": 15,
       "overall": 9,
-      "rationale": "AE IDIQ for Guam; not IT-focused."
+      "rationale": "A-E services MATOC unrelated to IT capabilities."
     },
     {
       "noticeId": "ccdf281c09904b759adfe1382329999a",
-      "relevance": 0,
-      "ease": 30,
-      "overall": 12,
-      "rationale": "Runway repair charrette; no IT relevance."
+      "relevance": 5,
+      "ease": 40,
+      "overall": 19,
+      "rationale": "Runway planning A-E services not IT related."
     },
     {
       "noticeId": "5a69a0450fed48c8aad49ffcfeadf288",
-      "relevance": 0,
+      "relevance": 5,
       "ease": 20,
-      "overall": 8,
-      "rationale": "Fire protection engineering; not IT-focused."
+      "overall": 11,
+      "rationale": "Fire protection engineering IDIQ unrelated to IT."
     },
     {
       "noticeId": "27019d30a3f64915957a83d6b7f5ec5f",
-      "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Architect engineer planning support; not IT-related."
+      "relevance": 5,
+      "ease": 30,
+      "overall": 15,
+      "rationale": "Environmental and planning AE services not IT aligned."
     },
     {
       "noticeId": "5b40e61220da466bb9ce322d06928c2a",
-      "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "A-E facilitation services; not IT-focused."
-    },
-    {
-      "noticeId": "0fb54a66832047338223c74a534752e2",
-      "relevance": 0,
-      "ease": 30,
-      "overall": 12,
-      "rationale": "Structural engineer assessment; not IT-related."
-    },
-    {
-      "noticeId": "c75816606f32442c892ad560e2fe1bfa",
-      "relevance": 20,
-      "ease": 15,
-      "overall": 18,
-      "rationale": "Training support with LAN/WAN; limited DevOps scope."
-    },
-    {
-      "noticeId": "5dc850ecba1d4dd6bf4d0ee4828d2a3e",
       "relevance": 10,
-      "ease": 20,
-      "overall": 14,
-      "rationale": "Dock inspection; AWS keyword incidental, not IT-focused."
+      "ease": 25,
+      "overall": 16,
+      "rationale": "Facilitation and A-E charrette services with minimal IT scope."
     },
     {
       "noticeId": "d304ad4995e9428dbeae0d04018ca9e4",
-      "relevance": 25,
-      "ease": 15,
-      "overall": 21,
-      "rationale": "Modeling and simulation engineering; limited explicit DevOps scope."
+      "relevance": 75,
+      "ease": 20,
+      "overall": 53,
+      "rationale": "Modeling, simulation, and engineering relevant but limited to SeaPort MAC holders."
     },
     {
       "noticeId": "7b48be9b10b340168451112ba5b1f1aa",
-      "relevance": 20,
-      "ease": 20,
-      "overall": 20,
-      "rationale": "A-E shortlist with AWS mention; primarily facilities engineering."
-    },
-    {
-      "noticeId": "fcc2a87979e543e69fd6a756d2ae86f8",
-      "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Notice of intent for design IDIQ capacity; not IT-related."
+      "relevance": 10,
+      "ease": 40,
+      "overall": 22,
+      "rationale": "A-E shortlist primarily engineering; minimal direct DevOps scope."
     },
     {
       "noticeId": "c2fd282835e44e9191df1ae9968f2644",
       "relevance": 5,
-      "ease": 20,
-      "overall": 11,
-      "rationale": "Architecture engineering IDIQ; minimal IT alignment."
+      "ease": 15,
+      "overall": 9,
+      "rationale": "Regional A-E IDIQ for facilities not IT focused."
     },
     {
       "noticeId": "d73d2b0ad96140e298f64808499091c1",
       "relevance": 5,
-      "ease": 20,
-      "overall": 11,
-      "rationale": "Resilient A-E services; not IT-focused."
+      "ease": 15,
+      "overall": 9,
+      "rationale": "Resilient A-E services MATOC unrelated to IT."
     }
   ],
   "top10": [
     {
-      "noticeId": "4355ee8841b144ba937d44cd87f0e228",
-      "reason": "Direct DevOps automation tool implementation; strongest skills match."
-    },
-    {
-      "noticeId": "0fa8f7efa44340dbafb8111e761b72ba",
-      "reason": "Includes CI/CD, monitoring, and modernization in IT operations scope."
-    },
-    {
       "noticeId": "fa25d68331a44e02ab72b1209478731d",
-      "reason": "Cybersecurity and network support aligned to Linux/network skills."
-    },
-    {
-      "noticeId": "6f0a222ea2bd44408db15362359189b3",
-      "reason": "Helpdesk with networking/routing; some operational IT alignment."
-    },
-    {
-      "noticeId": "7ae096d1de2a47c28000ae8cc4d6341c",
-      "reason": "Network migration effort potentially leveraging automation skills."
+      "reason": "Direct cybersecurity and RMF support aligns with DevSecOps skills and manageable scope."
     },
     {
       "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
-      "reason": "Cyberspace engineering MAC within broader IT domain."
+      "reason": "Strong alignment to cyber, software development, and systems engineering."
     },
     {
       "noticeId": "f582abdca6c04520bbfba7d74994d04c",
-      "reason": "Tactical networks survey relevant to networking expertise."
+      "reason": "Tactical network services relevant to networking and integration expertise."
     },
     {
-      "noticeId": "a0d3ebdfeeeb4544a7a000ad9438c37d",
-      "reason": "Hardware/network support with partial IT relevance."
+      "noticeId": "d304ad4995e9428dbeae0d04018ca9e4",
+      "reason": "Modeling and engineering support with potential software and DevOps components."
+    },
+    {
+      "noticeId": "6b85157acf1e4077bf1b8680e1125421",
+      "reason": "Cloud and IP networking engineering relevant though complex."
     },
     {
       "noticeId": "f975673fd21e46699e4096649c2abe3d",
-      "reason": "Includes system administration and network elements."
+      "reason": "Includes system administration and information assurance work."
     },
     {
-      "noticeId": "254e361d8fe744c7821788175e2d1960",
-      "reason": "Enterprise endpoint IT services with some infrastructure overlap."
+      "noticeId": "cb177170da494062bc2da62c83da9684",
+      "reason": "Fiber optic networking support touches core networking capabilities."
+    },
+    {
+      "noticeId": "daefe73174d3460e964208904854aa43",
+      "reason": "Systems integration and sustainment with potential engineering fit."
+    },
+    {
+      "noticeId": "a0d3ebdfeeeb4544a7a000ad9438c37d",
+      "reason": "Software maintenance and network admin elements despite hardware focus."
+    },
+    {
+      "noticeId": "e9a7339834d649c3b5bc3e5b33189af2",
+      "reason": "Small dollar IT-related project though already awarded."
     }
   ]
 }
