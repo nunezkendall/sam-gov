@@ -805,14 +805,17 @@ def main() -> int:
             top10_path = resolve_output_path(output_cfg["top10"])
             ensure_parent(top10_path)
             by_id = {rec.get("noticeId"): rec for rec in clean_records}
+            scored_by_id = {rec.get("noticeId"): rec for rec in scored.get("scored", [])}
             enriched_top10 = []
             for item in scored.get("top10", []):
                 notice_id = item.get("noticeId")
                 base = by_id.get(notice_id, {})
+                score_row = scored_by_id.get(notice_id, {})
                 enriched_top10.append(
                     {
                         "noticeId": notice_id,
                         "reason": item.get("reason"),
+                        "overallScore": score_row.get("overall"),
                         "title": base.get("title"),
                         "uiLink": (base.get("links") or {}).get("uiLink"),
                         "descriptionSnippet": base.get("descriptionSnippet"),
@@ -821,6 +824,7 @@ def main() -> int:
                         "awardEstimate": base.get("amountEstimate"),
                     }
                 )
+            enriched_top10.sort(key=lambda x: (x.get("overallScore") is None, x.get("overallScore", 0)), reverse=True)
             with top10_path.open("w", encoding="utf-8") as f:
                 json.dump(enriched_top10, f, indent=2, ensure_ascii=True)
         else:
