@@ -492,6 +492,16 @@ def build_clean_record(
     if deadline_dt:
         days_to_deadline = (deadline_dt - utc_now()).total_seconds() / 86400.0
 
+    bid_types = {
+        "Solicitation",
+        "Combined Synopsis/Solicitation",
+        "Presolicitation",
+    }
+    bid_eligible = bool(
+        (record.get("type") in bid_types or record.get("baseType") in bid_types)
+        and (deadline_dt is None or deadline_dt >= utc_now())
+    )
+
     clean = {
         "noticeId": notice_id,
         "title": title,
@@ -553,6 +563,7 @@ def build_clean_record(
             "placeOfPerformanceState": pop_state or None,
         },
         "timeToDeadlineDays": days_to_deadline,
+        "bidEligible": bid_eligible,
         "updatedDate": updated.isoformat().replace("+00:00", "Z") if updated else None,
     }
     return clean
