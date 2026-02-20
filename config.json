@@ -13,7 +13,8 @@
     "allow_onsite_states": ["AZ", "Arizona"],
     "exclude_brandname": true,
     "exclude_massive": true,
-    "scope_indicator_threshold": 2
+    "scope_indicator_threshold": 2,
+    "filter_non_az_onsite": true
   },
   "keywords": [
     "AWS",

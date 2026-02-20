@@ -29,6 +29,7 @@ DEFAULT_CONFIG = {
         "exclude_brandname": True,
         "exclude_massive": True,
         "scope_indicator_threshold": 2,
+        "filter_non_az_onsite": True,
     },
     "keywords": ["AWS", "Terraform", "DevOps", "automation", "Python", "Linux"],
     "output": {
@@ -772,6 +773,12 @@ def main() -> int:
         clean_records = [rec for rec in clean_records if not rec.get("brandNameLikely")]
     if sam_cfg.get("exclude_massive", True):
         clean_records = [rec for rec in clean_records if not rec.get("scopeRisk")]
+    if sam_cfg.get("filter_non_az_onsite", True):
+        clean_records = [
+            rec
+            for rec in clean_records
+            if rec.get("remotePossible") or rec.get("onsitePossible")
+        ]
 
     filtered_path = resolve_output_path(output_cfg["filtered"])
     ensure_parent(filtered_path)
