@@ -1,11 +1,78 @@
 [
   {
-    "noticeId": "fc6f24fd78e046b6849729e0b3cd89d4",
+    "noticeId": "b289bcef2aef45ff95389c2e4e202708",
+    "title": "Infrared Systems Blackbody Infrared Source",
+    "solicitationNumber": "80NSSC26924700Q",
+    "fullParentPathName": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+    "fullParentPathCode": "080.8000.80NSSC",
+    "postedDate": "2026-02-23",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-14",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-02-27T07:00:00-06:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "7A20",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "shanna.l.patterson@nasa.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Shanna Patterson"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b289bcef2aef45ff95389c2e4e202708",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "39529",
+      "city": "STENNIS SPACE CENTER",
+      "countryCode": "USA",
+      "state": "MS"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "39380",
+        "name": "Las Cruces"
+      },
+      "state": {
+        "code": "NM",
+        "name": "New Mexico"
+      },
+      "zip": "88012",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/b289bcef2aef45ff95389c2e4e202708/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b289bcef2aef45ff95389c2e4e202708&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/567e070af11f40c683e2f836ca2d25e5/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bf2795823cd344a5841b8352f1c72561/download"
+    ]
+  },
+  {
+    "noticeId": "a581f3202cd5499d8f5d2cc102ec3253",
     "title": "Synopsis/Solicitation W91CRB25C5071",
     "solicitationNumber": "SynopsisSolicitationW91CRB25C5071",
     "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG",
     "fullParentPathCode": "021.2100.AMC.ACC.ACC-CTRS.ACC-APG.W91CRB",
-    "postedDate": "2026-02-20",
+    "postedDate": "2026-02-23",
     "type": "Combined Synopsis/Solicitation",
     "baseType": "Combined Synopsis/Solicitation",
     "archiveType": "auto15",
@@ -38,7 +105,7 @@
         "fullName": "Lonny J. Matesky"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fc6f24fd78e046b6849729e0b3cd89d4",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a581f3202cd5499d8f5d2cc102ec3253",
     "organizationType": "OFFICE",
     "officeAddress": {
       "zipcode": "21005-5001",
@@ -48,15 +115,16 @@
     },
     "placeOfPerformance": null,
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/fc6f24fd78e046b6849729e0b3cd89d4/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/a581f3202cd5499d8f5d2cc102ec3253/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fc6f24fd78e046b6849729e0b3cd89d4&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=a581f3202cd5499d8f5d2cc102ec3253&limit=1"
       }
     ],
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2de800a06797411aa6ad00376f6c59a6/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/451dfa7eb5be4cf78d9e492fcec646fa/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7e912f3dad7042c08e7dce9ab81298c5/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d46ea93161c7440183d2c497c380cccd/download"
     ]
@@ -1048,6 +1116,73 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/df1eff76efa74989be36a837b566d6be/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/df7662ec05974d3fb7679e508fbe0c2b/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f029d1cfd50b43f9a1a96b07c59487cf/download"
+    ]
+  },
+  {
+    "noticeId": "a2e80b9cfeed43a99ce5da559e4e2610",
+    "title": "ASOG Complex EMCS Camp Murray, WA",
+    "solicitationNumber": "W50S9E26QA001",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO WA.USPFO WA PROCUREMENT.W7N6 USPFO ACTIVITY WAANG 194",
+    "fullParentPathCode": "021.2100.NGB.JFHQ USPFO WA.USPFO WA PROC.W50S9E",
+    "postedDate": "2026-02-23",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-26",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-11T12:00:00-07:00",
+    "naicsCode": "541512",
+    "naicsCodes": [
+      "541512"
+    ],
+    "classificationCode": "DA01",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "194.wg.fal.msc.contracting@us.af.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "194th Contracting Office"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a2e80b9cfeed43a99ce5da559e4e2610",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "98430-5035",
+      "city": "CAMP MURRAY",
+      "countryCode": "USA",
+      "state": "WA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "9650",
+        "name": "Camp Murray"
+      },
+      "state": {
+        "code": "WA",
+        "name": "Washington"
+      },
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/a2e80b9cfeed43a99ce5da559e4e2610/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=a2e80b9cfeed43a99ce5da559e4e2610&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87eba20efc2a4d5f8259ca2600822706/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e380ee7a01e441738f2599dd434fe218/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ec55f402f02c4a1f8081728e6298dd2e/download"
     ]
   },
   {
@@ -5169,59 +5304,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c719fa602e2447d28fb5315d905be2be/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc87387e69dd4c9fa7b81988d0f59239/download"
     ]
-  },
-  {
-    "noticeId": "d304ad4995e9428dbeae0d04018ca9e4",
-    "title": "Request for Proposals for Modeling, Simulation, Engineering, Analysis, and Tactics (MSEAT)",
-    "solicitationNumber": "N6133126R3105",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
-    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N61331",
-    "postedDate": "2026-01-23",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2027-01-23",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-06T16:40:00-06:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "R425",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "timothy.s.george2.civ@us.navy.mil",
-        "phone": "8507718593",
-        "title": null,
-        "fullName": "TIMOTHY GEORGE"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d304ad4995e9428dbeae0d04018ca9e4",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "32407-7001",
-      "city": "PANAMA CITY BEACH",
-      "countryCode": "USA",
-      "state": "FL"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "110 VERNON AVEPANAMA CITY BEACH, FL 32407-7001",
-      "zip": "32407"
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/d304ad4995e9428dbeae0d04018ca9e4/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d304ad4995e9428dbeae0d04018ca9e4&limit=1"
-      }
-    ],
-    "resourceLinks": null
   },
   {
     "noticeId": "fcc2a87979e543e69fd6a756d2ae86f8",

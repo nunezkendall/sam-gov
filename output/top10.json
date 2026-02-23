@@ -1,7 +1,18 @@
 [
   {
+    "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
+    "reason": "Strong alignment with cybersecurity, software development, and systems engineering.",
+    "overallScore": 59,
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/2972b1f9a3824954954f8ccb7a1b99a7/view",
+    "descriptionSnippet": "{\"description\":\"Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov.The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluati...",
+    "responseDeadline": "2026-02-18T11:00:00-08:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "fa25d68331a44e02ab72b1209478731d",
-    "reason": "Cybersecurity/RMF support closely aligns with DevOps, Linux, and security automation.",
+    "reason": "Direct cybersecurity and RMF support relevant to DevOps/security capabilities.",
     "overallScore": 59,
     "title": "Cybersecurity Support Services for Offutt AFB Defense Red Switch Network (DRSN)",
     "uiLink": "https://sam.gov/workspace/contract/opp/fa25d68331a44e02ab72b1209478731d/view",
@@ -11,20 +22,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
-    "reason": "Strong fit for cybersecurity, software development, and systems engineering.",
-    "overallScore": 57,
-    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/2972b1f9a3824954954f8ccb7a1b99a7/view",
-    "descriptionSnippet": "{\"description\":\"Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov.The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluati...",
-    "responseDeadline": "2026-02-18T11:00:00-08:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "f975673fd21e46699e4096649c2abe3d",
-    "reason": "Includes software, AI, system administration, and engineering support.",
-    "overallScore": 47,
+    "reason": "Includes software, AI, and system administration in defense context.",
+    "overallScore": 48,
     "title": "H20 Engineering Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/f975673fd21e46699e4096649c2abe3d/view",
     "descriptionSnippet": "{\"description\":\"<p>(DRAFT) - The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire Control; Autonomous and Unmanned Systems; Electromagnetic Maneuver Warfare (EMW); Information Warfare/Big Data; Machine Learning; and Artificial Intelligence (AI). The Contractor shall support technica...",
@@ -33,42 +33,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "e8d30f9553c84339802369b4365a7713",
-    "reason": "Defense systems engineering with potential cybersecurity/network components.",
-    "overallScore": 46,
-    "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
-    "descriptionSnippet": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this documen...",
-    "responseDeadline": "2026-03-16T17:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "d304ad4995e9428dbeae0d04018ca9e4",
-    "reason": "Modeling and simulation with software engineering elements.",
-    "overallScore": 42,
-    "title": "Request for Proposals for Modeling, Simulation, Engineering, Analysis, and Tactics (MSEAT)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/d304ad4995e9428dbeae0d04018ca9e4/view",
-    "descriptionSnippet": "{\"description\":\"***ONLY SEAPORT MAC HOLDERS are eligible for award under this solicitation.*** Request for Proposal (RFP) under the Seaport NxG Multiple Award Contract (MAC), number N6133126R3105 for Modeling, Simulation, Engineering, Analysis, and Tactics (MSEAT). This RFP will also be posted within the Seaport NxG Opportunities Page. This effort has been previously been posted within the Seaport NxG portal under the Opportunities page as the following: Source Sought Notice N61331-25-SN-Q38, dated 7/11/2025 and the follow-up Advance Planning Notice/Pre-Solicitation Notice dated 11/7/2025. Previous references this potential solicitation as number N6133126R3006. *** RESPONSES MUST BE SUBMITTED VIA THE PIEE SOLICITATION MODULE.*** PLEASE UTILIZE THE DOCUMENTS FOUND WITHIN THE SEAPORT NxG ...",
-    "responseDeadline": "2026-02-06T16:40:00-06:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "f582abdca6c04520bbfba7d74994d04c",
-    "reason": "Tactical network engineering relevant to Linux/network expertise.",
-    "overallScore": 41,
-    "title": "CANES Tactical Networks Market Survey",
-    "uiLink": "https://sam.gov/workspace/contract/opp/f582abdca6c04520bbfba7d74994d04c/view",
-    "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted to add requirement that respondents include their current SeaPort MAC number. \"}",
-    "responseDeadline": "2026-02-27T14:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "cb177170da494062bc2da62c83da9684",
-    "reason": "Fiber optic networking support aligns partially with network engineering skills.",
-    "overallScore": 40,
+    "reason": "Fiber optic networking and networking support relevant to Linux/network skills.",
+    "overallScore": 46,
     "title": "A30 FiberOptic Waterfront Cabling Support",
     "uiLink": "https://sam.gov/workspace/contract/opp/cb177170da494062bc2da62c83da9684/view",
     "descriptionSnippet": "{\"description\":\"<p>DRAFT: The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement for fiber optic networking support for the U.S. Navy. This includes Research and Development of new technical capabilities, Ship Construction support for all classes of Navy Warships, Operations and Maintenance of fielded fiber optic cable systems and plants.</p>\\n\"}",
@@ -78,8 +45,8 @@
   },
   {
     "noticeId": "b32a1c9d0bee45e085d9844c31b6ecbe",
-    "reason": "Software/modeling program with some potential cloud/HPC alignment.",
-    "overallScore": 32,
+    "reason": "Software and modeling effort potentially leveraging Python and DevOps practices.",
+    "overallScore": 46,
     "title": "Earth Prediction Innovation Center (EPIC)-Advancing Weather Modeling Skills",
     "uiLink": "https://sam.gov/workspace/contract/opp/b32a1c9d0bee45e085d9844c31b6ecbe/view",
     "descriptionSnippet": "{\"description\":\"<p><u>2/20/2026</u> - Please see the attached Amendment 0003 for updated documents. This amendment is being provided for informational purposes ONLY and in compliance with FAR Part 5. Per the Phase 1 Advisory Notification dated 2/10/2026 sent to those firms who submitted a proposal for Phase 1,&nbsp;any amendments and revised attachments issued for Phase 2 will only be provided to offerors who provided their intent to participate in Phase 2. Additionally, only questions submitted for Phase 2 from offerors who provided their intent to participate in Phase 2 were answered. <strong>Any proposal submitted in response to this amendment that is NOT from a Phase 2 offeror will not be evaluted and is not eligible for award.</strong></p>\\n\\n<p><u>8/8/2025</u> - Please see the att...",
@@ -88,9 +55,31 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "f582abdca6c04520bbfba7d74994d04c",
+    "reason": "Tactical network services aligned with networking expertise (vehicle restrictions apply).",
+    "overallScore": 43,
+    "title": "CANES Tactical Networks Market Survey",
+    "uiLink": "https://sam.gov/workspace/contract/opp/f582abdca6c04520bbfba7d74994d04c/view",
+    "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted to add requirement that respondents include their current SeaPort MAC number. \"}",
+    "responseDeadline": "2026-02-27T14:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "e8d30f9553c84339802369b4365a7713",
+    "reason": "Engineering and integration services with potential cybersecurity components.",
+    "overallScore": 41,
+    "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
+    "descriptionSnippet": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this documen...",
+    "responseDeadline": "2026-03-16T17:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "a0d3ebdfeeeb4544a7a000ad9438c37d",
     "reason": "Includes software maintenance and network administration elements.",
-    "overallScore": 27,
+    "overallScore": 37,
     "title": "IUID Hardware Support Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/a0d3ebdfeeeb4544a7a000ad9438c37d/view",
     "descriptionSnippet": "{\"description\":\"<p><strong>SOURCES SOUGHT SYNOPSIS</strong></p>\\n\\n<p><strong>IUID HARDWARE SUPPORT SERVICES</strong></p>\\n\\n<p>NAICS: 541519</p>\\n\\n<p>PSC: R425</p>\\n\\n<p></p>\\n\\n<p><strong><u>NOTICE</u>:</strong> This is not a solicitation.</p>\\n\\n<p>The purpose of this Sources Sought Synopsis (SSS) is to conduct market research to determine responsible sources capable of providing IUID Hardware Support Services.</p>\\n\\n<p>A previous requirement, FA813221P0018, for similar services was awarded as a Small Business Set-Aside under NAICS 541519 and PSC R425.</p>\\n\\n<p><strong><u>SCOPE</u>:</strong></p>\\n\\n<p>The Contractor shall provide all labor, tools, equipment, test equipment, quality control, transportation, and inspection manuals necessary to provide hardware support services for I...",
@@ -100,12 +89,23 @@
   },
   {
     "noticeId": "01f9c95ce6634e2fb98d389b076f9f5a",
-    "reason": "Low technical fit but small-business social media support may be easier entry.",
-    "overallScore": 27,
+    "reason": "Small business set-aside and lower complexity, though low technical alignment.",
+    "overallScore": 35,
     "title": "Social Media Manager",
     "uiLink": "https://sam.gov/workspace/contract/opp/01f9c95ce6634e2fb98d389b076f9f5a/view",
     "descriptionSnippet": "{\"description\":\"<p>This Sources Sought Notice (SSN) is for market research purposes only and does not constitute a solicitation or commitment by the Government. The U. S. Government desires to procure these services on a Small Business Set-aside basis, provided 2 or more qualified small businesses respond to this notice. No set-aside decision has been made. Be advised that the U.S. Government will not be able to set aside this requirement if 2 or more small businesses do not respond with information to support set-aside. We encourage all small businesses, in all socio-economic categories (including 8(a), Business Development Program, Small Disadvantaged Business, Historically Underutilized Business Zone, Service-Disabled Veteran-Owned, Woman-Owned Small Business concerns) to identify th...",
     "responseDeadline": "2026-03-04T13:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "6cf7187fa08f45cd8cfd68ef977a022b",
+    "reason": "NAVWAR context may offer adjacent IT opportunities despite accounting focus.",
+    "overallScore": 28,
+    "title": "NAVWAR HQ 1.0 Accounting Support Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/6cf7187fa08f45cd8cfd68ef977a022b/view",
+    "descriptionSnippet": "{\"description\":\"The Department of the Navy (DON), Naval Information Warfare Systems Command (NAVWAR) Headquarter (HQ), Comptroller Directorate (Code 1.0) is acquiring accounting support services. NAVWAR 1.0 is responsible for the core comptroller functions for NAVWAR HQ; Program Executive Office (PEO); Command, Control, Communications, Computers and Intelligence (C4I); PEO-Enterprise Information Systems (EIS); PEO SPACE; Fleet Readiness Directorate (FRD); Joint Tactical Networking Center (JTNC); and NAVWAR Space Field Activity. The Comptroller functions include but are not limited to: managing and administering Travel, Payroll, Vendor Pay, Funds Control, Tri-Annual Review (TAR), General Ledger, and Budget Execution. The Contractor shall assist the Comptroller by providing managerial, ac...",
+    "responseDeadline": "2026-02-25T15:30:00-08:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   }

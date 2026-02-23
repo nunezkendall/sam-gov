@@ -231,6 +231,97 @@
     "updatedDate": null
   },
   {
+    "noticeId": "a2e80b9cfeed43a99ce5da559e4e2610",
+    "title": "ASOG Complex EMCS Camp Murray, WA",
+    "solicitationNumber": "W50S9E26QA001",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541512",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-23",
+    "responseDeadline": "2026-03-11T12:00:00-07:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO WA.USPFO WA PROCUREMENT.W7N6 USPFO ACTIVITY WAANG 194",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Camp Murray",
+      "state": "Washington",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/a2e80b9cfeed43a99ce5da559e4e2610/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a2e80b9cfeed43a99ce5da559e4e2610",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87eba20efc2a4d5f8259ca2600822706/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e380ee7a01e441738f2599dd434fe218/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ec55f402f02c4a1f8081728e6298dd2e/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a service contract to install (Energy Management And Control Systems) EMCS at Bldg 140 the ASOG complex at Camp Murray, WA. There will be a site visit on Camp Murray WA on 03 Mar 2026 at 1000.&nbsp;</p>\\n\\n<p>For base access please complete&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page and see&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page .&nbsp;Contact&nbsp;194.wg.fal.msc.contracting@us.af.mil for base access questions. Please note an update is forthcoming to include the HVAC asbuilts for the Bldg.&nbsp;</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>This is a service contract to install (Energy Management And Control Systems) EMCS at Bldg 140 the ASOG complex at Camp Murray, WA. There will be a site visit on Camp Murray WA on 03 Mar 2026 at 1000.&nbsp;</p>\\n\\n<p>For base access please complete&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page and see&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page .&nbsp;Contact&nbsp;194.wg.fal.msc.contracting@us.af.mil for base access questions. Please note an update is forthcoming to include the HVAC asbuilts for the Bldg.&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87eba20efc2a4d5f8259ca2600822706/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 47480,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e380ee7a01e441738f2599dd434fe218/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 3372594,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ec55f402f02c4a1f8081728e6298dd2e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 309007,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "global"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Washington"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "fa25d68331a44e02ab72b1209478731d",
     "title": "Cybersecurity Support Services for Offutt AFB Defense Red Switch Network (DRSN)",
     "solicitationNumber": "FA460026Q0012",
@@ -2047,72 +2138,6 @@
     },
     "remotePossible": true,
     "onsitePossible": false,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "d304ad4995e9428dbeae0d04018ca9e4",
-    "title": "Request for Proposals for Modeling, Simulation, Engineering, Analysis, and Tactics (MSEAT)",
-    "solicitationNumber": "N6133126R3105",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-01-23",
-    "responseDeadline": "2026-02-06T16:40:00-06:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "32407"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/d304ad4995e9428dbeae0d04018ca9e4/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d304ad4995e9428dbeae0d04018ca9e4",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"***ONLY SEAPORT MAC HOLDERS are eligible for award under this solicitation.*** Request for Proposal (RFP) under the Seaport NxG Multiple Award Contract (MAC), number N6133126R3105 for Modeling, Simulation, Engineering, Analysis, and Tactics (MSEAT). This RFP will also be posted within the Seaport NxG Opportunities Page. This effort has been previously been posted within the Seaport NxG portal under the Opportunities page as the following: Source Sought Notice N61331-25-SN-Q38, dated 7/11/2025 and the follow-up Advance Planning Notice/Pre-Solicitation Notice dated 11/7/2025. Previous references this potential solicitation as number N6133126R3006. *** RESPONSES MUST BE SUBMITTED VIA THE PIEE SOLICITATION MODULE.*** PLEASE UTILIZE THE DOCUMENTS FOUND WITHIN THE SEAPORT NxG ...",
-    "descriptionFull": "{\"description\":\"***ONLY SEAPORT MAC HOLDERS are eligible for award under this solicitation.*** Request for Proposal (RFP) under the Seaport NxG Multiple Award Contract (MAC), number N6133126R3105 for Modeling, Simulation, Engineering, Analysis, and Tactics (MSEAT). This RFP will also be posted within the Seaport NxG Opportunities Page. This effort has been previously been posted within the Seaport NxG portal under the Opportunities page as the following: Source Sought Notice N61331-25-SN-Q38, dated 7/11/2025 and the follow-up Advance Planning Notice/Pre-Solicitation Notice dated 11/7/2025. Previous references this potential solicitation as number N6133126R3006. *** RESPONSES MUST BE SUBMITTED VIA THE PIEE SOLICITATION MODULE.*** PLEASE UTILIZE THE DOCUMENTS FOUND WITHIN THE SEAPORT NxG ANNOUCEMENT, Opportunity -  Modeling, Simulation, Engineering, Analysis, and Tactics (MSEAT) RFP N6133126R3105. Opportunity Type: Other. *** Please refer to the Amendment Log found within the Seaport announcement for updates to the RFP. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
     "brandNameLikely": false,
     "brandNameIndicators": [],
     "scopeIndicators": [],
