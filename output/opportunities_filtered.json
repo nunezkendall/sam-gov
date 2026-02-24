@@ -701,6 +701,76 @@
     "updatedDate": null
   },
   {
+    "noticeId": "96e1be96b369433ea543969c91f97bef",
+    "title": "NAVWAR HQ 1.0 Accounting Support Services",
+    "solicitationNumber": "N0003926RE019",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-23",
+    "responseDeadline": "2026-02-25T15:30:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "92110"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/96e1be96b369433ea543969c91f97bef/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=96e1be96b369433ea543969c91f97bef",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"The Department of the Navy (DON), Naval Information Warfare Systems Command (NAVWAR) Headquarter (HQ), Comptroller Directorate (Code 1.0) is acquiring accounting support services. NAVWAR 1.0 is responsible for the core comptroller functions for NAVWAR HQ; Program Executive Office (PEO); Command, Control, Communications, Computers and Intelligence (C4I); PEO-Enterprise Information Systems (EIS); PEO SPACE; Fleet Readiness Directorate (FRD); Joint Tactical Networking Center (JTNC); and NAVWAR Space Field Activity. The Comptroller functions include but are not limited to: managing and administering Travel, Payroll, Vendor Pay, Funds Control, Tri-Annual Review (TAR), General Ledger, and Budget Execution. The Contractor shall assist the Comptroller by providing managerial, ac...",
+    "descriptionFull": "{\"description\":\"The Department of the Navy (DON), Naval Information Warfare Systems Command (NAVWAR) Headquarter (HQ), Comptroller Directorate (Code 1.0) is acquiring accounting support services. NAVWAR 1.0 is responsible for the core comptroller functions for NAVWAR HQ; Program Executive Office (PEO); Command, Control, Communications, Computers and Intelligence (C4I); PEO-Enterprise Information Systems (EIS); PEO SPACE; Fleet Readiness Directorate (FRD); Joint Tactical Networking Center (JTNC); and NAVWAR Space Field Activity. The Comptroller functions include but are not limited to: managing and administering Travel, Payroll, Vendor Pay, Funds Control, Tri-Annual Review (TAR), General Ledger, and Budget Execution. The Contractor shall assist the Comptroller by providing managerial, accounting, budgeting, analytical, reconciliation and administrative support services in support of NAVWAR HQ and its PEO programs and acquisitions. This amendment provides additional questions and answers as well as the sample scenarios. \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network",
+      "networking"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network",
+        "networking"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "fbd42cc018f4464d860e1c19a900ba5c",
     "title": "RECERTIFICATION FOR 87' WPB LIFT RIG",
     "solicitationNumber": "70Z04026Q60723Y00",
@@ -1203,76 +1273,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "6cf7187fa08f45cd8cfd68ef977a022b",
-    "title": "NAVWAR HQ 1.0 Accounting Support Services",
-    "solicitationNumber": "N0003926RE019",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-12",
-    "responseDeadline": "2026-02-25T15:30:00-08:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "92110"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/6cf7187fa08f45cd8cfd68ef977a022b/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6cf7187fa08f45cd8cfd68ef977a022b",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"The Department of the Navy (DON), Naval Information Warfare Systems Command (NAVWAR) Headquarter (HQ), Comptroller Directorate (Code 1.0) is acquiring accounting support services. NAVWAR 1.0 is responsible for the core comptroller functions for NAVWAR HQ; Program Executive Office (PEO); Command, Control, Communications, Computers and Intelligence (C4I); PEO-Enterprise Information Systems (EIS); PEO SPACE; Fleet Readiness Directorate (FRD); Joint Tactical Networking Center (JTNC); and NAVWAR Space Field Activity. The Comptroller functions include but are not limited to: managing and administering Travel, Payroll, Vendor Pay, Funds Control, Tri-Annual Review (TAR), General Ledger, and Budget Execution. The Contractor shall assist the Comptroller by providing managerial, ac...",
-    "descriptionFull": "{\"description\":\"The Department of the Navy (DON), Naval Information Warfare Systems Command (NAVWAR) Headquarter (HQ), Comptroller Directorate (Code 1.0) is acquiring accounting support services. NAVWAR 1.0 is responsible for the core comptroller functions for NAVWAR HQ; Program Executive Office (PEO); Command, Control, Communications, Computers and Intelligence (C4I); PEO-Enterprise Information Systems (EIS); PEO SPACE; Fleet Readiness Directorate (FRD); Joint Tactical Networking Center (JTNC); and NAVWAR Space Field Activity. The Comptroller functions include but are not limited to: managing and administering Travel, Payroll, Vendor Pay, Funds Control, Tri-Annual Review (TAR), General Ledger, and Budget Execution. The Contractor shall assist the Comptroller by providing managerial, accounting, budgeting, analytical, reconciliation and administrative support services in support of NAVWAR HQ and its PEO programs and acquisitions. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network",
-      "networking"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "network",
-        "networking"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {
