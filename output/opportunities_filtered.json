@@ -152,38 +152,85 @@
     "updatedDate": null
   },
   {
-    "noticeId": "a0d3ebdfeeeb4544a7a000ad9438c37d",
-    "title": "IUID Hardware Support Services",
-    "solicitationNumber": "FA822226SSIUID",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
+    "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
+    "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
+    "solicitationNumber": "697DCK-25-R-00302",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
     "naicsCode": "541519",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-01-26",
-    "responseDeadline": "2026-02-09T13:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE SUSTAINMENT CENTER.FA8222  AFSC OL H PZIE",
+    "postedDate": "2026-02-25",
+    "responseDeadline": "2026-01-16T17:00:00-05:00",
+    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL AVIATION ADMINISTRATION.697DCK REGIONAL ACQUISITIONS SVCS",
     "office": "",
     "placeOfPerformance": {
-      "city": "Hill Air Force Base",
-      "state": "Utah",
-      "zip": "84056"
+      "city": "College Park",
+      "state": "Georgia",
+      "zip": "30337"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/a0d3ebdfeeeb4544a7a000ad9438c37d/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a0d3ebdfeeeb4544a7a000ad9438c37d",
+      "uiLink": "https://sam.gov/workspace/contract/opp/9030ca56adbf42a297efd6d8aabad8a7/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9030ca56adbf42a297efd6d8aabad8a7",
       "additionalInfoLink": null,
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0964888fee7547d6accc09d1e23a347a/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0617945c548a4a8d8aa0719de39ed0ad/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ad9c2c9746b47fc91052ff049431aed/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22cba0e8ec0c4deaaf3cbf8253882f5f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/271cb682e7964cea93dca79583d42b44/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3280a26128124b42bb97dcdb6e421768/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/479b4e3142694f078326f619cc938d11/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4c5454b11a5f499e9985b339b6978d79/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5832ec19d5f9485ab16c9ff1939399f0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5893427b5ac24fa4bbf697c67cb232cf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5edb5513618e482d89df54cbc677da97/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67ab4891245e4a988f70c4daf1e1efcf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6f7dd1176f13482c8e53149f772af695/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/76cd5432868349a6b85fa4a0b00d85c2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7b7b8d5d109d4f50aece5431711278dd/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/83a24462aa07483c8f42a814e2ec75fc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8a5022be97374d41b975a41067082cb9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9c6265b6b2ea40239d2ecb828cb56fef/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d846cf054b24cce813542a0a2501639/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a2b28d15fe9d495ca4e5ed9238f40426/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/baa79439207a4826824a008e792405f8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbc1fd3643514a9fbd75a657f931f8d8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dad081c5852a41339764a7297ada986e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f20a7527a3144b6c8ff4c82bf10b99e4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f6d4da743a9e4e7b8dfd858fc7ed163d/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"<p><strong>SOURCES SOUGHT SYNOPSIS</strong></p>\\n\\n<p><strong>IUID HARDWARE SUPPORT SERVICES</strong></p>\\n\\n<p>NAICS: 541519</p>\\n\\n<p>PSC: R425</p>\\n\\n<p></p>\\n\\n<p><strong><u>NOTICE</u>:</strong> This is not a solicitation.</p>\\n\\n<p>The purpose of this Sources Sought Synopsis (SSS) is to conduct market research to determine responsible sources capable of providing IUID Hardware Support Services.</p>\\n\\n<p>A previous requirement, FA813221P0018, for similar services was awarded as a Small Business Set-Aside under NAICS 541519 and PSC R425.</p>\\n\\n<p><strong><u>SCOPE</u>:</strong></p>\\n\\n<p>The Contractor shall provide all labor, tools, equipment, test equipment, quality control, transportation, and inspection manuals necessary to provide hardware support services for I...",
-    "descriptionFull": "{\"description\":\"<p><strong>SOURCES SOUGHT SYNOPSIS</strong></p>\\n\\n<p><strong>IUID HARDWARE SUPPORT SERVICES</strong></p>\\n\\n<p>NAICS: 541519</p>\\n\\n<p>PSC: R425</p>\\n\\n<p></p>\\n\\n<p><strong><u>NOTICE</u>:</strong> This is not a solicitation.</p>\\n\\n<p>The purpose of this Sources Sought Synopsis (SSS) is to conduct market research to determine responsible sources capable of providing IUID Hardware Support Services.</p>\\n\\n<p>A previous requirement, FA813221P0018, for similar services was awarded as a Small Business Set-Aside under NAICS 541519 and PSC R425.</p>\\n\\n<p><strong><u>SCOPE</u>:</strong></p>\\n\\n<p>The Contractor shall provide all labor, tools, equipment, test equipment, quality control, transportation, and inspection manuals necessary to provide hardware support services for IUID part-marking, and other part-marking activities, at the Air Logistics Centers (ALCs) located at Tinker Air Force Base (AFB), Hill AFB, and Robins AFB; depot maintenance at Vandenberg AFB; and the 309th EMXG at Kadena AFB.</p>\\n\\n<p><strong><u>DESCRIPTION of SERVICES</u>: </strong></p>\\n\\n<p>IUID Hardware Support Services shall include:</p>\\n\\n<ol>\\n\\t<li>On-Site Part-Marking Support</li>\\n\\t<li>Hardware and Software Inventory and Configuration</li>\\n\\t<li>Hardware Maintenance and Trouble Shooting</li>\\n\\t<li>Network Administration Privileges Support</li>\\n\\t<li>Status Meetings</li>\\n\\t<li>OEM Hardware Maintenance: Teardown, Evaluation, and Shipping</li>\\n\\t<li>Software Maintenance and Updates</li>\\n\\t<li>Equipment and Process Training</li>\\n\\t<li>Reports, Metrics, and Data Deliverables</li>\\n</ol>\\n\\n<p><strong><u>INSTRUCTION</u>:</strong></p>\\n\\n<p>1. The Government requests that interested parties respond to this notice, if applicable, and identify your capability of providing for this requirement. Please also provide the following information:</p>\\n\\n<p>Company Profile:</p>\\n\\n<p>A. Small Business Status</p>\\n\\n<p>B. Company&rsquo;s applicable registered NAICS codes</p>\\n\\n<p>C. Number of employees</p>\\n\\n<p>D. CAGE code</p>\\n\\n<p>E. SAM Unique Entity ID</p>\\n\\n<p>F. Location</p>\\n\\n<p>G. Point of Contact Name, Telephone, Email address</p>\\n\\n<p>H. Please advise if an alternate NAICS/PSC code than those identified above would be more appropriate for our requirement.</p>\\n\\n<p><strong>2. Responses are due <u>NLT 1:00 PM EST, 09 February 2026</u></strong>.</p>\\n\\n<p>3. No reimbursement will be made for any costs associated with providing information in response to this synopsis or any follow-up information requested.</p>\\n\\n<p>4. The Government will use the information obtained via this SSS to determine the best acquisition strategy for the procurement of IUID Hardware Support Services.</p>\\n\\n<p>5. Questions regarding this market survey should be addressed to <strong>Ms. Kathryn McKay at kathryn.mckay@us.af.mil or Mr. Austin Hurst at austin.hurst.2@us.af.mil.</strong></p>\\n\\n<p>6. Please see attached Sources Sought Synopsis_01.26.2026 for complete information.</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"<p><strong>Amendment Notice:&nbsp;</strong></p>\\n\\n<p><strong>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n...",
+    "descriptionFull": "{\"description\":\"<p><strong>Amendment Notice:&nbsp;</strong></p>\\n\\n<p><strong>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0004 is issued to update the solicitation with the conformed copy, provide the Questions and Answers and extend the proposal due date to January 16, 2026, at 1700 ET.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0003&nbsp;is issued to extend the proposal due date to January 12, 2026, at 1700 ET. A subsequent amendment will be issued to address the questions that were received from Amendment 0002.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment-Due to the Government shutdown the SIR close date has been extended from Tuesday 10/21/2025 to Friday 11/21/2025.&nbsp; A formal amendment and Q&amp;As will be posted following the end of the Government shutdown. Continue to monitor this posting for any updates.</p>\\n\\n<p>Amendment 0002 is issued to update the solicitation with the conformed copy, provide the Questions and Answers, set a new submission deadline for additional Questions on amended items only, and extend the proposal due date to October 21, 2025, at 1700 Eastern Time.</p>\\n\\n<p>All questions on amended items only must be submitted by October 7, 2025, at 1000 Eastern Time.&nbsp;Questions will only be permitted for the revisions identified in red from this amendment.</p>\\n\\n<p>*********************************************************************************</p>\\n\\n<p>Amendment 0001 is issued to extend the proposal due date to September 30, 2025, at 1700 ET. A subsequent amendment will be issued to address the questions received and provide updated attachments.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>This is the updated Screening Information Request (SIR) 697DCK-25-R-00302 for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES) Procurement.&nbsp;&nbsp; This procurement is in support of the Federal Aviation Administration (FAA), Office of Finance and Management (AFN), Information and Technology Services (AIT), Contract Strategy and Support Division (ASP-400).</p>\\n\\n<p>This SIR is for Commercial Products (Hardware (HW) and Software (SW)) and is a DOT-wide strategic sourcing contract administered and managed by the FAA Offices of Acquisition and Business Services (ACQ) and Information and Technology Services (AIT).&nbsp; The products and services which include, but are not limited to, software, network infrastructure components (servers, switches, storage arrays, and network devices), personal computing devices (workstations, laptops, tablets, thin clients, notebooks, and similar items), computer peripherals and accessories, audio/visual equipment, and miscellaneous equipment (large screens, touch screens, scanners, projectors, desktop printers, multi-functional devices (MFD)), software to support the above mentioned hardware, and cloud based services by various Original Equipment Manufacturers (OEM) that meet the FAA IT community&rsquo;s requirements.&nbsp; The contract also includes product-based services that enable the full lifecycle management of IT assets; and these services must be directly related to the range of products offered under the Contract and must be performed as requested by the Contracting Officer on individual delivery orders.&nbsp; The Contractor must facilitate the acquisition, deployment and maintenance of IT assets under this contract by providing services including, but not limited to, asset recovery/disposition and warehousing. See SIR attached below for further details.&nbsp;</p>\\n\\n<p>The FAA intends to competitively award approximately eight (8) multiple-award Indefinite Delivery Indefinite Quantity (IDIQ)contracts under this SIR.&nbsp; The Government will make awards using a Lowest Price Technically Acceptable (LPTA) approach with a two-pool evaluation process; Up to six (6) awards to Offerors reserved for Small Businesses under the Small Business Pool, and up to two (2) awards to Offerors Unrestricted in Size under the Unrestricted Pool.</p>\\n\\n<p>The North American Industry Classification System (NAICS) code is 541519e Information Technology Value Added Resellers (Exception) and the size standard is 150 Employees.&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>To be considered for award of this requirement, the Offeror must have a current/valid registration in the Systems for Award Management (SAM) database website: www.sam.gov. Registration must be active by the offer due date.&nbsp;</p>\\n\\n<p>Proposals are due by EMAIL ONLY no later than 1700 ET on September 18, 2025.&nbsp; Please see attached SIR for proposal submission requirements.&nbsp; Questions are to be submitted, in writing only, as specified in the SIR.&nbsp; Questions will be answered in an Amendment to the SIR if deemed necessary and posted to SAM.GOV for all interested parties to consider.&nbsp; Prospective Offerors are encouraged to frequently visit SAM.GOV for any updates to this requirement.&nbsp;</p>\\n\\n<p>Any questions regarding this announcement should be directed to Dawn Bloome at <u>Dawn.A.Bloome@faa.gov </u>and Kristin Frantz at&nbsp;<u>Kristin.T.Frantz@faa.go</u>v.&nbsp; All questions must be received no later than 1700 ET on August 21, 2025.&nbsp; All questions and comments must be in writing, please no telephone calls.&nbsp; <strong>Offerors are requested to utilize the attached Q&amp;A Template attached.</strong></p>\\n\\n<p>Any responses received after <strong>the closing date and time</strong>, may not be considered in accordance with AMS provision 3.2.2.3-14, Late Submissions, Modifications, and Withdrawals of Submittals.&nbsp;</p>\\n\\n<p>This SIR is not to be construed as a contract or a commitment of any kind.&nbsp; The Government will not be liable for payment of any costs attributed to the preparation and submission of requested proposal documentation.</p>\\n\"}",
     "attachments": [
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0964888fee7547d6accc09d1e23a347a/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0617945c548a4a8d8aa0719de39ed0ad/download",
         "contentType": "application/octet-stream",
-        "byteSize": 141428,
+        "byteSize": 39285,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ad9c2c9746b47fc91052ff049431aed/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 161119,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22cba0e8ec0c4deaaf3cbf8253882f5f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 38665,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/271cb682e7964cea93dca79583d42b44/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 9734,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3280a26128124b42bb97dcdb6e421768/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 380239,
         "textSnippet": ""
       }
     ],
@@ -192,12 +239,14 @@
     "amountSource": null,
     "amountInRange": null,
     "keywordsMatched": [
-      "network"
+      "network",
+      "LAN"
     ],
     "keywordsMatchedIn": {
       "title": [],
       "description": [
-        "network"
+        "network",
+        "LAN"
       ]
     },
     "remoteIndicators": {
@@ -206,28 +255,24 @@
     },
     "onsiteIndicators": {
       "title": [],
-      "description": [
-        "on-site"
-      ]
+      "description": []
     },
     "remotePossible": false,
     "onsitePossible": true,
     "brandNameLikely": false,
     "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
+    "scopeIndicators": [],
     "scopeRisk": false,
     "workModeNotes": {
-      "onsiteRequired": true,
+      "onsiteRequired": false,
       "onsiteAllowedStates": [
         "AZ",
         "Arizona"
       ],
-      "placeOfPerformanceState": "Utah"
+      "placeOfPerformanceState": "Georgia"
     },
     "timeToDeadlineDays": null,
-    "bidEligible": false,
+    "bidEligible": true,
     "updatedDate": null
   },
   {
