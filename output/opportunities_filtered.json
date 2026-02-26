@@ -77,81 +77,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "e9a7339834d649c3b5bc3e5b33189af2",
-    "title": "6350--Avigilon video surveillance system project",
-    "solicitationNumber": "36C26126Q0247",
-    "type": "Award Notice",
-    "baseType": "Award Notice",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-01-26",
-    "responseDeadline": "",
-    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.261-NETWORK CONTRACT OFFICE 21 (36C261)",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "",
-      "state": "",
-      "zip": ""
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/e9a7339834d649c3b5bc3e5b33189af2/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e9a7339834d649c3b5bc3e5b33189af2",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11315356531c4b56aa191c3996e7785d/download"
-      ]
-    },
-    "descriptionSnippet": "",
-    "descriptionFull": "",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11315356531c4b56aa191c3996e7785d/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 13611,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": 44233.97,
-    "amountSource": "award.amount",
-    "amountInRange": true,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": []
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
     "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
     "solicitationNumber": "697DCK-25-R-00302",
@@ -746,6 +671,74 @@
     "updatedDate": null
   },
   {
+    "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
+    "title": "CANES Tactical Networks Market Survey",
+    "solicitationNumber": "N66604-26-R-3000-MS1",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-26",
+    "responseDeadline": "2026-03-04T14:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NUWC DIV NEWPORT",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=51ce885f838a4c3da989c14dd7507d7a",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number. Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in a...",
+    "descriptionFull": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.;  Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number.  Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in accordance with AD 3.2.  3) Extend response date to 3/4/2026. \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "96e1be96b369433ea543969c91f97bef",
     "title": "NAVWAR HQ 1.0 Accounting Support Services",
     "solicitationNumber": "N0003926RE019",
@@ -1170,151 +1163,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Delaware"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "b31eb145745e47c08c9a508bb5a2395c",
-    "title": "Architect-Engineer (A-E) Services for Offutt AFB",
-    "solicitationNumber": "FA4600_A-E_2026",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-18",
-    "responseDeadline": "2026-03-06T16:00:00-06:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "St Columbans",
-      "state": "Nebraska",
-      "zip": "68113"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/b31eb145745e47c08c9a508bb5a2395c/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b31eb145745e47c08c9a508bb5a2395c",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04e5cf105b8f471798a529f49c8d7017/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>1. Disclaimer</p>\\n\\n<p><strong>This is a Sources Sought notice for market research purposes only. It is not a Request for Proposal (RFP), Request for Quote (RFQ), or Invitation for Bid (IFB). The U.S. Government is not committed to issuing a solicitation, awarding a contract, or paying for any expenses incurred by respondents. All submissions will become Government property and will not be returned. Interested vendors are responsible for monitoring any subsequent announcements.</strong></p>\\n\\n<p>2. Purpose<br />\\nThe purpose of this notice is to:<br />\\n&bull; Identify potential sources with the capabilities to meet the requirements.<br />\\n&bull; Gather feedback on the proposed acquisition strategy.<br />\\n&bull; Allow industry partners to express interest in this ...",
-    "descriptionFull": "{\"description\":\"<p>1. Disclaimer</p>\\n\\n<p><strong>This is a Sources Sought notice for market research purposes only. It is not a Request for Proposal (RFP), Request for Quote (RFQ), or Invitation for Bid (IFB). The U.S. Government is not committed to issuing a solicitation, awarding a contract, or paying for any expenses incurred by respondents. All submissions will become Government property and will not be returned. Interested vendors are responsible for monitoring any subsequent announcements.</strong></p>\\n\\n<p>2. Purpose<br />\\nThe purpose of this notice is to:<br />\\n&bull; Identify potential sources with the capabilities to meet the requirements.<br />\\n&bull; Gather feedback on the proposed acquisition strategy.<br />\\n&bull; Allow industry partners to express interest in this potential procurement.</p>\\n\\n<p><br />\\n3. Project Overview<br />\\nThe 55th Wing at Offutt AFB anticipates a requirement for an Architect-Engineer (A-E) services contract. The Government contemplates awarding up to five (5) Single-Award Task-Order Contracts (SATOCs) to be used on an as-needed basis.<br />\\n&bull; Projected Capacity: The total ordering capacity for each SATOC is projected at $49,000,000.<br />\\n&bull; Anticipated Award Date: September 2026.<br />\\n&bull; Location: Work will include design and investigation for construction projects on Offutt AFB and off-site facilities in the eastern Nebraska area.<br />\\n&bull; Services Required: The contract will include a broad range of A-E services. While not an exhaustive list, these services may include:<br />\\no Architectural<br />\\no Blast Protection<br />\\no Civil Engineering<br />\\no Communications Engineering<br />\\no Electrical Engineering<br />\\no Environmental Engineering<br />\\no Fire Protection<br />\\no Interior Design<br />\\no Mechanical Engineering<br />\\no RF Shielding<br />\\no Structural Engineering</p>\\n\\n<p><br />\\n4. Scope of Services<br />\\nThe A-E firm must be familiar with Offutt AFB facility design standards, antiterrorism (ATFP) requirements, CAD standards, and other applicable government codes. The scope of services includes:<br />\\nService Type<br />\\nDescription<br />\\nTitle I (Type A) - Investigation &amp; Analysis<br />\\nIncludes studies, reports, design and constructability reviews, peer reviews, surveys, and cost estimates.<br />\\nTitle I (Type B) - Design<br />\\nIncludes programming, comprehensive planning, area development, and design for new facilities, as well as renovation, repair, and maintenance projects. Deliverables may include conceptual sketches, presentation drawings, final construction drawings, BIM/GIS files, cost estimates, and engineering studies.</p>\\n\\n<p><br />\\n5. Submission Requirements: Capabilities Statement<br />\\nInterested vendors should submit a single PDF document addressing the following items.<br />\\nRequired Information<br />\\n1. Company Information<br />\\nCompany name, address, CAGE code, and UEI number. Provide a primary point of contact with their phone number and email address.<br />\\n2. Relevant Experience<br />\\nA completed Experience/Capability Worksheet demonstrating experience with similar projects performed within the last ten years. For each project, describe the scope, its value in U.S. dollars, and whether your firm acted as the prime or subcontractor. Include experience in areas such as environmental studies, demolition design, structural investigations, and construction supervision.<br />\\n3. Acquisition Feedback<br />\\nInformation on any constraints or considerations the USAF should be aware of to assist in acquisition planning and contract execution.<br />\\nNote: A company must have an active registration in the System for Award Management (SAM) at sam.gov to be eligible for contract award.</p>\\n\\n<p><br />\\n6. Contact and Submission Information<br />\\nPlease submit your Capabilities Statement via email no later than March 6, 2026, at 4:00 PM Local Time.<br />\\n&bull; Subject Line: FA4600_A-E_2026<br />\\n&bull; Email To:<br />\\no Blaine Terry, Contract Specialist: blaine.terry.2@us.af.mil<br />\\no Cassandra Janousek, Contracting Officer: cassandra.janousek@us.af.mil<br />\\nSubmissions will be shared with the Government&#39;s project team and held in strict confidence. No feedback will be provided to respondents. Questions may be directed to both points of contact via email.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04e5cf105b8f471798a529f49c8d7017/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 134548,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "Monitoring",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "Monitoring",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Nebraska"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "f582abdca6c04520bbfba7d74994d04c",
-    "title": "CANES Tactical Networks Market Survey",
-    "solicitationNumber": "N66604-26-R-3000-MS1",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-17",
-    "responseDeadline": "2026-02-27T14:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NUWC DIV NEWPORT",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": ""
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/f582abdca6c04520bbfba7d74994d04c/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f582abdca6c04520bbfba7d74994d04c",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted to add requirement that respondents include their current SeaPort MAC number. \"}",
-    "descriptionFull": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.;  Amendment 1 is posted to add requirement that respondents include their current SeaPort MAC number.   \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "network"
-      ],
-      "description": [
-        "network"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
@@ -2275,6 +2123,83 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Florida"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
+    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
+    "solicitationNumber": "75D30126Q78839",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "518210",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-26",
+    "responseDeadline": "2026-03-24T12:00:00-04:00",
+    "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.CENTERS FOR DISEASE CONTROL AND PREVENTION.CDC OFFICE OF ACQUISITION SERVICES",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Georgia",
+      "zip": "30329"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/984e24f7fdcf44dcad34981e841f6a8d/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=984e24f7fdcf44dcad34981e841f6a8d",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3da2b603ab84ea2a2e79c6f54f12fd4/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transc...",
+    "descriptionFull": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transcribed by the system, and testing results are provided within minutes of completion of the test. OC UX staff can then focus their time on analysis of the results and making improvements to CDC&rsquo;s digital content as a result of the feedback. This would allow CDC to ensure its digital products and services meet user needs and provide OC UX staff data and insights to inform effective health communications across CDC&rsquo;s key audiences.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3da2b603ab84ea2a2e79c6f54f12fd4/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 703348,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Georgia"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
