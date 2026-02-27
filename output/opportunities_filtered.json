@@ -292,6 +292,83 @@
     "updatedDate": null
   },
   {
+    "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
+    "title": "Enterprise Endpoint Hardware Services (EEHS) Request for Information (RFI)",
+    "solicitationNumber": "ST-2641-02262026",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541513",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-26",
+    "responseDeadline": "2026-03-25T15:00:00-07:00",
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MANAGEMENT OFFICE -- JPL",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "La Canada Flintridge",
+      "state": "California",
+      "zip": "91011"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5f8e3ed03624415baf4874c8c8bb08a8/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5f8e3ed03624415baf4874c8c8bb08a8",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56fc02fb968c4247962c2bcdbf0780a5/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible for any costs incurred by you in furnishing any information.&nbsp; Responses received will be carefully reviewed by JPL and may be considered as part of a future solicitation. Prospective subcontractors are advised that any information provided shall be deemed to be furnished with unlimited rights to JPL, with JPL assuming no liability for the disclosure, use, or reproduction of such data.</p>\\n\\n<p>This RFI is to also gather ...",
+    "descriptionFull": "{\"description\":\"<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible for any costs incurred by you in furnishing any information.&nbsp; Responses received will be carefully reviewed by JPL and may be considered as part of a future solicitation. Prospective subcontractors are advised that any information provided shall be deemed to be furnished with unlimited rights to JPL, with JPL assuming no liability for the disclosure, use, or reproduction of such data.</p>\\n\\n<p>This RFI is to also gather information of potential qualified sources and to obtain your business size relative to the following NAICS code: 541513 &ldquo;Computer Facilities Management Services,&rdquo; with a size standard of $37 million dollars. Responses to this RFI may be used by JPL to make appropriate decisions regarding a Small Business Set-Aside procurement. All responses shall be submitted by <strong>3/25/2026</strong> electronically to the undersigned<strong>, </strong>per the instructions set forth in <strong><em>Request for Information Submittal (page 2).</em></strong></p>\\n\\n<p>Below are some critical dates as it pertains to this Request for Information (RFI):</p>\\n\\n<ul>\\n\\t<li>Written RFI Questions are due by <strong>3/12/2026</strong> via submission to the undersigned by email. Questions after this date may be asked during an anticipated JPL-hosted webinar but no written questions will be accepted after <strong>3/12/2026</strong>.</li>\\n\\t<li>JPL will respond to written questions by<strong> 3/19/2026.</strong></li>\\n\\t<li>As stated above, all responses shall be submitted by <strong>3/25/2026</strong>.</li>\\n</ul>\\n\\n<p>Information about JPL can be found at: https://www.jpl.nasa.gov/who-we-are/.</p>\\n\\n<p>Also, JPL will host three webinars on the dates listed below to address questions live. Contract Technical Managers, the Subcontracts Manager, and representatives from the JPL Small Business Programs Office may be in attendance. Webinar registration links are provided below and in the &ldquo;Attachments/Links&rdquo; section of the SAM.gov RFI posting.</p>\\n\\n<ul>\\n\\t<li>March 10, 2026 10:00 AM to 11:00 AM PT (https://lp.constantcontactpages.com/ev/reg/yjp8qbb)</li>\\n\\t<li>March 12, 2026 10:00 AM to 11:00 AM PT (https://lp.constantcontactpages.com/ev/reg/zfuuuwr)</li>\\n\\t<li>March 17, 2026 1:30 PM to 2:30 PM PT (https://lp.constantcontactpages.com/ev/reg/ayuax3v)</li>\\n</ul>\\n\\n<p>Thank you,</p>\\n\\n<p>Sara Tan</p>\\n\\n<p>JPL Subcontracts Manager</p>\\n\\n<p>626-437-8710</p>\\n\\n<p><u>Sara.W.Tan</u>@jpl.nasa.gov</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56fc02fb968c4247962c2bcdbf0780a5/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 61731,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN",
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN",
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "California"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "fa25d68331a44e02ab72b1209478731d",
     "title": "Cybersecurity Support Services for Offutt AFB Defense Red Switch Network (DRSN)",
     "solicitationNumber": "FA460026Q0012",
@@ -589,45 +666,38 @@
     "updatedDate": null
   },
   {
-    "noticeId": "6be22e86c3134900a7689c2ec8f90fc5",
-    "title": "Lower American River Monitoring Spawning and Stran",
-    "solicitationNumber": "140R2025Q0078",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Sources Sought",
-    "naicsCode": "541690",
+    "noticeId": "e6574ed3b4ae4ae7bd80c406421adb42",
+    "title": "C--INDEFINITE DELIVERY             FACILITATION AND ARCHITECT- ENGINEER SERVICES       CONTRACT FOR CHARRETTES, VE WORKSHOPS AND SIMILAR MEETINGS, PRIMARILY VARIOUS LOCATIONS, ALASKA AND WAKE ISLAND",
+    "solicitationNumber": "",
+    "type": "Special Notice",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-01-27",
-    "responseDeadline": "2026-02-24T10:00:00-08:00",
-    "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF RECLAMATION.MP-REGIONAL OFFICE",
+    "postedDate": "2026-02-26",
+    "responseDeadline": "2026-02-27T14:00:00-09:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION PACIFIC OCEAN.ENDIST ALASKA.W2SN ENDIST ALASKA",
     "office": "",
     "placeOfPerformance": {
-      "city": null,
-      "state": null,
+      "city": "EARECKSON AS",
+      "state": "Alaska",
       "zip": null
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/6be22e86c3134900a7689c2ec8f90fc5/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6be22e86c3134900a7689c2ec8f90fc5",
+      "uiLink": "https://sam.gov/workspace/contract/opp/e6574ed3b4ae4ae7bd80c406421adb42/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e6574ed3b4ae4ae7bd80c406421adb42",
       "additionalInfoLink": null,
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3a63bee401c44cb28ff7683b424883ec/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5ac72e07558547c7a5968a4503b3d5a5/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/57bc38d3e62441609ba684f67cb5f5bf/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"The purpose of this Solicitation is to obtain services in accordance with the Performance Work Statement herein\"}",
-    "descriptionFull": "{\"description\":\"The purpose of this Solicitation is to obtain services in accordance with the Performance Work Statement herein\"}",
+    "descriptionSnippet": "{\"description\":\"<p>W911KB26RA027 Amendment 0001 &ndash; Indefinite Delivery/Indefinite Quantity Facilitation and AE Services Contract for Charrettes, VE Workshops and Similar Meetings Primarily in Various Locations Throughout, Alaska and Wake Island</p>\\n\\n<p></p>\\n\\n<p><strong>SUMMARY OF CHANGES </strong>&nbsp;</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following drawings are substituted for the superseded documents/sections</u>:</li>\\n</ol>\\n\\n<p>NONE</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following revised documents/sections are substituted for the superseded documents/sections</u>.&nbsp;</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>NONE</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following sections are deleted</u>:</li>\\n</ol>\\n\\n<p>NONE</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following documen...",
+    "descriptionFull": "{\"description\":\"<p>W911KB26RA027 Amendment 0001 &ndash; Indefinite Delivery/Indefinite Quantity Facilitation and AE Services Contract for Charrettes, VE Workshops and Similar Meetings Primarily in Various Locations Throughout, Alaska and Wake Island</p>\\n\\n<p></p>\\n\\n<p><strong>SUMMARY OF CHANGES </strong>&nbsp;</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following drawings are substituted for the superseded documents/sections</u>:</li>\\n</ol>\\n\\n<p>NONE</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following revised documents/sections are substituted for the superseded documents/sections</u>.&nbsp;</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>NONE</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following sections are deleted</u>:</li>\\n</ol>\\n\\n<p>NONE</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following documents are added</u>:</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>Bidder Inquiry Report</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>The following revisions are incorporated</u>:</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>NONE</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li><u>Other</u>:</li>\\n</ol>\\n\\n<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>\\n\\n<p>NONE</p>\\n\\n<p></p>\\n\\n<p>(End of Summary of Changes)</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p>ALL OTHER TERMS AND CONDITIONS SHALL REMAIN THE SAME.</p>\\n\"}",
     "attachments": [
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3a63bee401c44cb28ff7683b424883ec/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/57bc38d3e62441609ba684f67cb5f5bf/download",
         "contentType": "application/octet-stream",
-        "byteSize": 85987,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5ac72e07558547c7a5968a4503b3d5a5/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 441866,
+        "byteSize": 249246,
         "textSnippet": ""
       }
     ],
@@ -636,13 +706,15 @@
     "amountSource": null,
     "amountInRange": null,
     "keywordsMatched": [
-      "Monitoring"
+      "LAN"
     ],
     "keywordsMatchedIn": {
       "title": [
-        "Monitoring"
+        "LAN"
       ],
-      "description": []
+      "description": [
+        "LAN"
+      ]
     },
     "remoteIndicators": {
       "title": [],
@@ -664,7 +736,7 @@
         "AZ",
         "Arizona"
       ],
-      "placeOfPerformanceState": null
+      "placeOfPerformanceState": "Alaska"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -1086,83 +1158,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Georgia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "08fbbd31f90c4aef96842c817a8aefec",
-    "title": "DAFB Plumbing Survey",
-    "solicitationNumber": "DAFB_Plumbing_Survey",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-20",
-    "responseDeadline": "2026-02-27T15:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR MOBILITY COMMAND.FA4497  436 CONS LGC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Dover AFB",
-      "state": "Delaware",
-      "zip": "19902"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/08fbbd31f90c4aef96842c817a8aefec/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=08fbbd31f90c4aef96842c817a8aefec",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/078ffb8e8edf4927809e77c6474e4ce8/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>THIS IS A SOURCES SOUGHT ANNOUNCEMENT ONLY</strong></p>\\n\\n<p>436TH Contracting Squadron is seeking information concerning the availability of small business concern contractors capable of providing the following services:</p>\\n\\n<p><strong>Description of Services -&nbsp;</strong>The contractor shall provide all management, tools, supplies, equipment, and labor necessary to perform a detailed inspection of all designated drain and vent lines. The work shall include, but not be limited to, the following activities:</p>\\n\\n<ul>\\n\\t<li>System Inventory: Catalog all surveyed lines, noting their location, size, material, and function.</li>\\n\\t<li>Inspection: Conduct a thorough condition assessment and visual examination of all pipes, fittings, cleanouts, and suppor...",
-    "descriptionFull": "{\"description\":\"<p><strong>THIS IS A SOURCES SOUGHT ANNOUNCEMENT ONLY</strong></p>\\n\\n<p>436TH Contracting Squadron is seeking information concerning the availability of small business concern contractors capable of providing the following services:</p>\\n\\n<p><strong>Description of Services -&nbsp;</strong>The contractor shall provide all management, tools, supplies, equipment, and labor necessary to perform a detailed inspection of all designated drain and vent lines. The work shall include, but not be limited to, the following activities:</p>\\n\\n<ul>\\n\\t<li>System Inventory: Catalog all surveyed lines, noting their location, size, material, and function.</li>\\n\\t<li>Inspection: Conduct a thorough condition assessment and visual examination of all pipes, fittings, cleanouts, and support identifying external signs of leakage, corrosion, or physical damage.</li>\\n\\t<li>Video Inspection: Perform a video camera inspection of the internal surfaces of the sanitary sewer drainpipes within the facility to identify and document pipe conditions.</li>\\n\\t<li>Performance Testing: Assess system performance through functional tests, such as flow tests, to evaluate drainage efficiency and identify potential venting issues</li>\\n</ul>\\n\\n<p>Work shall comply with all applicable commercial and US military standards/specifications as well as Federal, State, and local laws and regulations.</p>\\n\\n<p>Please see the attached Performance Work Statement (PWS) for a more in depth overview of the required services. Please provide current business size standard (e.g. Large or Small Business),&nbsp; Small business socioeconomic status (if applicable), and applicable NAICS codes.&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/078ffb8e8edf4927809e77c6474e4ce8/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 584852,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "AWS"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "AWS"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Delaware"
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
@@ -2042,87 +2037,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "c2fd282835e44e9191df1ae9968f2644",
-    "title": "Southeast Regional Architecture Engineering 2 (SERAE 2) Indefinite Delivery Indefinite Quantity (IDIQ) contract",
-    "solicitationNumber": "80KSC025ZCS001L",
-    "type": "Presolicitation",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-01-28",
-    "responseDeadline": "2026-02-12T14:00:00-05:00",
-    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA KENNEDY SPACE CENTER",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Merritt Island",
-      "state": "Florida",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/c2fd282835e44e9191df1ae9968f2644/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c2fd282835e44e9191df1ae9968f2644",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fbfaee5116064246862b5356b71615bb/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>NASA/John F. Kennedy Space Center plans to issue a Standard Form (SF) 330, Architect-Engineering Qualifications for a regional multiple award, indefinite-delivery indefinite-quantity (IDIQ) contract for Architect and Engineering Services for the design and other professional services necessary to rehabilitate, modernize, and/or develop new systems for facilities and Ground Support Systems (GSS) across all of the following locations: Kennedy Space Center (KSC), including Cape Canaveral Space Force Station (CCSFS); Stennis Space Center (SSC); Johnson Space Center (JSC), including White Sands Test Facility (WSTF); Marshall Space Flight Center (MSFC), including Michoud Assembly Facility (MAF); Vandenberg Air Force Base (VAFB), California, and any remote sites associated w...",
-    "descriptionFull": "{\"description\":\"<p>NASA/John F. Kennedy Space Center plans to issue a Standard Form (SF) 330, Architect-Engineering Qualifications for a regional multiple award, indefinite-delivery indefinite-quantity (IDIQ) contract for Architect and Engineering Services for the design and other professional services necessary to rehabilitate, modernize, and/or develop new systems for facilities and Ground Support Systems (GSS) across all of the following locations: Kennedy Space Center (KSC), including Cape Canaveral Space Force Station (CCSFS); Stennis Space Center (SSC); Johnson Space Center (JSC), including White Sands Test Facility (WSTF); Marshall Space Flight Center (MSFC), including Michoud Assembly Facility (MAF); Vandenberg Air Force Base (VAFB), California, and any remote sites associated with these locations.&nbsp; This regional multiple award contract will provide a highly flexible contracting vehicle for participating Centers. The services will involve civil, structural, mechanical, and electrical services.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fbfaee5116064246862b5356b71615bb/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 157751,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN",
-      "ASA"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN",
-        "ASA"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": [
-        "remote"
-      ]
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": true,
-    "onsitePossible": false,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Florida"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
