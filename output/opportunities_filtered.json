@@ -666,6 +666,76 @@
     "updatedDate": null
   },
   {
+    "noticeId": "e73f5fe650384121a082c4850475a799",
+    "title": "Multiple Award Task Order Contract for Architect-Engineering (A-E) Services for FSRM and MILCON Title I and Title II projects at Andersen AFB (AE25GUAM)",
+    "solicitationNumber": "FA890326R0014",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-02-27",
+    "responseDeadline": "2026-03-02T14:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/e73f5fe650384121a082c4850475a799/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e73f5fe650384121a082c4850475a799",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"TITLE: Multiple Award Task Order Contract for Architect-Engineering (A-E) Services for FSRM and MILCON Title I and Title II projects at Andersen AFB (AE25GUAM)THIS SYNOPSIS IS A TOTAL SMALL BUSINESS SET-ASIDE WITH A HUBZONE RESERVE OF TWO (2) FIRMS. THE AIR FORCE WILL ONLY ACCEPT SF330?S, ARCHITECT-ENGINEER QUALIFICATIONS, FROM FIRMS THAT ARE CERTIFIED AS A SMALL BUSINESS FOR NAICS 541330, WITH A SIZE STANDARD OF $25,500,000.SF330 DUE DATE: The Due Date for SF330 submissions will be 2 March 2026 by 2:00 PM Central Standard Time. SF330 submissions shall be submitted via Procurement Integrated Enterprise Environment (PIEE). The Government will not accept any further questions. THE OFFEROR IS RESPONSIBLE FOR CONFIRMING THAT THEIR SF330 WAS RECEIVED BY THE GOVERNMENT. The Ai...",
+    "descriptionFull": "{\"description\":\"TITLE: Multiple Award Task Order Contract for Architect-Engineering (A-E) Services for FSRM and MILCON Title I and Title II projects at Andersen AFB (AE25GUAM)THIS SYNOPSIS IS A TOTAL SMALL BUSINESS SET-ASIDE WITH A HUBZONE RESERVE OF TWO (2) FIRMS. THE AIR FORCE WILL ONLY ACCEPT SF330?S, ARCHITECT-ENGINEER QUALIFICATIONS, FROM FIRMS THAT ARE CERTIFIED AS A SMALL BUSINESS FOR NAICS 541330, WITH A SIZE STANDARD OF $25,500,000.SF330 DUE DATE: The Due Date for SF330 submissions will be 2 March 2026 by 2:00 PM Central Standard Time. SF330 submissions shall be submitted via Procurement Integrated Enterprise Environment (PIEE). The Government will not accept any further questions. THE OFFEROR IS RESPONSIBLE FOR CONFIRMING THAT THEIR SF330 WAS RECEIVED BY THE GOVERNMENT. The Air Force Installation Contracting Center (AFICC)/772nd Enterprise Sourcing Squadron (772 ESS) in conjunction with the Air Force Civil Engineer Center (AFCEC), Joint Base San Antonio - Lackland Air Force Base, TX, desires to contract with Small Business (SB) Architect-Engineer (A-E) firms to support Facility Sustainment, Restoration and Modernization (FSRM) and Military Construction (MILCON) Title I and Title II projects primarily located at Andersen Air Force Base (AAFB), Guam, and Naval Base Guam as well as other locations within Joint Region Marianas (JRM). The 772 ESS anticipates award of an Indefinite Delivery Indefinite Quantity (IDIQ) Multiple Award Task Order Contract (MATOC) contract for A-E services to support these A-E Services for Title I and Title II services for FSRM and MILCON planning and design, with a total contract ceiling of $930M, shared among all contract holders. The 772 ESS anticipates making awards to approximately six (6) Small Business firms. The Government reserves the right to award to more firms, fewer firms, or none. The Task Order limitation will be a minimum of $2,500 and maximum of $50M, subject to the conditions of FAR 52.216-19 - Order Limitations. ORDERING PERIOD AND CONTRACT TYPE: Each basic IDIQ contract within the MATOC will have an ordering period of ten years comprised of one (1) three-year base period, with one (1) three-year option period and two (2) two-year option periods. This MATOC allows for the issuance of Firm Fixed Price (FFP) negotiated task orders during the ordering period.  *****THIS CONTRACT OPPORTUNITY HAS BEEN FORMERLY PUBLISHED UNDER NOTICE ID FA8903-24-R-099, FA8903-GUAM-AE-IDIQ, AND FA8903-GUAM-JRM BUT SHALL FROM THIS POINT ON BE PUBLISHED UNDER NOTICE ID FA8903-26-R-0014.***** \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "modernization",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "e6574ed3b4ae4ae7bd80c406421adb42",
     "title": "C--INDEFINITE DELIVERY             FACILITATION AND ARCHITECT- ENGINEER SERVICES       CONTRACT FOR CHARRETTES, VE WORKSHOPS AND SIMILAR MEETINGS, PRIMARILY VARIOUS LOCATIONS, ALASKA AND WAKE ISLAND",
     "solicitationNumber": "",
@@ -1970,76 +2040,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "5b40e61220da466bb9ce322d06928c2a",
-    "title": "C--INDEFINITE DELIVERY             FACILITATION AND ARCHITECT- ENGINEER SERVICES       CONTRACT FOR CHARRETTES, VE WORKSHOPS AND SIMILAR MEETINGS, PRIMARILY VARIOUS LOCATIONS, ALASKA AND WAKE ISLAND",
-    "solicitationNumber": "W911KB26RA027",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-01-28",
-    "responseDeadline": "2026-02-27T14:00:00-09:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION PACIFIC OCEAN.ENDIST ALASKA.W2SN ENDIST ALASKA",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "99506"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5b40e61220da466bb9ce322d06928c2a/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5b40e61220da466bb9ce322d06928c2a",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"(1) CONTRACT INFORMATION: No additional information shall be provided, and no solicitation will be issued. Interested firms shall respond by submitting Standard Forms (SF) 330 listing their qualifications in accordance with the instructions below. Submittals must be received at the address indicated above not later than 2:00PM Alaska time on 27 February 2026. This is not a request for proposal. An Indefinite Delivery A-E Services (IDEA) Single Award Task Order Contract (SATOC) is being procured in accordance with the Brooks A-E Act, as implemented in FAR Subpart 36.6. Firms will be selected for negotiation based on demonstrated competence and qualifications for the required work. North American Industrial Classification System code is 541330, which has a size standard of...",
-    "descriptionFull": "{\"description\":\"(1)  CONTRACT INFORMATION:  No additional information shall be provided, and no solicitation will be issued. Interested firms shall respond by submitting Standard Forms (SF) 330 listing their qualifications in accordance with the instructions below. Submittals must be received at the address indicated above not later than 2:00PM Alaska time on 27 February 2026. This is not a request for proposal. An Indefinite Delivery A-E Services (IDEA) Single Award Task Order Contract (SATOC) is being procured in accordance with the Brooks A-E Act, as implemented in FAR Subpart 36.6. Firms will be selected for negotiation based on demonstrated competence and qualifications for the required work. North American Industrial Classification System code is 541330, which has a size standard of $25.5M in average annual receipts. To receive award contractors must be registered in the System for Award Management (SAM). Register via the SAM Internet site at https://www.sam.gov. This announcement is set-aside for 100% Small Business firms. The contract shall be an Indefinite Delivery Firm Fixed Price (FFP) with a contract limit of $4,000,000 with a term of five (5) years and an option to extended services for another six (6) months. The minimum guarantee for this IDAE is $3,000.00. The anticipated Task Orders will be between $5K and $500K and will be Firm Fixed Price. Award of one contract is anticipated for the 3rd quarter of FY26. All responders are advised that this contract may be revised or canceled at any time during the solicitation, selection, evaluation, negotiation and final award. In addition, no projects are yet authorized (See FAR 52.232-18). This solicitation does not guarantee work to the selected firm. Telephonic interviews will be held with all of the most highly qualified firms. The U.S. Army Corps of Engineers Alaska District will use the clause at 252.204-7021, Contractor Compliance with the Cybersecurity Maturity Model Certification Level Requirement, as follows: On or after October 1, 2025, in all solicitations and contracts or task orders or delivery orders, including those using FAR part 12 procedures for the acquisition of commercial products and commercial services, except for solicitations and contracts or orders solely for the acquisition of COTS items. Contractors must have and maintain at a minimum CMMC Level 1 certification status in the Supplier Performance Risk System (SPRS) (https://piee.eb.mil) as required in 252.204-7021 to be eligible for award of the contract, and throughout the life of the contract.  Contracting officers shall use Supplier Performance Risk System (SPRS) (https://www.sprs.csd.disa.mil/) to verify an offeror or contractor?s CMMC level. Firms are required to enter a National Institute of Standards and Technology (NIST) score in the Supplier Performance Risk System (SPRS). The NIST score is a MANDATORY responsibility item. Those without a NIST score in SPRS will be deemed NON-RESPONSIBLE and will not be eligible for award. (2) PROJECT INFORMATION:  The task orders anticipated will support various missions for the Army, Air Force, other Department of War (DoW), and Non-DoW entities. The A E selected must have sufficient staff, flexibility, and capability to accomplish the work below on an as-needed basis. The contractor must be capable of facilitating and participating in two 4-day meetings in Alaska in the same month. Typical types of A-E services required may include, but are not limited to:(A) Facilitating charrettes;(B) Participating in charrettes as design engineers and architects;(C) Facilitating value engineering (VE) workshops;(D) Participating in VE workshops as design engineers and architects;(E) Facilitating partnering meetings;(F) Creating 15% schematic designs;(G) Providing construction Cost Working Estimates (CWE);(H) Providing Cost and Schedule Risk Analysis (CSRA); and(I) Creating charrette and VE reports. The charrettes may be standard programming, planning, or design charrettes. They may also be value-based design charrettes. Although this contract is being procured in accordance with the Brooks Act, no work that is limited by the Act (creation of construction documents to include design drawings and specifications) is expected to be performed under this contract. (3) LOCATION:  Primarily various locations throughout Alaska and Wake Island. Facilities will generally be located in arctic, subarctic, and cold region environments. Projects may be in geographically remote and undeveloped areas featuring harsh environmental conditions. The location of projects includes Local, State, and Federal Lands, or U.S. Military Installations. (4) SELECTION CRITERIA:  The following selection criteria are listed in the descending order of importance. Criteria (A)-(E) below are primary selection criteria. Criteria (F)-(G) below are secondary and will only be used as ?tie breakers? among technically equal firms. Responding firms MUST address each discipline, clearly indicate which will be subcontracted, and provide a separate SF330 (Part II) (6/2004 edition) for each subcontractor. Provide resumes for no more than two people for each proposed discipline. (A) Minimum requirements for professional personnel in the following disciplines:  1)\\tCharrette, workshop and meeting Facilitator: The facilitator must be trained and certified by S.A.V.E. International (SAVE) as a Certified Value Specialist (CVS). The facilitator must have demonstrated experience facilitating charrettes, VE workshops, and similar meetings. Experience with VE workshops facilitated in accordance with Engineering Regulation ER 11-1-321 Value Engineering, Change 1, SAVE Value Standard, and the SAVE eight-step process is strongly preferred.2)\\tCharrette, workshop, and meeting Technical Assistant: The technical assistant must have and provide technical, audio-visual, information technology (such as Internet hot spots), word processing, note taking, and other meeting assistance skills.3)\\tAt least one professionally registered architect, mechanical engineer, electrical engineer, registered communications distribution designer (RCDD), fire protection engineer, geotechnical engineer, civil engineer, structural engineer and Certified Cost Engineer.4)\\tAt least one project manager, landscape architect, environmental engineer (asbestos/HTRW certified), interior designer, and USGBC LEED AP.(B) Specialized experience and technical competence in: 1)\\tDesign of new and existing DoW-related facilities in cold regions. Cold regions design is not considered to be a separate discipline that can be subcontracted. Rather, knowledge and experience in the design, construction and operation of facilities in arctic, subarctic, and cold region environments must be integral to all design disciplines;2)\\tDesign of facility renovations in cold regions;3)\\tProgramming, planning, and design charrettes;4)\\tVE studies and workshops; and5)\\tMCACES (MII) cost engineering software, and Crystal Ball software for CSRA.(C) Past performance on DoD and other contracts with respect to cost control, quality of work, and compliance with schedules.  (D) Capacity to maintain schedules and accomplish required work on two simultaneous task orders.   (E) Knowledge of locality.  Note:  Criteria F-G are secondary criteria and will only be used as ?tie-breakers? among firms which are rated as technically equal after the interview phase of the selection process. The secondary selection criteria, in descending order of importance, are: (F) Geographic proximity in relation to the projects and the Alaska District Headquarters in Anchorage. (G) Volume of DoD contract awards in the last 12 months.  (5) SUBMISSION REQUIREMENTS: Firms submitting their qualifications must provide a completed standard form SF-330. The SF-330 must be in electronic PDF format, have searchable text, and bookmarking of the primary and secondary sections of the form. The latest edition of the SF-330 must be used and may be obtained from the Government Printing Office at: https://www.gsa.gov/forms-library/architect-engineer-qualificationsInclude the following additional information:(A) Part I, block c (11): include if previously worked with subcontractor and estimated percentage involvement for each team member(B) Part I, block H (30): address how your team meets each selection criterion. Include an organization chart of the key personnel to be assigned to the project.  (C) Part I of the SF-330 must be submitted. It is preferred that Part II of the SF-330 be submitted with Part I, however, Part II will be considered submitted if a current version (updated within the 36-month period prior to the date for receipt of submissions) of the Part II information has been uploaded to the SAM website. Offerors must submit the SF-330 electronically via the PIEE Solicitation Module website at: https://piee.eb.mil/sol/xhtml/unauth/index.xhtmlSearch for Solicitation Number W911KB26RA027 to be received no later than the date and time stated on this Notice or subsequent solicitation amendment. Offerors are advised to plan accordingly. Do NOT Submit SF330s as ?Unsolicited Proposals? within PIEE ? these will not be reviewed. Requests after this date will not be considered. No additional information shall be provided, and no faxed, e-mailed, or hand delivered submittals shall be accepted. This is not a request for proposal. NOTE: Electronic proposal submissions will only be accepted via the PIEE Solicitation Module website at: https://piee.eb.mil/sol/xhtml/unauth/index.xhtml. IN ORDER TO SUBMIT A PROPOSAL, VENDORS MUST REGISTER IN THE PIEE SYSTEM AND MUST HAVE A PROPOSAL MANAGER ROLE ESTABLISHED. ADDITIONAL INFORMATION REGARDING PROPOSAL MANAGER, PROPOSAL MANAGER FUNCTIONS AND POSTING OFFERS CAN BE FOUND AT https://pieetraining.eb.mil/wbt/xhtml/wbt/sol/solicitation/proposals.xhtml    (6) QUESTIONS: BIDDER INQUIRIES MUST BE SUBMITTED NO LATER THAN CLOSE OF BUSINESS 17 February 2026 VIA BIDDER INQUIRY IN PROJNET AT http://www.projnet.org/projnet. All questions should be submitted utilizing the USACE Bidder Inquiry System, ProjNet. Questions sent via email will not be answered. The Solicitation Number is: W911KB26RA027The Bidder Inquiry Key is:  6VZ4DB-ANZ5Q2To submit and review bid inquiry items, bidders will need to be a current registered user or self-register in the system.1. To self-register, go to the aforementioned web page and click on the BID tab. Select Bidder Inquiry, select agency USACE, and enter the Bidder Inquiry Key for this solicitation listed below, your email address, and then click login. Fill in all required information and click create user. Verify that information on next screen is correct and click continue.2. From the page, you may view all bidder inquiries or add inquiry.3. Bidders will receive acknowledgement of their question via email, followed by an answer to their question after it has been processed by our technical team.4. The Bidder Inquiry System will be unavailable for new inquiries seven (7) days prior to proposal submission in order to ensure adequate time is allotted to form an appropriate response and amend the solicitation if necessary.5. Offerors are requested to review the Bidder Inquiry System for answers to questions prior to submission of a new inquiry.6. The call center operates weekdays from 8AM to 5PM U.S. Central Time Zone (Chicago). The telephone number for the Call Center is 800-428-HELP.All potential offerors are advised to check daily the PIEE Solicitation Module website at: https://piee.eb.mil/sol/xhtml/unauth/index.xhtml via Solicitation Number Search W911KB26RA027, for any additional modifications pertaining to this synopsis. The contracts are being procured in accordance with the Brooks A-E Act, as implemented in FAR Subpart 36.6. Projects to be assigned are not yet determined and funds are not presently available. This IS NOT A REQUEST FOR PROPOSAL. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": [
-        "remote"
-      ]
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": true,
-    "onsitePossible": false,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {

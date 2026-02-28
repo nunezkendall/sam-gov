@@ -1,5 +1,101 @@
 [
   {
+    "noticeId": "d5838680ea54422a8f8d482228b73758",
+    "title": "Notice of Award: HPE HW Maintenance and Support Renewal Robins AFB - Brand Name Combined Synopsis/Solicitation",
+    "solicitationNumber": "FA857926P0012",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE SUSTAINMENT CENTER.FA8579  SOFTWARE SPRT AFSC PZIM",
+    "fullParentPathCode": "057.5700.AFMC.AFSC.FA8579",
+    "postedDate": "2026-02-27",
+    "type": "Award Notice",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-14",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "7B21",
+    "active": "Yes",
+    "award": {
+      "date": "2026-02-27",
+      "number": "FA857926P0012",
+      "amount": "87374.89",
+      "awardee": {
+        "name": "NEW TECH SOLUTIONS, INC.",
+        "location": {
+          "city": {
+            "code": "26000",
+            "name": "Fremont"
+          },
+          "state": {
+            "code": "CA",
+            "name": "California"
+          },
+          "zip": "94538",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "XK11LLUL61A7",
+        "cageCode": "1QN24"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "margaret.gaskill.1@us.af.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Margaret Gaskill"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "jeffery.pruitt.1@us.af.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Jeffery Pruitt"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d5838680ea54422a8f8d482228b73758",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "31098-1672",
+      "city": "ROBINS AFB",
+      "countryCode": "USA",
+      "state": "GA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "80508",
+        "name": "Warner Robins"
+      },
+      "state": {
+        "code": "GA",
+        "name": "Georgia"
+      },
+      "zip": "31098",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/d5838680ea54422a8f8d482228b73758/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d5838680ea54422a8f8d482228b73758&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
     "noticeId": "c540c50430f9478d856c699ba2d62d40",
     "title": "6515--Brand Name: Philips Intellivue MX40 Wearable Monitors",
     "solicitationNumber": "36C24426Q0321",
@@ -60,6 +156,76 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2944c2e939ed41afbd0eeac6b9cd76d8/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/44aeadbcff77458e82a40da781c48c47/download"
+    ]
+  },
+  {
+    "noticeId": "260b4a420e1b4a28bf1f5d8d1f07a152",
+    "title": "DA10--Brand Name DSS PREFERENCE CARDS",
+    "solicitationNumber": "36C10B26Q0223",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
+    "fullParentPathCode": "036.3600.36C10B",
+    "postedDate": "2026-02-27",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-04-03",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-04T12:00:00-05:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "DA10",
+    "active": "Yes",
+    "award": {
+      "awardee": {}
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "belinda.espindola@va.gov",
+        "phone": "848-377-5129",
+        "title": "Contract Specialist",
+        "fullName": "Belinda Espindola"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=260b4a420e1b4a28bf1f5d8d1f07a152",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "07724",
+      "city": "EATONTOWN",
+      "countryCode": "USA",
+      "state": "NJ"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "James J. Peters VA Medical Center 130 West Kingsbridge Road",
+      "streetAddress2": "",
+      "city": {
+        "name": "Bronx"
+      },
+      "state": {
+        "code": "NY",
+        "name": "New York"
+      },
+      "zip": "10468",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/260b4a420e1b4a28bf1f5d8d1f07a152/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=260b4a420e1b4a28bf1f5d8d1f07a152&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2b3600bda1d24d84834f5c0062636df4/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fad680a391ce49019fc2e594ce08fd47/download"
     ]
   },
   {
@@ -1466,6 +1632,102 @@
     ]
   },
   {
+    "noticeId": "36fdff7a31ed423b8fd4e6749fedc475",
+    "title": "Cybersecurity Support Services for Offutt AFB Defense Red Switch Network (DRSN)",
+    "solicitationNumber": "FA460026P0017",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
+    "fullParentPathCode": "057.5700.ACC.FA4600",
+    "postedDate": "2026-02-27",
+    "type": "Award Notice",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-14",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "541513",
+    "naicsCodes": [
+      "541513"
+    ],
+    "classificationCode": "DA01",
+    "active": "Yes",
+    "award": {
+      "date": "2026-02-27",
+      "number": "FA460026P0017",
+      "amount": "1989942.72",
+      "awardee": {
+        "name": "COMMAND CONTROL COMMUNICATIONS ENGINEERING & LOGISTICS LLC",
+        "location": {
+          "city": {
+            "code": "71000",
+            "name": "Tampa"
+          },
+          "state": {
+            "code": "FL",
+            "name": "Florida"
+          },
+          "zip": "33607",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "JEG8DJJ6N115",
+        "cageCode": "6RMR0"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "tyler.imhoff.1@us.af.mil",
+        "phone": "4022946005",
+        "title": null,
+        "fullName": "Tyler Imhoff"
+      },
+      {
+        "fax": null,
+        "type": "secondary",
+        "email": "dominick.bogier@us.af.mil",
+        "phone": "4022942248",
+        "title": null,
+        "fullName": "Dominick Bogier"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=36fdff7a31ed423b8fd4e6749fedc475",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "68113",
+      "city": "OFFUTT AFB",
+      "countryCode": "USA",
+      "state": "NE"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "0",
+        "name": "St Columbans"
+      },
+      "state": {
+        "code": "NE",
+        "name": "Nebraska"
+      },
+      "zip": "68113",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/36fdff7a31ed423b8fd4e6749fedc475/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=36fdff7a31ed423b8fd4e6749fedc475&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
     "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
     "title": "Enterprise Endpoint Hardware Services (EEHS) Request for Information (RFI)",
     "solicitationNumber": "ST-2641-02262026",
@@ -2633,84 +2895,65 @@
     ]
   },
   {
-    "noticeId": "5744dcd37c9042388926d44848ef28f8",
-    "title": "FDA Nationwide Ergonomic Services",
-    "solicitationNumber": "75F40126Q00019",
-    "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.FOOD AND DRUG ADMINISTRATION.FDA OFFICE OF ACQ  GRANT SVCS",
-    "fullParentPathCode": "075.7524.75F401",
-    "postedDate": "2026-02-05",
+    "noticeId": "e73f5fe650384121a082c4850475a799",
+    "title": "Multiple Award Task Order Contract for Architect-Engineering (A-E) Services for FSRM and MILCON Title I and Title II projects at Andersen AFB (AE25GUAM)",
+    "solicitationNumber": "FA890326R0014",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
+    "fullParentPathCode": "057.5700.AFMC.AFIMSC-AFICC.FA8903",
+    "postedDate": "2026-02-27",
     "type": "Combined Synopsis/Solicitation",
     "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-02-28",
+    "archiveType": "autocustom",
+    "archiveDate": "2027-02-27",
     "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
     "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-13T14:00:00-05:00",
-    "naicsCode": "541690",
+    "responseDeadLine": "2026-03-02T14:00:00-06:00",
+    "naicsCode": "541330",
     "naicsCodes": [
-      "541690"
+      "541330"
     ],
-    "classificationCode": "R499",
+    "classificationCode": "C211",
     "active": "Yes",
     "award": null,
     "pointOfContact": [
       {
         "fax": "",
         "type": "primary",
-        "email": "Melinda.Kim@fda.hhs.gov",
+        "email": "samuel.mendez@us.af.mil",
         "phone": "",
         "title": null,
-        "fullName": "Melinda Kim"
+        "fullName": "Samuel Mendez, Contracting Officer"
       },
       {
         "fax": "",
         "type": "secondary",
-        "email": "Nicholas.Bisher@fda.hhs.gov",
+        "email": "jean.stevens.1@us.af.mil",
         "phone": "",
         "title": null,
-        "fullName": "Nicholas Bisher"
+        "fullName": "Jean Stevens, Contract Specialist"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5744dcd37c9042388926d44848ef28f8",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e73f5fe650384121a082c4850475a799",
     "organizationType": "OFFICE",
     "officeAddress": {
-      "zipcode": "20852",
-      "city": "Rockville",
+      "zipcode": "78236-9861",
+      "city": "JBSA LACKLAND",
       "countryCode": "USA",
-      "state": "MD"
+      "state": "TX"
     },
     "placeOfPerformance": {
-      "city": {
-        "code": "72450",
-        "name": "Silver Spring"
-      },
-      "state": {
-        "code": "MD",
-        "name": "Maryland"
-      },
-      "zip": "20993",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
+      "streetAddress": "ANDERSEN AIR FORCE BASE, GUAM",
+      "zip": ""
     },
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5744dcd37c9042388926d44848ef28f8/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/e73f5fe650384121a082c4850475a799/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5744dcd37c9042388926d44848ef28f8&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e73f5fe650384121a082c4850475a799&limit=1"
       }
     ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/12bf65b3c3f44450b40e6de1dc3b5706/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b1306dba8cb4e5a86f5a4c2b91783cd/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/201d391273e24d87ba201d18923dabbf/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/227891a6a0e243dd8ab4179b133eaec7/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/47592c9ba6554eb388bace1a5c455f87/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7dac9287e15143d89bc4b444cf3e7ae6/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dfade4e8ba944835957db65c191ed473/download"
-    ]
+    "resourceLinks": null
   },
   {
     "noticeId": "9b1e17955f08441eb3c4b5da849bce32",
@@ -5612,59 +5855,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "5b40e61220da466bb9ce322d06928c2a",
-    "title": "C--INDEFINITE DELIVERY             FACILITATION AND ARCHITECT- ENGINEER SERVICES       CONTRACT FOR CHARRETTES, VE WORKSHOPS AND SIMILAR MEETINGS, PRIMARILY VARIOUS LOCATIONS, ALASKA AND WAKE ISLAND",
-    "solicitationNumber": "W911KB26RA027",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION PACIFIC OCEAN.ENDIST ALASKA.W2SN ENDIST ALASKA",
-    "fullParentPathCode": "021.2100.USACE.POD.POA.W911KB",
-    "postedDate": "2026-01-28",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-03-31",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-27T14:00:00-09:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "theresa.m.afrank@usace.army.mil",
-        "phone": "9077532739",
-        "title": null,
-        "fullName": "Theresa Afrank"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5b40e61220da466bb9ce322d06928c2a",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "99506-0898",
-      "city": "ANCHORAGE",
-      "countryCode": "USA",
-      "state": "AK"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "JBER, Alaska USA",
-      "zip": "99506"
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5b40e61220da466bb9ce322d06928c2a/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5b40e61220da466bb9ce322d06928c2a&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
     "noticeId": "dfb6e4ee3c4c44539b3d9da766f28d9f",
     "title": "RAES Synopsis",
     "solicitationNumber": "FA8903-26-R-0011",
@@ -5721,64 +5911,6 @@
       {
         "rel": "self",
         "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=dfb6e4ee3c4c44539b3d9da766f28d9f&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
-    "noticeId": "fcc2a87979e543e69fd6a756d2ae86f8",
-    "title": "Notice of Intent to Increase Design IDIQ MATOC Capacity",
-    "solicitationNumber": "",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH ATLANTIC.ENDIST JACKSONVILLE",
-    "fullParentPathCode": "021.2100.USACE.SAD.SAJ",
-    "postedDate": "2026-01-29",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "archiveType": "auto15",
-    "archiveDate": "2026-02-28",
-    "typeOfSetAsideDescription": "Partial Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBP",
-    "responseDeadLine": "2026-02-13T15:00:00-05:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": null,
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "sherelle.n.barber@usace.army.mil",
-        "phone": "9042323916",
-        "title": null,
-        "fullName": "Sherelle Barber"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fcc2a87979e543e69fd6a756d2ae86f8",
-    "organizationType": "SUB COMMAND",
-    "officeAddress": null,
-    "placeOfPerformance": {
-      "city": {
-        "code": "35000",
-        "name": "Jacksonville"
-      },
-      "state": {
-        "code": "FL",
-        "name": "Florida"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/fcc2a87979e543e69fd6a756d2ae86f8/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fcc2a87979e543e69fd6a756d2ae86f8&limit=1"
       }
     ],
     "resourceLinks": null
