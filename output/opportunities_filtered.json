@@ -201,52 +201,59 @@
     "updatedDate": null
   },
   {
-    "noticeId": "a2e80b9cfeed43a99ce5da559e4e2610",
-    "title": "ASOG Complex EMCS Camp Murray, WA",
-    "solicitationNumber": "W50S9E26QA001",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
+    "noticeId": "424d6dbef1084db7a537babd4a08ce49",
+    "title": "Airfield Data Management Server - BPA",
+    "solicitationNumber": "FA812626Q0023",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
     "naicsCode": "541512",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-02-23",
-    "responseDeadline": "2026-03-11T12:00:00-07:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO WA.USPFO WA PROCUREMENT.W7N6 USPFO ACTIVITY WAANG 194",
+    "postedDate": "2026-03-02",
+    "responseDeadline": "2026-03-16T15:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE SUSTAINMENT CENTER.FA8126  AFSC PZIMB",
     "office": "",
     "placeOfPerformance": {
-      "city": "Camp Murray",
-      "state": "Washington",
-      "zip": null
+      "city": "S Coffeyville",
+      "state": "Oklahoma",
+      "zip": "73145"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/a2e80b9cfeed43a99ce5da559e4e2610/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a2e80b9cfeed43a99ce5da559e4e2610",
+      "uiLink": "https://sam.gov/workspace/contract/opp/424d6dbef1084db7a537babd4a08ce49/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=424d6dbef1084db7a537babd4a08ce49",
       "additionalInfoLink": null,
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87eba20efc2a4d5f8259ca2600822706/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e380ee7a01e441738f2599dd434fe218/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ec55f402f02c4a1f8081728e6298dd2e/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/421087293f3a488788f7bba190f66750/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/47c3688607e64fdfbdc2120b310f806e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d147159db964bad816c395a0847f9dc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f7465d30e6b44337b8e649a77c526110/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"<p>This is a service contract to install (Energy Management And Control Systems) EMCS at Bldg 140 the ASOG complex at Camp Murray, WA. There will be a site visit on Camp Murray WA on 03 Mar 2026 at 1000.&nbsp;</p>\\n\\n<p>For base access please complete&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page and see&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page .&nbsp;Contact&nbsp;194.wg.fal.msc.contracting@us.af.mil for base access questions. Please note an update is forthcoming to include the HVAC asbuilts for the Bldg.&nbsp;</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>This is a service contract to install (Energy Management And Control Systems) EMCS at Bldg 140 the ASOG complex at Camp Murray, WA. There will be a site visit on Camp Murray WA on 03 Mar 2026 at 1000.&nbsp;</p>\\n\\n<p>For base access please complete&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page and see&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page .&nbsp;Contact&nbsp;194.wg.fal.msc.contracting@us.af.mil for base access questions. Please note an update is forthcoming to include the HVAC asbuilts for the Bldg.&nbsp;</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
     "attachments": [
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87eba20efc2a4d5f8259ca2600822706/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/421087293f3a488788f7bba190f66750/download",
         "contentType": "application/octet-stream",
-        "byteSize": 47480,
+        "byteSize": 302783,
         "textSnippet": ""
       },
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e380ee7a01e441738f2599dd434fe218/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/47c3688607e64fdfbdc2120b310f806e/download",
         "contentType": "application/octet-stream",
-        "byteSize": 3372594,
+        "byteSize": 19947,
         "textSnippet": ""
       },
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ec55f402f02c4a1f8081728e6298dd2e/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d147159db964bad816c395a0847f9dc/download",
         "contentType": "application/octet-stream",
-        "byteSize": 309007,
+        "byteSize": 19909,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f7465d30e6b44337b8e649a77c526110/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 140502,
         "textSnippet": ""
       }
     ],
@@ -255,29 +262,31 @@
     "amountSource": null,
     "amountInRange": null,
     "keywordsMatched": [
+      "Monitoring",
       "LAN"
     ],
     "keywordsMatchedIn": {
       "title": [],
       "description": [
+        "Monitoring",
         "LAN"
       ]
     },
     "remoteIndicators": {
       "title": [],
-      "description": []
+      "description": [
+        "remote"
+      ]
     },
     "onsiteIndicators": {
       "title": [],
       "description": []
     },
-    "remotePossible": false,
-    "onsitePossible": true,
+    "remotePossible": true,
+    "onsitePossible": false,
     "brandNameLikely": false,
     "brandNameIndicators": [],
-    "scopeIndicators": [
-      "global"
-    ],
+    "scopeIndicators": [],
     "scopeRisk": false,
     "workModeNotes": {
       "onsiteRequired": false,
@@ -285,7 +294,7 @@
         "AZ",
         "Arizona"
       ],
-      "placeOfPerformanceState": "Washington"
+      "placeOfPerformanceState": "Oklahoma"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -471,118 +480,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Nebraska"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "b32a1c9d0bee45e085d9844c31b6ecbe",
-    "title": "Earth Prediction Innovation Center (EPIC)-Advancing Weather Modeling Skills",
-    "solicitationNumber": "1305M325R0014",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541511",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-20",
-    "responseDeadline": "2025-08-15T16:00:00-04:00",
-    "agency": "COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Silver Spring",
-      "state": "Maryland",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/b32a1c9d0bee45e085d9844c31b6ecbe/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b32a1c9d0bee45e085d9844c31b6ecbe",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16a977b449584eff907e4b41e123b7ef/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2801a9cedd4840628c1757c339d8b0b6/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3410a8cdef3a4d3da0289309e37eaab7/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5bd1719a15b24ae58e04e512133678f8/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7524848896e449859cf781d5d6bab8f3/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7fbe77d3d6d74614906131a49e38a454/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a64cd7598c96490098fa9cb1017b7e40/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ad268af3ee1e49aaa642960959c0868f/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af9140b18b104dffb820b879d479be4d/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bab5a1a11d6a451ea13ca87d18da5f02/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb0bdbf7d3f54b5798c52ae318210b9e/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d4220e5fd9d34d5e98fe5b54a1d41948/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ea18f6e653c3477fb56ab6c46c101c02/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f8a05a72190b417ba905e8f48204671c/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p><u>2/20/2026</u> - Please see the attached Amendment 0003 for updated documents. This amendment is being provided for informational purposes ONLY and in compliance with FAR Part 5. Per the Phase 1 Advisory Notification dated 2/10/2026 sent to those firms who submitted a proposal for Phase 1,&nbsp;any amendments and revised attachments issued for Phase 2 will only be provided to offerors who provided their intent to participate in Phase 2. Additionally, only questions submitted for Phase 2 from offerors who provided their intent to participate in Phase 2 were answered. <strong>Any proposal submitted in response to this amendment that is NOT from a Phase 2 offeror will not be evaluted and is not eligible for award.</strong></p>\\n\\n<p><u>8/8/2025</u> - Please see the att...",
-    "descriptionFull": "{\"description\":\"<p><u>2/20/2026</u> - Please see the attached Amendment 0003 for updated documents. This amendment is being provided for informational purposes ONLY and in compliance with FAR Part 5. Per the Phase 1 Advisory Notification dated 2/10/2026 sent to those firms who submitted a proposal for Phase 1,&nbsp;any amendments and revised attachments issued for Phase 2 will only be provided to offerors who provided their intent to participate in Phase 2. Additionally, only questions submitted for Phase 2 from offerors who provided their intent to participate in Phase 2 were answered. <strong>Any proposal submitted in response to this amendment that is NOT from a Phase 2 offeror will not be evaluted and is not eligible for award.</strong></p>\\n\\n<p><u>8/8/2025</u> - Please see the attached Amendment 0002 for updated documents.</p>\\n\\n<p><u>7/30/2025</u> -&nbsp;The purpose of this advisory clarification is to provide answers to additional questions received, as detailed below:</p>\\n\\n<p class=\\\"sam-rich-text-editor-indent-b\\\"><strong>Question #104: </strong>The Government stated &ldquo;The reference column in Attachment 3 can include information to direct the evaluators towards the corresponding criteria element within the contract support documents. Please limit information entered in this column to 100 characters. To the extent that narrative information is provided, Offerors may use the Technical Capability Narrative to provide narrative explanation of the TCPs - note that the page limit for the Technical Capability Narrative has been increased to twelve (12) pages.&rdquo; We would like to know if 100 characters is the limit for each support document or the total for each cell in the spreadsheet. Some of our TCPs will list multiple documents so we would like clarification on this limitation.</p>\\n\\n<p class=\\\"sam-rich-text-editor-indent-b\\\"><strong>Answer #104:</strong> Offerors should limit their entries in the Attachment 3 reference column to 100 characters for each support document referenced. Note that this is a recommendation, but not a firm requirement (e.g., &quot;Please limit&quot; vice &quot;Offerors must limit&quot;), intended to ensure information entered into Attachment 3 is provided to direct evaluators towards the applicable substantiating information, but not to provide additional explanation and/or narrative information to bypass the applicable page limits for the Technical Capability Narrative. Offerors may also opt to highlight text within the reference documents to facilitate evaluation, but are not required to do so.</p>\\n\\n<p class=\\\"sam-rich-text-editor-indent-b\\\"><strong>Question #105: </strong>The Government mentioned the option of using Kiteworks, a secure FedRAMP authorized file-sharing service, for submitting supporting documents. Please confirm that Kiteworks is approved for the transfer of CUI documents.</p>\\n\\n<p class=\\\"sam-rich-text-editor-indent-b\\\"><strong>Answer #105: </strong>NOAA confirms that Kiteworks is approved for the transfer of CUI documents.</p>\\n\\n<p>Because this advisory clarification does not materially change the solicitation terms and conditions, Offerors are <u>not</u> required to acknowledge this advisory clarification as an amendment when submitting their proposal. The proposal submission deadline remains unchanged.</p>\\n\\n<p><u>7/25/2025</u> - Please see the attached Amendment 0001 documents for updates and proposal deadline extension.</p>\\n\\n<p><u>6/25/2025</u> - Vendor questions must be submitted via e-mail and received by Grace Parker (Contracting Officer - Grace.Parker@noaa.gov) and Gwendolynn Boyle (Contract Specialist - Gwendolynn.Boyle@noaa.gov)&nbsp;no later than July 17, 2025 at 11:00 a.m. ET.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16a977b449584eff907e4b41e123b7ef/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 316709,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2801a9cedd4840628c1757c339d8b0b6/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 3941601,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3410a8cdef3a4d3da0289309e37eaab7/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 570498,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5bd1719a15b24ae58e04e512133678f8/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 154961,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7524848896e449859cf781d5d6bab8f3/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 664325,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,

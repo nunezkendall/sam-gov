@@ -1,8 +1,8 @@
 [
   {
     "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
-    "reason": "SaaS digital platform subscription; cloud-aligned and relatively low complexity.",
-    "overallScore": 64,
+    "reason": "Cloud-based SaaS subscription for digital platform; strong fit and likely manageable.",
+    "overallScore": 70,
     "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
     "uiLink": "https://sam.gov/workspace/contract/opp/984e24f7fdcf44dcad34981e841f6a8d/view",
     "descriptionSnippet": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transc...",
@@ -12,7 +12,7 @@
   },
   {
     "noticeId": "fa25d68331a44e02ab72b1209478731d",
-    "reason": "Cybersecurity and RMF support; strong DevSecOps alignment.",
+    "reason": "Cybersecurity and RMF support aligns with Linux and security capabilities.",
     "overallScore": 63,
     "title": "Cybersecurity Support Services for Offutt AFB Defense Red Switch Network (DRSN)",
     "uiLink": "https://sam.gov/workspace/contract/opp/fa25d68331a44e02ab72b1209478731d/view",
@@ -23,8 +23,8 @@
   },
   {
     "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
-    "reason": "Cyberspace engineering and software development; highly relevant to core skills.",
-    "overallScore": 57,
+    "reason": "Cyberspace engineering and software development strongly aligned though large scale.",
+    "overallScore": 58,
     "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
     "uiLink": "https://sam.gov/workspace/contract/opp/2972b1f9a3824954954f8ccb7a1b99a7/view",
     "descriptionSnippet": "{\"description\":\"Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov.The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluati...",
@@ -33,31 +33,20 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "f975673fd21e46699e4096649c2abe3d",
-    "reason": "Systems engineering, AI, and software support; strong technical fit.",
-    "overallScore": 50,
-    "title": "H20 Engineering Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/f975673fd21e46699e4096649c2abe3d/view",
-    "descriptionSnippet": "{\"description\":\"<p>(DRAFT) - The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire Control; Autonomous and Unmanned Systems; Electromagnetic Maneuver Warfare (EMW); Information Warfare/Big Data; Machine Learning; and Artificial Intelligence (AI). The Contractor shall support technica...",
-    "responseDeadline": "2026-03-09T12:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "cb177170da494062bc2da62c83da9684",
-    "reason": "Networking and fiber support; relevant to infrastructure and Linux/network skills.",
-    "overallScore": 49,
-    "title": "A30 FiberOptic Waterfront Cabling Support",
-    "uiLink": "https://sam.gov/workspace/contract/opp/cb177170da494062bc2da62c83da9684/view",
-    "descriptionSnippet": "{\"description\":\"<p>DRAFT: The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement for fiber optic networking support for the U.S. Navy. This includes Research and Development of new technical capabilities, Ship Construction support for all classes of Navy Warships, Operations and Maintenance of fielded fiber optic cable systems and plants.</p>\\n\"}",
-    "responseDeadline": "2026-02-13T12:00:00-05:00",
+    "noticeId": "424d6dbef1084db7a537babd4a08ce49",
+    "reason": "Server and remote monitoring system fits DevOps/infrastructure skills.",
+    "overallScore": 52,
+    "title": "Airfield Data Management Server - BPA",
+    "uiLink": "https://sam.gov/workspace/contract/opp/424d6dbef1084db7a537babd4a08ce49/view",
+    "descriptionSnippet": "{\"description\":\"<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
+    "responseDeadline": "2026-03-16T15:00:00-05:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-    "reason": "Tactical networks and software development; relevant but vehicle-restricted.",
-    "overallScore": 48,
+    "reason": "Tactical network software development relevant to engineering capabilities.",
+    "overallScore": 47,
     "title": "CANES Tactical Networks Market Survey",
     "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
     "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number. Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in a...",
@@ -66,9 +55,31 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "e8d30f9553c84339802369b4365a7713",
-    "reason": "Engineering and integration services with software elements; moderate relevance.",
+    "noticeId": "cb177170da494062bc2da62c83da9684",
+    "reason": "Fiber optic networking support related to IT infrastructure experience.",
     "overallScore": 41,
+    "title": "A30 FiberOptic Waterfront Cabling Support",
+    "uiLink": "https://sam.gov/workspace/contract/opp/cb177170da494062bc2da62c83da9684/view",
+    "descriptionSnippet": "{\"description\":\"<p>DRAFT: The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement for fiber optic networking support for the U.S. Navy. This includes Research and Development of new technical capabilities, Ship Construction support for all classes of Navy Warships, Operations and Maintenance of fielded fiber optic cable systems and plants.</p>\\n\"}",
+    "responseDeadline": "2026-02-13T12:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "f975673fd21e46699e4096649c2abe3d",
+    "reason": "Systems engineering with software and IA components relevant but broad.",
+    "overallScore": 36,
+    "title": "H20 Engineering Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/f975673fd21e46699e4096649c2abe3d/view",
+    "descriptionSnippet": "{\"description\":\"<p>(DRAFT) - The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire Control; Autonomous and Unmanned Systems; Electromagnetic Maneuver Warfare (EMW); Information Warfare/Big Data; Machine Learning; and Artificial Intelligence (AI). The Contractor shall support technica...",
+    "responseDeadline": "2026-03-09T12:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "e8d30f9553c84339802369b4365a7713",
+    "reason": "Engineering and integration services with potential software elements.",
+    "overallScore": 30,
     "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
     "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
     "descriptionSnippet": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this documen...",
@@ -78,8 +89,8 @@
   },
   {
     "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
-    "reason": "Facilities IT management RFI; potential small-business positioning opportunity.",
-    "overallScore": 32,
+    "reason": "Endpoint and facilities IT services tangentially aligned.",
+    "overallScore": 21,
     "title": "Enterprise Endpoint Hardware Services (EEHS) Request for Information (RFI)",
     "uiLink": "https://sam.gov/workspace/contract/opp/5f8e3ed03624415baf4874c8c8bb08a8/view",
     "descriptionSnippet": "{\"description\":\"<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible for any costs incurred by you in furnishing any information.&nbsp; Responses received will be carefully reviewed by JPL and may be considered as part of a future solicitation. Prospective subcontractors are advised that any information provided shall be deemed to be furnished with unlimited rights to JPL, with JPL assuming no liability for the disclosure, use, or reproduction of such data.</p>\\n\\n<p>This RFI is to also gather ...",
@@ -88,20 +99,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "a2e80b9cfeed43a99ce5da559e4e2610",
-    "reason": "Control systems installation; partial systems/IT crossover.",
-    "overallScore": 31,
-    "title": "ASOG Complex EMCS Camp Murray, WA",
-    "uiLink": "https://sam.gov/workspace/contract/opp/a2e80b9cfeed43a99ce5da559e4e2610/view",
-    "descriptionSnippet": "{\"description\":\"<p>This is a service contract to install (Energy Management And Control Systems) EMCS at Bldg 140 the ASOG complex at Camp Murray, WA. There will be a site visit on Camp Murray WA on 03 Mar 2026 at 1000.&nbsp;</p>\\n\\n<p>For base access please complete&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page and see&nbsp;https://dbids-global-enroll.dmdc.mil/preenrollui/#/landing-page .&nbsp;Contact&nbsp;194.wg.fal.msc.contracting@us.af.mil for base access questions. Please note an update is forthcoming to include the HVAC asbuilts for the Bldg.&nbsp;</p>\\n\"}",
-    "responseDeadline": "2026-03-11T12:00:00-07:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
-    "reason": "IT hardware/software vehicle; limited fit but within IT NAICS.",
-    "overallScore": 20,
+    "reason": "IT products and cloud services vehicle though large and complex.",
+    "overallScore": 16,
     "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
     "uiLink": "https://sam.gov/workspace/contract/opp/9030ca56adbf42a297efd6d8aabad8a7/view",
     "descriptionSnippet": "{\"description\":\"<p><strong>Amendment Notice:&nbsp;</strong></p>\\n\\n<p><strong>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n...",
