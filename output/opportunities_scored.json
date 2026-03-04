@@ -3,240 +3,212 @@
     {
       "noticeId": "01f9c95ce6634e2fb98d389b076f9f5a",
       "relevance": 5,
-      "ease": 80,
-      "overall": 35,
-      "rationale": "Social media and graphic design services; minimal alignment with AWS/DevOps."
+      "ease": 70,
+      "overall": 31,
+      "rationale": "Social media and graphic design services, minimal IT/DevOps relevance."
     },
     {
       "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
-      "relevance": 20,
-      "ease": 10,
-      "overall": 16,
-      "rationale": "IT hardware/software reseller IDIQ; limited DevOps scope and very large multi-award vehicle."
+      "relevance": 40,
+      "ease": 20,
+      "overall": 32,
+      "rationale": "IT hardware/software reseller IDIQ; some IT relevance but large, complex vehicle."
     },
     {
-      "noticeId": "424d6dbef1084db7a537babd4a08ce49",
+      "noticeId": "110209fafe30416fa12ef1d51af98bb8",
       "relevance": 60,
-      "ease": 40,
-      "overall": 52,
-      "rationale": "Airfield data management server and remote monitoring system; moderate IT relevance but likely complex."
+      "ease": 55,
+      "overall": 58,
+      "rationale": "Server and remote monitoring system support aligns with Linux and DevOps skillsets."
     },
     {
       "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
-      "relevance": 15,
-      "ease": 20,
-      "overall": 17,
-      "rationale": "Enterprise endpoint hardware provision; primarily hardware supply, limited DevOps scope."
-    },
-    {
-      "noticeId": "fa25d68331a44e02ab72b1209478731d",
-      "relevance": 85,
-      "ease": 50,
-      "overall": 71,
-      "rationale": "Cybersecurity and RMF/ISSO support for DRSN; strong Linux/network/security alignment."
+      "relevance": 35,
+      "ease": 30,
+      "overall": 33,
+      "rationale": "Computer facilities management RFI; partial IT relevance but enterprise-scale."
     },
     {
       "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
-      "relevance": 30,
-      "ease": 20,
-      "overall": 26,
-      "rationale": "Weather modeling skills support; unclear DevOps scope and competitive phased process."
+      "relevance": 65,
+      "ease": 25,
+      "overall": 49,
+      "rationale": "Software and modeling support; relevant to engineering and development but complex phased procurement."
     },
     {
       "noticeId": "94b256aceee84bf0908f3200f2a55360",
-      "relevance": 5,
-      "ease": 60,
-      "overall": 27,
-      "rationale": "Energy and minerals scoping consulting; minimal IT relevance."
+      "relevance": 10,
+      "ease": 40,
+      "overall": 22,
+      "rationale": "Energy and minerals consulting; little alignment with IT/DevOps focus."
+    },
+    {
+      "noticeId": "67176287bc814e3cacff6314898e69ac",
+      "relevance": 70,
+      "ease": 65,
+      "overall": 68,
+      "rationale": "QGIS software improvements; strong fit for Python/Linux and likely manageable scope."
     },
     {
       "noticeId": "33d0869ebcb9439da8f957e09de43791",
       "relevance": 5,
-      "ease": 70,
-      "overall": 31,
-      "rationale": "Medical physics services; not IT-focused."
+      "ease": 60,
+      "overall": 27,
+      "rationale": "Medical physics services; not aligned with IT capabilities."
     },
     {
       "noticeId": "c4db50dbe927452ca37ee8a72f612594",
-      "relevance": 0,
-      "ease": 5,
-      "overall": 2,
-      "rationale": "Highway and bridge engineering MATOC; no IT relevance."
+      "relevance": 5,
+      "ease": 10,
+      "overall": 7,
+      "rationale": "Highway and bridge A-E services; no IT/DevOps alignment and very large MATOC."
     },
     {
       "noticeId": "e73f5fe650384121a082c4850475a799",
-      "relevance": 0,
+      "relevance": 5,
       "ease": 5,
-      "overall": 2,
-      "rationale": "Large A-E MATOC for construction; no IT relevance."
+      "overall": 5,
+      "rationale": "Large-scale A-E MATOC; unrelated to IT services."
     },
     {
       "noticeId": "e6574ed3b4ae4ae7bd80c406421adb42",
-      "relevance": 0,
+      "relevance": 5,
       "ease": 10,
-      "overall": 4,
-      "rationale": "Facilitation and A-E services; not IT-related."
+      "overall": 7,
+      "rationale": "Facilitation and A-E services; not relevant to IT focus."
     },
     {
       "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-      "relevance": 70,
+      "relevance": 75,
       "ease": 20,
-      "overall": 50,
-      "rationale": "Tactical networks and software development; relevant but restricted to SeaPort MAC holders."
+      "overall": 53,
+      "rationale": "Tactical networks and software development; strong IT relevance but limited to specific MAC holders."
     },
     {
       "noticeId": "96e1be96b369433ea543969c91f97bef",
-      "relevance": 0,
+      "relevance": 10,
       "ease": 30,
-      "overall": 12,
-      "rationale": "Accounting support services; not aligned with IT DevOps focus."
+      "overall": 18,
+      "rationale": "Accounting support services; minimal technical IT alignment."
     },
     {
       "noticeId": "fbd42cc018f4464d860e1c19a900ba5c",
       "relevance": 0,
-      "ease": 60,
-      "overall": 24,
-      "rationale": "Engineering recertification for lift rig; no IT relevance."
+      "ease": 40,
+      "overall": 16,
+      "rationale": "Engineering recertification services unrelated to IT."
     },
     {
       "noticeId": "e8d30f9553c84339802369b4365a7713",
-      "relevance": 75,
-      "ease": 15,
-      "overall": 51,
-      "rationale": "C-sUAS sustainment and engineering incl. software; relevant but likely large/complex."
+      "relevance": 70,
+      "ease": 20,
+      "overall": 50,
+      "rationale": "C-sUAS engineering and integration; relevant to systems/software but likely large and complex."
     },
     {
       "noticeId": "48496776bfc5421c89473c7783a8f72d",
       "relevance": 10,
-      "ease": 40,
-      "overall": 22,
-      "rationale": "A-E shortlist database; limited direct IT/DevOps scope."
-    },
-    {
-      "noticeId": "5dc0e952d3934c5eb761ca7dcc253ff7",
-      "relevance": 0,
       "ease": 30,
-      "overall": 12,
-      "rationale": "Aircraft instrument interface engineering; not IT DevOps."
+      "overall": 18,
+      "rationale": "A-E shortlist for facilities work; not aligned with DevOps focus."
     },
     {
       "noticeId": "f975673fd21e46699e4096649c2abe3d",
       "relevance": 80,
-      "ease": 10,
-      "overall": 52,
-      "rationale": "Maritime C2 systems, software, AI, system administration; highly relevant but large R&D scope."
+      "ease": 25,
+      "overall": 58,
+      "rationale": "Systems engineering, software development, IA and system administration; highly relevant but broad defense scope."
     },
     {
       "noticeId": "15f6cf3e8fed4fbbbd152664b6d7f73e",
-      "relevance": 10,
-      "ease": 30,
-      "overall": 18,
-      "rationale": "Construction management services; minimal IT relevance."
+      "relevance": 5,
+      "ease": 20,
+      "overall": 11,
+      "rationale": "Construction management services; not IT-focused."
     },
     {
       "noticeId": "cb177170da494062bc2da62c83da9684",
-      "relevance": 65,
-      "ease": 20,
-      "overall": 47,
-      "rationale": "Fiber optic networking support; relevant to networking/Linux but likely infrastructure-heavy."
-    },
-    {
-      "noticeId": "890debb9bcef47158ab8f355fdb9f1e7",
-      "relevance": 0,
-      "ease": 40,
-      "overall": 16,
-      "rationale": "Architectural mezzanine design; not IT-related."
+      "relevance": 75,
+      "ease": 30,
+      "overall": 57,
+      "rationale": "Fiber optic networking and R&D support; strong IT/network relevance but defense-scale effort."
     },
     {
       "noticeId": "e6d38ab60022435fa3b3fff32bc681f0",
       "relevance": 5,
       "ease": 20,
       "overall": 11,
-      "rationale": "A-E IDIQ for facilities; minimal IT alignment."
+      "rationale": "Architect-engineer IDIQ; not aligned with IT services."
     },
     {
       "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
-      "relevance": 90,
-      "ease": 15,
-      "overall": 60,
-      "rationale": "Cyberspace R&D, software, cybersecurity engineering; very strong fit but large TS IDIQ."
+      "relevance": 85,
+      "ease": 20,
+      "overall": 59,
+      "rationale": "Cyberspace engineering, software development, cybersecurity; very relevant but large MAC vehicle."
     },
     {
       "noticeId": "e5228e10146d4f4b90b484eb90ea5bbb",
-      "relevance": 0,
+      "relevance": 5,
       "ease": 5,
-      "overall": 2,
-      "rationale": "Large Guam A-E MATOC; no IT relevance."
-    },
-    {
-      "noticeId": "ccdf281c09904b759adfe1382329999a",
-      "relevance": 0,
-      "ease": 30,
-      "overall": 12,
-      "rationale": "Runway repair charrette A-E services; not IT-related."
-    },
-    {
-      "noticeId": "5a69a0450fed48c8aad49ffcfeadf288",
-      "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Fire protection engineering IDIQ; not IT-focused."
+      "overall": 5,
+      "rationale": "Large A-E IDIQ; no IT/DevOps alignment."
     },
     {
       "noticeId": "27019d30a3f64915957a83d6b7f5ec5f",
-      "relevance": 0,
+      "relevance": 5,
       "ease": 20,
-      "overall": 8,
-      "rationale": "Master planning A-E services; no DevOps relevance."
+      "overall": 11,
+      "rationale": "Master planning A-E services; not relevant to IT focus."
     },
     {
       "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
-      "relevance": 40,
-      "ease": 70,
-      "overall": 52,
-      "rationale": "SaaS digital testing platform subscription; cloud/SaaS adjacent and relatively simple procurement."
+      "relevance": 65,
+      "ease": 60,
+      "overall": 63,
+      "rationale": "Digital platform SaaS subscription; aligns with cloud and web technologies and likely manageable scope."
     }
   ],
   "top10": [
     {
-      "noticeId": "fa25d68331a44e02ab72b1209478731d",
-      "reason": "Strong cybersecurity/RMF alignment with manageable commercial services scope."
-    },
-    {
-      "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
-      "reason": "High relevance to cyberspace engineering and software, though complex."
-    },
-    {
-      "noticeId": "424d6dbef1084db7a537babd4a08ce49",
-      "reason": "Server and remote monitoring system aligns with Linux/automation skills."
-    },
-    {
-      "noticeId": "f975673fd21e46699e4096649c2abe3d",
-      "reason": "Extensive software, AI, and systems engineering scope fits DevOps capabilities."
-    },
-    {
-      "noticeId": "e8d30f9553c84339802369b4365a7713",
-      "reason": "Software sustainment and integration for C-sUAS relevant to DevSecOps."
+      "noticeId": "67176287bc814e3cacff6314898e69ac",
+      "reason": "QGIS software improvements directly align with Python/Linux skills and manageable RFQ scope."
     },
     {
       "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
-      "reason": "Cloud-based SaaS subscription opportunity likely lower complexity."
+      "reason": "Cloud-based digital platform subscription aligns with SaaS and web/cloud expertise."
     },
     {
-      "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-      "reason": "Tactical networking and software development relevant if eligible."
+      "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
+      "reason": "Cyberspace engineering and software development strongly match DevOps and cybersecurity capabilities."
+    },
+    {
+      "noticeId": "110209fafe30416fa12ef1d51af98bb8",
+      "reason": "Server and remote monitoring system support fits Linux and infrastructure automation strengths."
+    },
+    {
+      "noticeId": "f975673fd21e46699e4096649c2abe3d",
+      "reason": "Systems engineering and software support with IA and system administration relevance."
     },
     {
       "noticeId": "cb177170da494062bc2da62c83da9684",
-      "reason": "Fiber optic networking support aligns with networking/Linux expertise."
+      "reason": "Fiber optic networking and R&D support aligns with networking and systems expertise."
+    },
+    {
+      "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
+      "reason": "Tactical network software development relevant but access restricted to specific MAC holders."
+    },
+    {
+      "noticeId": "e8d30f9553c84339802369b4365a7713",
+      "reason": "Engineering and integration services with software components; relevant but likely complex."
     },
     {
       "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
-      "reason": "Potential modeling/software support though competitive and phased."
+      "reason": "Weather modeling and software support relevant but phased and competitive procurement."
     },
     {
       "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
-      "reason": "IT products and cloud services vehicle, but large and reseller-focused."
+      "reason": "IT hardware/software sourcing relevant but large strategic sourcing vehicle may exceed small team capacity."
     }
   ]
 }

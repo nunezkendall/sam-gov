@@ -201,7 +201,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "424d6dbef1084db7a537babd4a08ce49",
+    "noticeId": "110209fafe30416fa12ef1d51af98bb8",
     "title": "Airfield Data Management Server - BPA",
     "solicitationNumber": "FA812626Q0023",
     "type": "Solicitation",
@@ -209,7 +209,7 @@
     "naicsCode": "541512",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-03-02",
+    "postedDate": "2026-03-04",
     "responseDeadline": "2026-03-16T15:00:00-05:00",
     "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE SUSTAINMENT CENTER.FA8126  AFSC PZIMB",
     "office": "",
@@ -219,19 +219,26 @@
       "zip": "73145"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/424d6dbef1084db7a537babd4a08ce49/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=424d6dbef1084db7a537babd4a08ce49",
+      "uiLink": "https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=110209fafe30416fa12ef1d51af98bb8",
       "additionalInfoLink": null,
       "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1ab27c947fcf45e7a733edb3f3593ed2/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/421087293f3a488788f7bba190f66750/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/47c3688607e64fdfbdc2120b310f806e/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d147159db964bad816c395a0847f9dc/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f7465d30e6b44337b8e649a77c526110/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"<p><strong><u>Amendment 0001</u></strong>&nbsp;- Please note Amendment 0001. The purpose of this amendment is to correct the solicitation due date to March 16th.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p><strong><u>Amendment 0001</u></strong>&nbsp;- Please note Amendment 0001. The purpose of this amendment is to correct the solicitation due date to March 16th.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
     "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1ab27c947fcf45e7a733edb3f3593ed2/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 89271,
+        "textSnippet": ""
+      },
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/421087293f3a488788f7bba190f66750/download",
         "contentType": "application/octet-stream",
@@ -375,114 +382,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "fa25d68331a44e02ab72b1209478731d",
-    "title": "Cybersecurity Support Services for Offutt AFB Defense Red Switch Network (DRSN)",
-    "solicitationNumber": "FA460026Q0012",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541513",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-10",
-    "responseDeadline": "2026-02-17T13:00:00-06:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "St Columbans",
-      "state": "Nebraska",
-      "zip": "68113"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/fa25d68331a44e02ab72b1209478731d/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fa25d68331a44e02ab72b1209478731d",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/68fc07c377cd4c5dbca8ec3c3bba22eb/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/71f328143d0a4af5bdee6dd97e8ff7dc/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7e4d61b313fd4fa1ad35adf071929a5c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8f92bd963e154ba6a7331b9369303cd6/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4d6cb554ec942d49f4dc55914c0ab62/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>10 February 2026:&nbsp;</strong>Question and Answer document has been posted along with an updated PWS (tailored language).</p>\\n\\n<p><strong>Amendment 0002 (5 February 2026):</strong>&nbsp;The purpose of this amendment is to remove Attachment 02 Wage Determination from Section J as it has been determined that it does not apply as the identified labor rates have been determined to be employed in a bona fide executive, administrative, or professional capacity. FAR 52.212-5 has been updated accordingly.</p>\\n\\n<p><strong>Amendment 0001 (4 February 2026):&nbsp;</strong>After feedback from the industry when submitting questions, the page limitation in paragraph 2 of&nbsp;ADDENDUM TO 52.212-1, INSTRUCTIONS TO OFFERORS,&nbsp;has been increased to twelve (12) pages, ...",
-    "descriptionFull": "{\"description\":\"<p><strong>10 February 2026:&nbsp;</strong>Question and Answer document has been posted along with an updated PWS (tailored language).</p>\\n\\n<p><strong>Amendment 0002 (5 February 2026):</strong>&nbsp;The purpose of this amendment is to remove Attachment 02 Wage Determination from Section J as it has been determined that it does not apply as the identified labor rates have been determined to be employed in a bona fide executive, administrative, or professional capacity. FAR 52.212-5 has been updated accordingly.</p>\\n\\n<p><strong>Amendment 0001 (4 February 2026):&nbsp;</strong>After feedback from the industry when submitting questions, the page limitation in paragraph 2 of&nbsp;ADDENDUM TO 52.212-1, INSTRUCTIONS TO OFFERORS,&nbsp;has been increased to twelve (12) pages, not including cover pages and tables of content.</p>\\n\\n<p><strong>Amendment 0001 (27 Jan 2026):&nbsp;</strong>The purpose of this amendment is to extend the due date of this solicitation from 16 February 2026 at 1:00 PM CST to 17 February 2026 at 1:00 PM CST. The previous due date of 16 February 2026 is a federal holiday.</p>\\n\\n<p>-----</p>\\n\\n<p><strong>This is a combined synopsis/solicitation for commercial services prepared in accordance with (IAW) the format in the Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in the notice.</strong> This announcement constitutes the only solicitation: quotes are being requested, and a written solicitation will not be issued.</p>\\n\\n<p>This solicitation is being issued IAW FAR Parts 12 and 13 as a Request for Quote (RFQ). The RFQ number FA460026Q0012 shall be used to reference any written quote provided under this RFQ.</p>\\n\\n<p><strong>DESCRIPTION OF REQUIREMENT:</strong>&nbsp;The 55th Contracting Squadron (Offutt AFB, NE) has an ongoing requirement to procure cybersecurity support for Offutt AFB&#39;s Defense Red Switch Network (DRSN) and other Nuclear Command, Control, and Communications (NC3). Contractor(s) shall provide the Government with high-quality, cost-effective, dedicated cybersecurity support to the 55 SCS for its DRSN and NC3 systems.&nbsp; The goal is to ensure Risk Management Framework (RMF) requirements are met, Authority to Operate (ATO) is granted and remains valid, all security-related documentation is kept up-to-date, and supported units have a team of cybersecurity experts on which to rely.&nbsp; To successfully fulfill this requirement, a combination of Cybersecurity Specialist and Information Systems Security Officer (ISSO) support will be provided to address tasks outlined in this PWS for named NC3 systems.&nbsp; ISSO support is also solicited to maintain Offutt DRSN accreditation associated with segments of multiple NC3 systems that connect to Offutt DRSN, such as the Survivable Emergency Conferencing Network Digitization (SECN-DZ), Presidential and National Voice Conferencing (PNVC), and various gateways and long local communications circuits.&nbsp; Additionally, personnel shall be required to assist in configuration management process reviews to ensure appropriate mechanisms are in place, update DRSN RMF Body of Evidence requirements, and support DRSN external entity audits and inspections.</p>\\n\\n<p>See<em> Attachment 01 &ndash; Performance Work Statement </em>for full scope of the requirement.</p>\\n\\n<p><strong>QUESTIONS AND ANSWERS:</strong></p>\\n\\n<p>All questions concerning this solicitation shall be sent by 2 February 2026, by 4:00 PM CST. Answers will be available by 10 February 2026 by 9:00 AM CST on SAM.gov.</p>\\n\\n<p><strong>OFFER DUE DATE AND TIME:&nbsp;</strong>Offers are due to the contracting office no later than 16 February 2026 at 1:00 PM CST.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/68fc07c377cd4c5dbca8ec3c3bba22eb/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 966683,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/71f328143d0a4af5bdee6dd97e8ff7dc/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 674798,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7e4d61b313fd4fa1ad35adf071929a5c/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1166153,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8f92bd963e154ba6a7331b9369303cd6/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 992369,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4d6cb554ec942d49f4dc55914c0ab62/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 266400,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "network"
-      ],
-      "description": [
-        "network",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Nebraska"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -675,6 +574,88 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "67176287bc814e3cacff6314898e69ac",
+    "title": "QGIS IMPROVEMENTS",
+    "solicitationNumber": "140G0326Q0054",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-03",
+    "responseDeadline": "2026-03-12T15:00:00-07:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFFICE OF ACQUISITON  GRANTS",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/67176287bc814e3cacff6314898e69ac/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=67176287bc814e3cacff6314898e69ac",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/214bd0aea2db40b8a5b0b2d4c12d165c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d55f86053ba4c8293534765a5581146/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"Request for quote: Planetary Updates for QGIS<br/><br/>This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation.<br/><br/>The solicitation number is issued as a request for quotation (RFQ) 140G0326Q0054.<br/><br/>The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2025-06 dated 10/01/2025. <br/><br/>NAICS: 541690: Other Scientific and Technical Consulting Services, $16.5 Million.<br/><br/>Place of Performance: Vendor's facility.<br/><br/>Period of Performance are estimates only: Award to 09/30/2026.<br/><br/>Any award resu...",
+    "descriptionFull": "{\"description\":\"Request for quote: Planetary Updates for QGIS<br/><br/>This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation.<br/><br/>The solicitation number is issued as a request for quotation (RFQ) 140G0326Q0054.<br/><br/>The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2025-06 dated 10/01/2025. <br/><br/>NAICS: 541690: Other Scientific and Technical Consulting Services, $16.5 Million.<br/><br/>Place of Performance: Vendor's facility.<br/><br/>Period of Performance are estimates only: Award to 09/30/2026.<br/><br/>Any award resulting from this RFQ will be based on tradeoff method. Each offeror must submit sufficient documentation for the USGS to evaluate in order to determine technical acceptability of their offer.<br/><br/>Please provide the following information:<br/>1. Signed SF 18 form filled in with firm information, person signing, and line-item prices, offered, etc on Block 13 to 16 and FAR 52.204-24 and 52.204-26 check marks and signature required<br/>2. Technical submission. Include information regarding technical qualifications and experience sufficient for government to evaluate your qualifications to perform this work. Examples are work plan, resumes, published works, etc<br/>3. Listings of prior relevant and recent contracts with project description and two or more professional references with contacts <br/>4. Firm, fixed price quote<br/>5. System for Award Management UEI<br/><br/>Attached Pages:<br/>Statement of Work, 2 pages<br/>889 Certification Document, 2 pages<br/>Clauses and Provisions, 21 pages<br/><br/>Questions are due in writing to yangzhideng@usgs.gov by 03/06/2026, 1500 PST.<br/><br/>Responses are due to the Contracting Officer's email address at yangzhideng@usgs.gov by 03/12/2026, 1500 PST. Quotations submitted by hardcopy shall not be accepted or considered.<br/>\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/214bd0aea2db40b8a5b0b2d4c12d165c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 216129,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d55f86053ba4c8293534765a5581146/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 378809,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -1401,90 +1382,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "5dc0e952d3934c5eb761ca7dcc253ff7",
-    "title": "Instrument Interface Design and Analyses Work for NASA\u2019s Boeing 777 Aircraft",
-    "solicitationNumber": "80NSSC26924733Q",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-12",
-    "responseDeadline": "2026-02-17T12:00:00-06:00",
-    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Greenbelt",
-      "state": "Maryland",
-      "zip": "20771"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5dc0e952d3934c5eb761ca7dcc253ff7/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5dc0e952d3934c5eb761ca7dcc253ff7",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8d3b34102565439da3a43ce4c2a0b707/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc503e1c345c4984afe1549a5d1674f0/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>NASA/NSSC has a requirement for Instrument Interface Design and Analyses Work for NASA&rsquo;s Boeing 777<br />\\nAircraft. See the attached SOW and capability statement for further details of the order.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>NASA/NSSC has a requirement for Instrument Interface Design and Analyses Work for NASA&rsquo;s Boeing 777<br />\\nAircraft. See the attached SOW and capability statement for further details of the order.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8d3b34102565439da3a43ce4c2a0b707/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 413704,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc503e1c345c4984afe1549a5d1674f0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1359743,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "ASA"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "ASA"
-      ],
-      "description": [
-        "ASA"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "f975673fd21e46699e4096649c2abe3d",
     "title": "H20 Engineering Services",
     "solicitationNumber": "N0017826R3102",
@@ -1687,81 +1584,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "890debb9bcef47158ab8f355fdb9f1e7",
-    "title": "Atrium Mezzanine Design Services for the Department of Public Works Building, United States Merchant Marine Academy, Kings Point, New York",
-    "solicitationNumber": "Solicitation_6923G226Q000003",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-05",
-    "responseDeadline": "2026-02-16T13:00:00-05:00",
-    "agency": "TRANSPORTATION, DEPARTMENT OF.MARITIME ADMINISTRATION.693JF7 DOT  MARITIME ADMINISTRATION",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Kings Point",
-      "state": "New York",
-      "zip": "11024"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/890debb9bcef47158ab8f355fdb9f1e7/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=890debb9bcef47158ab8f355fdb9f1e7",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b9d3fee4299e4caeadfd30e04fa2cd19/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The US Department of Transportation (DOT) intends to award a Firm-Fixed-Price (FFP), Total Small Business Set-Aside, Architect &amp; Engineer (A&amp;E) Contract to provide Atrium Mezzanine Design Services resulting in the delivery of two (2) concept designs and one (1) final design for the construction of an atrium mezzanine office space in the atrium area of the Department of Public Works (DPW) Building, US Merchant Marine Academy (USMMA), Kings Point, New York.</p>\\n\\n<p>The pertinent Product Service Code (PSC) and North American Industry Classification System (NAICS) code are:</p>\\n\\n<p>PSC: C219 Architect and Engineering - Other</p>\\n\\n<p>NAICS: 541330 Engineering Services</p>\\n\\n<p>The Offeror shall have a strong understanding, background, and experience in the i...",
-    "descriptionFull": "{\"description\":\"<p>The US Department of Transportation (DOT) intends to award a Firm-Fixed-Price (FFP), Total Small Business Set-Aside, Architect &amp; Engineer (A&amp;E) Contract to provide Atrium Mezzanine Design Services resulting in the delivery of two (2) concept designs and one (1) final design for the construction of an atrium mezzanine office space in the atrium area of the Department of Public Works (DPW) Building, US Merchant Marine Academy (USMMA), Kings Point, New York.</p>\\n\\n<p>The pertinent Product Service Code (PSC) and North American Industry Classification System (NAICS) code are:</p>\\n\\n<p>PSC: C219 Architect and Engineering - Other</p>\\n\\n<p>NAICS: 541330 Engineering Services</p>\\n\\n<p>The Offeror shall have a strong understanding, background, and experience in the incorporation of Mechanical, Electrical, and Plumbing (MEP) considerations and calculations in the architectural design process. All responsible and qualified sources may submit a Quotation (Quote) which will be considered by the US DOT.</p>\\n\\n<p>Offerors must demonstrate that they are qualified to provide A&amp;E services. Pursuant to FAR 36.202-3 (d), contracts for architect-engineer services will only be awarded to firms permitted by law to practice the professions of architecture or engineering.</p>\\n\\n<p>Section L includes but is not limited to critical instructions regarding a planned Site Visit on 10 February 2026, the Question and Answer process, and preparation and submission of the Offeror Quote.</p>\\n\\n<p>Failure to follow Section L instructions to prepare and submit the Quote may result in the Quote being removed from consideration for selection for award.</p>\\n\\n<p>The point of contact for this solicitation is:</p>\\n\\n<p>Theodore Nigro, Contracting Office,&nbsp;U.S. Department of Transportation,&nbsp;Office of the Senior Procurement Executive,&nbsp;1200 New Jersey Avenue SE, Washington, DC 20590,&nbsp;Email: theodore.nigro@dot.gov.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b9d3fee4299e4caeadfd30e04fa2cd19/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 2275302,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "New York"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -1989,142 +1811,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Guam"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "ccdf281c09904b759adfe1382329999a",
-    "title": "Repair Runway Charette Keesler AFB Synopsis",
-    "solicitationNumber": "FA3010-RepairRunwayCR-Mabonga",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-02",
-    "responseDeadline": "2026-02-16T14:00:00-06:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.FA3010  81 CONS CC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Biloxi",
-      "state": "Mississippi",
-      "zip": "39534"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/ccdf281c09904b759adfe1382329999a/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ccdf281c09904b759adfe1382329999a",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The work performed under this contract will consist of Title I Architect and Engineer Services to provide a Planning Charrette Report for a Repair Runway Project at Keesler AFB. The Service Provider shall furnish the personnel, services, equipment, materials, facilities, and other requirements necessary for, and incidental to, the performance of work identified in the Statement of Objectives.</p>\\n\\n<p>This acquisition will be conducted utilizing FAR Part 36 procedures for selection of firms for architect-engineer contracts. The North American Industry Classification System (NAICS) Code is 541330 &ldquo;Engineering Services&rdquo; and Product Service Code (PSC) is C1AZ &ldquo;Architect and Engineering- Construction: Other Administrative Facilities/Services Buildings&r...",
-    "descriptionFull": "{\"description\":\"<p>The work performed under this contract will consist of Title I Architect and Engineer Services to provide a Planning Charrette Report for a Repair Runway Project at Keesler AFB. The Service Provider shall furnish the personnel, services, equipment, materials, facilities, and other requirements necessary for, and incidental to, the performance of work identified in the Statement of Objectives.</p>\\n\\n<p>This acquisition will be conducted utilizing FAR Part 36 procedures for selection of firms for architect-engineer contracts. The North American Industry Classification System (NAICS) Code is 541330 &ldquo;Engineering Services&rdquo; and Product Service Code (PSC) is C1AZ &ldquo;Architect and Engineering- Construction: Other Administrative Facilities/Services Buildings&rdquo;. The size standard is $25.5 Million. The Request for Qualifications Package, along with a Statement of Work and associated documents will be posted on the Contract Opportunities Website: https://www.sam.gov on/or around 17 February 2026 with a tentative closing date of 17 March 2026. The contract performance period will be 210 days after contract award.</p>\\n\\n<p>All Contractors wishing to do business with the Government are required to register in the System for Award Management (SAM) DoD Database prior to any subsequent award. SAM Registration may be accomplished online at https://www.sam.gov/SAM/. Contractors are further advised that failure to register in the DoD Central Registration Database will render your firm ineligible for award. Registration requires applicants to have a UEI number. Recommend registering immediately in SAM in order to be eligible for timely award. The single source of entry for all documentation pertaining to this acquisition will be https://www.sam.gov. All interested parties are responsible for checking this website to ensure they have the most current information (i.e., issued amendments, changes to the Statement of Work, etc.). Telephone and fax requests for a solicitation package will NOT be accepted. Questions concerning this solicitation may be brought to the attention of Contracting Specialist, SrA Tonny Mabonga at (228) 377-1818 or email: tonny.mabonga@us.af.mil, or Contracting Officer, Matthew Rowe at (228) 377-5504 or email: matthew.rowe.1@us.af.mil.</p>\\n\\n<p></p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Mississippi"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "5a69a0450fed48c8aad49ffcfeadf288",
-    "title": "C--Multiple Award IDIQ- Professional Fire Protection Engineering and Fire Protecti",
-    "solicitationNumber": "140PS126R0001",
-    "type": "Presolicitation",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-02",
-    "responseDeadline": "2026-02-16T17:00:00-05:00",
-    "agency": "INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.DOI, NPS CONOPS STRATEGIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5a69a0450fed48c8aad49ffcfeadf288/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5a69a0450fed48c8aad49ffcfeadf288",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"Multiple Award IDIQ Professional Fire Protection Engineering and Fire Protection Related Facility Management Services<br/>ACTION: Pre-Solicitation Notice<br/>CLASSIFICATION CODE: C219 Other Architect & Engineering Services.<br/>CONTRACTING OFFICER: Stephen Loftus<br/>NATIONAL PARK SERVICE <br/>CONTRACTING OPERATIONS - STRATEGIC<br/>1849 C Street<br/>NW Washington, DC 20240<br/><br/>POINT OF CONTACT:<br/>Stephen Loftus, 202-354-2267, stephen_loftus@nps.gov<br/>PLACE OF PERFORMANCE: DOI locations throughout the United States, its territories and possessions, Puerto Rico, the Trust Territory of the Pacific Islands and the District of Columbia<br/>PLACE OF PERFORMANCE COUNTRY: USA<br/>Title of Project: Architect-Engineer (A/E) Fire Protection Engineering and Supporting Servi...",
-    "descriptionFull": "{\"description\":\"Multiple Award IDIQ  Professional Fire Protection Engineering and Fire Protection Related Facility Management Services<br/>ACTION:  Pre-Solicitation Notice<br/>CLASSIFICATION CODE:   C219 Other Architect & Engineering Services.<br/>CONTRACTING OFFICER:  Stephen Loftus<br/>NATIONAL PARK SERVICE <br/>CONTRACTING OPERATIONS - STRATEGIC<br/>1849 C Street<br/>NW Washington, DC 20240<br/><br/>POINT OF CONTACT:<br/>Stephen Loftus, 202-354-2267, stephen_loftus@nps.gov<br/>PLACE OF PERFORMANCE:  DOI locations throughout the United States, its territories and possessions, Puerto Rico, the Trust Territory of the Pacific Islands and the District of Columbia<br/>PLACE OF PERFORMANCE COUNTRY:  USA<br/>Title of Project:  Architect-Engineer (A/E) Fire Protection Engineering and Supporting Services<br/>GENERAL:<br/>The National Park Service (NPS), Department of Interior (DOI), Denver Service Center (DSC), is soliciting proposals as a Small Business Set-aside from all interested businesses having the capability to perform the work described below.  The solicitation will be issued electronically on the Federal Business Opportunities website at www.fedbizopps.gov .   Proposal documents will be available for download in Microsoft Word, HTML, Microsoft Excel, and Adobe PDF; Specifications will be available in Adobe PDF format; and drawings will be available in PDF format.   Please Note:  Paper copies of the solicitation will not be made available.  <br/><br/>Vendors can search for opportunities and award history on www.fbo.gov without registering.  The Federal Business Opportunities (www.fbo.gov) website has an Interested Vendors List and a Watchlist where you can add your company's interest. Registering provides the opportunity to receive notifications; this is a tool of convenience only and does not serve as a guarantee of notification. Interested vendors and plan holders are required to visit the website periodically to check for amendments and other changes to the synopsis or solicitation documents. <br/><br/>Prospective offerors desiring to conduct business with the DOI are required to have an active registration in the Systems for Awards Management (SAM) at www.sam.gov to include an active Unique Entity Identifier (UEI) with an all awards designation in order to conduct business with the Federal Government. <br/><br/>This pre-solicitation announcement is not a solicitation document, but pre-notice of an upcoming solicitation. Specific instructions on submitting your proposal will be contained in the solicitation documents to be issued on or after the date listed below. <br/><br/>Proposed Solicitation Issue Date:  Estimated on/about February 16, 2026.  <br/><br/>This is currently an unfunded requirement with a high expectation that funds will be available. When and if funds become available a contract will be awarded at that time.<br/>The NAICS Code for this requirement is 541330 with a size standard of $25.5 million.<br/><br/>Title of Project:  Architect-Engineer (A/E) Fire Protection Engineering and supporting services<br/>Description:  <br/><br/>The National Park Service (NPS), Washington Contracting Office (WCO), 12795 West Alameda Parkway, Denver, Colorado, 80225, is seeking qualified Small Business firm(s) or organization(s) to provide Architect-Engineer (A/E) Fire Protection Engineering and supporting services under an Indefinite Delivery Indefinite Quantity (IDIQ) contract for a variety of projects within National Park Service units either on-site at various DOI locations throughout the United States, its territories and possessions, Puerto Rico, the Trust Territory of the Pacific Islands and the District of Columbia or off-site at the Contractor's facility.<br/>Work performed under an IDIQ as contemplated in this Request for Qualifications must be performed by individuals licensed or certified in at least one state or protectorate. It is difficult to anticipate ahead of time which disciplines NPS may require services to be performed under any given task order. Therefore firms, either on their own or in combination with subcontractors, provided compliance with the limitation on subcontracting is met, must have or be eligible to acquire professional qualifications, including license in various DOI locations throughout the United States, its territories and possessions, Puerto Rico, the Trust Territory of the Pacific Islands and the District of Columbia as necessary for the completion of a task order within 30 days of being notified of most highly qualified status. This restriction is necessary to meet licensure and certification requirements as well as to avoid undue delay in meeting agency requirements as they arise while taking into consideration concerns for human health and safety. As such, firms must demonstrate that they are or are capable of being or are eligible to be licensed or certified in any of the required disciplines within 30 days of being notified of most highly qualified status.<br/>Type of Procurement:  It is anticipated that two (2) negotiated firm-fixed price IDIQ contracts will be awarded requiring submission of both a technical and price proposal.  The government will consider an offeror's technical capability in comparison to its price.  <br/><br/>Estimated Price Range:  $5 million each contract<br/><br/>Estimated Period of Performance:  April 1, 2026, through March 31, 2031<br/><br/>Proposal receipt date is not known at this time.  The actual date will be established in the solicitation documents<br/><br/>This procurement is a TOTAL SMALL BUSINESS SET-ASIDE.  Responsible small business sources may submit an offer that will be considered.  The small business size standard for NAICS 541330 is $25.5 million.  Small Disadvantaged Business and HUBZone firms must be certified in accordance with solicitation clause, FAR 52.219-8 Utilization of Small Business Concerns.<br/>All responsible sources may submit an offer which, if submitted in a timely manner, will be considered.  It is the policy of the government to provide maximum practicable opportunities in its acquisitions to small business, veteran-owned small business, small disadvantaged business, and women-owned small business concerns.  Such concerns must also have the maximum practicable opportunity to participate as subcontractors in the contracts awarded by any executive agency, consistent with efficient contract performance.  All offerors are strongly encouraged to contact their local Small Business Administration Office, to post their need for qualified subcontractors at http://www.sba.gov . <br/><br/>No responses required as this is just a pre-solicitation announcement\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": [
-        "on-site"
-      ]
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": true,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
