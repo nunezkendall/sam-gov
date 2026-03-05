@@ -498,7 +498,96 @@
     "updatedDate": null
   },
   {
-    "noticeId": "94b256aceee84bf0908f3200f2a55360",
+    "noticeId": "ceb3e31fc3454c5c831de4b4f1ea891e",
+    "title": "D--QGIS IMPROVEMENTS",
+    "solicitationNumber": "140G0326Q0054",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-05",
+    "responseDeadline": "2026-03-05T12:00:00-08:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFFICE OF ACQUISITON  GRANTS",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ceb3e31fc3454c5c831de4b4f1ea891e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ceb3e31fc3454c5c831de4b4f1ea891e",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/214bd0aea2db40b8a5b0b2d4c12d165c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8290b2229b634c8cbaa776f24f90f38d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d55f86053ba4c8293534765a5581146/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"Planetary Updates for QGIS<br/><br/>The purpose of this amendment is to cancel the requirement. No response would be accepted.<br/>\"}",
+    "descriptionFull": "{\"description\":\"Planetary Updates for QGIS<br/><br/>The purpose of this amendment is to cancel the requirement. No response would be accepted.<br/>\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/214bd0aea2db40b8a5b0b2d4c12d165c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 216129,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8290b2229b634c8cbaa776f24f90f38d/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 206169,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d55f86053ba4c8293534765a5581146/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 378809,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "ae4c8321790d4bc58805ea5654c43437",
     "title": "INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES",
     "solicitationNumber": "1131PL26R0015",
     "type": "Combined Synopsis/Solicitation",
@@ -506,7 +595,7 @@
     "naicsCode": "541690",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-03-03",
+    "postedDate": "2026-03-04",
     "responseDeadline": "2026-03-30T13:00:00-04:00",
     "agency": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
     "office": "",
@@ -516,8 +605,8 @@
       "zip": "22209"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/94b256aceee84bf0908f3200f2a55360/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=94b256aceee84bf0908f3200f2a55360",
+      "uiLink": "https://sam.gov/workspace/contract/opp/ae4c8321790d4bc58805ea5654c43437/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ae4c8321790d4bc58805ea5654c43437",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
@@ -525,7 +614,7 @@
       ]
     },
     "descriptionSnippet": "{\"description\":\"<p><strong><u>AMENDMENT 0001</u>&nbsp;:&nbsp; REVISED TITLE AND PERFORMANCE WORK STATEMENT (PWS)&nbsp;</strong></p>\\n\\n<p><strong>REVISED TITLE:&nbsp;</strong><strong>&nbsp;INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES</strong></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> <strong>1131PL26RQ0015</strong></p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MARCH 2, 2026</strong></p>\\n\\n<p><strong>CLOSING DATE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;<strong> MARCH 30, 2026, 1:00 PM, Arlington, VA Time</strong></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulation (FAR) ...",
-    "descriptionFull": "{\"description\":\"<p><strong><u>AMENDMENT 0001</u>&nbsp;:&nbsp; REVISED TITLE AND PERFORMANCE WORK STATEMENT (PWS)&nbsp;</strong></p>\\n\\n<p><strong>REVISED TITLE:&nbsp;</strong><strong>&nbsp;INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES</strong></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> <strong>1131PL26RQ0015</strong></p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MARCH 2, 2026</strong></p>\\n\\n<p><strong>CLOSING DATE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;<strong> MARCH 30, 2026, 1:00 PM, Arlington, VA Time</strong></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6 and procedures in Subpart 15.3 as supplemented with additional information included in this notice. This announcement constitutes the only RFP; offers are being requested and a written solicitation will not be issued.</p>\\n\\n<p>This solicitation is being issued IAW FAR Part 15. The Government will offer one award resulting from this solicitation to the offeror who is deemed responsible and is determined, based on the evaluation factors and sub factors, to represent the best value to the Government.</p>\\n\\n<p>This procurement is <strong>SET-ASIDE FOR SMALL BUSINESSES </strong>under <strong>NAICS Code 541690</strong>, Other Scientific and Technical Consulting Services. Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Contractor use of subcontractors is limited to less than fifty percent of the proposed price. &nbsp;</p>\\n\\n<p>THE FOLLOWING ITEMS REPRESENT THE &quot;PROPOSAL PACKAGE&quot; THAT SHOULD BE RETURNED IN RESPONSE TO THIS SOLICITATION (Addendum to FAR 52.212-1, Instructions to Offerors &ndash; Commercial Items (SEP 2023)).</p>\\n\\n<p>According to FAR 52-204-7 (b)&nbsp;(1)&nbsp;An&nbsp;Offeror&nbsp;is required to be registered in SAM when submitting an&nbsp;offer&nbsp;or quotation and&nbsp;shall&nbsp;continue to be registered until time of award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this&nbsp;solicitation. &nbsp;&nbsp;All Offerors must be registered and have an active status in the SAM database (www.SAM.gov) in order to be eligible for contract award. Offerors are reminded that failure to properly enroll in the SAM database and provide accurate information shall make an offeror ineligible for award as described in FAR 52.204-7. &nbsp;</p>\\n\\n<p>Should you have any questions, please send them to this office not later than <strong>1:00 p.m., Eastern Time (ET) Monday, March 9, 2026. </strong>Send your questions by email to <u>contractproposals@ustda.gov</u> and <u>tjohnson@ustda.gov</u> <strong>. </strong>Questions submitted by facsimile or to alternate email addresses will NOT be accepted.<u> </u><strong><u>No phone</u> calls will be accepted.</strong></p>\\n\\n<p>Any contract awarded to a Contractor who at the time of award was suspended, debarred, and ineligible for receipt of contract with Government Agencies or is in receipt of a notice of proposed debarment from any Government Agency, is voidable at the option of the Government.</p>\\n\\n<p>Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Enclosed are the following sections, which contains all information necessary to respond to this RFP:</p>\\n\\n<p>1. Section B &ndash; Schedule of Supplies/Services,</p>\\n\\n<p>2. Section C &ndash; Contract Clauses,</p>\\n\\n<p>3. Section D &ndash; Any Contract Documents, Exhibits and Attachment, and</p>\\n\\n<p>4. Section E &ndash; Instructions to Offerors.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p><strong><u>AMENDMENT 0001</u>&nbsp;:&nbsp; REVISED TITLE AND PERFORMANCE WORK STATEMENT (PWS)&nbsp;</strong></p>\\n\\n<p><strong>REVISED TITLE:&nbsp;</strong><strong>&nbsp;INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES</strong></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> <strong>1131PL26RQ0015</strong></p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MARCH 2, 2026</strong></p>\\n\\n<p><strong>CLOSING DATE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;<strong> MARCH 30, 2026, 1:00 PM, Arlington, VA Time</strong></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6 and procedures in Subpart 15.3 as supplemented with additional information included in this notice. This announcement constitutes the only RFP; offers are being requested and a written solicitation will not be issued.</p>\\n\\n<p>This procurement is <strong>SET-ASIDE FOR SMALL BUSINESSES </strong>under <strong>NAICS Code 541690</strong>, Other Scientific and Technical Consulting Services. Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Contractor use of subcontractors is limited to less than fifty percent of the proposed price. &nbsp;</p>\\n\\n<p>THE FOLLOWING ITEMS REPRESENT THE &quot;PROPOSAL PACKAGE&quot; THAT SHOULD BE RETURNED IN RESPONSE TO THIS SOLICITATION (Addendum to FAR 52.212-1, Instructions to Offerors &ndash; Commercial Items (SEP 2023)).</p>\\n\\n<p>According to FAR 52-204-7 (b)&nbsp;(1)&nbsp;An&nbsp;Offeror&nbsp;is required to be registered in SAM when submitting an&nbsp;offer&nbsp;or quotation and&nbsp;shall&nbsp;continue to be registered until time of award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this&nbsp;solicitation. &nbsp;&nbsp;All Offerors must be registered and have an active status in the SAM database (www.SAM.gov) in order to be eligible for contract award. Offerors are reminded that failure to properly enroll in the SAM database and provide accurate information shall make an offeror ineligible for award as described in FAR 52.204-7. &nbsp;</p>\\n\\n<p>Should you have any questions, please send them to this office not later than <strong>1:00 p.m., Eastern Time (ET) Monday, March 9, 2026. </strong>Send your questions by email to <u>contractproposals@ustda.gov</u> and <u>tjohnson@ustda.gov</u> <strong>. </strong>Questions submitted by facsimile or to alternate email addresses will NOT be accepted.<u> </u><strong><u>No phone</u> calls will be accepted.</strong></p>\\n\\n<p>Any contract awarded to a Contractor who at the time of award was suspended, debarred, and ineligible for receipt of contract with Government Agencies or is in receipt of a notice of proposed debarment from any Government Agency, is voidable at the option of the Government.</p>\\n\\n<p>Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Enclosed are the following sections, which contains all information necessary to respond to this RFP:</p>\\n\\n<p>1. Section B &ndash; Schedule of Supplies/Services,</p>\\n\\n<p>2. Section C &ndash; Contract Clauses,</p>\\n\\n<p>3. Section D &ndash; Any Contract Documents, Exhibits and Attachment, and</p>\\n\\n<p>4. Section E &ndash; Instructions to Offerors.</p>\\n\"}",
     "attachments": [
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
@@ -574,88 +663,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "67176287bc814e3cacff6314898e69ac",
-    "title": "QGIS IMPROVEMENTS",
-    "solicitationNumber": "140G0326Q0054",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541690",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-03",
-    "responseDeadline": "2026-03-12T15:00:00-07:00",
-    "agency": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFFICE OF ACQUISITON  GRANTS",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/67176287bc814e3cacff6314898e69ac/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=67176287bc814e3cacff6314898e69ac",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/214bd0aea2db40b8a5b0b2d4c12d165c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d55f86053ba4c8293534765a5581146/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"Request for quote: Planetary Updates for QGIS<br/><br/>This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation.<br/><br/>The solicitation number is issued as a request for quotation (RFQ) 140G0326Q0054.<br/><br/>The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2025-06 dated 10/01/2025. <br/><br/>NAICS: 541690: Other Scientific and Technical Consulting Services, $16.5 Million.<br/><br/>Place of Performance: Vendor's facility.<br/><br/>Period of Performance are estimates only: Award to 09/30/2026.<br/><br/>Any award resu...",
-    "descriptionFull": "{\"description\":\"Request for quote: Planetary Updates for QGIS<br/><br/>This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Subpart 12.6, as supplemented with additional information included in this notice. This announcement constitutes the only solicitation.<br/><br/>The solicitation number is issued as a request for quotation (RFQ) 140G0326Q0054.<br/><br/>The solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2025-06 dated 10/01/2025. <br/><br/>NAICS: 541690: Other Scientific and Technical Consulting Services, $16.5 Million.<br/><br/>Place of Performance: Vendor's facility.<br/><br/>Period of Performance are estimates only: Award to 09/30/2026.<br/><br/>Any award resulting from this RFQ will be based on tradeoff method. Each offeror must submit sufficient documentation for the USGS to evaluate in order to determine technical acceptability of their offer.<br/><br/>Please provide the following information:<br/>1. Signed SF 18 form filled in with firm information, person signing, and line-item prices, offered, etc on Block 13 to 16 and FAR 52.204-24 and 52.204-26 check marks and signature required<br/>2. Technical submission. Include information regarding technical qualifications and experience sufficient for government to evaluate your qualifications to perform this work. Examples are work plan, resumes, published works, etc<br/>3. Listings of prior relevant and recent contracts with project description and two or more professional references with contacts <br/>4. Firm, fixed price quote<br/>5. System for Award Management UEI<br/><br/>Attached Pages:<br/>Statement of Work, 2 pages<br/>889 Certification Document, 2 pages<br/>Clauses and Provisions, 21 pages<br/><br/>Questions are due in writing to yangzhideng@usgs.gov by 03/06/2026, 1500 PST.<br/><br/>Responses are due to the Contracting Officer's email address at yangzhideng@usgs.gov by 03/12/2026, 1500 PST. Quotations submitted by hardcopy shall not be accepted or considered.<br/>\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/214bd0aea2db40b8a5b0b2d4c12d165c/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 216129,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d55f86053ba4c8293534765a5581146/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 378809,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -736,6 +743,74 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "a35f6dbccd90468e8d9370040fbae0a7",
+    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
+    "solicitationNumber": "RFP1798904",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-04",
+    "responseDeadline": "2026-04-14T23:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Wright Patterson AFB",
+      "state": "Ohio",
+      "zip": "45433"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/a35f6dbccd90468e8d9370040fbae0a7/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a35f6dbccd90468e8d9370040fbae0a7",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD F...",
+    "descriptionFull": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "modernization"
+      ],
+      "description": [
+        "modernization"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Ohio"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -1725,174 +1800,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "e5228e10146d4f4b90b484eb90ea5bbb",
-    "title": "Guam/JRM AE IDIQ",
-    "solicitationNumber": "FA8903-GUAM-JRM",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-02",
-    "responseDeadline": "2026-02-28T14:00:00-06:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": "Guam",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/e5228e10146d4f4b90b484eb90ea5bbb/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e5228e10146d4f4b90b484eb90ea5bbb",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/43e0d4da93414d86a6a223c387fc2310/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/852513629b1448e3ab48e7d1e3467dc0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ce0870e8a95d4a1c86e532eccbd45dda/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The synopsis for this requirment has been posted through PIEE.&nbsp; It can be found by using the below link.</p>\\n\\n<p>https://sam.gov/opp/23263ce2e63a40deb67af94fcb094059/review&nbsp;</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p>This is a pre-solicitation notice for the upcoming Multiple Award Task Order Contract (MATOC) for GUAM/JRM (A-E) Services. The Government&#39;s intent is to establish a $930 Million IDIQ contract; each basic IDIQ contract within the MATOC will have a maximum ordering period of ten years comprised of One (1) three-year base period, with One (1) three-year option period and two (2) 2-year option periods for A-E Title I and Title II services in support of FSRM and MILCON projects. This action is a Small Business Set-Aside, w...",
-    "descriptionFull": "{\"description\":\"<p>The synopsis for this requirment has been posted through PIEE.&nbsp; It can be found by using the below link.</p>\\n\\n<p>https://sam.gov/opp/23263ce2e63a40deb67af94fcb094059/review&nbsp;</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p>This is a pre-solicitation notice for the upcoming Multiple Award Task Order Contract (MATOC) for GUAM/JRM (A-E) Services. The Government&#39;s intent is to establish a $930 Million IDIQ contract; each basic IDIQ contract within the MATOC will have a maximum ordering period of ten years comprised of One (1) three-year base period, with One (1) three-year option period and two (2) 2-year option periods for A-E Title I and Title II services in support of FSRM and MILCON projects. This action is a Small Business Set-Aside, with a HUBZone reserve of two (2) firms under NAICS 541330 ($25.5M size standard). A DRAFT Synopsis containing detailed information on the scope, submission requirements, and evaluation criteria is attached to this notice for industry review and planning.</p>\\n\\n<p>Please note the following important announcement:</p>\\n\\n<p>Firms interested must submit questions by 1400 CST on 15 December 2025 by emailing their company name, CAGE code and <strong>Attachment 1 QnA</strong> to the Primary POC, Samuel Mendez, at samuel.mendez@us.af.mil and secondary POCs: Jean Stevens, at jean.stevens.1@us.af.mil and Joyce Cavin, at joyce.cavin@us.af.mil. The anticipated official synopsis is expected to be posted on 24 December 2025 with a final SF330 submission deadline of 30 January 2026. This notice is for planning purposes only and is not a request for proposals.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/43e0d4da93414d86a6a223c387fc2310/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 376490,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/852513629b1448e3ab48e7d1e3467dc0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 377886,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ce0870e8a95d4a1c86e532eccbd45dda/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 16564,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Guam"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "27019d30a3f64915957a83d6b7f5ec5f",
-    "title": "Architect Engineer Support to support Mobile and Savannah Districts Planning and Environmental Divisions.",
-    "solicitationNumber": "W9127825RA003",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-02",
-    "responseDeadline": "2026-02-26T14:00:00-06:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH ATLANTIC.ENDIST MOBILE.W074 ENDIST MOBILE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Mobile",
-      "state": "Alabama",
-      "zip": "36602"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/27019d30a3f64915957a83d6b7f5ec5f/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=27019d30a3f64915957a83d6b7f5ec5f",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f1a38cda8df4426cb0e616b16b4eee5f/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>This is a SOURCES SOUGHT SYNOPSIS and is NOT a solicitation announcement. </strong></p>\\n\\n<p>The purpose of this Market Research and Sources Sought Notice is to gain knowledge of potential qualified Small Business, HUBZone, 8(a), Service-Disabled Veteran Owned, Women Owned Small Business, and Unrestricted firms. Responses to this Sources Sought Synopsis will be used by the government in making appropriate acquisition decisions.</p>\\n\\n<p>The U.S. Army Corps of Engineers (USACE), Mobile District, anticipates a future Indefinite Delivery/Indefinite Quantity (IDIQ) procurement to acquire Architect-Engineer (AE) Services under individual task orders to support Mobile and Savannah Districts Planning and Environmental Divisions.</p>\\n\\n<p>AE Services under this con...",
-    "descriptionFull": "{\"description\":\"<p><strong>This is a SOURCES SOUGHT SYNOPSIS and is NOT a solicitation announcement. </strong></p>\\n\\n<p>The purpose of this Market Research and Sources Sought Notice is to gain knowledge of potential qualified Small Business, HUBZone, 8(a), Service-Disabled Veteran Owned, Women Owned Small Business, and Unrestricted firms. Responses to this Sources Sought Synopsis will be used by the government in making appropriate acquisition decisions.</p>\\n\\n<p>The U.S. Army Corps of Engineers (USACE), Mobile District, anticipates a future Indefinite Delivery/Indefinite Quantity (IDIQ) procurement to acquire Architect-Engineer (AE) Services under individual task orders to support Mobile and Savannah Districts Planning and Environmental Divisions.</p>\\n\\n<p>AE Services under this contract will include but are not limited to all products and studies associated with the preparation of Installation Master Plans/General Plans/Area Development Plans and the preparation of master plans for development and management of military and civil facilities, including natural and cultural resources management planning.</p>\\n\\n<p>Execution of Master Planning services may also include specialized experience and technical competence in the following supporting areas::</p>\\n\\n<ul>\\n\\t<li>Project development/management documents, plans, and reporting (NEPA, natural/cultural, endangered species, compliance, cleanup, formulation, pest, forest, clean water/air, RCRA, mitigation, real estate, etc.</li>\\n\\t<li>Studies, assessment, evaluations, surveys, and testing (biological, chemical, ecological, wildlife, habitat, cultural/historic/architectural, archaeological, encroachment, land/wetland, shoreline, infrastructure, sustainability, economic, dredge material, encroachment, noise, land acquisition, infrastructure, sustainability, risk, GIS, etc.)</li>\\n\\t<li>Coordination with interested Federal, state and local agencies and organizations. Creation/execution of public involvement plans and facilitation of public meetings, workshops, training, etc.)</li>\\n</ul>\\n\\n<p>The selected firms must have, either in-house or through consultants, the following disciplines, with professional registration required where applicable: (1) Project Manager; (2) Biologist/Ecologist/Environmental Scientist; (3) Water Resource Planner; (4) Land-Use Planner; (5) Cultural Resources Specialist; (6) Real Property Master Planner; (7) Civil Engineer (PE); (8) Program Manager; (9) Community Planner (AICP); (10) Facilitator; (11) Landscape Architect, Highlight/Emphasize experience with Military Master Planning projects.</p>\\n\\n<p>Sources are being sought for firms under North American Industry Classification System (NAICS) Code of 541330 with a Small Business Size Standard of no greater than $25,500,000 average annual receipts over five years. Responses are requested with the following information:</p>\\n\\n<p>1. Offeror&rsquo;s name, address, points of contact with telephone numbers and email addresses.</p>\\n\\n<p>2. Business size/classification to include any designations as Small Business, HUBZone, Service-Disabled Veteran Owned, Woman Owned, or 8(a) shall be indicated on first page of submission.</p>\\n\\n<p>3. Description of firm&#39;s capability to provide the AE services with necessary personnel; capability to manage the disciplines; and capacity to execute at least three (3) task orders under this IDIQ simultaneously.</p>\\n\\n<p>4. Past performance/experience on IDIQ contracts of similar scope, describing no more than five (5) projects that are at 100% complete within the past five years of the issue date of this Notice. The past performance information should include project title, location, general description of the A-E Services to demonstrate relevant to Military Master Planning projects the Offerors&rsquo; role, dollar value of contract, and name of the company, agency or government entity for which the work was performed with contact information (reference name, phone number, and email address). Include a quantifiable amount (percentage) to the project your company contributed to the overall scope of work. Prime Contractor experience is required.</p>\\n\\n<p>Include prior experience with subcontracting team. FAR 52.219-14 Limitations on Subcontracting will not pay more than 50 percent of the amount paid by the Government for contract performance to subcontractors that are not similarly situated entities.</p>\\n\\n<p><strong><u>NO RESPONSES WILL BE ACCEPTED BY FAX OR MAIL. ALL RESPONSES MUST BE SENT via EMAIL, DIRECTED to:</u></strong> Danielle Kachele and/or Elisha Couch. Should you have any questions, please reach out to Danielle Kachele at Danielle.l.kachele@usace.army.mil</p>\\n\\n<p><strong>Submittals are due no later than 2:00 pm CT on Thursday, February 26, 2026.</strong></p>\\n\\n<p>Submittals will not be returned. Telephonic responses will not be honored. This is not a Request for Proposal, only a Request for Information. No award will result from this Sources Sought. This notice does not constitute any commitment by the Government. Limit response to eight (8) pages or less.</p>\\n\\n<p><strong>Note1:</strong> This synopsis is not to be construed as a commitment by the Government, nor will the Government pay for the information solicited.</p>\\n\\n<p><strong>Note 2:</strong> <u>Large Businesses need not respond.</u></p>\\n\\n<p><strong>Note 3:</strong> All advertisements of Mobile District projects will be through official government points of entry.</p>\\n\\n<p><strong>*** End of Sources Sought Notice ***</strong></p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f1a38cda8df4426cb0e616b16b4eee5f/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 299753,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Alabama"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {

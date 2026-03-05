@@ -1,5 +1,72 @@
 [
   {
+    "noticeId": "ba06b944745c4d94b58798a9238bfafc",
+    "title": "Pyxis Anesthesia ES Equipment",
+    "solicitationNumber": "36C25526Q0242",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.255-NETWORK CONTRACT OFFICE 15 (36C255)",
+    "fullParentPathCode": "036.3600.36C255",
+    "postedDate": "2026-03-05",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-27",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-12T11:00:00-05:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "6515",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "veronica.flores@va.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Betty Flores"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ba06b944745c4d94b58798a9238bfafc",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "66048",
+      "city": "LEAVENWORTH",
+      "countryCode": "USA",
+      "state": "KS"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "11242",
+        "name": "Cape Girardeau"
+      },
+      "state": {
+        "code": "MO",
+        "name": "Missouri"
+      },
+      "zip": "63703",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/ba06b944745c4d94b58798a9238bfafc/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ba06b944745c4d94b58798a9238bfafc&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bd39feec994b493582021d245c773ef0/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d9af90caeeef4778b0cc10c02b82ed93/download"
+    ]
+  },
+  {
     "noticeId": "66dc5596816642d1bf16be9dbbe54053",
     "title": "6515--Brand Name: Philips Intellivue MX40 Wearable Monitors",
     "solicitationNumber": "36C24426Q0321",
@@ -2446,6 +2513,217 @@
     "resourceLinks": null
   },
   {
+    "noticeId": "ceb3e31fc3454c5c831de4b4f1ea891e",
+    "title": "D--QGIS IMPROVEMENTS",
+    "solicitationNumber": "140G0326Q0054",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFFICE OF ACQUISITON  GRANTS",
+    "fullParentPathCode": "014.1434.140G03",
+    "postedDate": "2026-03-05",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-20",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-05T12:00:00-08:00",
+    "naicsCode": "541690",
+    "naicsCodes": [
+      "541690"
+    ],
+    "classificationCode": "DA01",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "yangzhideng@usgs.gov",
+        "phone": "916-278-9326",
+        "title": null,
+        "fullName": "Deng, Yangzhi"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ceb3e31fc3454c5c831de4b4f1ea891e",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "95819",
+      "city": "SACRAMENTO",
+      "countryCode": "USA",
+      "state": "CA"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/ceb3e31fc3454c5c831de4b4f1ea891e/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ceb3e31fc3454c5c831de4b4f1ea891e&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/214bd0aea2db40b8a5b0b2d4c12d165c/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8290b2229b634c8cbaa776f24f90f38d/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d55f86053ba4c8293534765a5581146/download"
+    ]
+  },
+  {
+    "noticeId": "41f28d6eacea4cdabe5b6ed73145beba",
+    "title": "F--SERVICE FY26 BOTANY SURVEYS",
+    "solicitationNumber": "140L4326Q0020",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.OREGON STATE OFFICE",
+    "fullParentPathCode": "014.1422.140L43",
+    "postedDate": "2026-03-05",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-25",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-10T14:00:00-07:00",
+    "naicsCode": "541690",
+    "naicsCodes": [
+      "541690"
+    ],
+    "classificationCode": "F099",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "cnwebster@blm.gov",
+        "phone": "5038086074",
+        "title": null,
+        "fullName": "Webster, Christy"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=41f28d6eacea4cdabe5b6ed73145beba",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "97204",
+      "city": "PORTLAND",
+      "countryCode": "USA",
+      "state": "OR"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/41f28d6eacea4cdabe5b6ed73145beba/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=41f28d6eacea4cdabe5b6ed73145beba&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/00a8349efab545e79a9f3a2f7625adf3/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071de0f846f8443698957db67b954766/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/28c98cf199144e66b835e3c345b945e5/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/469ef482a35d4ef2b358ad991cd3cc8e/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/53aae388416c41c68c837058f4000fe4/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/55e9da93f268493f9e1f65255cb02315/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/577d48b80b7540ae88c621a11f838e63/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61c503345d2b48a4bee74e52c4eaff77/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6c8c8b5dbfab48a89417e7dd39625181/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7ba981de75a0445d9ca84ee0bc69e69a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8b6928bef2de4bd5a2b441901656dd06/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9610be26a0ae4c6aa48a08b1aa66816e/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a3f5b556f6074395b1d6cd0f09ba51f2/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ae31c741e8014b3d940c1d807c41cbfd/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b8484348982a45b8a33d52281786c8c9/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bfcea38773614ad0a7ffc0318aa3546c/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c2b61b7a7267469cb50bb14cba227b10/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d462143944c549cd8c36e75c324c80a3/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e88476bc55eb4a45b6f3471c38ab350a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eabc2c2910524170a2289c8fd4aa2a97/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f7668f22702c4cbdb28997aaebc11956/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd4c26c38abb450eb0717c3c3e86c230/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ff82a2d46615476e9676c12a0d923653/download"
+    ]
+  },
+  {
+    "noticeId": "ae4c8321790d4bc58805ea5654c43437",
+    "title": "INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES",
+    "solicitationNumber": "1131PL26R0015",
+    "fullParentPathName": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
+    "fullParentPathCode": "011.1153.1131PL",
+    "postedDate": "2026-03-04",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-14",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-30T13:00:00-04:00",
+    "naicsCode": "541690",
+    "naicsCodes": [
+      "541690"
+    ],
+    "classificationCode": "R499",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "tjohnson@ustda.gov",
+        "phone": "7038754357",
+        "title": null,
+        "fullName": "Tyrone Johnson"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "aasibey@ustda.gov",
+        "phone": "7038754357",
+        "title": null,
+        "fullName": "Afua Serwah-Asibey"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ae4c8321790d4bc58805ea5654c43437",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "22209",
+      "city": "ARLINGTON",
+      "countryCode": "USA",
+      "state": "VA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "3000",
+        "name": "Arlington"
+      },
+      "state": {
+        "code": "VA",
+        "name": "Virginia"
+      },
+      "zip": "22209",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/ae4c8321790d4bc58805ea5654c43437/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ae4c8321790d4bc58805ea5654c43437&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4890ba150ee94727bdd6d67b2dada04a/download"
+    ]
+  },
+  {
     "noticeId": "50952dd89f8a48bdbbb94dc6117daa8e",
     "title": "Notice of Intent to Sole Source Great Lakes Coastal Resiliency Study (GLCRS) Expert Panelists",
     "solicitationNumber": "W912P626QA011",
@@ -2504,81 +2782,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "94b256aceee84bf0908f3200f2a55360",
-    "title": "INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES",
-    "solicitationNumber": "1131PL26R0015",
-    "fullParentPathName": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
-    "fullParentPathCode": "011.1153.1131PL",
-    "postedDate": "2026-03-03",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-14",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-30T13:00:00-04:00",
-    "naicsCode": "541690",
-    "naicsCodes": [
-      "541690"
-    ],
-    "classificationCode": "R499",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "tjohnson@ustda.gov",
-        "phone": "7038754357",
-        "title": null,
-        "fullName": "Tyrone Johnson"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "aasibey@ustda.gov",
-        "phone": "7038754357",
-        "title": null,
-        "fullName": "Afua Serwah-Asibey"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=94b256aceee84bf0908f3200f2a55360",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "22209",
-      "city": "ARLINGTON",
-      "countryCode": "USA",
-      "state": "VA"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "3000",
-        "name": "Arlington"
-      },
-      "state": {
-        "code": "VA",
-        "name": "Virginia"
-      },
-      "zip": "22209",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/94b256aceee84bf0908f3200f2a55360/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=94b256aceee84bf0908f3200f2a55360&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4890ba150ee94727bdd6d67b2dada04a/download"
-    ]
-  },
-  {
     "noticeId": "7ce2386b0d0c408083b9eb751e88ab10",
     "title": "PIAD IDIQ Support Services",
     "solicitationNumber": "1305M226Q0026",
@@ -2631,140 +2834,6 @@
       }
     ],
     "resourceLinks": null
-  },
-  {
-    "noticeId": "67176287bc814e3cacff6314898e69ac",
-    "title": "QGIS IMPROVEMENTS",
-    "solicitationNumber": "140G0326Q0054",
-    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFFICE OF ACQUISITON  GRANTS",
-    "fullParentPathCode": "014.1434.140G03",
-    "postedDate": "2026-03-03",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-27",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-12T15:00:00-07:00",
-    "naicsCode": "541690",
-    "naicsCodes": [
-      "541690"
-    ],
-    "classificationCode": "DA01",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "yangzhideng@usgs.gov",
-        "phone": "916-278-9326",
-        "title": null,
-        "fullName": "Deng, Yangzhi"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=67176287bc814e3cacff6314898e69ac",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "95819",
-      "city": "SACRAMENTO",
-      "countryCode": "USA",
-      "state": "CA"
-    },
-    "placeOfPerformance": {
-      "city": {},
-      "state": {},
-      "country": {}
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/67176287bc814e3cacff6314898e69ac/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=67176287bc814e3cacff6314898e69ac&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/214bd0aea2db40b8a5b0b2d4c12d165c/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d55f86053ba4c8293534765a5581146/download"
-    ]
-  },
-  {
-    "noticeId": "51734d82eb8d48ec804fd818ccd45b8c",
-    "title": "F--SERVICE FY26 BOTANY SURVEYS",
-    "solicitationNumber": "140L4326Q0020",
-    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.OREGON STATE OFFICE",
-    "fullParentPathCode": "014.1422.140L43",
-    "postedDate": "2026-02-27",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-21",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-06T14:00:00-08:00",
-    "naicsCode": "541690",
-    "naicsCodes": [
-      "541690"
-    ],
-    "classificationCode": "F099",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "cnwebster@blm.gov",
-        "phone": "5038086074",
-        "title": null,
-        "fullName": "Webster, Christy"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=51734d82eb8d48ec804fd818ccd45b8c",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "97204",
-      "city": "PORTLAND",
-      "countryCode": "USA",
-      "state": "OR"
-    },
-    "placeOfPerformance": {
-      "city": {},
-      "state": {},
-      "country": {}
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/51734d82eb8d48ec804fd818ccd45b8c/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=51734d82eb8d48ec804fd818ccd45b8c&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/00a8349efab545e79a9f3a2f7625adf3/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071de0f846f8443698957db67b954766/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/28c98cf199144e66b835e3c345b945e5/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/469ef482a35d4ef2b358ad991cd3cc8e/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/53aae388416c41c68c837058f4000fe4/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/55e9da93f268493f9e1f65255cb02315/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/577d48b80b7540ae88c621a11f838e63/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61c503345d2b48a4bee74e52c4eaff77/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6c8c8b5dbfab48a89417e7dd39625181/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7ba981de75a0445d9ca84ee0bc69e69a/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8b6928bef2de4bd5a2b441901656dd06/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9610be26a0ae4c6aa48a08b1aa66816e/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a3f5b556f6074395b1d6cd0f09ba51f2/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ae31c741e8014b3d940c1d807c41cbfd/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b8484348982a45b8a33d52281786c8c9/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bfcea38773614ad0a7ffc0318aa3546c/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c2b61b7a7267469cb50bb14cba227b10/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e88476bc55eb4a45b6f3471c38ab350a/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eabc2c2910524170a2289c8fd4aa2a97/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f7668f22702c4cbdb28997aaebc11956/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd4c26c38abb450eb0717c3c3e86c230/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ff82a2d46615476e9676c12a0d923653/download"
-    ]
   },
   {
     "noticeId": "14d48cbb72c4452f9b03bcfbac76fc8b",
@@ -3116,6 +3185,139 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/458417f72a954550aa6c979726011fd0/download"
     ]
+  },
+  {
+    "noticeId": "d18422900a0f42e2b6c7ecc68f050269",
+    "title": "MTNG Architect-Engineer (A-E) Single Award Task Order Contract (SATOC)",
+    "solicitationNumber": "W9124V26RA001",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO MT.USPFO MT PROCUREMENT.W7NK USPFO ACTIVITY MT ARNG",
+    "fullParentPathCode": "021.2100.NGB.JFHQ USPFO MT.USPFO MT PROC.W9124V",
+    "postedDate": "2026-03-05",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-31",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-16T10:00:00-06:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C211",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "eric.s.bailey.civ@army.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Eric Bailey"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d18422900a0f42e2b6c7ecc68f050269",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "59636-4789",
+      "city": "FORT HARRISON",
+      "countryCode": "USA",
+      "state": "MT"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "32800",
+        "name": "Great Falls"
+      },
+      "state": {
+        "code": "MT",
+        "name": "Montana"
+      },
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/d18422900a0f42e2b6c7ecc68f050269/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d18422900a0f42e2b6c7ecc68f050269&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/832e022ca249426eb95932399d035655/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2abbe7c19bf407ea61257ea326dc0ac/download"
+    ]
+  },
+  {
+    "noticeId": "a35f6dbccd90468e8d9370040fbae0a7",
+    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
+    "solicitationNumber": "RFP1798904",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
+    "fullParentPathCode": "057.5700",
+    "postedDate": "2026-03-04",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-29",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-14T23:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "1510",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "lauren.vanhook@us.af.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Lauren VanHook"
+      },
+      {
+        "fax": null,
+        "type": "secondary",
+        "email": "michael.west.57@us.af.mil",
+        "phone": null,
+        "title": null,
+        "fullName": "Michael West"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a35f6dbccd90468e8d9370040fbae0a7",
+    "organizationType": "AGENCY",
+    "officeAddress": null,
+    "placeOfPerformance": {
+      "city": {
+        "code": "OH-05",
+        "name": "Wright Patterson AFB"
+      },
+      "state": {
+        "code": "OH",
+        "name": "Ohio"
+      },
+      "zip": "45433",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/a35f6dbccd90468e8d9370040fbae0a7/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=a35f6dbccd90468e8d9370040fbae0a7&limit=1"
+      }
+    ],
+    "resourceLinks": null
   },
   {
     "noticeId": "11cf1a5805ea46fabd6e42a406e4c8df",
@@ -4511,72 +4713,6 @@
     ]
   },
   {
-    "noticeId": "07abf9471b764620baaaf52efa7b01c4",
-    "title": "MTNG Architect-Engineer (A-E) Single Award Task Order Contract (SATOC)",
-    "solicitationNumber": "W9124V26RA001",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO MT.USPFO MT PROCUREMENT.W7NK USPFO ACTIVITY MT ARNG",
-    "fullParentPathCode": "021.2100.NGB.JFHQ USPFO MT.USPFO MT PROC.W9124V",
-    "postedDate": "2026-02-20",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-31",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-16T10:00:00-06:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C211",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "eric.s.bailey.civ@army.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Eric Bailey"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=07abf9471b764620baaaf52efa7b01c4",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "59636-4789",
-      "city": "FORT HARRISON",
-      "countryCode": "USA",
-      "state": "MT"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "32800",
-        "name": "Great Falls"
-      },
-      "state": {
-        "code": "MT",
-        "name": "Montana"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/07abf9471b764620baaaf52efa7b01c4/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=07abf9471b764620baaaf52efa7b01c4&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0a8e5c7cdf62415baa20b65f29187162/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2abbe7c19bf407ea61257ea326dc0ac/download"
-    ]
-  },
-  {
     "noticeId": "6e072b9d92f346309d5a72f707123d11",
     "title": "Engineering and Logistics Support (ELS)",
     "solicitationNumber": "N39430-26-RFI-ELS",
@@ -5660,237 +5796,6 @@
       }
     ],
     "resourceLinks": null
-  },
-  {
-    "noticeId": "e5228e10146d4f4b90b484eb90ea5bbb",
-    "title": "Guam/JRM AE IDIQ",
-    "solicitationNumber": "FA8903-GUAM-JRM",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
-    "fullParentPathCode": "057.5700.AFMC.AFIMSC-AFICC.FA8903",
-    "postedDate": "2026-02-02",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-15",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-28T14:00:00-06:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C211",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "samuel.mendez@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Samuel Mendez"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "jean.stevens.1@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Jean Stevens"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e5228e10146d4f4b90b484eb90ea5bbb",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "78236-9861",
-      "city": "JBSA LACKLAND",
-      "countryCode": "USA",
-      "state": "TX"
-    },
-    "placeOfPerformance": {
-      "state": {
-        "code": "GU",
-        "name": "Guam"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/e5228e10146d4f4b90b484eb90ea5bbb/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e5228e10146d4f4b90b484eb90ea5bbb&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/43e0d4da93414d86a6a223c387fc2310/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/852513629b1448e3ab48e7d1e3467dc0/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ce0870e8a95d4a1c86e532eccbd45dda/download"
-    ]
-  },
-  {
-    "noticeId": "d17eee38fbeb45d28a9e37f4adfb702d",
-    "title": "INDEFINITE DELIVERY INDEFINITE QUANTITY CONTRACT  FOR ARCHITECTURAL AND GENERAL ENGINEERING SERVICES  FOR PHILADELPHIA DISTRICT CIVIL WORKS PROGRAM MISSIONS",
-    "solicitationNumber": "W912BU24R0023",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST PHILADELPHIA.W2SD ENDIST PHILADELPHIA",
-    "fullParentPathCode": "021.2100.USACE.NAD.NAP.W912BU",
-    "postedDate": "2026-02-02",
-    "type": "Award Notice",
-    "baseType": "Award Notice",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-03-31",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": null,
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": {
-      "date": "2026-01-29",
-      "number": "W912BU26DA002",
-      "amount": "24000000",
-      "awardee": {
-        "name": "BAIRD-STANTEC JOINT VENTURE",
-        "location": {
-          "streetAddress": "2810 CROSSROADS DR STE 1200",
-          "city": {
-            "code": "48000",
-            "name": "Madison"
-          },
-          "state": {
-            "code": "WI",
-            "name": "Wisconsin"
-          },
-          "zip": "53718",
-          "country": {
-            "code": "USA",
-            "name": "UNITED STATES"
-          }
-        },
-        "ueiSAM": "TQEVLM5LAVK9",
-        "cageCode": "92VE4"
-      }
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "tiffany.z.chisholm@usace.army.mil",
-        "phone": "2156566761",
-        "title": null,
-        "fullName": "TIFFANY CHISHOLM"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "Anastasia.E.Moffat@usace.army.mil",
-        "phone": "2156566688",
-        "title": null,
-        "fullName": "ANASTASIA MOFFATT"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d17eee38fbeb45d28a9e37f4adfb702d",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "19103-0000",
-      "city": "PHILADELPHIA",
-      "countryCode": "USA",
-      "state": "PA"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "",
-      "zip": ""
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/d17eee38fbeb45d28a9e37f4adfb702d/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d17eee38fbeb45d28a9e37f4adfb702d&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
-    "noticeId": "27019d30a3f64915957a83d6b7f5ec5f",
-    "title": "Architect Engineer Support to support Mobile and Savannah Districts Planning and Environmental Divisions.",
-    "solicitationNumber": "W9127825RA003",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH ATLANTIC.ENDIST MOBILE.W074 ENDIST MOBILE",
-    "fullParentPathCode": "021.2100.USACE.SAD.SAM.W91278",
-    "postedDate": "2026-02-02",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-13",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-26T14:00:00-06:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "danielle.l.kachele@usace.army.mil",
-        "phone": "2516943812",
-        "title": null,
-        "fullName": "Danielle Kachele"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "elisha.couch@usace.army.mil",
-        "phone": "2516903354",
-        "title": null,
-        "fullName": "Elisha Couch"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=27019d30a3f64915957a83d6b7f5ec5f",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "36602-3630",
-      "city": "MOBILE",
-      "countryCode": "USA",
-      "state": "AL"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "50000",
-        "name": "Mobile"
-      },
-      "state": {
-        "code": "AL",
-        "name": "Alabama"
-      },
-      "zip": "36602",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/27019d30a3f64915957a83d6b7f5ec5f/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=27019d30a3f64915957a83d6b7f5ec5f&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f1a38cda8df4426cb0e616b16b4eee5f/download"
-    ]
   },
   {
     "noticeId": "dfb6e4ee3c4c44539b3d9da766f28d9f",
