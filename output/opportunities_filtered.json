@@ -746,6 +746,113 @@
     "updatedDate": null
   },
   {
+    "noticeId": "90b9275dc5144fb6aca8d37b9fbadc02",
+    "title": "A&E Industrial District Plan",
+    "solicitationNumber": "FTQW261200",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-05",
+    "responseDeadline": "2026-03-20T13:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.PACIFIC AIR FORCES.FA5004  354 CONS PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Eielson AFB",
+      "state": "Alaska",
+      "zip": "99702"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/90b9275dc5144fb6aca8d37b9fbadc02/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=90b9275dc5144fb6aca8d37b9fbadc02",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23a252e506ea4d77a1b407c5912fb1bc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/544c32d4cd074c2ea30223fc8122b4d1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a94905d254a543c1a752093cf755b7c1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a98dd59c625f421285e6a2ce8925ac4d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f738539d18824939922f9aacdab6e497/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Sources Sought notice is posted by the Government agency seeking possible sources for a project. This notice is not a solicitation for work or request for a project. The purpose of this notice is to identify interested and capable vendors to perform the work described below an to incorporate the result of this notice into the Government&#39;s Market Research Report.&nbsp;</p>\\n\\n<p>This project involves the Industrial District Plan. The installation&rsquo;s primary industrial area encompassing wetlands and floodplains, key infrastructure including cell towers, antenna farms, munitions storage, fuel storage, water and wastewater treatment plants, civil engineering shops, logistics readiness facilities, light manufacturing facilities, and associated administrative o...",
+    "descriptionFull": "{\"description\":\"<p>The Sources Sought notice is posted by the Government agency seeking possible sources for a project. This notice is not a solicitation for work or request for a project. The purpose of this notice is to identify interested and capable vendors to perform the work described below an to incorporate the result of this notice into the Government&#39;s Market Research Report.&nbsp;</p>\\n\\n<p>This project involves the Industrial District Plan. The installation&rsquo;s primary industrial area encompassing wetlands and floodplains, key infrastructure including cell towers, antenna farms, munitions storage, fuel storage, water and wastewater treatment plants, civil engineering shops, logistics readiness facilities, light manufacturing facilities, and associated administrative offices. The District Plan continues the comprehensive planning process by focusing on the current operations of a district and providing planning at a manageable scale by bridging the gap between the overarching Installation Development Plan (IDP) and the specifics found within individual site plans.</p>\\n\\n<p>The project acknowledges the extreme Arctic conditions, necessitating specialized utility distribution solutions. Utilidors play a critical role in this environment, preventing the need for burying pipes below the water table, which would be significantly more challenging and costly.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23a252e506ea4d77a1b407c5912fb1bc/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 130312,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/544c32d4cd074c2ea30223fc8122b4d1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 213488,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a94905d254a543c1a752093cf755b7c1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 80384,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a98dd59c625f421285e6a2ce8925ac4d/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 211188,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f738539d18824939922f9aacdab6e497/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 258400,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Alaska"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "a35f6dbccd90468e8d9370040fbae0a7",
     "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
     "solicitationNumber": "RFP1798904",
@@ -1732,74 +1839,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "2972b1f9a3824954954f8ccb7a1b99a7",
-    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-    "solicitationNumber": "N6600126R0002",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-03",
-    "responseDeadline": "2026-02-18T11:00:00-08:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "92152"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/2972b1f9a3824954954f8ccb7a1b99a7/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2972b1f9a3824954954f8ccb7a1b99a7",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov.The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluati...",
-    "descriptionFull": "{\"description\":\"Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov.The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluation (RDTE) and Acquisition Center for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) and Information Operations (IO) is responsible for functions that include: mission analysis, assessment and development of technology base, basic and applied research, demonstration of technology, engineering in support of production, support to operating forces; supporting doctrine, policy, and strategy development; and integration of numerous National and Tactical systems in the area of Cyberspace Operations. To meet these responsibilities, NIWC Pacific requires advice, assistance, coordination and products necessary to support operational planning, assessment, integration, execution and technology development to assure superiority for the warfighter in the cyberspace domain. The full scope of this requirement is anticipated to include: technology assessment, development and transition; systems engineering; operational and technical support; exercise and experimentation support; software development and prototyping; training support; security engineering/cybersecurity. This is a follow-on requirement to a Multiple Award Contract (MAC) of the same title: Cyberspace Science, Research, Engineering and Technology Integration. A Small Business Set-Aside Cyberspace Science, Research, Engineering and Technology MAC (SBSA MAC) that covered a portion of the requirement was competed among small businesses was only awarded in 2017. The incumbent contract numbers for the Small Business MAC are N66001-17-D-0114 through -0117 and the incumbent contractors are Avanti Technologies Inc., Millennium Corporation, Sentar Inc., and Vector Planning and Services Inc. The ordering period of the predecessor SBSA MAC ended 07 March 2022. This follow-on procurement will be satisfied through one solicitation (which is the subject of this pre-solicitation notice) that will be competed among small businesses only. N66001-26-R-0002 is strictly a follow-on for the Small Business MAC. The full scope of the requirement is described in the attached Draft SOW. Only small businesses can compete for the SBSA multiple award contract (MAC). The follow-on for the SBSA MAC will be solicited at a future date estimated in Q2 2026. NIWC Pacific does not intend to hold an industry day for this requirement. This proposed acquisition has security requirements at the Top Secret level with incidental Secure Compartmented Information (SCI) access. NIWC Pacific intends on awarding multiple Indefinite Delivery/Indefinite Quantity (IDIQ) Cost Plus Fixed Fee (CPFF) type contracts. The prospective contracts will have a five-year base period with a two-year period. The estimated level of effort for the total SBSA requirement is 305,981 hours. The NAICS code for this procurement is 541330 with a size standard of $47 million. A Bidders Mailing List will not be established and hard copies of documents will not be provided. The solicitation will only be available electronically within the Procurement Integrated Enterprise Environment (PIEE) website at https://piee.eb.mil, under Notice. Any amendments, when issued, will also be available only on this web site. Matters posted on the web site are not terms of the solicitation unless the solicitation is written or amended to include such matters. FIRMS ARE ENCOURAGED TO REVIEW THE WEB SITE REGULARLY FOR UPDATED INFORMATION.  PIEE\ufffdAssistance:\ufffdFor\ufffdPIEE\ufffdtechnical issues,\ufffdsee the Vendor Customer Support resources at https://cac.piee.eb.mil/xhtml/auth/web/homepage/vendorCustomerSupport.xhtml.\ufffd\ufffd\ufffd  \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {
