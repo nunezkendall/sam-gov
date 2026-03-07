@@ -3164,6 +3164,87 @@
     ]
   },
   {
+    "noticeId": "332879b11888481681373d758d55b0d3",
+    "title": "FTQW261406 Replace Upper Dgst Compressors",
+    "solicitationNumber": "261406",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.PACIFIC AIR FORCES.FA5004  354 CONS PK",
+    "fullParentPathCode": "057.5700.PACAF.FA5004",
+    "postedDate": "2026-03-06",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-25",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-10T13:30:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "james.cameron.15@us.af.mil",
+        "phone": "9073772706",
+        "title": null,
+        "fullName": "James Cameron"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "chirstopher.prince.3@us.af.mil",
+        "phone": "9073773326",
+        "title": null,
+        "fullName": "SrA Christopher Prince"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=332879b11888481681373d758d55b0d3",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "99702-2200",
+      "city": "EIELSON AFB",
+      "countryCode": "USA",
+      "state": "AK"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "AK-02",
+        "name": "Eielson AFB"
+      },
+      "state": {
+        "code": "AK",
+        "name": "Alaska"
+      },
+      "zip": "99702",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/332879b11888481681373d758d55b0d3/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=332879b11888481681373d758d55b0d3&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/20bd0b009f3541a18226a95f047ca86d/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22a9cba54c034d82919a1121b8a9f5f3/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3961b3c7426c48ee89882d0fd1d1fde1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/595c30a07b804d3ea76201690f4df494/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/965eab4442a84e8192f83cff06f2ff3d/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c5b768f4e4644b3d88a3b99368cea3dd/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dfe87a22013f4be2ae9cfeeae99fb16e/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e03eb6656266480e8cecb6037aa040ed/download"
+    ]
+  },
+  {
     "noticeId": "d18422900a0f42e2b6c7ecc68f050269",
     "title": "MTNG Architect-Engineer (A-E) Single Award Task Order Contract (SATOC)",
     "solicitationNumber": "W9124V26RA001",
@@ -3813,81 +3894,6 @@
       }
     ],
     "resourceLinks": null
-  },
-  {
-    "noticeId": "585b1152a4b34782985811bc6dd8a873",
-    "title": "A&E Replace Upper Digester Compressors",
-    "solicitationNumber": "FTQW261406",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.PACIFIC AIR FORCES.FA5004  354 CONS PK",
-    "fullParentPathCode": "057.5700.PACAF.FA5004",
-    "postedDate": "2026-03-02",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-26",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-11",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "chirstopher.prince.3@us.af.mil",
-        "phone": "9073773326",
-        "title": null,
-        "fullName": "SrA Christopher Prince"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "354CONS.PKA.Designs@us.af.mil",
-        "phone": "9073772766",
-        "title": null,
-        "fullName": "354 CONS A&E"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=585b1152a4b34782985811bc6dd8a873",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "99702-2200",
-      "city": "EIELSON AFB",
-      "countryCode": "USA",
-      "state": "AK"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "AK-02",
-        "name": "Eielson AFB"
-      },
-      "state": {
-        "code": "AK",
-        "name": "Alaska"
-      },
-      "zip": "99702",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/585b1152a4b34782985811bc6dd8a873/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=585b1152a4b34782985811bc6dd8a873&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3828bd578b9d4adca45b445c6ca5c7ee/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ea50f73cd3c048658c8b67c36da03047/download"
-    ]
   },
   {
     "noticeId": "e73f5fe650384121a082c4850475a799",
@@ -5564,228 +5570,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "5ab3dd1f06884aa58df4f6dd673fdd7b",
-    "title": "FTQW261406 Replace Upper Dgst Compressors",
-    "solicitationNumber": "261406",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.PACIFIC AIR FORCES.FA5004  354 CONS PK",
-    "fullParentPathCode": "057.5700.PACAF.FA5004",
-    "postedDate": "2026-02-05",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-13",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-26T13:30:00-05:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "james.cameron.15@us.af.mil",
-        "phone": "9073772706",
-        "title": null,
-        "fullName": "James Cameron"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "chirstopher.prince.3@us.af.mil",
-        "phone": "9073773326",
-        "title": null,
-        "fullName": "SrA Christopher Prince"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5ab3dd1f06884aa58df4f6dd673fdd7b",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "99702-2200",
-      "city": "EIELSON AFB",
-      "countryCode": "USA",
-      "state": "AK"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "AK-02",
-        "name": "Eielson AFB"
-      },
-      "state": {
-        "code": "AK",
-        "name": "Alaska"
-      },
-      "zip": "99702",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5ab3dd1f06884aa58df4f6dd673fdd7b/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5ab3dd1f06884aa58df4f6dd673fdd7b&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/20bd0b009f3541a18226a95f047ca86d/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22a9cba54c034d82919a1121b8a9f5f3/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3961b3c7426c48ee89882d0fd1d1fde1/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/595c30a07b804d3ea76201690f4df494/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/965eab4442a84e8192f83cff06f2ff3d/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c5b768f4e4644b3d88a3b99368cea3dd/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dfe87a22013f4be2ae9cfeeae99fb16e/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e03eb6656266480e8cecb6037aa040ed/download"
-    ]
-  },
-  {
-    "noticeId": "e6d38ab60022435fa3b3fff32bc681f0",
-    "title": "Architect & Engineer (A&E) IDIQ",
-    "solicitationNumber": "FA441826AE_IDIQ",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR MOBILITY COMMAND.FA4418  628 CONS PK",
-    "fullParentPathCode": "057.5700.AMC.FA4418",
-    "postedDate": "2026-02-04",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-12",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-25T16:30:00-05:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "brandon.rawlings@us.af.mil",
-        "phone": "8439635180",
-        "title": null,
-        "fullName": "Brandon Rawlings"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "bryan.coppage.1@us.af.mil",
-        "phone": "8439634735",
-        "title": null,
-        "fullName": "Bryan Coppage"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e6d38ab60022435fa3b3fff32bc681f0",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "29404-5021",
-      "city": "JOINT BASE CHARLESTON",
-      "countryCode": "USA",
-      "state": "SC"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "0",
-        "name": "Charleston AFB"
-      },
-      "state": {
-        "code": "SC",
-        "name": "South Carolina"
-      },
-      "zip": "29404",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/e6d38ab60022435fa3b3fff32bc681f0/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e6d38ab60022435fa3b3fff32bc681f0&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
-    "noticeId": "443ecb30f99e4c0b821affd883e262ec",
-    "title": "Civil Works Multi-Discipline Architect/Engineer (A/E) Multiple Award Task Order Contract (MATOC)",
-    "solicitationNumber": "W912DR26RA011",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
-    "fullParentPathCode": "021.2100.USACE.NAD.NAB.W912DR",
-    "postedDate": "2026-02-04",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-12-30",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-19T11:00:00-05:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "evan.m.cyran@usace.army.mil",
-        "phone": "410-962-6037",
-        "title": null,
-        "fullName": "Evan Cyran"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "sherry.s.rhoden@usace.army.mil",
-        "phone": "443-890-3871",
-        "title": null,
-        "fullName": "Sherry Rhoden"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=443ecb30f99e4c0b821affd883e262ec",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "21201-2526",
-      "city": "BALTIMORE",
-      "countryCode": "USA",
-      "state": "MD"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/443ecb30f99e4c0b821affd883e262ec/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=443ecb30f99e4c0b821affd883e262ec&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/35290447cf474e94af31870daa02c183/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4c32bfcb46e84ac0b8c3477d7f24bd62/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/81dd101c246d4ff58584f016349f4c33/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c4fabca8f1f04f3980bc4a9ccf27cbf0/download"
-    ]
-  },
-  {
     "noticeId": "dfb6e4ee3c4c44539b3d9da766f28d9f",
     "title": "RAES Synopsis",
     "solicitationNumber": "FA8903-26-R-0011",
@@ -5845,6 +5629,89 @@
       }
     ],
     "resourceLinks": null
+  },
+  {
+    "noticeId": "0e8797d5772443529060131f4c572bfc",
+    "title": "A/V Support Services in Support of USAR-LC",
+    "solicitationNumber": "W15QKN26CA005",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-PICA",
+    "fullParentPathCode": "021.2100.AMC.ACC.ACC-CTRS.ACC-NJ.W15QKN",
+    "postedDate": "2026-03-06",
+    "type": "Award Notice",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-21",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "518210",
+    "naicsCodes": [
+      "518210"
+    ],
+    "classificationCode": "R426",
+    "active": "Yes",
+    "award": {
+      "date": "2026-03-06",
+      "number": "W15QKN26CA005",
+      "amount": "450000.00",
+      "awardee": {
+        "name": "ONLINE VIDEO SERVICE INC",
+        "location": {
+          "city": {
+            "name": "Washington"
+          },
+          "state": {
+            "code": "DC",
+            "name": "District of Columbia"
+          },
+          "zip": "20005",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "HJCJG1MEBA76",
+        "cageCode": "3QVD7"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "bryan.e.thompson20.civ@army.mil",
+        "phone": "5206875375",
+        "title": null,
+        "fullName": "Bryan Thompson"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "amber.l.mears.civ@army.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Amber Mears"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0e8797d5772443529060131f4c572bfc",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "07806-5000",
+      "city": "PICATINNY ARSENAL",
+      "countryCode": "USA",
+      "state": "NJ"
+    },
+    "placeOfPerformance": {},
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/0e8797d5772443529060131f4c572bfc/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=0e8797d5772443529060131f4c572bfc&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8423f5b3c7014f5dbc3de6ac81f89d3b/download"
+    ]
   },
   {
     "noticeId": "7722a0a2248145c19fdd689689ffb424",

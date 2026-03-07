@@ -1,7 +1,7 @@
 [
   {
     "noticeId": "110209fafe30416fa12ef1d51af98bb8",
-    "reason": "Server and remote monitoring system fits Linux/DevOps and manageable BPA.",
+    "reason": "Server and remote monitoring aligns with Linux/DevOps and manageable BPA scope.",
     "overallScore": 61,
     "title": "Airfield Data Management Server - BPA",
     "uiLink": "https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view",
@@ -12,8 +12,8 @@
   },
   {
     "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
-    "reason": "Cloud-based digital platform subscription likely within small IT capacity.",
-    "overallScore": 54,
+    "reason": "Cloud SaaS platform subscription; strong cloud relevance and feasible for small team.",
+    "overallScore": 58,
     "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
     "uiLink": "https://sam.gov/workspace/contract/opp/984e24f7fdcf44dcad34981e841f6a8d/view",
     "descriptionSnippet": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transc...",
@@ -22,9 +22,20 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
+    "reason": "Software and tactical network development relevant to DevOps skills.",
+    "overallScore": 46,
+    "title": "CANES Tactical Networks Market Survey",
+    "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
+    "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number. Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in a...",
+    "responseDeadline": "2026-03-04T14:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "f975673fd21e46699e4096649c2abe3d",
-    "reason": "Includes system administration and AI/ML engineering relevance.",
-    "overallScore": 53,
+    "reason": "Systems engineering with system administration and IA components.",
+    "overallScore": 42,
     "title": "H20 Engineering Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/f975673fd21e46699e4096649c2abe3d/view",
     "descriptionSnippet": "{\"description\":\"<p>(DRAFT) - The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire Control; Autonomous and Unmanned Systems; Electromagnetic Maneuver Warfare (EMW); Information Warfare/Big Data; Machine Learning; and Artificial Intelligence (AI). The Contractor shall support technica...",
@@ -34,8 +45,8 @@
   },
   {
     "noticeId": "cb177170da494062bc2da62c83da9684",
-    "reason": "Fiber optic networking support aligned with infrastructure skills.",
-    "overallScore": 49,
+    "reason": "Networking support with potential infrastructure engineering fit.",
+    "overallScore": 41,
     "title": "A30 FiberOptic Waterfront Cabling Support",
     "uiLink": "https://sam.gov/workspace/contract/opp/cb177170da494062bc2da62c83da9684/view",
     "descriptionSnippet": "{\"description\":\"<p>DRAFT: The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement for fiber optic networking support for the U.S. Navy. This includes Research and Development of new technical capabilities, Ship Construction support for all classes of Navy Warships, Operations and Maintenance of fielded fiber optic cable systems and plants.</p>\\n\"}",
@@ -44,20 +55,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-    "reason": "Software and tactical network development though vehicle-restricted.",
-    "overallScore": 48,
-    "title": "CANES Tactical Networks Market Survey",
-    "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
-    "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number. Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in a...",
-    "responseDeadline": "2026-03-04T14:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "e8d30f9553c84339802369b4365a7713",
-    "reason": "Software integration and engineering components relevant but complex.",
-    "overallScore": 44,
+    "reason": "Integration and sustainment services include software/system engineering elements.",
+    "overallScore": 39,
     "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
     "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
     "descriptionSnippet": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this documen...",
@@ -66,8 +66,19 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
+    "reason": "Facilities management IT services RFI with partial relevance.",
+    "overallScore": 34,
+    "title": "Enterprise Endpoint Hardware Services (EEHS) Request for Information (RFI)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/5f8e3ed03624415baf4874c8c8bb08a8/view",
+    "descriptionSnippet": "{\"description\":\"<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible for any costs incurred by you in furnishing any information.&nbsp; Responses received will be carefully reviewed by JPL and may be considered as part of a future solicitation. Prospective subcontractors are advised that any information provided shall be deemed to be furnished with unlimited rights to JPL, with JPL assuming no liability for the disclosure, use, or reproduction of such data.</p>\\n\\n<p>This RFI is to also gather ...",
+    "responseDeadline": "2026-03-25T15:00:00-07:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
-    "reason": "IT products and cloud services though large IDIQ vehicle.",
+    "reason": "IT hardware/software vehicle relevant but complex and competitive.",
     "overallScore": 32,
     "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
     "uiLink": "https://sam.gov/workspace/contract/opp/9030ca56adbf42a297efd6d8aabad8a7/view",
@@ -77,35 +88,24 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
-    "reason": "Endpoint and facilities IT management potential alignment.",
-    "overallScore": 30,
-    "title": "Enterprise Endpoint Hardware Services (EEHS) Request for Information (RFI)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/5f8e3ed03624415baf4874c8c8bb08a8/view",
-    "descriptionSnippet": "{\"description\":\"<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible for any costs incurred by you in furnishing any information.&nbsp; Responses received will be carefully reviewed by JPL and may be considered as part of a future solicitation. Prospective subcontractors are advised that any information provided shall be deemed to be furnished with unlimited rights to JPL, with JPL assuming no liability for the disclosure, use, or reproduction of such data.</p>\\n\\n<p>This RFI is to also gather ...",
-    "responseDeadline": "2026-03-25T15:00:00-07:00",
+    "noticeId": "a35f6dbccd90468e8d9370040fbae0a7",
+    "reason": "Router modernization touches networking though access-restricted.",
+    "overallScore": 27,
+    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
+    "uiLink": "https://sam.gov/workspace/contract/opp/a35f6dbccd90468e8d9370040fbae0a7/view",
+    "descriptionSnippet": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD F...",
+    "responseDeadline": "2026-04-14T23:00:00-04:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
-    "noticeId": "96e1be96b369433ea543969c91f97bef",
-    "reason": "Enterprise environment support adjacent to IT operations.",
-    "overallScore": 25,
-    "title": "NAVWAR HQ 1.0 Accounting Support Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/96e1be96b369433ea543969c91f97bef/view",
-    "descriptionSnippet": "{\"description\":\"The Department of the Navy (DON), Naval Information Warfare Systems Command (NAVWAR) Headquarter (HQ), Comptroller Directorate (Code 1.0) is acquiring accounting support services. NAVWAR 1.0 is responsible for the core comptroller functions for NAVWAR HQ; Program Executive Office (PEO); Command, Control, Communications, Computers and Intelligence (C4I); PEO-Enterprise Information Systems (EIS); PEO SPACE; Fleet Readiness Directorate (FRD); Joint Tactical Networking Center (JTNC); and NAVWAR Space Field Activity. The Comptroller functions include but are not limited to: managing and administering Travel, Payroll, Vendor Pay, Funds Control, Tri-Annual Review (TAR), General Ledger, and Budget Execution. The Contractor shall assist the Comptroller by providing managerial, ac...",
-    "responseDeadline": "2026-02-25T15:30:00-08:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "48496776bfc5421c89473c7783a8f72d",
-    "reason": "Some GIS and technical services though limited DevOps focus.",
-    "overallScore": 24,
-    "title": "A-E Shortlist for USDA-FS, Region 8 and 10, SRS-PNW-IITF Research Stations 2026",
-    "uiLink": "https://sam.gov/workspace/contract/opp/48496776bfc5421c89473c7783a8f72d/view",
-    "descriptionSnippet": "{\"description\":\"<p>Amendment 002.&nbsp; The purpose of amendment 002 is to open the 2026 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2026 through 04/30/2027.&nbsp;</p>\\n\\n<p>Amendment 001.&nbsp; The purpose of amendment 001 is to open the 2025 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2025 through 04/30/2026.&nbsp;</p>\\n\\n<p>*2025 PARTICIPANTS NEED TO RE-CERTIFY THEIR SF330 IS CORRECT AND ACCURATE <em>( 2026 Region 8 SRS Shortlist AE Pool Renewal Certification</em> form attached) BUT <u>DO NOT RESUBMIT A COMPLETE PACKAGE.</u></p>\\n\\n<p><u>** New applicant should complete the package issues in 2026 for the remaining one year.</u></p>\\n\\n<p></p>\\n\\n<p><em><strong>UPDATE: 19 Feb 2026 / 14000 ET&nbsp;&nbsp;</strong></em>Vir...",
-    "responseDeadline": "2026-03-31T12:00:00-08:00",
+    "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
+    "reason": "Modeling and software-related support though likely large and specialized.",
+    "overallScore": 19,
+    "title": "Earth Prediction Innovation Center (EPIC)-Advancing Weather Modeling Skills",
+    "uiLink": "https://sam.gov/workspace/contract/opp/c9ba2896c2e3404fa638750bc27243bf/view",
+    "descriptionSnippet": "{\"description\":\"<p><u>3/2/2026</u> - Please see the attached Amendment 0004 for updated information.&nbsp;This amendment is being provided for informational purposes ONLY and in compliance with FAR Part 5. Per the Phase 1 Advisory Notification dated 2/10/2026 sent to those firms who submitted a proposal for Phase 1,&nbsp;any amendments and revised attachments issued for Phase 2 will only be provided to offerors who provided their intent to participate in Phase 2. Additionally, only questions submitted for Phase 2 from offerors who provided their intent to participate in Phase 2 were answered. <strong>Any proposal submitted in response to this amendment that is NOT from a Phase 2 offeror will not be evaluted and is not eligible for award.</strong></p>\\n\\n<p><u>2/20/2026</u> - Please see ...",
+    "responseDeadline": "2025-08-15T16:00:00-04:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   }
