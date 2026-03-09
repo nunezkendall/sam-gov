@@ -1,79 +1,5 @@
 [
   {
-    "noticeId": "5e9d30cd23924ba39ff1de7bebb773c1",
-    "title": "GITLAB RENEWAL",
-    "solicitationNumber": "N0017326Q0041",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-    "fullParentPathCode": "017.1700.ONR.ONR NRL.N00173",
-    "postedDate": "2026-03-06",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-03-08",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-08T06:00:00-05:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "DA01",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "natalie.f.waugh.civ@us.navy.mil",
-        "phone": "2029231538",
-        "title": null,
-        "fullName": "Natalie Waugh"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "MICHIKO.HOUSTON@NRL.NAVY.MIL",
-        "phone": "",
-        "title": null,
-        "fullName": "MICHIKO HOUSTON"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5e9d30cd23924ba39ff1de7bebb773c1",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20375-5328",
-      "city": "WASHINGTON",
-      "countryCode": "USA",
-      "state": "DC"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "50000",
-        "name": "Washington"
-      },
-      "state": {
-        "code": "DC",
-        "name": "District of Columbia"
-      },
-      "zip": "20375",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5e9d30cd23924ba39ff1de7bebb773c1/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5e9d30cd23924ba39ff1de7bebb773c1&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b29a3182ad504520abccc1ec843ef1e5/download"
-    ]
-  },
-  {
     "noticeId": "ba06b944745c4d94b58798a9238bfafc",
     "title": "Pyxis Anesthesia ES Equipment",
     "solicitationNumber": "36C25526Q0242",
@@ -268,72 +194,6 @@
     ],
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/77376a9abf464031ac93d66e24bb4412/download"
-    ]
-  },
-  {
-    "noticeId": "91cff0260381494e91a52a394b965ae3",
-    "title": "Brand Name HPE Servers and 60-month Warranties",
-    "solicitationNumber": "500022659",
-    "fullParentPathName": "TREASURY, DEPARTMENT OF THE.INTERNAL REVENUE SERVICE.IT STRATEGY AND MODERNIZATION",
-    "fullParentPathCode": "020.2050.2032H5",
-    "postedDate": "2026-03-02",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-03-08",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-06T12:30:00-05:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": null,
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "michelle.m.mcgibbon@irs.gov",
-        "phone": null,
-        "title": null,
-        "fullName": "Michelle McGibbon"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=91cff0260381494e91a52a394b965ae3",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20224",
-      "city": "Washington",
-      "countryCode": "USA",
-      "state": "DC"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "42748",
-        "name": "Kearneysville"
-      },
-      "state": {
-        "code": "WV",
-        "name": "West Virginia"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/91cff0260381494e91a52a394b965ae3/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=91cff0260381494e91a52a394b965ae3&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3b21c0aac3e84485a6aaad989f00ac11/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9f0929681647457bad08d0082602c82c/download"
     ]
   },
   {
@@ -3164,12 +3024,12 @@
     ]
   },
   {
-    "noticeId": "332879b11888481681373d758d55b0d3",
+    "noticeId": "ceb2c3d1f7754d5584d29817d032120f",
     "title": "FTQW261406 Replace Upper Dgst Compressors",
     "solicitationNumber": "261406",
     "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.PACIFIC AIR FORCES.FA5004  354 CONS PK",
     "fullParentPathCode": "057.5700.PACAF.FA5004",
-    "postedDate": "2026-03-06",
+    "postedDate": "2026-03-09",
     "type": "Presolicitation",
     "baseType": "Presolicitation",
     "archiveType": "auto15",
@@ -3202,7 +3062,7 @@
         "fullName": "SrA Christopher Prince"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=332879b11888481681373d758d55b0d3",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ceb2c3d1f7754d5584d29817d032120f",
     "organizationType": "OFFICE",
     "officeAddress": {
       "zipcode": "99702-2200",
@@ -3226,11 +3086,11 @@
       }
     },
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/332879b11888481681373d758d55b0d3/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/ceb2c3d1f7754d5584d29817d032120f/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=332879b11888481681373d758d55b0d3&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ceb2c3d1f7754d5584d29817d032120f&limit=1"
       }
     ],
     "resourceLinks": [
@@ -3238,10 +3098,87 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22a9cba54c034d82919a1121b8a9f5f3/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3961b3c7426c48ee89882d0fd1d1fde1/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/595c30a07b804d3ea76201690f4df494/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f0e17c7152847648d9942457113b164/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/965eab4442a84e8192f83cff06f2ff3d/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c5b768f4e4644b3d88a3b99368cea3dd/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dfe87a22013f4be2ae9cfeeae99fb16e/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e03eb6656266480e8cecb6037aa040ed/download"
+    ]
+  },
+  {
+    "noticeId": "6521007068ad4c868f90eca32a249b4d",
+    "title": "Artillery, Chemical Training (ACT)",
+    "solicitationNumber": "W900KK26R0011",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-ORLANDO.W6QK ACC-ORLANDO",
+    "fullParentPathCode": "021.2100.AMC.ACC.ACC-CTRS.ACC-ORL.W900KK",
+    "postedDate": "2026-03-09",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-03-24",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-09T16:30:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "J069",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "ruth.e.torres10.civ@army.mil",
+        "phone": "520-714-5519",
+        "title": null,
+        "fullName": "Ruth E. Torres"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "david.a.hagler.civ@army.mil",
+        "phone": "520-714-5666",
+        "title": null,
+        "fullName": "David Hagler"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6521007068ad4c868f90eca32a249b4d",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "32826-3224",
+      "city": "ORLANDO",
+      "countryCode": "USA",
+      "state": "FL"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "53000",
+        "name": "Orlando"
+      },
+      "state": {
+        "code": "FL",
+        "name": "Florida"
+      },
+      "zip": "32826",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/6521007068ad4c868f90eca32a249b4d/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=6521007068ad4c868f90eca32a249b4d&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1b3a4658d94e4c6bae6baac250ffa746/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c719fa602e2447d28fb5315d905be2be/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc87387e69dd4c9fa7b81988d0f59239/download"
     ]
   },
   {
@@ -5502,74 +5439,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "cb177170da494062bc2da62c83da9684",
-    "title": "A30 FiberOptic Waterfront Cabling Support",
-    "solicitationNumber": "N0017826R3009",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
-    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00178",
-    "postedDate": "2026-02-06",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2027-02-06",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-13T12:00:00-05:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "H969",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "timothy.c.kawamoto.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Timothy Kawamoto"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "rolanda.y.wallace-taylor.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Rolanda Y. Wallace-Taylor"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=cb177170da494062bc2da62c83da9684",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "22448-5154",
-      "city": "DAHLGREN",
-      "countryCode": "USA",
-      "state": "VA"
-    },
-    "placeOfPerformance": {
-      "state": {
-        "code": "VA",
-        "name": "Virginia"
-      },
-      "zip": "22448",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/cb177170da494062bc2da62c83da9684/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=cb177170da494062bc2da62c83da9684&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
     "noticeId": "dfb6e4ee3c4c44539b3d9da766f28d9f",
     "title": "RAES Synopsis",
     "solicitationNumber": "FA8903-26-R-0011",
@@ -5629,6 +5498,81 @@
       }
     ],
     "resourceLinks": null
+  },
+  {
+    "noticeId": "116e2640cf2242b7b3d0da4e5ebdce44",
+    "title": "Armed Forces Network Go Multi-Platform AoIP App",
+    "solicitationNumber": "HQ0516-FY-26-0003",
+    "fullParentPathName": "DEPT OF DEFENSE.DEFENSE MEDIA ACTIVITY (DMA).HQ DEFENSE MEDIA ACTIVITY",
+    "fullParentPathCode": "097.97F1.HQ0516",
+    "postedDate": "2026-03-09",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-15",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-31T13:00:00-04:00",
+    "naicsCode": "518210",
+    "naicsCodes": [
+      "518210"
+    ],
+    "classificationCode": "7A20",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "nastashia.d.willoughby.civ@mail.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Nastashia Willoughby"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "thomas.j.brown314.civ@mail.mil",
+        "phone": "3012226908",
+        "title": null,
+        "fullName": "Thomas Brown"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=116e2640cf2242b7b3d0da4e5ebdce44",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20755",
+      "city": "FORT MEADE",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "0",
+        "name": "St James"
+      },
+      "state": {
+        "code": "MD",
+        "name": "Maryland"
+      },
+      "zip": "20755",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/116e2640cf2242b7b3d0da4e5ebdce44/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=116e2640cf2242b7b3d0da4e5ebdce44&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0c39ab927c64278a50e1e95b12c8a32/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f55a21f434264fc6b86d7b65c6f59f2c/download"
+    ]
   },
   {
     "noticeId": "0e8797d5772443529060131f4c572bfc",
