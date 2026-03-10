@@ -3,191 +3,184 @@
     {
       "noticeId": "01f9c95ce6634e2fb98d389b076f9f5a",
       "relevance": 5,
-      "ease": 60,
-      "overall": 27,
-      "rationale": "Social media and graphic design services unrelated to core IT/DevOps focus."
+      "ease": 70,
+      "overall": 31,
+      "rationale": "Social media and graphic design services, minimal DevOps or cloud relevance."
     },
     {
       "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
-      "relevance": 40,
+      "relevance": 35,
       "ease": 20,
-      "overall": 32,
-      "rationale": "IT hardware/software reseller IDIQ; some IT relevance but large, complex multi-award vehicle."
+      "overall": 29,
+      "rationale": "IT hardware/software and cloud reselling IDIQ, but large multi-award vehicle likely complex."
     },
     {
       "noticeId": "110209fafe30416fa12ef1d51af98bb8",
-      "relevance": 65,
-      "ease": 55,
-      "overall": 61,
-      "rationale": "Server and remote monitoring system aligns with IT infrastructure skills; BPA scope unclear but manageable."
+      "relevance": 55,
+      "ease": 40,
+      "overall": 49,
+      "rationale": "Server and remote monitoring system aligns with DevOps/Linux, moderate BPA scope."
     },
     {
       "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
-      "relevance": 35,
+      "relevance": 20,
       "ease": 30,
-      "overall": 33,
-      "rationale": "Computer facilities management RFI; general IT relevance but hardware-focused and likely broad scope."
+      "overall": 24,
+      "rationale": "Endpoint hardware management RFI, limited direct AWS/DevOps focus."
     },
     {
       "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
-      "relevance": 60,
-      "ease": 15,
-      "overall": 42,
-      "rationale": "Software development and modeling effort relevant to engineering skills but large phased procurement."
+      "relevance": 40,
+      "ease": 10,
+      "overall": 28,
+      "rationale": "Software and modeling support under phased large NOAA effort, high complexity."
     },
     {
       "noticeId": "ceb3e31fc3454c5c831de4b4f1ea891e",
-      "relevance": 20,
+      "relevance": 10,
       "ease": 0,
-      "overall": 12,
-      "rationale": "QGIS improvements canceled; no opportunity."
+      "overall": 6,
+      "rationale": "QGIS improvements canceled, no opportunity."
     },
     {
       "noticeId": "ae4c8321790d4bc58805ea5654c43437",
-      "relevance": 10,
+      "relevance": 5,
       "ease": 40,
-      "overall": 22,
-      "rationale": "Energy and minerals consulting unrelated to AWS/DevOps focus."
+      "overall": 19,
+      "rationale": "Energy and minerals consulting, not IT/DevOps focused."
     },
     {
       "noticeId": "33d0869ebcb9439da8f957e09de43791",
-      "relevance": 5,
+      "relevance": 0,
       "ease": 30,
-      "overall": 15,
-      "rationale": "Medical physics services not aligned with IT capabilities."
+      "overall": 12,
+      "rationale": "Medical physics services unrelated to IT capabilities."
     },
     {
       "noticeId": "90b9275dc5144fb6aca8d37b9fbadc02",
-      "relevance": 10,
-      "ease": 25,
-      "overall": 16,
-      "rationale": "Industrial district planning is engineering planning, not IT/DevOps."
+      "relevance": 0,
+      "ease": 20,
+      "overall": 8,
+      "rationale": "Industrial district planning, no IT relevance."
     },
     {
       "noticeId": "a35f6dbccd90468e8d9370040fbae0a7",
       "relevance": 25,
       "ease": 10,
       "overall": 19,
-      "rationale": "Router modernization tied to OASIS+ and CUI; likely complex and restricted."
+      "rationale": "Router modernization under restricted vehicle, hardware-focused and access-limited."
     },
     {
       "noticeId": "c4db50dbe927452ca37ee8a72f612594",
-      "relevance": 5,
+      "relevance": 0,
       "ease": 10,
-      "overall": 7,
-      "rationale": "Highway and bridge A-E services unrelated to IT focus."
+      "overall": 4,
+      "rationale": "Highway and bridge engineering MATOC, unrelated to IT services."
     },
     {
       "noticeId": "e73f5fe650384121a082c4850475a799",
-      "relevance": 5,
+      "relevance": 0,
       "ease": 5,
-      "overall": 5,
-      "rationale": "Large A-E MATOC for MILCON; not IT-related."
+      "overall": 2,
+      "rationale": "Large A-E construction MATOC, not IT-related."
     },
     {
       "noticeId": "e6574ed3b4ae4ae7bd80c406421adb42",
-      "relevance": 5,
-      "ease": 10,
-      "overall": 7,
-      "rationale": "Facilitation and A-E services unrelated to core IT skills."
+      "relevance": 0,
+      "ease": 5,
+      "overall": 2,
+      "rationale": "A-E facilitation services, unrelated to IT/DevOps."
     },
     {
       "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-      "relevance": 55,
-      "ease": 20,
-      "overall": 41,
-      "rationale": "Tactical networks and software development relevant to IT, but limited to SeaPort holders and likely complex."
-    },
-    {
-      "noticeId": "96e1be96b369433ea543969c91f97bef",
-      "relevance": 15,
-      "ease": 25,
-      "overall": 19,
-      "rationale": "Accounting support services; minimal alignment with DevOps/AWS focus."
-    },
-    {
-      "noticeId": "fbd42cc018f4464d860e1c19a900ba5c",
-      "relevance": 5,
-      "ease": 35,
-      "overall": 17,
-      "rationale": "Engineering recertification services unrelated to IT automation."
-    },
-    {
-      "noticeId": "e8d30f9553c84339802369b4365a7713",
       "relevance": 50,
       "ease": 15,
       "overall": 36,
-      "rationale": "Systems engineering and integration with software elements; likely large and defense-complex."
+      "rationale": "Tactical network software services relevant to IT, but restricted to SeaPort-NxG holders."
+    },
+    {
+      "noticeId": "96e1be96b369433ea543969c91f97bef",
+      "relevance": 5,
+      "ease": 30,
+      "overall": 15,
+      "rationale": "Accounting support services, minimal alignment with technical stack."
+    },
+    {
+      "noticeId": "fbd42cc018f4464d860e1c19a900ba5c",
+      "relevance": 0,
+      "ease": 20,
+      "overall": 8,
+      "rationale": "Engineering recertification services, not IT-focused."
+    },
+    {
+      "noticeId": "e8d30f9553c84339802369b4365a7713",
+      "relevance": 45,
+      "ease": 15,
+      "overall": 33,
+      "rationale": "Engineering and integration services with software elements, likely large and complex."
     },
     {
       "noticeId": "48496776bfc5421c89473c7783a8f72d",
       "relevance": 10,
-      "ease": 20,
-      "overall": 14,
-      "rationale": "A-E shortlist for facilities and engineering; not IT-focused."
-    },
-    {
-      "noticeId": "f975673fd21e46699e4096649c2abe3d",
-      "relevance": 45,
-      "ease": 15,
-      "overall": 33,
-      "rationale": "Systems engineering with networking and software; relevant but broad and likely large-scale."
+      "ease": 25,
+      "overall": 16,
+      "rationale": "A-E shortlist database, primarily engineering design services."
     },
     {
       "noticeId": "15f6cf3e8fed4fbbbd152664b6d7f73e",
-      "relevance": 10,
+      "relevance": 5,
       "ease": 20,
-      "overall": 14,
-      "rationale": "Construction management services unrelated to IT/DevOps."
+      "overall": 11,
+      "rationale": "Construction management services, not aligned with AWS/DevOps focus."
     },
     {
       "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
       "relevance": 30,
-      "ease": 50,
-      "overall": 38,
-      "rationale": "SaaS license subscription; IT-related but primarily product resale, moderate effort."
+      "ease": 60,
+      "overall": 42,
+      "rationale": "Cloud-based digital platform subscription aligns with SaaS/cloud experience and manageable scope."
     }
   ],
   "top10": [
     {
       "noticeId": "110209fafe30416fa12ef1d51af98bb8",
-      "reason": "IT server and remote monitoring BPA closely aligned with infrastructure skills and manageable scope."
-    },
-    {
-      "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
-      "reason": "Software and modeling development relevant to engineering capabilities despite size."
-    },
-    {
-      "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-      "reason": "Tactical network and software development aligns with IT expertise though contract vehicle restricted."
+      "reason": "Server and remote monitoring system aligns with Linux/DevOps capabilities and moderate scope."
     },
     {
       "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
-      "reason": "Digital platform subscription within IT domain and relatively straightforward procurement."
+      "reason": "Cloud-based SaaS platform subscription, manageable for small IT team."
+    },
+    {
+      "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
+      "reason": "Network software services relevant to IT though vehicle-restricted."
     },
     {
       "noticeId": "e8d30f9553c84339802369b4365a7713",
-      "reason": "Systems engineering and integration includes software elements relevant to DevOps skills."
+      "reason": "Software engineering and integration draft RFP relevant but complex."
     },
     {
-      "noticeId": "f975673fd21e46699e4096649c2abe3d",
-      "reason": "Engineering support with networking and system administration components."
-    },
-    {
-      "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
-      "reason": "Computer facilities management RFI with some IT operational relevance."
+      "noticeId": "01f9c95ce6634e2fb98d389b076f9f5a",
+      "reason": "Low technical fit but small-business set-aside and manageable scope."
     },
     {
       "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
-      "reason": "IT hardware/software procurement vehicle relevant but complex and competitive."
+      "reason": "IT hardware/software and cloud services vehicle though large and competitive."
+    },
+    {
+      "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
+      "reason": "Software-related NOAA effort but phased and likely resource-intensive."
+    },
+    {
+      "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
+      "reason": "IT facilities management RFI with partial alignment to infrastructure skills."
     },
     {
       "noticeId": "a35f6dbccd90468e8d9370040fbae0a7",
-      "reason": "Router modernization touches networking though access and complexity are high."
+      "reason": "Router modernization IT-related but access-restricted and hardware-centric."
     },
     {
       "noticeId": "96e1be96b369433ea543969c91f97bef",
-      "reason": "Enterprise support context within NAVWAR environment though primarily accounting-focused."
+      "reason": "Low alignment but small support services contract with manageable scope."
     }
   ]
 }
