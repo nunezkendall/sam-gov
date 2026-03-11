@@ -1,5 +1,169 @@
 [
   {
+    "noticeId": "c18853122a234b88ad7c30b28fcf6606",
+    "title": "Envitia Software Renewal",
+    "solicitationNumber": "FD2399-2600117",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-11",
+    "responseDeadline": "2026-03-16T15:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMMAND, CONTROL, COMMUNICATIONS & BATTLE MANAGEMENT.FA8527  AFLCMC C3IAK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Warner Robins",
+      "state": "Georgia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c18853122a234b88ad7c30b28fcf6606/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c18853122a234b88ad7c30b28fcf6606",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1be0e4a6d11c4ae19d69cc955b045bf9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa96c48d5c344e92ba38dcefaedd6127/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Envitia&#39;s MapLink Pro is a suite of powerful SDKs that enables developers to quickly build and deploy high-performance mapping and terrain visualization systems. Leveraged by the majority of the world&#39;s largest systems integrators where high performance map visualization within situational awareness is mission-critical, MapLink Pro is the &ldquo;visualization toolkit of choice&rdquo; for the management and display of geospatial and live track data.<br />\\n&nbsp;<br />\\nMapLink Pro is the dynamic mapping visualization engine underpinning some the world&#39;s most well-known C2 and ISR applications. These deployments range from strategic SIGINT platforms and operational surveillance assets, to tactical mission planning and air defense systems.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>Envitia&#39;s MapLink Pro is a suite of powerful SDKs that enables developers to quickly build and deploy high-performance mapping and terrain visualization systems. Leveraged by the majority of the world&#39;s largest systems integrators where high performance map visualization within situational awareness is mission-critical, MapLink Pro is the &ldquo;visualization toolkit of choice&rdquo; for the management and display of geospatial and live track data.<br />\\n&nbsp;<br />\\nMapLink Pro is the dynamic mapping visualization engine underpinning some the world&#39;s most well-known C2 and ISR applications. These deployments range from strategic SIGINT platforms and operational surveillance assets, to tactical mission planning and air defense systems.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1be0e4a6d11c4ae19d69cc955b045bf9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 17904,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa96c48d5c344e92ba38dcefaedd6127/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 50571,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Georgia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "264b0685ad7047a8be2515b1fc1dd9c9",
+    "title": "USGS Water Quality Instruments",
+    "solicitationNumber": "140G0126Q0064",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-10",
+    "responseDeadline": "2026-03-17T13:00:00-04:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFC OF ACQUSITION  GRANTS-NATIONAL",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/264b0685ad7047a8be2515b1fc1dd9c9/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=264b0685ad7047a8be2515b1fc1dd9c9",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6988c317ba9a4f659ba8bf97ec5eb30a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3f585044e3f45138b2dc3c37f3a121e/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"This is an announcement directing interested parties to the FedBizOpps (FBO) web page at https://sam.gov/ where details of U.S. Geological Survey (USGS) Request for Quote (RFQ) 140G0126Q0064 may be viewed. This RFQ constitutes the only solicitation. <br/> <br/>Discounted Open Market Firm-Fixed Price quotation packages are being requested for one (1) water quality sonde and one (1) multiparameter water quality meter equal to or better than the YSI EXO3 water quality sonde and ProDSS multiparameter water meter. The posted RFQ contains a description of the Statement of Work, Instructions to Vendors, and applicable clauses. <br/> <br/>All vendors who can meet this requirement, have a valid Unique Entity Identifier (UEI) and are registered in SAM are invited to submit electro...",
+    "descriptionFull": "{\"description\":\"This is an announcement directing interested parties to the FedBizOpps (FBO) web page at https://sam.gov/ where details of U.S. Geological Survey (USGS) Request for Quote (RFQ) 140G0126Q0064 may be viewed. This RFQ constitutes the only solicitation.  <br/> <br/>Discounted Open Market Firm-Fixed Price quotation packages are being requested for one (1) water quality sonde and one (1) multiparameter water quality meter equal to or better than the YSI EXO3 water quality sonde and ProDSS multiparameter water meter. The posted RFQ contains a description of the Statement of Work, Instructions to Vendors, and applicable clauses. <br/> <br/>All vendors who can meet this requirement, have a valid Unique Entity Identifier (UEI) and are registered in SAM are invited to submit electronic quotes for this posted RFQ.  <br/> <br/>All questions shall be submitted to the contract specialist via email at miranda_blankenship@ios.doi.gov, no later than 1:00 PM EST, Friday, March 13, 2026.   <br/> <br/>Quotation Packages are due via email to miranda_blankenship@ios.doi.gov no later than 1:00PM EST, Tuesday, March 17, 2026.<br/><br/>\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6988c317ba9a4f659ba8bf97ec5eb30a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 208911,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3f585044e3f45138b2dc3c37f3a121e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 308137,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "01f9c95ce6634e2fb98d389b076f9f5a",
     "title": "Social Media Manager",
     "solicitationNumber": "W911S8-26-Q-1B93",
@@ -385,6 +549,72 @@
     "updatedDate": null
   },
   {
+    "noticeId": "e55570576594442da264a129cb79a356",
+    "title": "California Abandoned Mine Lands Agency Group (CAMLAG) Database Application Phase 3",
+    "solicitationNumber": "",
+    "type": "Special Notice",
+    "baseType": "Sources Sought",
+    "naicsCode": "541511",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-10",
+    "responseDeadline": "",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH PACIFIC.ENDIST SACRAMENTO.W075 ENDIST SACRAMENTO",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Sacramento",
+      "state": "California",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/e55570576594442da264a129cb79a356/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e55570576594442da264a129cb79a356",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>Subject: <u>Update to Sources Sought Notice No. W9123826S0005 - AMLDB Web Application Update</u></strong></p>\\n\\n<p>This notice is to provide an update to the Sources Sought Notice No. W9123826S0005 for the project involving the update of the AMLDB Web Application and related AML GIS system components.</p>\\n\\n<p>Please be advised that the solicitation, originally anticipated for release in January 2025, has been delayed. The U.S. Army Corps of Engineers (USACE) is currently discussing the path forward for this requirement. There is no definitive date of solicitation in the near future.</p>\\n\\n<p>We appreciate the interest and responses received for this market research effort. Please continue to monitor SAM.gov for updates.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p><strong>Subject: <u>Update to Sources Sought Notice No. W9123826S0005 - AMLDB Web Application Update</u></strong></p>\\n\\n<p>This notice is to provide an update to the Sources Sought Notice No. W9123826S0005 for the project involving the update of the AMLDB Web Application and related AML GIS system components.</p>\\n\\n<p>Please be advised that the solicitation, originally anticipated for release in January 2025, has been delayed. The U.S. Army Corps of Engineers (USACE) is currently discussing the path forward for this requirement. There is no definitive date of solicitation in the near future.</p>\\n\\n<p>We appreciate the interest and responses received for this market research effort. Please continue to monitor SAM.gov for updates.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": []
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "California"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
     "title": "Earth Prediction Innovation Center (EPIC)-Advancing Weather Modeling Skills",
     "solicitationNumber": "1305M325R0014",
@@ -495,6 +725,72 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
+    "title": "Iron Bank Container Analysis Requirement",
+    "solicitationNumber": "IronBankCAT",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541511",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-11",
+    "responseDeadline": "",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMMAND, CONTROL, COMMUNICATIONS & BATTLE MANAGEMENT.FA8307  AFLCMC HNCK C3IN",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "San Antonio",
+      "state": "Texas",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ec332587105e4fbb8ff0e0f16196cb40/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ec332587105e4fbb8ff0e0f16196cb40",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Texas"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -743,6 +1039,194 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "81115a2634b749898a5cd2ecb110a167",
+    "title": "A&E Industrial District Plan",
+    "solicitationNumber": "261200",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-11",
+    "responseDeadline": "2026-04-10T13:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.PACIFIC AIR FORCES.FA5004  354 CONS PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Eielson AFB",
+      "state": "Alaska",
+      "zip": "99702"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/81115a2634b749898a5cd2ecb110a167/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=81115a2634b749898a5cd2ecb110a167",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ff93ba1c2ff41e5b6a9b395eeb3c4d1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/320b0a183358499aa8c88ff13c9ac74b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4863104ef6874c45bce051a8829866db/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/820f696ff1b94e928c86150a8d2dc517/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8527d124bc744d8f8dc2eeffa7a04e43/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a7e5e9e3bbc84c48a7e126afcb22c9fd/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aedac22267bd401d9ba144058295e0b2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ece0f17478b54eeb8ed960e452c8f58c/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The 354th Eielson Contracting Squadron is seeking qualification packages for A&amp;E service for the project below:&nbsp;</p>\\n\\n<p>The Architect-Engineer (A-E) shall conduct master planning support to include services to develop the Industrial District Plan at Eielson Air Force Base (AFB), by collecting the most recent data and working with installation participants, mission partners, and stakeholders in a 4-day site visit and collaborative planning workshop to update the existing Installation Development Pan (IDP) recommendations as required to meet current and future mission requirements. This Statement of Work (SOW) defines the A-E services to provide a district plan, and required supporting documentation, for the Industrial District at Eielson (AFB), Alaska.</p>\\...",
+    "descriptionFull": "{\"description\":\"<p>The 354th Eielson Contracting Squadron is seeking qualification packages for A&amp;E service for the project below:&nbsp;</p>\\n\\n<p>The Architect-Engineer (A-E) shall conduct master planning support to include services to develop the Industrial District Plan at Eielson Air Force Base (AFB), by collecting the most recent data and working with installation participants, mission partners, and stakeholders in a 4-day site visit and collaborative planning workshop to update the existing Installation Development Pan (IDP) recommendations as required to meet current and future mission requirements. This Statement of Work (SOW) defines the A-E services to provide a district plan, and required supporting documentation, for the Industrial District at Eielson (AFB), Alaska.</p>\\n\\n<p>The A-E is responsible for providing all research, investigation, estimating, planning, and supporting information required to prepare the District Plan and related documents. All planning considerations and subsequent construction activities produced from the District Plan must follow all applicable codes and laws governing the repair of Air Force Real Property assets identified in Section 1.6. The current version of all applicable codes and laws at the time of contract award will apply. It is the responsibility of the A-E to confirm with 354 CES Programming (354 CEN/CENP) what versions are valid for the District Plan.<br />\\nThe District Plan to support the development of the requirements for the Industrial District will have at a minimum, the following items:<br />\\n&bull; Illustrative Plan<br />\\n&bull; Execution Plan<br />\\n&bull; Capacity Plan<br />\\n&bull; Regulating Plan<br />\\n&bull; Executive Summary</p>\\n\\n<p>The contract schedule set fourth in the statement of work requires a delivery within 365 calendar days.&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ff93ba1c2ff41e5b6a9b395eeb3c4d1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 815947,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/320b0a183358499aa8c88ff13c9ac74b/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 130312,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4863104ef6874c45bce051a8829866db/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 80384,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/820f696ff1b94e928c86150a8d2dc517/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 416895,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8527d124bc744d8f8dc2eeffa7a04e43/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 213965,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "AWS",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Alaska"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "d6abb9f0bfe9416ca983319ec7e1aff1",
+    "title": "Sources Sought Announcement for Construction Inspection Services",
+    "solicitationNumber": "693C73-26-SS-0007",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-10",
+    "responseDeadline": "2026-03-31T14:00:00-04:00",
+    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693C73 EASTERN FED LANDS DIVISION",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "3320",
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/d6abb9f0bfe9416ca983319ec7e1aff1/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d6abb9f0bfe9416ca983319ec7e1aff1",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/095d38d088864689b28d6cc6ce6c9c47/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a Sources Sought Announcement and is for information purposes only. THIS IS NOT A REQUEST FOR PROPOSALS, QUOTATIONS, OR BIDS. NO SOLICITATION IS CURRENTLY AVAILABLE. The purpose of this announcement is to determine the availability and capability of qualified SMALL BUSINESSES for potential Indefinite Delivery Indefinite Quantity Contracts (IDIQC) for providing Construction Inspection and related engineering and professional services under NAICS 541330 - Engineering Services.</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD), anticipates awarding one or more Indefinite Delivery Indefinite Quantity Contracts (IDIQC) for the provision of Construction Inspection services and related technical support services on be...",
+    "descriptionFull": "{\"description\":\"<p>This is a Sources Sought Announcement and is for information purposes only. THIS IS NOT A REQUEST FOR PROPOSALS, QUOTATIONS, OR BIDS. NO SOLICITATION IS CURRENTLY AVAILABLE. The purpose of this announcement is to determine the availability and capability of qualified SMALL BUSINESSES for potential Indefinite Delivery Indefinite Quantity Contracts (IDIQC) for providing Construction Inspection and related engineering and professional services under NAICS 541330 - Engineering Services.</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD), anticipates awarding one or more Indefinite Delivery Indefinite Quantity Contracts (IDIQC) for the provision of Construction Inspection services and related technical support services on behalf of Federal Land Management Agencies (FLMA) such as the National Park Service (NPS), the U.S. Forest Service (USFS), the U.S. Fish and Wildlife Service (FWS), the U.S. Army Corps of Engineers (USACE), the Bureau of Land Management (BLM), etc. for properties under FLMA management and administration that are LOCATED IN ALL FIFTY (50) UNITED STATES AND U.S. TERRITORIES.</p>\\n\\n<p>The anticipated services include Construction Inspection and other engineering and professional services for the administration, oversight, and support of construction contracts performed by Eastern Federal Lands (EFL) on behalf of Federal Land Management Agencies (FLMA). Work may include inspection and documentation of highway and bridge construction activities, monitoring contractor compliance with plans, specifications, and contract requirements, review of contractor submittals, materials inspection coordination, safety and environmental compliance monitoring, progress documentation, schedule monitoring, and other related construction inspection and contract administration services as required. Construction projects supported under these contracts may include highway and roadway construction and rehabilitation, pavement rehabilitation, bridge repair or replacement, drainage improvements, erosion and sediment control measures, traffic control, signage installation, safety improvements, and other transportation related infrastructure improvements.</p>\\n\\n<p>The resulting contract(s) are anticipated to include one base year with four one-year options and a six-month option extension with a maximum not-to-exceed amount of $60 million over this five-year period.</p>\\n\\n<p>The number of IDIQ contracts to be awarded is undetermined at this time, and any contract award will be made no earlier than April 2027.</p>\\n\\n<p>All work will be done under the supervision of a Licensed Professional Engineer.</p>\\n\\n<p>QUALIFIED PRIME CONTRACTORS shall submit the following information by e-mail to EFLHD.AE@dot.gov (Attn: Helson Roman ) no later than 2:00PM (EST) on March 31, 2026.:</p>\\n\\n<ol>\\n\\t<li>A positive statement of your intention to submit an offer in response to the solicitation as a Prime Contractor when it is issued.</li>\\n\\t<li>Provide your full business name, address, point of contact, phone number, e-mail address, and web site (if any). If a member of a joint venture (JV), include relevant information from both members of the JV.</li>\\n\\t<li>Provide your Unique Entity ID (UEI) and Commercial and Government Entity (CAGE) Code. If a member of a joint-venture (JV) or mentor prot&eacute;g&eacute; agreement with the SBA, please provide information on both members.</li>\\n\\t<li>Identify your firm&rsquo;s size standard under NAICS 541330 &ndash; Engineering Services ($25.5 Million). All firms shall be certified and registered under NAICS code 541330 in the System for Award Management (SAM) located at https://www.sam.gov at the time an offer is submitted in response to any solicitation.</li>\\n\\t<li>Identify <strong><em>all applicable classifications</em></strong> for your firm such as: large business; small business; woman-owned small business; 8(a) small business; small-disadvantaged business; HUBZone small business; service-disabled veteran-owned small business; etc. This information must be provided to determine whether the &quot;Rule of 2&quot; has been met for any socio-economic category for set-aside purposes. Please note that the size of a small business firm includes all parents, subsidiaries, affiliates, etc. Refer to the Code of Federal Regulations 13 CFR 121.103 for information on how the SBA determines affiliation and 13 CFR 121.108 regarding the penalties for misrepresentation of size status. If a member of a joint venture (JV), include relevant information from both members of the JV.</li>\\n\\t<li>Describe your firm&rsquo;s ability to perform at least 50% of the cost of contract performance effort with its own workforce as a small business prime contractor per FAR Clause 52.219-14 Limitations on Subcontracting.</li>\\n\\t<li>Does your firm have experience within the past 5 years in performing a contract of this magnitude and complexity consisting of Construction Inspection services for highway, bridge, or transportation infrastructure projects? Provide examples including a brief description of the project(s), customer name(s), timelines of performance, project location(s), customer satisfaction, and dollar value of the project(s). Clearly describe the role of your firm on each example project. If a member of a joint venture, the offeror should include relevant information from both members of the JV.</li>\\n</ol>\\n\\n<p><strong>RESPONSES TO THIS SOURCES SOUGHT ANNOUNCEMENT SHALL BE LIMITED TO NO MORE THAN 10 PAGES</strong>, single-spaced, with font size 12 or larger using Times New Roman or Arial. Page margins no smaller than 1&rdquo; and page size shall be no greater than 8.5&rdquo; x 11.&rdquo;</p>\\n\\n<p>Submissions shall be provided in electronic format readable and searchable by Adobe Acrobat or Microsoft Word.</p>\\n\\n<p>Do NOT submit resumes, marketing material, slide presentations, or technical papers.</p>\\n\\n<p><strong>Please reference &ldquo;Sources Sought Announcement No. 693C73-26-SS-0007&rdquo; Construction Inspection Services IDIQ&rdquo; in the subject line of your email.</strong></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/095d38d088864689b28d6cc6ce6c9c47/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 162473,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
     "updatedDate": null
   },
   {
