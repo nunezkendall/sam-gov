@@ -82,6 +82,90 @@
     "updatedDate": null
   },
   {
+    "noticeId": "5b17357dc69943ef9e39e37b800b39a7",
+    "title": "DG10--RFI to SAM.gov -- Medialab Maint. Of Cert & Reg Compliance  Software.",
+    "solicitationNumber": "36C24126Q0329",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-11",
+    "responseDeadline": "2026-03-27T12:00:00-04:00",
+    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.241-NETWORK CONTRACT OFFICE 01 (36C241)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5b17357dc69943ef9e39e37b800b39a7/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5b17357dc69943ef9e39e37b800b39a7",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ecee49041c457fa617dddd2758321d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61092b3e179a4670b35b7f74f7dd15f9/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"Sources Sought Notice 36C241-26-Q-0329\\nVISN 1 Laboratory/Pathology Department is seeking Software as a Service for Continuing Education, Competency Assessment, Document Control, Maintenance of Certification & Regulatory Compliance.\\n\\nTHIS IS A SOURCES SOUGHT NOTICE ONLY FOR VISN 1: This announcement is seeking information from the industry, which will be used for preliminary planning purposes for a One Year procurement with four (4) One Year Options. No proposals are being requested or accepted with this synopsis. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT SHALL BE AWARDED FROM THIS SYNOPSIS. THIS IS STRICTLY MARKET RESEARCH. \\n\\nThe purpose of this synopsis is to gain knowledge of interest, capabilities, and qualifications of various members of industry,...",
+    "descriptionFull": "{\"description\":\"Sources Sought Notice   36C241-26-Q-0329\\nVISN 1 Laboratory/Pathology Department is seeking Software as a Service for Continuing Education, Competency Assessment, Document Control, Maintenance of Certification & Regulatory Compliance.\\n\\nTHIS IS A SOURCES SOUGHT NOTICE ONLY FOR VISN 1: This announcement is seeking information from the industry, which will be used for preliminary planning purposes for a One Year procurement with four (4) One Year Options. No proposals are being requested or accepted with this synopsis. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT SHALL BE AWARDED FROM THIS SYNOPSIS.  THIS IS STRICTLY MARKET RESEARCH. \\n\\nThe purpose of this synopsis is to gain knowledge of interest, capabilities, and qualifications of various members of industry, who have the capability and are authorized to as a manufacturer and or distributor for this software, this is for a firm-fixed-price one (1) year contract with four (4) one-year options.    \\n\\nThe intent of this Sources Sought is to identify vendors in the open market or on contract who can fulfill the requirements as stated in the Performance Work Statement (PWS)included below. All items for the resulting contract shall be furnished by the selected vendor in accordance with the PWS. This notice is published to conduct market research to determine if there are a sufficient number of vendors in the open market or on contract who can supply this requirment in aggregate, while affording competition to the fullest extent possible.\\n\\nThis request is new and for a short duration. The turnaround time will be short to meet the need.   \\n\\nAll interested firms must be registered in SAM (System for Award Management) to be eligible for award of Government contracts. Interested parties responding to this Sources Sought request shall submit the following information at a minimum:\\n\\nCompany name and address point of contact with phone number, and DUNS number. \\n\\nDocumentation relating to capability of performance including the current point of contact and phone number. \\n\\nSocio-economic status to identify business class as being a large business, SDVOSB, VOSB, small business, Woman Owned, etc. \\n\\nAny other pertinent company documentation, prior to submission of offers to a solicitation. \\n\\n\\nAny SD/VOSB firms responding to this Sources Sought Notice must also provide proof of registration in the VA VetBiz or SBA Vet Cert, prior to submission of offers to a solicitation.\\n\\nThis market research is for informational and planning purposes. This is not a solicitation and does not obligate the Government to issue a solicitation. Please be advised the Government will not pay any costs for responses and information submitted.  All submissions are acceptable via julie.lemire1@va.gov.\\n    \\nRESULTS INFORMATION: Respondents will not be notified of the results, and it is at the discretion of the Government to utilize results. Firms responding to this Sources Sought announcement, who fail to meet all requirements as stated above, and who fail to provide ALL the required information requested, will not be used to help the Government make the acquisition decision, which is the intent of this source s sought announcement.\\n\\nPlease see attached - Performance Work Statement\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ecee49041c457fa617dddd2758321d/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 231709,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61092b3e179a4670b35b7f74f7dd15f9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 19267,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "264b0685ad7047a8be2515b1fc1dd9c9",
     "title": "USGS Water Quality Instruments",
     "solicitationNumber": "140G0126Q0064",
@@ -794,6 +878,95 @@
     "updatedDate": null
   },
   {
+    "noticeId": "bf17aa33b2f5402c88da46e66c8686ac",
+    "title": "INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES",
+    "solicitationNumber": "1131PL26R0015",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-12",
+    "responseDeadline": "2026-03-30T13:00:00-04:00",
+    "agency": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Arlington",
+      "state": "Virginia",
+      "zip": "22209"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/bf17aa33b2f5402c88da46e66c8686ac/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bf17aa33b2f5402c88da46e66c8686ac",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4890ba150ee94727bdd6d67b2dada04a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98544629ace64ac599950721e6f1f420/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><u><strong>AMENDMENT 00002</strong></u> -&nbsp; RESPONDING (IN BOLD) TO QUESTIONS RECEIVED FOR SOLICITATION NUMBER: 1131PL26RQ0015.(SEE ATTACHMENT 1131PL26RQ0015 A00002)&nbsp; ALL ELSE REMAIN UNCHANGED.&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong><u>AMENDMENT 0001</u>&nbsp;:&nbsp; REVISED TITLE AND PERFORMANCE WORK STATEMENT (PWS)&nbsp;</strong></p>\\n\\n<p><strong>REVISED TITLE:&nbsp;</strong><strong>&nbsp;INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES</strong></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> <strong>1131PL26RQ0015</strong></p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MARCH 2, 2026</strong></p>\\n\\n<p><strong>CLOSING DATE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n...",
+    "descriptionFull": "{\"description\":\"<p><u><strong>AMENDMENT 00002</strong></u> -&nbsp; RESPONDING (IN BOLD) TO QUESTIONS RECEIVED FOR SOLICITATION NUMBER: 1131PL26RQ0015.(SEE ATTACHMENT 1131PL26RQ0015 A00002)&nbsp; ALL ELSE REMAIN UNCHANGED.&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong><u>AMENDMENT 0001</u>&nbsp;:&nbsp; REVISED TITLE AND PERFORMANCE WORK STATEMENT (PWS)&nbsp;</strong></p>\\n\\n<p><strong>REVISED TITLE:&nbsp;</strong><strong>&nbsp;INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES</strong></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> <strong>1131PL26RQ0015</strong></p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MARCH 2, 2026</strong></p>\\n\\n<p><strong>CLOSING DATE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;<strong> MARCH 30, 2026, 1:00 PM, Arlington, VA Time</strong></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulation (FAR) Part 12 and procedures in Subpart 15.3 as supplemented with additional information included in this notice. This announcement constitutes the only RFP; offers are being requested and a written solicitation will not be issued.</p>\\n\\n<p>This procurement is <strong>SET-ASIDE FOR SMALL BUSINESSES </strong>under <strong>NAICS Code 541690</strong>, Other Scientific and Technical Consulting Services. Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Contractor use of subcontractors is limited to less than fifty percent of the proposed price. &nbsp;</p>\\n\\n<p>THE FOLLOWING ITEMS REPRESENT THE &quot;PROPOSAL PACKAGE&quot; THAT SHOULD BE RETURNED IN RESPONSE TO THIS SOLICITATION (Addendum to FAR 52.212-1, Instructions to Offerors &ndash; Commercial Items (SEP 2023)).</p>\\n\\n<p>According to FAR 52-204-7 (b)&nbsp;(1)&nbsp;An&nbsp;Offeror&nbsp;is required to be registered in SAM when submitting an&nbsp;offer&nbsp;or quotation and&nbsp;shall&nbsp;continue to be registered until time of award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this&nbsp;solicitation. &nbsp;&nbsp;All Offerors must be registered and have an active status in the SAM database (www.SAM.gov) in order to be eligible for contract award. Offerors are reminded that failure to properly enroll in the SAM database and provide accurate information shall make an offeror ineligible for award as described in FAR 52.204-7. &nbsp;</p>\\n\\n<p>Should you have any questions, please send them to this office not later than <strong>1:00 p.m., Eastern Time (ET) Monday, March 9, 2026. </strong>Send your questions by email to <u>contractproposals@ustda.gov</u> and <u>tjohnson@ustda.gov</u> <strong>. </strong>Questions submitted by facsimile or to alternate email addresses will NOT be accepted.<u> </u><strong><u>No phone</u> calls will be accepted.</strong></p>\\n\\n<p>Any contract awarded to a Contractor who at the time of award was suspended, debarred, and ineligible for receipt of contract with Government Agencies or is in receipt of a notice of proposed debarment from any Government Agency, is voidable at the option of the Government.</p>\\n\\n<p>Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Enclosed are the following sections, which contains all information necessary to respond to this RFP:</p>\\n\\n<p>1. Section B &ndash; Schedule of Supplies/Services,</p>\\n\\n<p>2. Section C &ndash; Contract Clauses,</p>\\n\\n<p>3. Section D &ndash; Any Contract Documents, Exhibits and Attachment, and</p>\\n\\n<p>4. Section E &ndash; Instructions to Offerors.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 167503,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4890ba150ee94727bdd6d67b2dada04a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 939543,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98544629ace64ac599950721e6f1f420/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 293780,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "ceb3e31fc3454c5c831de4b4f1ea891e",
     "title": "D--QGIS IMPROVEMENTS",
     "solicitationNumber": "140G0326Q0054",
@@ -883,88 +1056,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "ae4c8321790d4bc58805ea5654c43437",
-    "title": "INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES",
-    "solicitationNumber": "1131PL26R0015",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541690",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-04",
-    "responseDeadline": "2026-03-30T13:00:00-04:00",
-    "agency": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Arlington",
-      "state": "Virginia",
-      "zip": "22209"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/ae4c8321790d4bc58805ea5654c43437/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ae4c8321790d4bc58805ea5654c43437",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4890ba150ee94727bdd6d67b2dada04a/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong><u>AMENDMENT 0001</u>&nbsp;:&nbsp; REVISED TITLE AND PERFORMANCE WORK STATEMENT (PWS)&nbsp;</strong></p>\\n\\n<p><strong>REVISED TITLE:&nbsp;</strong><strong>&nbsp;INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES</strong></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> <strong>1131PL26RQ0015</strong></p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MARCH 2, 2026</strong></p>\\n\\n<p><strong>CLOSING DATE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;<strong> MARCH 30, 2026, 1:00 PM, Arlington, VA Time</strong></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulation (FAR) ...",
-    "descriptionFull": "{\"description\":\"<p><strong><u>AMENDMENT 0001</u>&nbsp;:&nbsp; REVISED TITLE AND PERFORMANCE WORK STATEMENT (PWS)&nbsp;</strong></p>\\n\\n<p><strong>REVISED TITLE:&nbsp;</strong><strong>&nbsp;INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES</strong></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> <strong>1131PL26RQ0015</strong></p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>MARCH 2, 2026</strong></p>\\n\\n<p><strong>CLOSING DATE: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;<strong> MARCH 30, 2026, 1:00 PM, Arlington, VA Time</strong></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6 and procedures in Subpart 15.3 as supplemented with additional information included in this notice. This announcement constitutes the only RFP; offers are being requested and a written solicitation will not be issued.</p>\\n\\n<p>This procurement is <strong>SET-ASIDE FOR SMALL BUSINESSES </strong>under <strong>NAICS Code 541690</strong>, Other Scientific and Technical Consulting Services. Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Contractor use of subcontractors is limited to less than fifty percent of the proposed price. &nbsp;</p>\\n\\n<p>THE FOLLOWING ITEMS REPRESENT THE &quot;PROPOSAL PACKAGE&quot; THAT SHOULD BE RETURNED IN RESPONSE TO THIS SOLICITATION (Addendum to FAR 52.212-1, Instructions to Offerors &ndash; Commercial Items (SEP 2023)).</p>\\n\\n<p>According to FAR 52-204-7 (b)&nbsp;(1)&nbsp;An&nbsp;Offeror&nbsp;is required to be registered in SAM when submitting an&nbsp;offer&nbsp;or quotation and&nbsp;shall&nbsp;continue to be registered until time of award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this&nbsp;solicitation. &nbsp;&nbsp;All Offerors must be registered and have an active status in the SAM database (www.SAM.gov) in order to be eligible for contract award. Offerors are reminded that failure to properly enroll in the SAM database and provide accurate information shall make an offeror ineligible for award as described in FAR 52.204-7. &nbsp;</p>\\n\\n<p>Should you have any questions, please send them to this office not later than <strong>1:00 p.m., Eastern Time (ET) Monday, March 9, 2026. </strong>Send your questions by email to <u>contractproposals@ustda.gov</u> and <u>tjohnson@ustda.gov</u> <strong>. </strong>Questions submitted by facsimile or to alternate email addresses will NOT be accepted.<u> </u><strong><u>No phone</u> calls will be accepted.</strong></p>\\n\\n<p>Any contract awarded to a Contractor who at the time of award was suspended, debarred, and ineligible for receipt of contract with Government Agencies or is in receipt of a notice of proposed debarment from any Government Agency, is voidable at the option of the Government.</p>\\n\\n<p>Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Enclosed are the following sections, which contains all information necessary to respond to this RFP:</p>\\n\\n<p>1. Section B &ndash; Schedule of Supplies/Services,</p>\\n\\n<p>2. Section C &ndash; Contract Clauses,</p>\\n\\n<p>3. Section D &ndash; Any Contract Documents, Exhibits and Attachment, and</p>\\n\\n<p>4. Section E &ndash; Instructions to Offerors.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 167503,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4890ba150ee94727bdd6d67b2dada04a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 939543,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "33d0869ebcb9439da8f957e09de43791",
     "title": "J065--RSO Medical Physics Services KC",
     "solicitationNumber": "36C25526Q0205",
@@ -1036,6 +1127,142 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "MO"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "f6faec7233fa475dba6ee9f89499ddf0",
+    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
+    "solicitationNumber": "N66001-26-R-3503",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-12",
+    "responseDeadline": "2026-03-24T15:00:00-07:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92152"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/f6faec7233fa475dba6ee9f89499ddf0/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f6faec7233fa475dba6ee9f89499ddf0",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. \"}",
+    "descriptionFull": "{\"description\":\"The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "California"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "2013d23c74394c0c91e26023e2e6f6b3",
+    "title": "The Radford Army Ammunition Plant (RFAAP) Modernized Pre-Mix and Nitro Cellulose (NC) Dehydration NG3 Facilities",
+    "solicitationNumber": "W911S226RA005",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-12",
+    "responseDeadline": "2026-04-13T15:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "24141"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/2013d23c74394c0c91e26023e2e6f6b3/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2013d23c74394c0c91e26023e2e6f6b3",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"This is an A-E Synopsis in accordance with FAR 36.102. The Mission and Installation Contracting Command - Fort Drum is procuring Architect-Engineer (A-E) Design Services for the Modernized Pre-Mix and Nitrocellulose (NC) Dehydration Facilities at Radford Army Ammunition Plant (RFAAP). This procurement is conducted under the Brooks Architect-Engineer Act (40 U.S.C Section 1102) and Far subpart 36.102, which require that A-E contracts be negotiated on the basis of demonstrated competence and qualifications for the required professional services. The objective of this project is to prepare a 30% design for Nitro Cellulose (NC) Dehydration (including NC Shredding), hereinafter referred as NC Dehy, and Pre-Mix facilities at Radford Army Ammunition Plant (RFAAP) using the most...",
+    "descriptionFull": "{\"description\":\"This is an A-E Synopsis in accordance with FAR 36.102. The Mission and Installation Contracting Command - Fort Drum is procuring Architect-Engineer (A-E) Design Services for the Modernized Pre-Mix and Nitrocellulose (NC) Dehydration Facilities at Radford Army Ammunition Plant (RFAAP). This procurement is conducted under the Brooks Architect-Engineer Act (40 U.S.C Section 1102) and Far subpart 36.102, which require that A-E contracts be negotiated on the basis of demonstrated competence and qualifications for the required professional services. The objective of this project is to prepare a 30% design for Nitro Cellulose (NC) Dehydration (including NC Shredding), hereinafter referred as NC Dehy, and Pre-Mix facilities at Radford Army Ammunition Plant (RFAAP) using the most modern, safe, environmentally friendly, and automated technologies to the maximum extent feasible. \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -1148,6 +1375,74 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "4db25f989b7b4f99850d7a8113d8a8e4",
+    "title": "C--Enterprise Construction Management Services (ECMS)",
+    "solicitationNumber": "89233126NNA000145",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-11",
+    "responseDeadline": "2026-04-03T16:00:00-04:00",
+    "agency": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.NNSA NON-MO CNTRCTNG OPS DIV",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/4db25f989b7b4f99850d7a8113d8a8e4/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4db25f989b7b4f99850d7a8113d8a8e4",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"This Department of Energy (DOE) National Nuclear Security Administration (NNSA) multiple-award Blanket Purchase Agreement (BPA) services is for Enterprise Construction Management Services (ECMS). DOE/NNSA plans to establish agreements with up to five (5) contractors under this BPA. The DOE/NNSA has a continuous and re-occurring need for ECMS that includes a broad range of life cycle facilities management activities in support of national laboratories, weapon plants, and NNSA site offices across the Nuclear Security Enterprise (NSE). Complexity and size of the projects vary widely, ranging from small remodeling of commercial facilities to new complex one-of\u2013a-kind multi-billion-dollar nuclear facilities. Under the ECMS contract, various orders will be issued that encompas...",
+    "descriptionFull": "{\"description\":\"This Department of Energy (DOE) National Nuclear Security Administration (NNSA) multiple-award Blanket Purchase Agreement (BPA) services is for Enterprise Construction Management Services (ECMS). DOE/NNSA plans to establish agreements with up to five (5) contractors under this BPA. The DOE/NNSA has a continuous and re-occurring need for ECMS that includes a broad range of life cycle facilities management activities in support of national laboratories, weapon plants, and NNSA site offices across the Nuclear Security Enterprise (NSE). Complexity and size of the projects vary widely, ranging from small remodeling of commercial facilities to new complex one-of\u2013a-kind multi-billion-dollar nuclear facilities. Under the ECMS contract, various orders will be issued that encompass all phases of life cycle management.<br/>Many such projects are executed in accordance with DOE Order 413.3B, titled Program and Project Management for the Acquisition of Capital Assets. Projects defined in DOE Order 413.3B include Capital Asset Projects, Minor Construction Projects and Major Items of Equipment. Other projects may be executed under NNSA Supplemental Directive (SD) 413.3-7 Project Management for Non-Nuclear, Non-Complex Capital Asset Acquisition.<br/>\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -2112,6 +2407,76 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Alaska"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "88f77352de214b44b2750a5e1369bdfe",
+    "title": "Construction Inspection IDIQ",
+    "solicitationNumber": "6982AF25R000016",
+    "type": "Presolicitation",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-11",
+    "responseDeadline": "2026-03-25T14:00:00-06:00",
+    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/88f77352de214b44b2750a5e1369bdfe/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=88f77352de214b44b2750a5e1369bdfe",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Federal Highway Administration, Central Federal Lands Highway Division (CFLHD), anticipates soliciting and awarding multiple Indefinite Delivery, Indefinite Quantity (IDIQ) contracts for non-personal construction project management, inspection and administrative support services for all phases of a construction project.</p>\\n\\n<p>CFLHD provides engineering and construction services on projects in the states of&nbsp;Arizona, California, Colorado, Hawaii, Kansas, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Utah, and Wyoming on behalf of&nbsp;Federal Land Management Agencies and other Agencies.&nbsp;These Agencies include: the National Park Service (NPS); USDA Forest Service (Forest Service); U.S. Fish and Wildlife Service (USFWS); Bure...",
+    "descriptionFull": "{\"description\":\"<p>The Federal Highway Administration, Central Federal Lands Highway Division (CFLHD), anticipates soliciting and awarding multiple Indefinite Delivery, Indefinite Quantity (IDIQ) contracts for non-personal construction project management, inspection and administrative support services for all phases of a construction project.</p>\\n\\n<p>CFLHD provides engineering and construction services on projects in the states of&nbsp;Arizona, California, Colorado, Hawaii, Kansas, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Utah, and Wyoming on behalf of&nbsp;Federal Land Management Agencies and other Agencies.&nbsp;These Agencies include: the National Park Service (NPS); USDA Forest Service (Forest Service); U.S. Fish and Wildlife Service (USFWS); Bureau of Indian Affairs (BIA) and Tribal Governments; Bureau of Land Management (BLM); Department of Defense (DOD); U.S. Army Corps of Engineers (USACE); and the Bureau of Reclamation (BOR). The shared capacity of the IDIQs will be $100 million.</p>\\n\\n<p>The acquisition will be solicited and awarded on a competitive basis and is being made under the North America Industry Classification Code 541330 and is open to all business concerns.&nbsp; CFLHD intends to award approximately five IDIQ contracts to include one award reserved for a small business concern, if qualified.&nbsp; The planned duration for the contracts is a total of five years.</p>\\n\\n<p>In support of onsite construction activities, the primary services work will predominantly consist of consultant onsite personnel, specifically, Contracting Officer&rsquo;s Technical Advisers, Construction Inspectors, and other related engineering and professional services.&nbsp; The projects include construction work on roadways, bridges, trails and encompass a wide range of work from new work to rehabilitation of existing remote environments.</p>\\n\\n<p>It is the Offerors&rsquo; responsibility to check SAM.gov as necessary for any posted changes to this notice and future solicitations or amendments.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "onsite"
+      ]
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,

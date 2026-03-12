@@ -1,8 +1,19 @@
 [
   {
+    "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
+    "reason": "Cloud-based digital platform subscription aligns with SaaS/AWS skills and manageable scope.",
+    "overallScore": 68,
+    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
+    "uiLink": "https://sam.gov/workspace/contract/opp/984e24f7fdcf44dcad34981e841f6a8d/view",
+    "descriptionSnippet": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transc...",
+    "responseDeadline": "2026-03-24T12:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
-    "reason": "Strong container/DevSecOps relevance under Platform One.",
-    "overallScore": 65,
+    "reason": "Container analysis under Platform One strongly matches DevSecOps and container expertise.",
+    "overallScore": 63,
     "title": "Iron Bank Container Analysis Requirement",
     "uiLink": "https://sam.gov/workspace/contract/opp/ec332587105e4fbb8ff0e0f16196cb40/view",
     "descriptionSnippet": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
@@ -12,8 +23,8 @@
   },
   {
     "noticeId": "110209fafe30416fa12ef1d51af98bb8",
-    "reason": "Server and monitoring system aligns with Linux/automation skills.",
-    "overallScore": 56,
+    "reason": "Server and remote monitoring system aligns with Linux/DevOps capabilities.",
+    "overallScore": 58,
     "title": "Airfield Data Management Server - BPA",
     "uiLink": "https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view",
     "descriptionSnippet": "{\"description\":\"<p><strong><u>Amendment 0001</u></strong>&nbsp;- Please note Amendment 0001. The purpose of this amendment is to correct the solicitation due date to March 16th.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
@@ -22,41 +33,8 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "e8d30f9553c84339802369b4365a7713",
-    "reason": "Software integration and sustainment with potential DevOps scope.",
-    "overallScore": 55,
-    "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
-    "descriptionSnippet": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this documen...",
-    "responseDeadline": "2026-03-16T17:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-    "reason": "Networked software development effort relevant to DevOps capabilities.",
-    "overallScore": 54,
-    "title": "CANES Tactical Networks Market Survey",
-    "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
-    "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number. Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in a...",
-    "responseDeadline": "2026-03-04T14:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
-    "reason": "Cloud-based SaaS subscription opportunity with manageable scope.",
-    "overallScore": 50,
-    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
-    "uiLink": "https://sam.gov/workspace/contract/opp/984e24f7fdcf44dcad34981e841f6a8d/view",
-    "descriptionSnippet": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transc...",
-    "responseDeadline": "2026-03-24T12:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
-    "reason": "Advanced modeling software likely leveraging HPC/cloud environments.",
+    "reason": "Software-heavy weather modeling support with potential DevOps/HPC elements.",
     "overallScore": 49,
     "title": "Earth Prediction Innovation Center (EPIC)-Advancing Weather Modeling Skills",
     "uiLink": "https://sam.gov/workspace/contract/opp/c9ba2896c2e3404fa638750bc27243bf/view",
@@ -66,9 +44,20 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "e8d30f9553c84339802369b4365a7713",
+    "reason": "Systems engineering and integration with potential software sustainment relevance.",
+    "overallScore": 46,
+    "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
+    "descriptionSnippet": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this documen...",
+    "responseDeadline": "2026-03-16T17:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "e55570576594442da264a129cb79a356",
     "reason": "Web application and GIS updates fit software development skills.",
-    "overallScore": 40,
+    "overallScore": 46,
     "title": "California Abandoned Mine Lands Agency Group (CAMLAG) Database Application Phase 3",
     "uiLink": "https://sam.gov/workspace/contract/opp/e55570576594442da264a129cb79a356/view",
     "descriptionSnippet": "{\"description\":\"<p><strong>Subject: <u>Update to Sources Sought Notice No. W9123826S0005 - AMLDB Web Application Update</u></strong></p>\\n\\n<p>This notice is to provide an update to the Sources Sought Notice No. W9123826S0005 for the project involving the update of the AMLDB Web Application and related AML GIS system components.</p>\\n\\n<p>Please be advised that the solicitation, originally anticipated for release in January 2025, has been delayed. The U.S. Army Corps of Engineers (USACE) is currently discussing the path forward for this requirement. There is no definitive date of solicitation in the near future.</p>\\n\\n<p>We appreciate the interest and responses received for this market research effort. Please continue to monitor SAM.gov for updates.</p>\\n\"}",
@@ -77,20 +66,31 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "c18853122a234b88ad7c30b28fcf6606",
-    "reason": "Software renewal with potential support or integration angle.",
-    "overallScore": 34,
-    "title": "Envitia Software Renewal",
-    "uiLink": "https://sam.gov/workspace/contract/opp/c18853122a234b88ad7c30b28fcf6606/view",
-    "descriptionSnippet": "{\"description\":\"<p>Envitia&#39;s MapLink Pro is a suite of powerful SDKs that enables developers to quickly build and deploy high-performance mapping and terrain visualization systems. Leveraged by the majority of the world&#39;s largest systems integrators where high performance map visualization within situational awareness is mission-critical, MapLink Pro is the &ldquo;visualization toolkit of choice&rdquo; for the management and display of geospatial and live track data.<br />\\n&nbsp;<br />\\nMapLink Pro is the dynamic mapping visualization engine underpinning some the world&#39;s most well-known C2 and ISR applications. These deployments range from strategic SIGINT platforms and operational surveillance assets, to tactical mission planning and air defense systems.</p>\\n\"}",
-    "responseDeadline": "2026-03-16T15:00:00-04:00",
+    "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
+    "reason": "Tactical network software development and engineering relevance.",
+    "overallScore": 43,
+    "title": "CANES Tactical Networks Market Survey",
+    "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
+    "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number. Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in a...",
+    "responseDeadline": "2026-03-04T14:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "f6faec7233fa475dba6ee9f89499ddf0",
+    "reason": "Enterprise network engineering with some IT integration relevance.",
+    "overallScore": 38,
+    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
+    "uiLink": "https://sam.gov/workspace/contract/opp/f6faec7233fa475dba6ee9f89499ddf0/view",
+    "descriptionSnippet": "{\"description\":\"The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. \"}",
+    "responseDeadline": "2026-03-24T15:00:00-07:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "a35f6dbccd90468e8d9370040fbae0a7",
-    "reason": "Router modernization may involve integration and configuration expertise.",
-    "overallScore": 26,
+    "reason": "Router modernization effort with IT infrastructure components.",
+    "overallScore": 30,
     "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
     "uiLink": "https://sam.gov/workspace/contract/opp/a35f6dbccd90468e8d9370040fbae0a7/view",
     "descriptionSnippet": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD F...",
@@ -100,8 +100,8 @@
   },
   {
     "noticeId": "9030ca56adbf42a297efd6d8aabad8a7",
-    "reason": "Broad IT hardware/software vehicle with potential cloud components.",
-    "overallScore": 20,
+    "reason": "IT hardware/software strategic sourcing though large and competitive.",
+    "overallScore": 29,
     "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
     "uiLink": "https://sam.gov/workspace/contract/opp/9030ca56adbf42a297efd6d8aabad8a7/view",
     "descriptionSnippet": "{\"description\":\"<p><strong>Amendment Notice:&nbsp;</strong></p>\\n\\n<p><strong>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n...",

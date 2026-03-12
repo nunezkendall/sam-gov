@@ -139,6 +139,74 @@
     ]
   },
   {
+    "noticeId": "5b17357dc69943ef9e39e37b800b39a7",
+    "title": "DG10--RFI to SAM.gov -- Medialab Maint. Of Cert & Reg Compliance  Software.",
+    "solicitationNumber": "36C24126Q0329",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.241-NETWORK CONTRACT OFFICE 01 (36C241)",
+    "fullParentPathCode": "036.3600.36C241",
+    "postedDate": "2026-03-11",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-04-26",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-27T12:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "DG10",
+    "active": "Yes",
+    "award": {
+      "awardee": {}
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "Julie.Lemire1@va.gov",
+        "phone": "781-226-8882",
+        "title": "Contracting Specialist",
+        "fullName": "Julie Lemire"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5b17357dc69943ef9e39e37b800b39a7",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "04330",
+      "city": "TOGUS",
+      "countryCode": "USA",
+      "state": "ME"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "Department of Veteran Affairs VAMC - VISN 01",
+      "streetAddress2": "All Sites Per PWS",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/5b17357dc69943ef9e39e37b800b39a7/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5b17357dc69943ef9e39e37b800b39a7&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ecee49041c457fa617dddd2758321d/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61092b3e179a4670b35b7f74f7dd15f9/download"
+    ]
+  },
+  {
     "noticeId": "264b0685ad7047a8be2515b1fc1dd9c9",
     "title": "USGS Water Quality Instruments ",
     "solicitationNumber": "140G0126Q0064",
@@ -2770,6 +2838,82 @@
     "resourceLinks": null
   },
   {
+    "noticeId": "bf17aa33b2f5402c88da46e66c8686ac",
+    "title": "INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES",
+    "solicitationNumber": "1131PL26R0015",
+    "fullParentPathName": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
+    "fullParentPathCode": "011.1153.1131PL",
+    "postedDate": "2026-03-12",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-14",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-30T13:00:00-04:00",
+    "naicsCode": "541690",
+    "naicsCodes": [
+      "541690"
+    ],
+    "classificationCode": "R499",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "tjohnson@ustda.gov",
+        "phone": "7038754357",
+        "title": null,
+        "fullName": "Tyrone Johnson"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "aasibey@ustda.gov",
+        "phone": "7038754357",
+        "title": null,
+        "fullName": "Afua Serwah-Asibey"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bf17aa33b2f5402c88da46e66c8686ac",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "22209",
+      "city": "ARLINGTON",
+      "countryCode": "USA",
+      "state": "VA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "3000",
+        "name": "Arlington"
+      },
+      "state": {
+        "code": "VA",
+        "name": "Virginia"
+      },
+      "zip": "22209",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/bf17aa33b2f5402c88da46e66c8686ac/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=bf17aa33b2f5402c88da46e66c8686ac&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4890ba150ee94727bdd6d67b2dada04a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98544629ace64ac599950721e6f1f420/download"
+    ]
+  },
+  {
     "noticeId": "ceb3e31fc3454c5c831de4b4f1ea891e",
     "title": "D--QGIS IMPROVEMENTS",
     "solicitationNumber": "140G0326Q0054",
@@ -2903,81 +3047,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f7668f22702c4cbdb28997aaebc11956/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd4c26c38abb450eb0717c3c3e86c230/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ff82a2d46615476e9676c12a0d923653/download"
-    ]
-  },
-  {
-    "noticeId": "ae4c8321790d4bc58805ea5654c43437",
-    "title": "INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES",
-    "solicitationNumber": "1131PL26R0015",
-    "fullParentPathName": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
-    "fullParentPathCode": "011.1153.1131PL",
-    "postedDate": "2026-03-04",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-14",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-30T13:00:00-04:00",
-    "naicsCode": "541690",
-    "naicsCodes": [
-      "541690"
-    ],
-    "classificationCode": "R499",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "tjohnson@ustda.gov",
-        "phone": "7038754357",
-        "title": null,
-        "fullName": "Tyrone Johnson"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "aasibey@ustda.gov",
-        "phone": "7038754357",
-        "title": null,
-        "fullName": "Afua Serwah-Asibey"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ae4c8321790d4bc58805ea5654c43437",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "22209",
-      "city": "ARLINGTON",
-      "countryCode": "USA",
-      "state": "VA"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "3000",
-        "name": "Arlington"
-      },
-      "state": {
-        "code": "VA",
-        "name": "Virginia"
-      },
-      "zip": "22209",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/ae4c8321790d4bc58805ea5654c43437/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ae4c8321790d4bc58805ea5654c43437&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e2d90a656774586902efaf743cd09c1/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4890ba150ee94727bdd6d67b2dada04a/download"
     ]
   },
   {
@@ -3369,6 +3438,140 @@
     ]
   },
   {
+    "noticeId": "f6faec7233fa475dba6ee9f89499ddf0",
+    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
+    "solicitationNumber": "N66001-26-R-3503",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "fullParentPathCode": "017.1700.SPAWAR.SPAWAR PACIFIC.N66001",
+    "postedDate": "2026-03-12",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "autocustom",
+    "archiveDate": "2027-03-26",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-24T15:00:00-07:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "erwin.c.cablay.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Erwin Cablay"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "stephen.i.enokida.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Stephen Enokida"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f6faec7233fa475dba6ee9f89499ddf0",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "92152-5001",
+      "city": "SAN DIEGO",
+      "countryCode": "USA",
+      "state": "CA"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "53560 Hull Street San Diego, CA 92152-5001",
+      "city": {
+        "code": "66000",
+        "name": "San Diego"
+      },
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "92152",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/f6faec7233fa475dba6ee9f89499ddf0/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f6faec7233fa475dba6ee9f89499ddf0&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
+    "noticeId": "2013d23c74394c0c91e26023e2e6f6b3",
+    "title": "The Radford Army Ammunition Plant (RFAAP) Modernized Pre-Mix and Nitro Cellulose (NC) Dehydration NG3 Facilities ",
+    "solicitationNumber": "W911S226RA005",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
+    "fullParentPathCode": "021.2100.AMC.ACC.MICC.419TH CSB.W911S2",
+    "postedDate": "2026-03-12",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Sources Sought",
+    "archiveType": "autocustom",
+    "archiveDate": "2027-03-12",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-13T15:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C1EA",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "lyndsie.j.hall.civ@army.mil",
+        "phone": "520-852-1859",
+        "title": null,
+        "fullName": "Lyndsie Hall"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "alfredo.m.sanchez.civ@army.mil",
+        "phone": "520-852-1469",
+        "title": null,
+        "fullName": "A. Milan Sanchez"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2013d23c74394c0c91e26023e2e6f6b3",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "13602-5220",
+      "city": "FORT DRUM",
+      "countryCode": "USA",
+      "state": "NY"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "Radford Army Ammunition Plant, Radford, VA ",
+      "zip": "24141"
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/2013d23c74394c0c91e26023e2e6f6b3/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=2013d23c74394c0c91e26023e2e6f6b3&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
     "noticeId": "9de040ad094545139127b91a2c14e5cb",
     "title": "NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small Unmanned Aircraft Systems (SUAS) Reusable Architecture (SRA)",
     "solicitationNumber": "N0042126R1006",
@@ -3663,6 +3866,60 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ceacbd9144b34851b1a8a37bccb26ffb/download"
     ]
+  },
+  {
+    "noticeId": "4db25f989b7b4f99850d7a8113d8a8e4",
+    "title": "C--Enterprise Construction Management Services (ECMS)",
+    "solicitationNumber": "89233126NNA000145",
+    "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.NNSA NON-MO CNTRCTNG OPS DIV",
+    "fullParentPathCode": "089.8900.892331",
+    "postedDate": "2026-03-11",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-18",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-03T16:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C1AZ",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "elouise.fripp@nnsa.doe.gov",
+        "phone": "202-600-0089",
+        "title": null,
+        "fullName": "Fripp, Elouise O."
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4db25f989b7b4f99850d7a8113d8a8e4",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "87185",
+      "city": "ALBUQUERQUE",
+      "countryCode": "USA",
+      "state": "NM"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/4db25f989b7b4f99850d7a8113d8a8e4/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=4db25f989b7b4f99850d7a8113d8a8e4&limit=1"
+      }
+    ],
+    "resourceLinks": null
   },
   {
     "noticeId": "d6abb9f0bfe9416ca983319ec7e1aff1",
@@ -5922,6 +6179,69 @@
       {
         "rel": "self",
         "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=81602e44413144169063432218105d84&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
+    "noticeId": "88f77352de214b44b2750a5e1369bdfe",
+    "title": "Construction Inspection IDIQ",
+    "solicitationNumber": "6982AF25R000016",
+    "fullParentPathName": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
+    "fullParentPathCode": "069.6925.6982AF",
+    "postedDate": "2026-03-11",
+    "type": "Presolicitation",
+    "baseType": "Sources Sought",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-09",
+    "typeOfSetAsideDescription": "Partial Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBP",
+    "responseDeadLine": "2026-03-25T14:00:00-06:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "CflContracts@dot.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Douglas Whitcomb"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "CflContracts@dot.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Kelly Palmer"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=88f77352de214b44b2750a5e1369bdfe",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "80228",
+      "city": "LAKEWOOD",
+      "countryCode": "USA",
+      "state": "CO"
+    },
+    "placeOfPerformance": {
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/88f77352de214b44b2750a5e1369bdfe/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=88f77352de214b44b2750a5e1369bdfe&limit=1"
       }
     ],
     "resourceLinks": null
