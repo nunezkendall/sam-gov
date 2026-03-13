@@ -1,5 +1,73 @@
 [
   {
+    "noticeId": "ededcad9edc6495bb6e4fe4339e66d31",
+    "title": "FPAC Business Operations Branch (BOB) IT CPIC, Portfolio Management, and Financial Management Support Services",
+    "solicitationNumber": "",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-12",
+    "responseDeadline": "2026-03-23T14:00:00-04:00",
+    "agency": "AGRICULTURE, DEPARTMENT OF.USDA, DEPARTMENTAL ADMINISTRATION.USDA, OCP-POD-ACQ-MGMT-BRANCH-FTC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Washington",
+      "state": "District of Columbia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ededcad9edc6495bb6e4fe4339e66d31/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ededcad9edc6495bb6e4fe4339e66d31",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The U.S. Department of Agriculture (USDA), Farm Production and Conservation (FPAC) Mission Area, intends to consolidate multiple related support requirements into a single acquisition for the FPAC Business Operations Branch (BOB). This consolidated requirement will provide integrated support for IT Capital Planning and Investment Control (CPIC), IT Portfolio Management, IT Financial Management, and Program/Project Management activities across the FPAC Information Solutions Division (ISD).</p>\\n\\n<p>BOB oversees strategic IT governance, financial oversight, and enterprise investment management for a multi\u2011agency IT portfolio valued at approximately $1B annually. The consolidated scope includes support for CPIC processes, business case development, governance board (IRB...",
+    "descriptionFull": "{\"description\":\"<p>The U.S. Department of Agriculture (USDA), Farm Production and Conservation (FPAC) Mission Area, intends to consolidate multiple related support requirements into a single acquisition for the FPAC Business Operations Branch (BOB). This consolidated requirement will provide integrated support for IT Capital Planning and Investment Control (CPIC), IT Portfolio Management, IT Financial Management, and Program/Project Management activities across the FPAC Information Solutions Division (ISD).</p>\\n\\n<p>BOB oversees strategic IT governance, financial oversight, and enterprise investment management for a multi\u2011agency IT portfolio valued at approximately $1B annually. The consolidated scope includes support for CPIC processes, business case development, governance board (IRB) operations, Earned Value Management, Technology Business Management (TBM), FITARA compliance, spend plan management, budget formulation, Inter\u2011Agency Agreement tracking, financial reporting, and maintenance/support of the BOB Financial Management Tool (FMT). Requirements also include full lifecycle program and project management and support for monthly planning, performance reporting, and transition efforts.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "District of Columbia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "c18853122a234b88ad7c30b28fcf6606",
     "title": "Envitia Software Renewal",
     "solicitationNumber": "FD2399-2600117",
@@ -449,6 +517,74 @@
     "updatedDate": null
   },
   {
+    "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
+    "title": "USDA STRATUS GUS B2G Support Services",
+    "solicitationNumber": "",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541512",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-12",
+    "responseDeadline": "2026-04-12T16:00:00-04:00",
+    "agency": "AGRICULTURE, DEPARTMENT OF.USDA, DEPARTMENTAL ADMINISTRATION.USDA, OCP-POD-ACQ-MGMT-BRANCH-FTC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Washington",
+      "state": "District of Columbia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f26c561962ea438ba50148bbdb0d00d4",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Rural Development Technology Office (RD TO) Cybersecurity Division (CSD) will have administrative, technical and operational oversight of the API SME to ensure mission and business objectives are achieved while keeping security in the forefront. The API SME will be responsible for the end-to-end lifecycle of API oversight, security, ensuring robust, scalable, and secure interfaces for residential mortgage-related applications.<em> </em>This acquisition is to provide the Cybersecurity Division (CSD) with administrative, technical and operational oversight of the API SME but not limited to:</p>\\n\\n<ul>\\n\\t<li>Reviewing and validating API architectures for residential mortgage-related applications.</li>\\n\\t<li>Implementing security best practices for API authentication, ...",
+    "descriptionFull": "{\"description\":\"<p>Rural Development Technology Office (RD TO) Cybersecurity Division (CSD) will have administrative, technical and operational oversight of the API SME to ensure mission and business objectives are achieved while keeping security in the forefront. The API SME will be responsible for the end-to-end lifecycle of API oversight, security, ensuring robust, scalable, and secure interfaces for residential mortgage-related applications.<em> </em>This acquisition is to provide the Cybersecurity Division (CSD) with administrative, technical and operational oversight of the API SME but not limited to:</p>\\n\\n<ul>\\n\\t<li>Reviewing and validating API architectures for residential mortgage-related applications.</li>\\n\\t<li>Implementing security best practices for API authentication, encryption, and threat protection.</li>\\n\\t<li>Ensuring seamless integration with mortgage user&rsquo;s interfaces and financial systems.</li>\\n\\t<li>Conducting API performance tuning, monitoring, and optimization.</li>\\n\\t<li>Collaborating with cross-functional teams, including developers, cybersecurity, and business analysts.</li>\\n\\t<li>Maintaining compliance with regulatory requirements such as NIST, FISMA, PCI, DSS, etc<em>.</em></li>\\n</ul>\\n\\n<p><em>Set-aside Status: Small business set-aside competition via USDA STRATUS Pool 2 BOA</em></p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "end-to-end"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "District of Columbia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "110209fafe30416fa12ef1d51af98bb8",
     "title": "Airfield Data Management Server - BPA",
     "solicitationNumber": "FA812626Q0023",
@@ -630,6 +766,81 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "845608430c2848a6985fc6847ff9c59e",
+    "title": "ProSig Calibration Service",
+    "solicitationNumber": "N0017426Q1033",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541511",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-13",
+    "responseDeadline": "2026-03-27T10:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC INDIAN HEAD DIVISION",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Picatinny Arsenal",
+      "state": "New Jersey",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/845608430c2848a6985fc6847ff9c59e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=845608430c2848a6985fc6847ff9c59e",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a738e3d846cd42258881aefcb3e72e70/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a<strong> </strong>combined synopsis/solicitation for commercial items prepared in accordance with Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in this notice. Naval Surface Warfare Center Indian Head Division (NSWC IHD), located in Indian Head, Maryland intends to award a firm fixed price (FFP) purchase order using Simplified Acquisition Procedures for<strong>:</strong><strong> </strong><strong>ProSig Calibration Service </strong>. This solicitation <strong>is small business set-aside</strong><strong>.</strong> This announcement constitutes the only solicitation. Quotes are being requested under Request for Quotation (RFQ) no. <strong>N0017426Q1033</strong><strong>. </strong>The NAICS code is <strong>...",
+    "descriptionFull": "{\"description\":\"<p>This is a<strong> </strong>combined synopsis/solicitation for commercial items prepared in accordance with Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in this notice. Naval Surface Warfare Center Indian Head Division (NSWC IHD), located in Indian Head, Maryland intends to award a firm fixed price (FFP) purchase order using Simplified Acquisition Procedures for<strong>:</strong><strong> </strong><strong>ProSig Calibration Service </strong>. This solicitation <strong>is small business set-aside</strong><strong>.</strong> This announcement constitutes the only solicitation. Quotes are being requested under Request for Quotation (RFQ) no. <strong>N0017426Q1033</strong><strong>. </strong>The NAICS code is <strong>541511</strong><strong>. </strong>The provisions and clauses included and/or incorporated in this solicitation<strong> </strong>document are those in effect through the Federal Acquisition Circular. This<strong> </strong>RFQ incorporates all provisions and clauses in effect through Federal Acquisition Circular FAC 2020-01 and the Defense Federal Acquisition Regulation Supplement (DFARS) DPN 20190531.</p>\\n\\n<p></p>\\n\\n<p>The Government will award a contract resulting from this solicitation to the responsible vendor whose quote, conforming to the solicitation that will be most advantageous to the Government, price and other factors considered. The Government intends to evaluate all timely quotes received from eligible vendors on a lowest price technically acceptable (LPTA) basis. The Government intends to evaluate quotations and award a contract without discussions with quoters. The Government intends to make an award based off this solicitation. &nbsp;The Government reserves the right to conduct discussions if the Contracting Officer later determines them to be necessary.</p>\\n\\n<p></p>\\n\\n<p>Evaluation Factors (in order of importance)</p>\\n\\n<ol>\\n\\t<li><strong>Technical &ndash; </strong>Quotes must reflect the required specifications included in the RFQ.</li>\\n\\t<li><strong>Price &ndash; </strong>Quotes must include all applicable costs.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p>Quote packages are due <strong>by 27th March 2026 10:00 AM EST</strong><strong>.&nbsp; </strong><strong>Late quotes will not be considered</strong>. <strong>Quote packages shall be sent to Jodi.l.fields.civ@us.navy.mil</strong> and contain a cover sheet that provides the following information:</p>\\n\\n<p></p>\\n\\n<p>1. Official Company Name;</p>\\n\\n<p>2. Point of contact including name and phone number; and</p>\\n\\n<p>3. DUNS number and Cage Code.</p>\\n\\n<p>The Points of Contact for this acquisition is</p>\\n\\n<ol>\\n\\t<li><strong>Jodi Fields, at Jodi.l.fields.civ@us.navy.mil </strong></li>\\n</ol>\\n\\n<p></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a738e3d846cd42258881aefcb3e72e70/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1909605,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "New Jersey"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -1201,6 +1412,178 @@
     "updatedDate": null
   },
   {
+    "noticeId": "83c7e626144b47a0a4c9904369c83fb5",
+    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
+    "solicitationNumber": "RFP1798904",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-12",
+    "responseDeadline": "2026-04-14T23:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Wright Patterson AFB",
+      "state": "Ohio",
+      "zip": "45433"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/83c7e626144b47a0a4c9904369c83fb5/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=83c7e626144b47a0a4c9904369c83fb5",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD F...",
+    "descriptionFull": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "modernization"
+      ],
+      "description": [
+        "modernization"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Ohio"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "69ebac432b2f42718a745ac53cc3a0eb",
+    "title": "MAHG181094CR Repair Runway Charrette, Keesler AFB, MS",
+    "solicitationNumber": "FA301026R0002",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-12",
+    "responseDeadline": "2026-04-13T11:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.FA3010  81 CONS CC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Biloxi",
+      "state": "Mississippi",
+      "zip": "39534"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/69ebac432b2f42718a745ac53cc3a0eb/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=69ebac432b2f42718a745ac53cc3a0eb",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1eed0a670ce947bfb39bd990ed0628e5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b57ec1688c2445d974f7a0dcc1f1267/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af2f8eee77b84eeda5f531533fbdcff0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cba753553b574611af6f6dcc34997529/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f366f5f4b13f4451881356a8d7795dc3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa64a7943e99415dae5dd0737da56c21/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Keesler AFB has a requirement to provide a Planning Charrette Report (PCR) for the Repair Runway, Project # MAHG181094CR in accordance with the attached statement of objectives.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>Keesler AFB has a requirement to provide a Planning Charrette Report (PCR) for the Repair Runway, Project # MAHG181094CR in accordance with the attached statement of objectives.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1eed0a670ce947bfb39bd990ed0628e5/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1073371,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b57ec1688c2445d974f7a0dcc1f1267/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 374865,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af2f8eee77b84eeda5f531533fbdcff0/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 39179,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cba753553b574611af6f6dcc34997529/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 586804,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f366f5f4b13f4451881356a8d7795dc3/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1664577,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Mississippi"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "2013d23c74394c0c91e26023e2e6f6b3",
     "title": "The Radford Army Ammunition Plant (RFAAP) Modernized Pre-Mix and Nitro Cellulose (NC) Dehydration NG3 Facilities",
     "solicitationNumber": "W911S226RA005",
@@ -1626,74 +2009,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Alaska"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "a35f6dbccd90468e8d9370040fbae0a7",
-    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
-    "solicitationNumber": "RFP1798904",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-04",
-    "responseDeadline": "2026-04-14T23:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Wright Patterson AFB",
-      "state": "Ohio",
-      "zip": "45433"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/a35f6dbccd90468e8d9370040fbae0a7/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a35f6dbccd90468e8d9370040fbae0a7",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD F...",
-    "descriptionFull": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "modernization"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "modernization"
-      ],
-      "description": [
-        "modernization"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Ohio"
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
