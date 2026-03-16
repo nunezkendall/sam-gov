@@ -1,5 +1,88 @@
 [
   {
+    "noticeId": "22c4b67a358a4a84a396a4cba9a55118",
+    "title": "PR Solidworks Professional Network subscription",
+    "solicitationNumber": "12553",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP OTHER HCA.OFFICE OF NAVAL INTELLIGENCE",
+    "fullParentPathCode": "017.1700.NAVSUP.NAVSUP OTHER HCA.N46804",
+    "postedDate": "2026-03-16",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-03-21",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "DA01",
+    "active": "Yes",
+    "award": {
+      "date": "2026-03-06",
+      "number": "N4680426FA011",
+      "amount": "12778.63",
+      "awardee": {
+        "name": "LYME COMPUTER SYSTEMS, INC.",
+        "location": {
+          "city": {
+            "name": "Lebanon"
+          },
+          "state": {
+            "code": "NH",
+            "name": "New Hampshire"
+          },
+          "zip": "03766",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "F1UZPBD1VBH9",
+        "cageCode": "1BS14"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "Lisa.Monfiston.civ@us.navy.mil",
+        "phone": "3016692418",
+        "title": null,
+        "fullName": "Lisa Monfiston"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=22c4b67a358a4a84a396a4cba9a55118",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20395-5720",
+      "city": "WASHINGTON",
+      "countryCode": "USA",
+      "state": "DC"
+    },
+    "placeOfPerformance": {
+      "state": {
+        "code": "DC",
+        "name": "District of Columbia"
+      },
+      "zip": "20395",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/22c4b67a358a4a84a396a4cba9a55118/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=22c4b67a358a4a84a396a4cba9a55118&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
     "noticeId": "de7e7abd17194e5a8ff47a43bf3b610f",
     "title": "805 CTS Software Technical Support",
     "solicitationNumber": "AmendmentA01",
@@ -1246,70 +1329,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d46ea93161c7440183d2c497c380cccd/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc285ef8f316428c8875e07c13e25d20/download"
     ]
-  },
-  {
-    "noticeId": "b053328b841a43c9a2a8e7b9198eed0c",
-    "title": "Sole Source Notice - NCATS Scientific and Technology Program Support (STPS)",
-    "solicitationNumber": "GS-35F-023GA_75N95025F00061",
-    "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH",
-    "fullParentPathCode": "075.7529",
-    "postedDate": "2026-02-25",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-15",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-28T16:00:00-05:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "R499",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "rob.bailey@nih.gov",
-        "phone": "3014517586",
-        "title": null,
-        "fullName": "Robert Bailey"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b053328b841a43c9a2a8e7b9198eed0c",
-    "organizationType": "AGENCY",
-    "officeAddress": {
-      "zipcode": "20892",
-      "city": "Bethesda",
-      "countryCode": "US",
-      "state": "MD"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "7125",
-        "name": "Bethesda"
-      },
-      "state": {
-        "code": "MD",
-        "name": "Maryland"
-      },
-      "zip": "20892",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/b053328b841a43c9a2a8e7b9198eed0c/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b053328b841a43c9a2a8e7b9198eed0c&limit=1"
-      }
-    ],
-    "resourceLinks": null
   },
   {
     "noticeId": "09ee5cd2f30142bf9eeb6ac46fa0d5c2",
@@ -3621,6 +3640,146 @@
     "resourceLinks": null
   },
   {
+    "noticeId": "7a224b56e69645fdb5ea999f287d6820",
+    "title": "Upper Wing and Elevon Heater Carriage Hardware",
+    "solicitationNumber": "80NSSC26927176Q",
+    "fullParentPathName": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+    "fullParentPathCode": "080.8000.80NSSC",
+    "postedDate": "2026-03-16",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-07",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-23T07:00:00-05:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "N099",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "shanna.l.patterson@nasa.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Shanna Patterson"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7a224b56e69645fdb5ea999f287d6820",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "39529",
+      "city": "STENNIS SPACE CENTER",
+      "countryCode": "USA",
+      "state": "MS"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "21586",
+        "name": "Edwards"
+      },
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93523",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/7a224b56e69645fdb5ea999f287d6820/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=7a224b56e69645fdb5ea999f287d6820&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7cbbe291a59742e886d660cf192f3ddf/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8baec41189c54a078f2131b2cfe45020/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7f438852ad94b78ad11d392f418c83d/download"
+    ]
+  },
+  {
+    "noticeId": "3cb72a579cd346b59fa58f5b32df6393",
+    "title": "Bridge Inspection and Assessment - Prescott NF",
+    "solicitationNumber": "127EAX26Q0013",
+    "fullParentPathName": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA SOUTHWEST 7",
+    "fullParentPathCode": "012.12C2.127EAX",
+    "postedDate": "2026-03-16",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-11",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-27T13:00:00-07:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C213",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "blaine.greenwalt@usda.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Blaine Greenwalt"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3cb72a579cd346b59fa58f5b32df6393",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "871023498",
+      "city": "Albuquerque",
+      "countryCode": "USA",
+      "state": "NM"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "17390",
+        "name": "Crown King"
+      },
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/3cb72a579cd346b59fa58f5b32df6393/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3cb72a579cd346b59fa58f5b32df6393&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ee4eb9326f24ba0bc5746b51636950f/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1bf1ccdee2e746b8b48cf6d59fd47cb0/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/791c77fe10b344109ebca5943b5ed042/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9199198aa4394bc8a768d3df1aed7533/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9318dd44889f4b2cb41a9351436389a1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a09844139f2c487796dcb761a5f5cee8/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c255652fa52845188932d931a35b6f5b/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f2d5febf7be645a6903bd6e72c35afa8/download"
+    ]
+  },
+  {
     "noticeId": "f6faec7233fa475dba6ee9f89499ddf0",
     "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
     "solicitationNumber": "N66001-26-R-3503",
@@ -3990,73 +4149,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/edf6e6e47b6045aa99d092334dd2f343/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ef36ab69d08a43caac5600a3a51335f4/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffcc4bac3f9446aea69c3199aa4ac4b8/download"
-    ]
-  },
-  {
-    "noticeId": "8624911f67d64eef810fa21052eef448",
-    "title": "Bridge Inspection and Assessment - Prescott NF",
-    "solicitationNumber": "127EAX26Q0013",
-    "fullParentPathName": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA SOUTHWEST 7",
-    "fullParentPathCode": "012.12C2.127EAX",
-    "postedDate": "2026-03-11",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-11",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-27T13:00:00-07:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C213",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "blaine.greenwalt@usda.gov",
-        "phone": "",
-        "title": null,
-        "fullName": "Blaine Greenwalt"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8624911f67d64eef810fa21052eef448",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "871023498",
-      "city": "Albuquerque",
-      "countryCode": "USA",
-      "state": "NM"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "17390",
-        "name": "Crown King"
-      },
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/8624911f67d64eef810fa21052eef448/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8624911f67d64eef810fa21052eef448&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ee4eb9326f24ba0bc5746b51636950f/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9199198aa4394bc8a768d3df1aed7533/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f2d5febf7be645a6903bd6e72c35afa8/download"
     ]
   },
   {

@@ -1,5 +1,74 @@
 [
   {
+    "noticeId": "22c4b67a358a4a84a396a4cba9a55118",
+    "title": "PR Solidworks Professional Network subscription",
+    "solicitationNumber": "12553",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-16",
+    "responseDeadline": "",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP OTHER HCA.OFFICE OF NAVAL INTELLIGENCE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "District of Columbia",
+      "zip": "20395"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/22c4b67a358a4a84a396a4cba9a55118/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=22c4b67a358a4a84a396a4cba9a55118",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Office of Naval Intelligence intends to solicit and negotiate with only one source under the authority of FAR 13.106-3 and FAR 6.302-1(b) (ii). The proposed source is Lyme Computer Systems located at 240 Mechanic Street Lebanon NH. The procurement is for Solidworks Professional Network Package Subscription.&nbsp; This previously awarded and delivered Fiscal Year 2025. &nbsp;Lyme Computer Systems shall provide continuous support for existing products. This is a Firm Fixed Price (FFP) contract for the above-referenced services. This notice is being published for information purposes only and is not a request for competitive quotations; however, the government will consider any quotations received. A determination by the government not to compete this proposed contra...",
+    "descriptionFull": "{\"description\":\"<p>The Office of Naval Intelligence intends to solicit and negotiate with only one source under the authority of FAR 13.106-3 and FAR 6.302-1(b) (ii). The proposed source is Lyme Computer Systems located at 240 Mechanic Street Lebanon NH. The procurement is for Solidworks Professional Network Package Subscription.&nbsp; This previously awarded and delivered Fiscal Year 2025. &nbsp;Lyme Computer Systems shall provide continuous support for existing products. This is a Firm Fixed Price (FFP) contract for the above-referenced services. This notice is being published for information purposes only and is not a request for competitive quotations; however, the government will consider any quotations received. A determination by the government not to compete this proposed contract based upon responses to this notice is solely within the discretion of the government. Information received will normally be considered solely for determining whether to conduct a competitive procurement. The Government is seeking a discount from the offeror&#39;s schedule prices pursuant to FAR 8.404(d). The following clauses and provisions apply to this RFQ. FAR Clauses: 52.217-9 Option to Extend the Term of the Contract 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment and 52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment and DFARS Clause 252.223-7999 Ensuring Adequate COVID-19 Safety Protocols for Federal Contractors (Deviation 2021-O0009), 252.239-7098,&nbsp;&nbsp;</p>\\n\\n<p>Prohibition on Contracting to Maintain or Establish a Computer Network Unless Such Network is Designed to Block Access to Certain Websites &quot;Representation (DEVIATION 2021-O0003) (APRIL 2021), 252.246-7008, &quot;Sources of Electronic Parts&quot; and DFARS 252.211-7003, &quot;Item Unique Identification and Valuation&quot; and 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, the contractor shall submit their payment request electronically using Wide Area Workflow (WAWF). The WAWF website is located at https://wawf.eb.mil. The provision at FAR 52.212-1, Instruction to Offerors-Commercial Items; FAR 52.212-2, Evaluation-Commercial Items, FAR 52.212-3, Offeror Representations and Certifications-Commercial Items, offers must be registered in the Online Representations and Certifications system at http://orca.bpn.gov. The clause at FAR 52.212-4, Contract Terms and Conditions-Commercial Items; FAR 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders-Commercial Items. Specifically the following clauses cited are applicable to this solicitation: 52.219-4, Notice of Price Evaluation Preference for HUBZone Small Business Concerns; FAR 52.222-3, Convict Labor; FAR 52.222-21, Prohibition of Segregated Facilities; FAR 52.222-22, FAR 52.222-26, Equal Opportunity;; FAR 52.223-18, Encouraging Contractor Policies to Ban Text Messaging While Driving; FAR 52.225-13, Restrictions on Certain Foreign Purchases; FAR 52.232-33, Payment by Electronic Funds Transfer-Central Contractor Registration; FAR 52.222-41 Service Contract Act; and FAR 52.222-42 Statement of Equivalent Rates for Federal Hires. In addition, the following clause applies: FAR 52.217-5 Evaluation of Options. The clause at DFARS 252.204-7004, Required Central Contractor Registration; DFARS 52.212-7001, Contract Terms and Conditions Required to Implement Statues or Executive Orders. Specifically the following clauses cited are applicable to this solicitation: DFARS 252.203-7001, DFARS 252.225-7001, and Buy American Act and Balance of Payment Program. Any questions regarding this requirement should directed to the point of contact the Contract Specialist, Lisa Monfiston at Lisa.Monfiston.civ@us.navy.mil&nbsp;</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p></p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": 12778.63,
+    "amountSource": "award.amount",
+    "amountInRange": true,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "network",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "District of Columbia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "ededcad9edc6495bb6e4fe4339e66d31",
     "title": "FPAC Business Operations Branch (BOB) IT CPIC, Portfolio Management, and Financial Management Support Services",
     "solicitationNumber": "",
