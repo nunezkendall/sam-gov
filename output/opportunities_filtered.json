@@ -137,88 +137,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "c18853122a234b88ad7c30b28fcf6606",
-    "title": "Envitia Software Renewal",
-    "solicitationNumber": "FD2399-2600117",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-11",
-    "responseDeadline": "2026-03-16T15:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMMAND, CONTROL, COMMUNICATIONS & BATTLE MANAGEMENT.FA8527  AFLCMC C3IAK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Warner Robins",
-      "state": "Georgia",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/c18853122a234b88ad7c30b28fcf6606/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c18853122a234b88ad7c30b28fcf6606",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1be0e4a6d11c4ae19d69cc955b045bf9/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa96c48d5c344e92ba38dcefaedd6127/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>Envitia&#39;s MapLink Pro is a suite of powerful SDKs that enables developers to quickly build and deploy high-performance mapping and terrain visualization systems. Leveraged by the majority of the world&#39;s largest systems integrators where high performance map visualization within situational awareness is mission-critical, MapLink Pro is the &ldquo;visualization toolkit of choice&rdquo; for the management and display of geospatial and live track data.<br />\\n&nbsp;<br />\\nMapLink Pro is the dynamic mapping visualization engine underpinning some the world&#39;s most well-known C2 and ISR applications. These deployments range from strategic SIGINT platforms and operational surveillance assets, to tactical mission planning and air defense systems.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>Envitia&#39;s MapLink Pro is a suite of powerful SDKs that enables developers to quickly build and deploy high-performance mapping and terrain visualization systems. Leveraged by the majority of the world&#39;s largest systems integrators where high performance map visualization within situational awareness is mission-critical, MapLink Pro is the &ldquo;visualization toolkit of choice&rdquo; for the management and display of geospatial and live track data.<br />\\n&nbsp;<br />\\nMapLink Pro is the dynamic mapping visualization engine underpinning some the world&#39;s most well-known C2 and ISR applications. These deployments range from strategic SIGINT platforms and operational surveillance assets, to tactical mission planning and air defense systems.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1be0e4a6d11c4ae19d69cc955b045bf9/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 17904,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa96c48d5c344e92ba38dcefaedd6127/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 50571,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Georgia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "5b17357dc69943ef9e39e37b800b39a7",
     "title": "DG10--RFI to SAM.gov -- Medialab Maint. Of Cert & Reg Compliance  Software.",
     "solicitationNumber": "36C24126Q0329",
@@ -1336,6 +1254,260 @@
     "updatedDate": null
   },
   {
+    "noticeId": "eca1a867ae5d4f6aa86bf38b784145a2",
+    "title": "RFP N6523626R3007",
+    "solicitationNumber": "N6523626R3007",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-17",
+    "responseDeadline": "2026-04-17T12:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR LANT.NIWC ATLANTIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "29410"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/eca1a867ae5d4f6aa86bf38b784145a2/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=eca1a867ae5d4f6aa86bf38b784145a2",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non-Disclosure Ag...",
+    "descriptionFull": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non-Disclosure Agreement (NDA) (Attachment #17 NDA for CUI Attachments) for each individual requiring access to the non-public documents to Jessica Meddick; jessica.l.meddick.civ@us.navy.mil via DoD SAEE at: https://safe.apps.mil.   \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "bf4515e0a70c4c2682c7a2f2aab8ae31",
+    "title": "Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services",
+    "solicitationNumber": "693C7326R000029",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-17",
+    "responseDeadline": "2026-04-21T14:00:00-04:00",
+    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693C73 EASTERN FED LANDS DIVISION",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Virginia",
+      "zip": "20147"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/bf4515e0a70c4c2682c7a2f2aab8ae31/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bf4515e0a70c4c2682c7a2f2aab8ae31",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4df05485ff61468185abcad1104c93ef/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/703b703544394787b67ad18cdc4d6af9/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD) anticipates awarding up to four Indefinite Delivery Indefinite Quantity (IDIQ) contracts to small business concerns only to perform subsequent task orders for highway and/or bridge design and engineering services and various other architect-engineer (A-E) services in support of highway, street, and bridge construction projects for Federal Land Management Agencies (i.e. National Park Service, U.S. Forest Service, U.S. Fish and Wildlife Service, etc.) within the continental United States and its territories such as Puerto Rico and the U.S. Virgin Islands with a t...",
+    "descriptionFull": "{\"description\":\"<p>Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD) anticipates awarding up to four Indefinite Delivery Indefinite Quantity (IDIQ) contracts to small business concerns only to perform subsequent task orders for highway and/or bridge design and engineering services and various other architect-engineer (A-E) services in support of highway, street, and bridge construction projects for Federal Land Management Agencies (i.e. National Park Service, U.S. Forest Service, U.S. Fish and Wildlife Service, etc.) within the continental United States and its territories such as Puerto Rico and the U.S. Virgin Islands with a total shared capacity of $60 million. &nbsp;For additional information on the selection of engineering firms for IDIQ contracts see FAR Part 36.6.&nbsp;</p>\\n\\n<p>The type of work performed on each A-E task order will vary but may primarily include highway and bridge design and related engineering services.&nbsp; Secondary services include but are not limited to geotechnical, hydraulics and hydrology, survey and mapping, traffic and safety engineering, structural engineering, planning and/or scoping, value engineering, environmental compliance, landscaping, architectural and architecturally related services, and other engineering services as required. &nbsp;All work must be performed or approved by a registered Professional Engineer. &nbsp;All electronic plans and specifications must be fully compatible with the Google Workspace platform, OpenRoads and OpenBridge Designer software, and other FHWA approved and compatible software. &nbsp;Familiarity with the FHWA is desired and expertise with AASHTO policies is required.&nbsp;</p>\\n\\n<p>The MATOC will have a shared total capacity of $60,000,000 among all IDIQ contract holders.&nbsp; The planned duration for the IDIQ contracts is a total of five years, consisting of a base year period and four option year periods.</p>\\n\\n<p>This acquisition will be a <strong>total small business set-aside </strong>and will be solicited and awarded under the North American Industry Classification System (NAICS) code 541330. The small business size standard for NAICS code 541330 is $25.5 million.&nbsp; Please note that the size of a small business firm includes all parents, subsidiaries, affiliates, etc.&nbsp; Refer to the Code of Federal Regulations 13 CFR 121.103 for information on how the SBA determines affiliation and 13 CFR 121.108 regarding the penalties for misrepresentation of size status.&nbsp; If a member of a joint venture (JV), include relevant information from both members of the JV.</p>\\n\\n<p><strong>Step 1 Pre-Selection</strong> will be based on the following technical evaluation criteria listed below:</p>\\n\\n<p><strong>(1) Specialized Experience and Technical Competence</strong> of the firm in providing highway and bridge design and related services as listed in this RFQ. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(2)</strong> <strong>Professional Qualifications</strong> necessary for performance of these types of services as listed in this RFQ. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(3) Capacity to Accomplish All Work in the Required Time</strong>. &nbsp;List numbers of teams available to do the types of services as listed in this RFQ including subcontractors. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(4) Past Performance</strong> will be evaluated on contracts for highway and bridge design and related services as listed in this RFQ with federal, state, and local government agencies and private industry in terms of quality of work, cost control, and compliance with performance schedules.&nbsp; Firms must identify references for past performance that must include a point of contact (POC), current telephone number, current email address, names of projects, and dates of performance. &nbsp;Provide interim or final past performance evaluations for the example projects in Section F of the SF330. &nbsp;In addition to the example projects, additional past performance evaluations may be provided as well. &nbsp;The period of performance end date for all projects must be within the past 7 years.&nbsp; The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p>No solicitation package is available. The successful firm or firms will be awarded an IDIQ contract based on data contained in their SF330s, past performance references and pertinent past performance information available from other sources. &nbsp;Interviews with pre-selected firms may be conducted if determined necessary. &nbsp;Forms can be downloaded from https://www.gsa.gov/forms.&nbsp;</p>\\n\\n<p>After successful negotiations with the firms, individual IDIQ contracts will be awarded. All subsequent task orders issued under the IDIQ contracts will be firm-fixed price. The individual task orders will be issued based upon the terms of the IDIQ contracts and when project needs are identified for a specific project(s). Each minimum guaranteed contract amount is $100,000.00 over the life of the contract.</p>\\n\\n<p>Interested firms having the capabilities for this work are invited to submit Part I of the SF 330 for the prime and/or joint venture firm, and Part II of the SF 330 for each member of the proposed team or subcontractors, by addressing a transmittal letter to the office shown. &nbsp;Joint Ventures must also submit a copy of the Joint Venture Agreement.</p>\\n\\n<p>The SF 330 should be completed per the instructions on the form and may be expanded, if necessary, to address the selection criteria fully.&nbsp;</p>\\n\\n<p>Directly address the technical evaluation criteria in the SF 330, Section &ldquo;H&rdquo;- Additional Information, along with any other relevant information.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>Interested firms shall include sufficient detailed information to allow complete evaluation. &nbsp;The Government reserves the right to reject all offers. &nbsp;The Government will use technical evaluation criteria for the evaluation process in rendering the best decision for award of any contract.</p>\\n\\n<p>An architect-engineer evaluation board will review and evaluate offeror qualifications and select the most highly qualified offerors based on the established RFQ evaluation criteria to participate in the second step of the selection process.&nbsp; The offerors selected to participate in step 2 of the selection process will be sent a Request for Proposal (RFP), which will explain the remainder of the process requirements at that time.</p>\\n\\n<p><strong>IMPORTANT SAM REGISTRATION AND PAYMENT REQUIREMENTS</strong></p>\\n\\n<p>In accordance with Federal Acquisition Regulation (FAR) 52.204-7 (DEVIATION NOV 2025), prospective offerors shall have an active Federal Government contracts registration in the System for Award Management (SAM) when submitting an offer in response to the solicitation and at the time of award. To register in SAM, go to https://www.sam.gov.&nbsp; Annual contractor representations and certifications must be completed online at https://www.sam.gov. Also, FAR 52.232-33 requires SAM registration for payment.&nbsp;</p>\\n\\n<p>Register to receive email notifications to be automatically notified when a document is added or updated for this solicitation and any amendments in the future. &nbsp;Please note if firms do not register as an interested vendor for this solicitation on https://www.sam.gov, there will be no Interested Vendors List. &nbsp;It is the offerors&#39; responsibility to check the Internet address provided as necessary for any posted changes to this notice and future solicitations and/or amendments.</p>\\n\\n<p>Note: Attached at the end of this document is a form the firm can use to try to obtain past performance information.&nbsp; You can fill in the name and address of your company and project name and/or number, and for what agency the work was performed. &nbsp;Send this out to your Project Manager at the DOT or other agency/firm to fill out and send directly to:&nbsp; eflhd.ae@dot.gov by email. &nbsp;If the Project Manager will not provide past performance information, send us an email from them stating this.</p>\\n\\n<p>Please send all questions concerning the solicitation to eflhd.ae@dot.gov. Please be sure to include the solicitation number <strong>693C7326R000029</strong> in the subject line of your email along with the point of contact information for the requesting firm in the body of the email. &nbsp;Requests for &#39;faxing&#39; or overnight mailing will not be accepted.</p>\\n\\n<p><strong>Step 1 submittals are due by April 21, 2026, at 2:00 p.m</strong>.<strong> EST</strong> via email to eflhd.ae@dot.gov to the attention of Mr. Raymond Delpesche and/or Ms. Colleen Delauter. &nbsp;Please be sure to include the solicitation number <strong>693C7326R000029</strong> in the subject line of your email.&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4df05485ff61468185abcad1104c93ef/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 98625,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/703b703544394787b67ad18cdc4d6af9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 118721,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "7ccf155a46734cc7bc5f9736000b929f",
+    "title": "Dust Collection System Evaluation",
+    "solicitationNumber": "FN1609-26",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-17",
+    "responseDeadline": "2026-04-15T14:00:00-04:00",
+    "agency": "JUSTICE, DEPARTMENT OF.FEDERAL PRISON INDUSTRIES, INC.FEDERAL PRISON INDUSTRIES, INC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Coleman",
+      "state": "Florida",
+      "zip": "33521"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/7ccf155a46734cc7bc5f9736000b929f/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7ccf155a46734cc7bc5f9736000b929f",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ad226104be94cf998982631c52aea94/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/64ccf37795aa434a8aaf6c272bffe565/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/732cffcbd1464dba84afd256599721b4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7601f226eb544d5dbe13695619a6bde7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2e76639fab48c6ad9fca43de1cb7c2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e7a31cad54fa4b2cb33309ebe3e062a5/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>UNICOR intends to enter into a firm fixed price, IDIQ type contract for Architect and Engineer firm to evaluate the dust collection system used in the manufacture of office furniture in two locations, Ashland, KY and Coleman, FL.&nbsp; The solicitation number is FN1609-26 and this solicitation is issued as a Request For Proposal.&nbsp; NAICS CODE IS 541330. Offerors are advised that the Government intends to evaluate offers on a multiple award basis. Offerors shall submit signed and dated offers to UNICOR, Federal Correctional Complex, PO BOX 1109, COLEMAN, FL 33521 ATTN: Peyton Perry (peyton.perry@usdoj.gov). All Proposals should be emailed to peyton.perry@usdoj.gov. The subject of the email should reference FN1609-26. All offerors must complete the Business Manageme...",
+    "descriptionFull": "{\"description\":\"<p>UNICOR intends to enter into a firm fixed price, IDIQ type contract for Architect and Engineer firm to evaluate the dust collection system used in the manufacture of office furniture in two locations, Ashland, KY and Coleman, FL.&nbsp; The solicitation number is FN1609-26 and this solicitation is issued as a Request For Proposal.&nbsp; NAICS CODE IS 541330. Offerors are advised that the Government intends to evaluate offers on a multiple award basis. Offerors shall submit signed and dated offers to UNICOR, Federal Correctional Complex, PO BOX 1109, COLEMAN, FL 33521 ATTN: Peyton Perry (peyton.perry@usdoj.gov). All Proposals should be emailed to peyton.perry@usdoj.gov. The subject of the email should reference FN1609-26. All offerors must complete the Business Management questionnaire in Section L of solicitation document with three references. References must be for same or similar items, and for the same scope of solicitation. All Offerors must register on www.sam.gov. All offerors must acknowledgment all amendments if any and complete all documents attached to this solicitation. Offers received after the exact time and date specified will not be considered. The Government intends to award a contract resulting from this solicitation to the responsible offeror or offeror&#39;s whose offer represents the best value to the government. The following factors shall be used to evaluate proposals: Listed in order of importance: Technicaly (ability to meet specifications and other requirements listed in the solicitation), Past Performance, and Price. A written notice of award or acceptance of an offer will be mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the offer, shall result in a binding contract without further action by either party.&nbsp; All NCIC forms and questions regarding this solicitation must be sent in writing to Peyton Perry at peyton.perry@usdoj.gov, no later than Wednesday, March 27, 2026 at 2:00 p.m. NO PHONE CALLS WILL BE ACCEPTED No copies of the solicitation will be mailed or emailed. All responsible offerors may submit a proposal which will be considered.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ad226104be94cf998982631c52aea94/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 10996,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/64ccf37795aa434a8aaf6c272bffe565/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 893286,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/732cffcbd1464dba84afd256599721b4/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 66705,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7601f226eb544d5dbe13695619a6bde7/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 682878,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2e76639fab48c6ad9fca43de1cb7c2/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 626291,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Florida"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "f6faec7233fa475dba6ee9f89499ddf0",
     "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
     "solicitationNumber": "N66001-26-R-3503",
@@ -1894,113 +2066,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "90b9275dc5144fb6aca8d37b9fbadc02",
-    "title": "A&E Industrial District Plan",
-    "solicitationNumber": "FTQW261200",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-05",
-    "responseDeadline": "2026-03-20T13:00:00-08:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.PACIFIC AIR FORCES.FA5004  354 CONS PK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Eielson AFB",
-      "state": "Alaska",
-      "zip": "99702"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/90b9275dc5144fb6aca8d37b9fbadc02/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=90b9275dc5144fb6aca8d37b9fbadc02",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23a252e506ea4d77a1b407c5912fb1bc/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/544c32d4cd074c2ea30223fc8122b4d1/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a94905d254a543c1a752093cf755b7c1/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a98dd59c625f421285e6a2ce8925ac4d/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f738539d18824939922f9aacdab6e497/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The Sources Sought notice is posted by the Government agency seeking possible sources for a project. This notice is not a solicitation for work or request for a project. The purpose of this notice is to identify interested and capable vendors to perform the work described below an to incorporate the result of this notice into the Government&#39;s Market Research Report.&nbsp;</p>\\n\\n<p>This project involves the Industrial District Plan. The installation&rsquo;s primary industrial area encompassing wetlands and floodplains, key infrastructure including cell towers, antenna farms, munitions storage, fuel storage, water and wastewater treatment plants, civil engineering shops, logistics readiness facilities, light manufacturing facilities, and associated administrative o...",
-    "descriptionFull": "{\"description\":\"<p>The Sources Sought notice is posted by the Government agency seeking possible sources for a project. This notice is not a solicitation for work or request for a project. The purpose of this notice is to identify interested and capable vendors to perform the work described below an to incorporate the result of this notice into the Government&#39;s Market Research Report.&nbsp;</p>\\n\\n<p>This project involves the Industrial District Plan. The installation&rsquo;s primary industrial area encompassing wetlands and floodplains, key infrastructure including cell towers, antenna farms, munitions storage, fuel storage, water and wastewater treatment plants, civil engineering shops, logistics readiness facilities, light manufacturing facilities, and associated administrative offices. The District Plan continues the comprehensive planning process by focusing on the current operations of a district and providing planning at a manageable scale by bridging the gap between the overarching Installation Development Plan (IDP) and the specifics found within individual site plans.</p>\\n\\n<p>The project acknowledges the extreme Arctic conditions, necessitating specialized utility distribution solutions. Utilidors play a critical role in this environment, preventing the need for burying pipes below the water table, which would be significantly more challenging and costly.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23a252e506ea4d77a1b407c5912fb1bc/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 130312,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/544c32d4cd074c2ea30223fc8122b4d1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 213488,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a94905d254a543c1a752093cf755b7c1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 80384,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a98dd59c625f421285e6a2ce8925ac4d/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 211188,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f738539d18824939922f9aacdab6e497/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 258400,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Alaska"
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
