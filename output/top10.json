@@ -1,19 +1,8 @@
 [
   {
-    "noticeId": "110209fafe30416fa12ef1d51af98bb8",
-    "reason": "Strong DevOps/server monitoring alignment with manageable BPA scope.",
-    "overallScore": 66,
-    "title": "Airfield Data Management Server - BPA",
-    "uiLink": "https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view",
-    "descriptionSnippet": "{\"description\":\"<p><strong><u>Amendment 0001</u></strong>&nbsp;- Please note Amendment 0001. The purpose of this amendment is to correct the solicitation due date to March 16th.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
-    "responseDeadline": "2026-03-16T15:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
-    "reason": "Direct fit to container security and DevSecOps (Iron Bank).",
-    "overallScore": 65,
+    "reason": "Strong DevSecOps and container analysis alignment with Platform One ecosystem.",
+    "overallScore": 71,
     "title": "Iron Bank Container Analysis Requirement",
     "uiLink": "https://sam.gov/workspace/contract/opp/ec332587105e4fbb8ff0e0f16196cb40/view",
     "descriptionSnippet": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
@@ -22,19 +11,8 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
-    "reason": "Cloud-based SaaS subscription likely within small team capacity.",
-    "overallScore": 64,
-    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
-    "uiLink": "https://sam.gov/workspace/contract/opp/984e24f7fdcf44dcad34981e841f6a8d/view",
-    "descriptionSnippet": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transc...",
-    "responseDeadline": "2026-03-24T12:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
-    "reason": "API architecture and security oversight aligns with AWS/DevOps skills.",
+    "reason": "API security and integration work closely matches DevOps and cloud engineering skills.",
     "overallScore": 61,
     "title": "USDA STRATUS GUS B2G Support Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view",
@@ -44,20 +22,53 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "e55570576594442da264a129cb79a356",
-    "reason": "Web application modernization with potential cloud automation work.",
+    "noticeId": "110209fafe30416fa12ef1d51af98bb8",
+    "reason": "Remote monitoring server system aligns with Linux, automation, and infrastructure support.",
     "overallScore": 59,
-    "title": "California Abandoned Mine Lands Agency Group (CAMLAG) Database Application Phase 3",
-    "uiLink": "https://sam.gov/workspace/contract/opp/e55570576594442da264a129cb79a356/view",
-    "descriptionSnippet": "{\"description\":\"<p><strong>Subject: <u>Update to Sources Sought Notice No. W9123826S0005 - AMLDB Web Application Update</u></strong></p>\\n\\n<p>This notice is to provide an update to the Sources Sought Notice No. W9123826S0005 for the project involving the update of the AMLDB Web Application and related AML GIS system components.</p>\\n\\n<p>Please be advised that the solicitation, originally anticipated for release in January 2025, has been delayed. The U.S. Army Corps of Engineers (USACE) is currently discussing the path forward for this requirement. There is no definitive date of solicitation in the near future.</p>\\n\\n<p>We appreciate the interest and responses received for this market research effort. Please continue to monitor SAM.gov for updates.</p>\\n\"}",
-    "responseDeadline": "",
+    "title": "Airfield Data Management Server - BPA",
+    "uiLink": "https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view",
+    "descriptionSnippet": "{\"description\":\"<p><strong><u>Amendment 0001</u></strong>&nbsp;- Please note Amendment 0001. The purpose of this amendment is to correct the solicitation due date to March 16th.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
+    "responseDeadline": "2026-03-16T15:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "eca1a867ae5d4f6aa86bf38b784145a2",
+    "reason": "C4ISR sustainment relevant to networking and systems engineering capabilities.",
+    "overallScore": 50,
+    "title": "RFP N6523626R3007",
+    "uiLink": "https://sam.gov/workspace/contract/opp/eca1a867ae5d4f6aa86bf38b784145a2/view",
+    "descriptionSnippet": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non-Disclosure Ag...",
+    "responseDeadline": "2026-04-17T12:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "450c5091865141f0a18cd5087795f69f",
+    "reason": "Automation and data-centric intelligence support fits DevOps and scripting strengths.",
+    "overallScore": 48,
+    "title": "Intelligence and Automation Operations",
+    "uiLink": "https://sam.gov/workspace/contract/opp/450c5091865141f0a18cd5087795f69f/view",
+    "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
+    "responseDeadline": "2026-04-17T09:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
+    "reason": "Cloud-based digital platform subscription relevant to SaaS and AWS experience.",
+    "overallScore": 48,
+    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
+    "uiLink": "https://sam.gov/workspace/contract/opp/984e24f7fdcf44dcad34981e841f6a8d/view",
+    "descriptionSnippet": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transc...",
+    "responseDeadline": "2026-03-24T12:00:00-04:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "e8d30f9553c84339802369b4365a7713",
-    "reason": "Engineering/integration services with potential DevOps components.",
-    "overallScore": 50,
+    "reason": "Systems engineering and integration with potential software components.",
+    "overallScore": 47,
     "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
     "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
     "descriptionSnippet": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this documen...",
@@ -67,8 +78,8 @@
   },
   {
     "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-    "reason": "Tactical network software development relevant to automation/Linux.",
-    "overallScore": 49,
+    "reason": "Tactical networks engineering aligns with infrastructure and network automation skills.",
+    "overallScore": 44,
     "title": "CANES Tactical Networks Market Survey",
     "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
     "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number. Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in a...",
@@ -77,35 +88,24 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "f6faec7233fa475dba6ee9f89499ddf0",
-    "reason": "Enterprise network engineering aligned but likely larger scale.",
-    "overallScore": 48,
-    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
-    "uiLink": "https://sam.gov/workspace/contract/opp/f6faec7233fa475dba6ee9f89499ddf0/view",
-    "descriptionSnippet": "{\"description\":\"The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. \"}",
-    "responseDeadline": "2026-03-24T15:00:00-07:00",
+    "noticeId": "e55570576594442da264a129cb79a356",
+    "reason": "Web application and GIS modernization could leverage Python and DevOps capabilities.",
+    "overallScore": 42,
+    "title": "California Abandoned Mine Lands Agency Group (CAMLAG) Database Application Phase 3",
+    "uiLink": "https://sam.gov/workspace/contract/opp/e55570576594442da264a129cb79a356/view",
+    "descriptionSnippet": "{\"description\":\"<p><strong>Subject: <u>Update to Sources Sought Notice No. W9123826S0005 - AMLDB Web Application Update</u></strong></p>\\n\\n<p>This notice is to provide an update to the Sources Sought Notice No. W9123826S0005 for the project involving the update of the AMLDB Web Application and related AML GIS system components.</p>\\n\\n<p>Please be advised that the solicitation, originally anticipated for release in January 2025, has been delayed. The U.S. Army Corps of Engineers (USACE) is currently discussing the path forward for this requirement. There is no definitive date of solicitation in the near future.</p>\\n\\n<p>We appreciate the interest and responses received for this market research effort. Please continue to monitor SAM.gov for updates.</p>\\n\"}",
+    "responseDeadline": "",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
-    "reason": "Software-intensive modeling support with possible DevOps elements.",
-    "overallScore": 36,
+    "reason": "Software development and modeling effort with potential cloud/HPC overlap.",
+    "overallScore": 41,
     "title": "Earth Prediction Innovation Center (EPIC)-Advancing Weather Modeling Skills",
     "uiLink": "https://sam.gov/workspace/contract/opp/c9ba2896c2e3404fa638750bc27243bf/view",
     "descriptionSnippet": "{\"description\":\"<p><u>3/2/2026</u> - Please see the attached Amendment 0004 for updated information.&nbsp;This amendment is being provided for informational purposes ONLY and in compliance with FAR Part 5. Per the Phase 1 Advisory Notification dated 2/10/2026 sent to those firms who submitted a proposal for Phase 1,&nbsp;any amendments and revised attachments issued for Phase 2 will only be provided to offerors who provided their intent to participate in Phase 2. Additionally, only questions submitted for Phase 2 from offerors who provided their intent to participate in Phase 2 were answered. <strong>Any proposal submitted in response to this amendment that is NOT from a Phase 2 offeror will not be evaluted and is not eligible for award.</strong></p>\\n\\n<p><u>2/20/2026</u> - Please see ...",
     "responseDeadline": "2025-08-15T16:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "ededcad9edc6495bb6e4fe4339e66d31",
-    "reason": "IT governance support with some tooling and portfolio automation overlap.",
-    "overallScore": 29,
-    "title": "FPAC Business Operations Branch (BOB) IT CPIC, Portfolio Management, and Financial Management Support Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/ededcad9edc6495bb6e4fe4339e66d31/view",
-    "descriptionSnippet": "{\"description\":\"<p>The U.S. Department of Agriculture (USDA), Farm Production and Conservation (FPAC) Mission Area, intends to consolidate multiple related support requirements into a single acquisition for the FPAC Business Operations Branch (BOB). This consolidated requirement will provide integrated support for IT Capital Planning and Investment Control (CPIC), IT Portfolio Management, IT Financial Management, and Program/Project Management activities across the FPAC Information Solutions Division (ISD).</p>\\n\\n<p>BOB oversees strategic IT governance, financial oversight, and enterprise investment management for a multi\u2011agency IT portfolio valued at approximately $1B annually. The consolidated scope includes support for CPIC processes, business case development, governance board (IRB...",
-    "responseDeadline": "2026-03-23T14:00:00-04:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   }
