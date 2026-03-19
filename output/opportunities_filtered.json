@@ -613,6 +613,94 @@
     "updatedDate": null
   },
   {
+    "noticeId": "ecdebfa23838420b812c3a19e4f6edd1",
+    "title": "400G Optical Network Upgrade Installation and Commissioning",
+    "solicitationNumber": "FA480026SSJBLEON",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541512",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-19",
+    "responseDeadline": "2026-03-26T12:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4800  633 CONS PKP",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "GRASSY CREEK",
+      "state": "Virginia",
+      "zip": "23665"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ecdebfa23838420b812c3a19e4f6edd1/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ecdebfa23838420b812c3a19e4f6edd1",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1f0de9b794e4411495b1f94f148dae88/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d54a1fb6b70c4efb95e648fa087973a8/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>THIS IS A SOURCES SOUGHT NOTICE FOR INFORMATION AND PLANNING PURPOSES ONLY.</strong>&nbsp; <strong><u>This announcement closes 12:00 p.m. Eastern Time on Monday, 26 March 2026.</u></strong>&nbsp; The applicable North American Industry Classification System (NAICS) for this requirement is 541512, Electrical Contractors and Other Wiring Installation Contractors, with a corresponding size standard of $34M.&nbsp; Interested parties must be registered under NAICS 541512 in the System for Award Management (SAM) at www.sam.gov. The Government plans to consider all information submitted in response to this Sources Sought Notice.</p>\\n\\n<p>The contractor shall provide all project management, personnel, labor, equipment, tools, and technical expertise necessary to perfo...",
+    "descriptionFull": "{\"description\":\"<p><strong>THIS IS A SOURCES SOUGHT NOTICE FOR INFORMATION AND PLANNING PURPOSES ONLY.</strong>&nbsp; <strong><u>This announcement closes 12:00 p.m. Eastern Time on Monday, 26 March 2026.</u></strong>&nbsp; The applicable North American Industry Classification System (NAICS) for this requirement is 541512, Electrical Contractors and Other Wiring Installation Contractors, with a corresponding size standard of $34M.&nbsp; Interested parties must be registered under NAICS 541512 in the System for Award Management (SAM) at www.sam.gov. The Government plans to consider all information submitted in response to this Sources Sought Notice.</p>\\n\\n<p>The contractor shall provide all project management, personnel, labor, equipment, tools, and technical expertise necessary to perform the installation, configuration, testing, and integration of government-furnished 400G optical networking equipment. The 633rd Communications Squadron (633 CS) at Langley Air Force Base, Virginia, has a need to upgrade its core optical transport network. This project requires professional services to install and commission Government-Furnished Equipment (GFE), specifically Cisco Network Convergence System 2006 Series (NCS2K) Dense Wavelength Division Multiplexing (DWDM) nodes and 400G Transponder Modules, into the existing network infrastructure to complete this critical modernization effort.</p>\\n\\n<p>Please see the attached notice for additional information.</p>\\n\\n<p></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1f0de9b794e4411495b1f94f148dae88/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 152396,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d54a1fb6b70c4efb95e648fa087973a8/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 137503,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "modernization",
+        "network",
+        "networking",
+        "LAN",
+        "Cisco"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
     "title": "USDA STRATUS GUS B2G Support Services",
     "solicitationNumber": "",
@@ -1360,6 +1448,149 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
+    "title": "Sources Sought - Optimizing Data & Intelligence Services (ODIS)",
+    "solicitationNumber": "86615526Q00008",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-19",
+    "responseDeadline": "2026-03-25T16:00:00-04:00",
+    "agency": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF.HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF.CPO : GNMA SUPPORT DIVISION",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c4b2d4ccd7614a0ebd5052caace65370/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c4b2d4ccd7614a0ebd5052caace65370",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e678555d9a14be6ba62c2d9e988b985/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Department of Housing and Urban Development (HUD), Office of Enterprise Data and Technology Solutions OEDTS), Enterprise Data Solution (EDS) Division is issuing this sources sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support this requirement for Optimizing Data &amp; Intelligence Services (ODIS). The result of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 541330 Engineering Services.</p>\\n\\n<p>There is no solicitation at this time. This request for capability information does not constitute a request for proposals; submission of any information in resp...",
+    "descriptionFull": "{\"description\":\"<p>The Department of Housing and Urban Development (HUD), Office of Enterprise Data and Technology Solutions OEDTS), Enterprise Data Solution (EDS) Division is issuing this sources sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support this requirement for Optimizing Data &amp; Intelligence Services (ODIS). The result of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 541330 Engineering Services.</p>\\n\\n<p>There is no solicitation at this time. This request for capability information does not constitute a request for proposals; submission of any information in response to this market survey is purely voluntary; the government assumes no financial responsibility for any costs incurred.&nbsp;</p>\\n\\n<p>If your organization has the potential capacity to perform these contract services, please provide the following information: 1) organization name, address, email address, website address, telephone number, and size and type of ownership for the organization; 2) tailored capability statements addressing the particulars of this effort, with appropriate documentation supporting claims of organizational and staff capability; and 3) suggest SIN codes that would be suitable for this procurement. If significant subcontracting or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements.</p>\\n\\n<p>The government will evaluate market information to ascertain potential market capacity to 1) provide services consistent in scope and scale with those described in this notice and otherwise anticipated; 2) secure and apply the full range of corporate financial, human capital, and technical resources required to successfully perform similar requirements; 3) implement a successful project management plan that includes: compliance with program schedules; cost containment; meeting and tracking performance; hiring and retention of personnel and risk mitigation; and 4) provide services under a performance based service acquisition contract.</p>\\n\\n<p>Based on the responses to this source sought notice/market research, this requirement may be set-aside for small businesses or procured through full and open competition, and multiple awards may be made. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions.</p>\\n\\n<p><strong>Submission Instructions: </strong>Interested parties who consider themselves qualified to perform the above-listed services are invited to submit a response to this Sources Sought Notice by March 25, 2026, at 4:00 PM EST. All responses under this Sources Sought Notice must be emailed to <strong>Tracey Dawley, Contract Specialist (</strong><strong>tracey.g.dawley@hud.gov</strong><strong>) and Tarita Leftwich, Contracting Officer (</strong><strong>tarita.l.leftwich@hud.gov</strong><strong>). </strong>Additional information on the required services is listed below. If you have any questions concerning this opportunity, please contact: Tracey Dawley at the above-mentioned email address. <strong>See attached Draft PWS for description of services.</strong></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e678555d9a14be6ba62c2d9e988b985/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 60240,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "c9920ad6388542d793013ab8393cb4de",
+    "title": "Regions 01 and 02 A&E Services",
+    "solicitationNumber": "1165974",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-18",
+    "responseDeadline": "2026-04-02T16:00:00-04:00",
+    "agency": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA INTERMOUNTAIN 3",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c9920ad6388542d793013ab8393cb4de/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c9920ad6388542d793013ab8393cb4de",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The purpose of this notice is to obtain information regarding:</p>\\n\\n<p>1) Availability and capability of qualified sources</p>\\n\\n<p>2) Availability of capable firms to provide the contemplated requirement listed below</p>\\n\\n<p>The information provided herein is for informational purposes only. THIS NOTICE IS NOT A REQUEST FOR PROPOSAL.&nbsp; This notice is issued for information and planning purposes only and does not itself constitute a Request for Proposal (RFP). The Government does not intend to award a contract based solely on responses to this Sources Sought Notice.&nbsp; This notice acts as fulfillment of public synopsis &amp; GPE posting requirements set forth in both FAR Part 5 &amp; 13.501.</p>\\n\\n<p>The USDA Forest Service Regions 01 and 02 anticipate aw...",
+    "descriptionFull": "{\"description\":\"<p>The purpose of this notice is to obtain information regarding:</p>\\n\\n<p>1) Availability and capability of qualified sources</p>\\n\\n<p>2) Availability of capable firms to provide the contemplated requirement listed below</p>\\n\\n<p>The information provided herein is for informational purposes only. THIS NOTICE IS NOT A REQUEST FOR PROPOSAL.&nbsp; This notice is issued for information and planning purposes only and does not itself constitute a Request for Proposal (RFP). The Government does not intend to award a contract based solely on responses to this Sources Sought Notice.&nbsp; This notice acts as fulfillment of public synopsis &amp; GPE posting requirements set forth in both FAR Part 5 &amp; 13.501.</p>\\n\\n<p>The USDA Forest Service Regions 01 and 02 anticipate awarding contracts for procuring Architecture and Engineering Services which include, but are not limited to architecture, civil, structural, mechanical, electrical, electrical, electrical, geotechnical and landscape survey and design, inspection services, and construction management services. These services are being sought under NAICS codes 541330 and 541310; Firms may be registered under either one or both of these codes.</p>\\n\\n<p>Response Format:</p>\\n\\n<p>The Forest Service is conducting this Sources Sought to identify small business contractors who possess the capabilities to provide services as specified above and to determine their availability, capability, and adequacy. Interested small businesses under the referenced NAICS codes are invited to submit their interest by 4PM Eastern Time on April 02, 2026.</p>\\n\\n<p></p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -2735,7 +2966,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "984e24f7fdcf44dcad34981e841f6a8d",
+    "noticeId": "636c5770903d493f9002e75ca24d84e3",
     "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
     "solicitationNumber": "75D30126Q78839",
     "type": "Combined Synopsis/Solicitation",
@@ -2743,8 +2974,8 @@
     "naicsCode": "518210",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-02-26",
-    "responseDeadline": "2026-03-24T12:00:00-04:00",
+    "postedDate": "2026-03-18",
+    "responseDeadline": "2026-03-26T12:00:00-04:00",
     "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.CENTERS FOR DISEASE CONTROL AND PREVENTION.CDC OFFICE OF ACQUISITION SERVICES",
     "office": "",
     "placeOfPerformance": {
@@ -2753,20 +2984,34 @@
       "zip": "30329"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/984e24f7fdcf44dcad34981e841f6a8d/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=984e24f7fdcf44dcad34981e841f6a8d",
+      "uiLink": "https://sam.gov/workspace/contract/opp/636c5770903d493f9002e75ca24d84e3/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=636c5770903d493f9002e75ca24d84e3",
       "additionalInfoLink": null,
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3da2b603ab84ea2a2e79c6f54f12fd4/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b1702ae871914624b882f3ecb20a282d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3da2b603ab84ea2a2e79c6f54f12fd4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f774ee7ab75d439f8938b6143feb9fa1/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transc...",
-    "descriptionFull": "{\"description\":\"<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transcribed by the system, and testing results are provided within minutes of completion of the test. OC UX staff can then focus their time on analysis of the results and making improvements to CDC&rsquo;s digital content as a result of the feedback. This would allow CDC to ensure its digital products and services meet user needs and provide OC UX staff data and insights to inform effective health communications across CDC&rsquo;s key audiences.</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user sc...",
+    "descriptionFull": "{\"description\":\"<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transcribed by the system, and testing results are provided within minutes of completion of the test. OC UX staff can then focus their time on analysis of the results and making improvements to CDC&rsquo;s digital content as a result of the feedback. This would allow CDC to ensure its digital products and services meet user needs and provide OC UX staff data and insights to inform effective health communications across CDC&rsquo;s key audiences.</p>\\n\"}",
     "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b1702ae871914624b882f3ecb20a282d/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1217934,
+        "textSnippet": ""
+      },
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3da2b603ab84ea2a2e79c6f54f12fd4/download",
         "contentType": "application/octet-stream",
         "byteSize": 703348,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f774ee7ab75d439f8938b6143feb9fa1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 152122,
         "textSnippet": ""
       }
     ],
