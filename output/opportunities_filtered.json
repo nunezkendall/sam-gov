@@ -330,165 +330,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "264b0685ad7047a8be2515b1fc1dd9c9",
-    "title": "USGS Water Quality Instruments",
-    "solicitationNumber": "140G0126Q0064",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-10",
-    "responseDeadline": "2026-03-17T13:00:00-04:00",
-    "agency": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFC OF ACQUSITION  GRANTS-NATIONAL",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/264b0685ad7047a8be2515b1fc1dd9c9/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=264b0685ad7047a8be2515b1fc1dd9c9",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6988c317ba9a4f659ba8bf97ec5eb30a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3f585044e3f45138b2dc3c37f3a121e/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"This is an announcement directing interested parties to the FedBizOpps (FBO) web page at https://sam.gov/ where details of U.S. Geological Survey (USGS) Request for Quote (RFQ) 140G0126Q0064 may be viewed. This RFQ constitutes the only solicitation. <br/> <br/>Discounted Open Market Firm-Fixed Price quotation packages are being requested for one (1) water quality sonde and one (1) multiparameter water quality meter equal to or better than the YSI EXO3 water quality sonde and ProDSS multiparameter water meter. The posted RFQ contains a description of the Statement of Work, Instructions to Vendors, and applicable clauses. <br/> <br/>All vendors who can meet this requirement, have a valid Unique Entity Identifier (UEI) and are registered in SAM are invited to submit electro...",
-    "descriptionFull": "{\"description\":\"This is an announcement directing interested parties to the FedBizOpps (FBO) web page at https://sam.gov/ where details of U.S. Geological Survey (USGS) Request for Quote (RFQ) 140G0126Q0064 may be viewed. This RFQ constitutes the only solicitation.  <br/> <br/>Discounted Open Market Firm-Fixed Price quotation packages are being requested for one (1) water quality sonde and one (1) multiparameter water quality meter equal to or better than the YSI EXO3 water quality sonde and ProDSS multiparameter water meter. The posted RFQ contains a description of the Statement of Work, Instructions to Vendors, and applicable clauses. <br/> <br/>All vendors who can meet this requirement, have a valid Unique Entity Identifier (UEI) and are registered in SAM are invited to submit electronic quotes for this posted RFQ.  <br/> <br/>All questions shall be submitted to the contract specialist via email at miranda_blankenship@ios.doi.gov, no later than 1:00 PM EST, Friday, March 13, 2026.   <br/> <br/>Quotation Packages are due via email to miranda_blankenship@ios.doi.gov no later than 1:00PM EST, Tuesday, March 17, 2026.<br/><br/>\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6988c317ba9a4f659ba8bf97ec5eb30a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 208911,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3f585044e3f45138b2dc3c37f3a121e/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 308137,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "01f9c95ce6634e2fb98d389b076f9f5a",
-    "title": "Social Media Manager",
-    "solicitationNumber": "W911S8-26-Q-1B93",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-19",
-    "responseDeadline": "2026-03-04T13:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.418TH CSB.W6QM MICC-JB LEWIS-MC CHORD",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "North Lakewood",
-      "state": "Washington",
-      "zip": "98433"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/01f9c95ce6634e2fb98d389b076f9f5a/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=01f9c95ce6634e2fb98d389b076f9f5a",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bf4c51f7474c46a6ab645ac35a83f65c/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This Sources Sought Notice (SSN) is for market research purposes only and does not constitute a solicitation or commitment by the Government. The U. S. Government desires to procure these services on a Small Business Set-aside basis, provided 2 or more qualified small businesses respond to this notice. No set-aside decision has been made. Be advised that the U.S. Government will not be able to set aside this requirement if 2 or more small businesses do not respond with information to support set-aside. We encourage all small businesses, in all socio-economic categories (including 8(a), Business Development Program, Small Disadvantaged Business, Historically Underutilized Business Zone, Service-Disabled Veteran-Owned, Woman-Owned Small Business concerns) to identify th...",
-    "descriptionFull": "{\"description\":\"<p>This Sources Sought Notice (SSN) is for market research purposes only and does not constitute a solicitation or commitment by the Government. The U. S. Government desires to procure these services on a Small Business Set-aside basis, provided 2 or more qualified small businesses respond to this notice. No set-aside decision has been made. Be advised that the U.S. Government will not be able to set aside this requirement if 2 or more small businesses do not respond with information to support set-aside. We encourage all small businesses, in all socio-economic categories (including 8(a), Business Development Program, Small Disadvantaged Business, Historically Underutilized Business Zone, Service-Disabled Veteran-Owned, Woman-Owned Small Business concerns) to identify their capabilities in meeting the requirement at a fair market price.&nbsp;</p>\\n\\n<p>This SSN is being issued solely for information and planning purposes. It does not constitute a Request for Quote(RFQ), Request for Proposal (RFP) or promise to issue a solicitation in the future. The U.S. Government is not seeking quotes, bids, or proposals at this time and will not accept unsolicited proposals in response to this notice. The U.S. Government will not pay for any information or administrative costs incurred in response to this notice. Not responding to this notice does not preclude participation in any future solicitation if any is issued. All interested parties must be registered in the System of Award Management (SAM) database to be eligible for consideration.&nbsp;</p>\\n\\n<p>This notice is issued to solicit responses from those small business firms who have performed relevant work within the past three (3) years, have the capability to perform this type of work and would likely respond to any resultant solicitation. In response to this notice, please provide the following information:&nbsp;<br />\\na. Company name, Unique Entity Identifier (UEI), CAGE Code, address, Point of Contact name, current phone number (with area code) and complete email address&nbsp;<br />\\nb. Small Business Status (Small Business, HUBZone Small Business, Service-Disabled Veteran-Owned Small Business (SDVOSB), 8(a) Small Business, Small Disadvantaged Business, Woman-Owned Small Business, Economically Disadvantaged Woman-Owned Small Business)&nbsp;<br />\\nc. North American Industry Classification System (NAICS) Code(s) for which your company performs under Government contracts, if any. State and primary NAICS Code&nbsp;<br />\\nd. If you are an 8(a) Small Business, please state your supporting office.</p>\\n\\n<p>The following narrative outlines the work necessary for this requirement. Please indicate whether your firm has successfully performed Social Media and Graphic Design work in the past and whether the work was performed in-house or sub-contracted.&nbsp;</p>\\n\\n<p>The Contractor shall employ social media management software, methods, and industry best practices to establish, maintain, and grow a strong, cohesive brand presence through key social media/web platforms by creating high quality content, maintaining community management, and conducting targeted digital-engagement across key platforms in accordance with (IAW) I Corps communications plan. Content includes but is not limited to: amplifying success stories; providing timely and updated information across a broad range of I Corps&#39; and local community services and activities; introduce brand to target audiences, influencers, and stakeholders; measurably increasing brand awareness, loyalty, and recruitment; and closely monitor follower engagement. Manage the production of welcome video and detailed infographics that will become part of communications plan to make JBLM the CONUS base of choice. Please closely review paragraph 15 of the Performance Work Statement for qualifications.&nbsp;</p>\\n\\n<p>Point of contact is Mr. Manuel Rosas, Contract Specialist, at manuel.e.rosas.civ@army.mil. Responses mut be received no later than the date and time outlined in this notice and shall be submitted in Microsoft Word, Adobe Portable Document (PDF) or Microsoft Excel format to Mr. Rosas. PDF files shall be searchable and shall allow the Government to copy and paste as text to another document. Responders are advised to limit file sizes to 5MB per document.&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bf4c51f7474c46a6ab645ac35a83f65c/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 896677,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Washington"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "9b64938ee50c44d7a3ef21e2c58235bd",
     "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
     "solicitationNumber": "697DCK-25-R-00302",
@@ -876,7 +717,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
+    "noticeId": "16a3fc9ba1fb4aa89de216ff577a647e",
     "title": "Enterprise Endpoint Hardware Services (EEHS) Request for Information (RFI)",
     "solicitationNumber": "ST-2641-02262026",
     "type": "Sources Sought",
@@ -884,7 +725,7 @@
     "naicsCode": "541513",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-02-26",
+    "postedDate": "2026-03-19",
     "responseDeadline": "2026-03-25T15:00:00-07:00",
     "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MANAGEMENT OFFICE -- JPL",
     "office": "",
@@ -894,20 +735,34 @@
       "zip": "91011"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5f8e3ed03624415baf4874c8c8bb08a8/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5f8e3ed03624415baf4874c8c8bb08a8",
+      "uiLink": "https://sam.gov/workspace/contract/opp/16a3fc9ba1fb4aa89de216ff577a647e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=16a3fc9ba1fb4aa89de216ff577a647e",
       "additionalInfoLink": null,
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56fc02fb968c4247962c2bcdbf0780a5/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56fc02fb968c4247962c2bcdbf0780a5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6dc71c81acb343d096095ce58e5802d0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/84909bee03154800a95344e1728e30ed/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible for any costs incurred by you in furnishing any information.&nbsp; Responses received will be carefully reviewed by JPL and may be considered as part of a future solicitation. Prospective subcontractors are advised that any information provided shall be deemed to be furnished with unlimited rights to JPL, with JPL assuming no liability for the disclosure, use, or reproduction of such data.</p>\\n\\n<p>This RFI is to also gather ...",
-    "descriptionFull": "{\"description\":\"<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible for any costs incurred by you in furnishing any information.&nbsp; Responses received will be carefully reviewed by JPL and may be considered as part of a future solicitation. Prospective subcontractors are advised that any information provided shall be deemed to be furnished with unlimited rights to JPL, with JPL assuming no liability for the disclosure, use, or reproduction of such data.</p>\\n\\n<p>This RFI is to also gather information of potential qualified sources and to obtain your business size relative to the following NAICS code: 541513 &ldquo;Computer Facilities Management Services,&rdquo; with a size standard of $37 million dollars. Responses to this RFI may be used by JPL to make appropriate decisions regarding a Small Business Set-Aside procurement. All responses shall be submitted by <strong>3/25/2026</strong> electronically to the undersigned<strong>, </strong>per the instructions set forth in <strong><em>Request for Information Submittal (page 2).</em></strong></p>\\n\\n<p>Below are some critical dates as it pertains to this Request for Information (RFI):</p>\\n\\n<ul>\\n\\t<li>Written RFI Questions are due by <strong>3/12/2026</strong> via submission to the undersigned by email. Questions after this date may be asked during an anticipated JPL-hosted webinar but no written questions will be accepted after <strong>3/12/2026</strong>.</li>\\n\\t<li>JPL will respond to written questions by<strong> 3/19/2026.</strong></li>\\n\\t<li>As stated above, all responses shall be submitted by <strong>3/25/2026</strong>.</li>\\n</ul>\\n\\n<p>Information about JPL can be found at: https://www.jpl.nasa.gov/who-we-are/.</p>\\n\\n<p>Also, JPL will host three webinars on the dates listed below to address questions live. Contract Technical Managers, the Subcontracts Manager, and representatives from the JPL Small Business Programs Office may be in attendance. Webinar registration links are provided below and in the &ldquo;Attachments/Links&rdquo; section of the SAM.gov RFI posting.</p>\\n\\n<ul>\\n\\t<li>March 10, 2026 10:00 AM to 11:00 AM PT (https://lp.constantcontactpages.com/ev/reg/yjp8qbb)</li>\\n\\t<li>March 12, 2026 10:00 AM to 11:00 AM PT (https://lp.constantcontactpages.com/ev/reg/zfuuuwr)</li>\\n\\t<li>March 17, 2026 1:30 PM to 2:30 PM PT (https://lp.constantcontactpages.com/ev/reg/ayuax3v)</li>\\n</ul>\\n\\n<p>Thank you,</p>\\n\\n<p>Sara Tan</p>\\n\\n<p>JPL Subcontracts Manager</p>\\n\\n<p>626-437-8710</p>\\n\\n<p><u>Sara.W.Tan</u>@jpl.nasa.gov</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"<p><strong><u>Addendum 1 (March 19, 2026)</u></strong></p>\\n\\n<p>This Addendum is provided to all Prospective Respondents for clarification of the subject RFI. &nbsp; &nbsp; &nbsp;</p>\\n\\n<p>The set of Questions and Answers (Q&amp;A) for Addendum 1 is in the &quot;Attachments&quot; section of the SAM.Gov RFI posting.</p>\\n\\n<p>Should you have any questions, please address them to the undersigned by e-mail.</p>\\n\\n<p>-</p>\\n\\n<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible f...",
+    "descriptionFull": "{\"description\":\"<p><strong><u>Addendum 1 (March 19, 2026)</u></strong></p>\\n\\n<p>This Addendum is provided to all Prospective Respondents for clarification of the subject RFI. &nbsp; &nbsp; &nbsp;</p>\\n\\n<p>The set of Questions and Answers (Q&amp;A) for Addendum 1 is in the &quot;Attachments&quot; section of the SAM.Gov RFI posting.</p>\\n\\n<p>Should you have any questions, please address them to the undersigned by e-mail.</p>\\n\\n<p>-</p>\\n\\n<p>The Jet Propulsion Laboratory (JPL) is seeking information from qualified vendors regarding their capability to provide computer hardware to the laboratory&rsquo;s end users. This RFI is for planning purposes only and does not constitute a solicitation or commitment to procure any services. Neither JPL nor the U.S. Government will be responsible for any costs incurred by you in furnishing any information.&nbsp; Responses received will be carefully reviewed by JPL and may be considered as part of a future solicitation. Prospective subcontractors are advised that any information provided shall be deemed to be furnished with unlimited rights to JPL, with JPL assuming no liability for the disclosure, use, or reproduction of such data.</p>\\n\\n<p>This RFI is to also gather information of potential qualified sources and to obtain your business size relative to the following NAICS code: 541513 &ldquo;Computer Facilities Management Services,&rdquo; with a size standard of $37 million dollars. Responses to this RFI may be used by JPL to make appropriate decisions regarding a Small Business Set-Aside procurement. All responses shall be submitted by <strong>3/25/2026</strong> electronically to the undersigned<strong>, </strong>per the instructions set forth in <strong><em>Request for Information Submittal (page 2).</em></strong></p>\\n\\n<p>Below are some critical dates as it pertains to this Request for Information (RFI):</p>\\n\\n<ul>\\n\\t<li>Written RFI Questions are due by <strong>3/12/2026</strong> via submission to the undersigned by email. Questions after this date may be asked during an anticipated JPL-hosted webinar but no written questions will be accepted after <strong>3/12/2026</strong>.</li>\\n\\t<li>JPL will respond to written questions by<strong> 3/19/2026.</strong></li>\\n\\t<li>As stated above, all responses shall be submitted by <strong>3/25/2026</strong>.</li>\\n</ul>\\n\\n<p>Information about JPL can be found at: https://www.jpl.nasa.gov/who-we-are/.</p>\\n\\n<p>Also, JPL will host three webinars on the dates listed below to address questions live. Contract Technical Managers, the Subcontracts Manager, and representatives from the JPL Small Business Programs Office may be in attendance. Webinar registration links are provided below and in the &ldquo;Attachments/Links&rdquo; section of the SAM.gov RFI posting.</p>\\n\\n<ul>\\n\\t<li>March 10, 2026 10:00 AM to 11:00 AM PT (https://lp.constantcontactpages.com/ev/reg/yjp8qbb)</li>\\n\\t<li>March 12, 2026 10:00 AM to 11:00 AM PT (https://lp.constantcontactpages.com/ev/reg/zfuuuwr)</li>\\n\\t<li>March 17, 2026 1:30 PM to 2:30 PM PT (https://lp.constantcontactpages.com/ev/reg/ayuax3v)</li>\\n</ul>\\n\\n<p>Thank you,</p>\\n\\n<p>Sara Tan</p>\\n\\n<p>JPL Subcontracts Manager</p>\\n\\n<p>626-437-8710</p>\\n\\n<p><u>Sara.W.Tan</u>@jpl.nasa.gov</p>\\n\"}",
     "attachments": [
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56fc02fb968c4247962c2bcdbf0780a5/download",
         "contentType": "application/octet-stream",
         "byteSize": 61731,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6dc71c81acb343d096095ce58e5802d0/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 45113,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/84909bee03154800a95344e1728e30ed/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 100439,
         "textSnippet": ""
       }
     ],
@@ -950,6 +805,90 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "557c4bde13a245728eeb67e1a9268a3d",
+    "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers",
+    "solicitationNumber": "36C24526Q0376",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541511",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-20",
+    "responseDeadline": "2026-03-31T08:00:00-04:00",
+    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Linthicum Heights",
+      "state": "Maryland",
+      "zip": "21090"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/557c4bde13a245728eeb67e1a9268a3d/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=557c4bde13a245728eeb67e1a9268a3d",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/376ac89a2f0e41a4aec04158a5fb917e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd0cb70520df41439f1f91b0c4a99166/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"VISN 5 has a need for continual as-built drawing update service through a Blanket Purchase Agreement (BPA). VISN 5 is a fully integrated network of eight (8) VA medical campuses and multiple VA Community Clinics.\\n\"}",
+    "descriptionFull": "{\"description\":\"VISN 5 has a need for continual as-built drawing update service through a Blanket Purchase Agreement (BPA). VISN 5 is a fully integrated network of eight (8) VA medical campuses and multiple VA Community Clinics.\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/376ac89a2f0e41a4aec04158a5fb917e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 607251,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd0cb70520df41439f1f91b0c4a99166/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 230098,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -1451,6 +1390,207 @@
     "updatedDate": null
   },
   {
+    "noticeId": "f514d28929354908be6feda786d53d67",
+    "title": "A-E Shortlist for USDA-FS, Region 8 and 10, SRS-PNW-IITF Research Stations 2026",
+    "solicitationNumber": "12445124R0001",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-20",
+    "responseDeadline": "2026-03-31T12:00:00-08:00",
+    "agency": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA EAST 11",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/f514d28929354908be6feda786d53d67/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f514d28929354908be6feda786d53d67",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0981f75c606649d6877badb1306bedf0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d1b45773f8c4f7daea340033bad0cf8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2ddee05ca0ba40b38e1b196abf58e242/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2f47e3be4d5a4c90861f6fdca39be537/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4aaff93e1fca4c30bc0618662e68f579/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/73d0ddc2a4cd4bc6819c9f6e05f945ca/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/75a4a413aaff42e1af32720831c6089b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79dd434e227a46ef850204fd85e75723/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93cd9ee7aeb84d18889a87a402e0c7de/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2b9570cbadf4549b1ca1b9df6029763/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb0d55cae4124ed0b8fc64d1f219aa89/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3745f12b8d949b8ab4e70c0a3761fa2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e9ce157269054b9e8e65a52d96a0df4d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f8c1a1624d114400a26ef1ab49622166/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faf1aca1555f42e0a64e7e899b63fd0b/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Amendment 002.&nbsp; The purpose of amendment 002 is to open the 2026 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2026 through 04/30/2027.&nbsp;</p>\\n\\n<p>Amendment 001.&nbsp; The purpose of amendment 001 is to open the 2025 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2025 through 04/30/2026.&nbsp;</p>\\n\\n<p>*2025 PARTICIPANTS NEED TO RE-CERTIFY THEIR SF330 IS CORRECT AND ACCURATE <em>( 2026 Region 8 SRS Shortlist AE Pool Renewal Certification</em> form attached) BUT <u>DO NOT RESUBMIT A COMPLETE PACKAGE.</u></p>\\n\\n<p><u>** New applicant should complete the package issues in 2026 for the remaining one year.</u></p>\\n\\n<p></p>\\n\\n<p><em><strong>UPDATE: 19 Feb 2026 / 14000 ET&nbsp;&nbsp;</strong></em>Vir...",
+    "descriptionFull": "{\"description\":\"<p>Amendment 002.&nbsp; The purpose of amendment 002 is to open the 2026 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2026 through 04/30/2027.&nbsp;</p>\\n\\n<p>Amendment 001.&nbsp; The purpose of amendment 001 is to open the 2025 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2025 through 04/30/2026.&nbsp;</p>\\n\\n<p>*2025 PARTICIPANTS NEED TO RE-CERTIFY THEIR SF330 IS CORRECT AND ACCURATE <em>( 2026 Region 8 SRS Shortlist AE Pool Renewal Certification</em> form attached) BUT <u>DO NOT RESUBMIT A COMPLETE PACKAGE.</u></p>\\n\\n<p><u>** New applicant should complete the package issues in 2026 for the remaining one year.</u></p>\\n\\n<p></p>\\n\\n<p><em><strong>UPDATE: 19 Feb 2026 / 14000 ET&nbsp;&nbsp;</strong></em>Virtual Contractor Interface #1 -&nbsp;See attachment for link to the virtual townhall.&nbsp; This will provide the opportunity to ask questions regarding the process or specifics on completing the SF-330.</p>\\n\\n<p><em><strong>UPDATE: 19 Mar 2026 / 14000 ET&nbsp;&nbsp;</strong></em>Virtual Contractor Interface #1 -&nbsp;See attachment for link to the virtual townhall.&nbsp; This will provide the opportunity to ask questions regarding the process or specifics on completing the SF-330.</p>\\n\\n<p></p>\\n\\n<p><strong>WHAT and WHERE IS THE SHORT SELECTION DATABASE USED FOR?</strong></p>\\n\\n<p>The Forest Service may utilize the Short Selection database to award Architect-Engineer (A&amp;E) contracts, below $350,000, in all States included within the USDA Forest Service SRS, PNW, and IITF footprints, (including the States/Territories of: Alabama, Alaska, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, Nebraska, North Carolina, Oklahoma, Oregon, South Carolina, Tennessee, Texas, Virginia, and Washington State, Puerto Rico, and U.S. Virgin Islands). Acquisition support is provided from SRS Headquarters located in Asheville, NC and all files will be located at the SRS Headquarters.</p>\\n\\n<p>The database contains all the qualified, interested AE firms that respond to this notice for consideration for future approved projects falling within the North American Industry Classification System (NAICS) codes indicated.&nbsp; Examples of some of the types of work include but is not limited to (approximately 73 awards over the previous 3 years 21-23 years):</p>\\n\\n<p>NAICS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 Awards / Total Value&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Awards / Total Value</p>\\n\\n<p>541310&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 / $249,890.87&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 / $226,149.40</p>\\n\\n<p>541320&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\\n\\n<p>&nbsp;541330&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 29 / $2,519,954.78&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15 / $1,922,854.06</p>\\n\\n<p>541350&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>541360&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>541370&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33 / $1,232,504.46&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19 / $812,529.58</p>\\n\\n<p>541620&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>541690&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>541990&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p><strong>Total Annual Awards&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;65 / $4,119,477.11&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;37/$3,350,970.04</strong></p>\\n\\n<ul>\\n\\t<li>replacements, bridges, roads, and trails</li>\\n\\t<li>surveying (construction and property)</li>\\n\\t<li>construction inspection/safety inspections of roads, bridges under FP-14 and state laws</li>\\n\\t<li>design of repairs to small dams and impoundments</li>\\n\\t<li>laboratory repairs and renovations</li>\\n\\t<li>review and design of HVAC systems upgrades</li>\\n\\t<li>green building construction and certification consultation</li>\\n\\t<li>historic preservation</li>\\n\\t<li>renovations to improve energy efficiency and address safety concerns</li>\\n\\t<li>design of small warehouses and offices</li>\\n\\t<li>energy audits and studies</li>\\n\\t<li>design of photovoltaic and other renewable energy systems</li>\\n\\t<li>review and design of electrical systems</li>\\n\\t<li>drafting services</li>\\n\\t<li>overall facility condition assessments</li>\\n\\t<li>geotechnical investigation, and environmental (RCRA, CECRLA, CWA, etc.) investigations, reviews, inventories, audits, and coordination of RCRA and other waste disposal.</li>\\n</ul>\\n\\n<p>There is an average of 100 firms listed in our database each year. &nbsp;On an annual basis, an average of twenty requirements are expected to be executed using this database, throughout all states covered.</p>\\n\\n<p><strong>WHAT IS THE SHORT SELECTION PROCESS?</strong></p>\\n\\n<p>The Short Selection Process utilizes the procedures set forth in Federal Acquisition Regulation (FAR) Part 36.602-5.&nbsp; For A&amp;E projects with an estimated total fee under the Simplified Acquisition Threshold (currently $350,000) agencies may review current data files for eligible AE firms, perform a technical review and evaluation to determine the three (3) most highly qualified firms, and have discussions with the three (3) firms to determine the best qualified firm for that project. A price proposal will then be requested from the highest technically rated firm. If a reasonable price cannot be negotiated, discussions will be held with the second-best qualified firm, and so on. AE data files will be maintained by State and NAICS code. The AE&#39;s ability to provide licensed professionals in the State/Territory where the project is located (FAR 36.602-1(a)(1) and the firm&#39;s geographic proximity and knowledge of the local area (FAR 36.602-1(a)(5)) as identified on the AE&#39;s SF330 and supplemental information, will be used for the first preliminary screening of firms when a large list of potential firms exists.</p>\\n\\n<p><strong>Large Businesses should not respond.</strong> All acquisitions utilizing this short selection database shall be set aside for small business concerns. The database is set up with filters for State, Zip Code, NAICS Codes, Small Business Size, and Small Business Socio-Economic Classification.</p>\\n\\n<p><strong>Existing Small Business Firms and New Submittals</strong>.&nbsp; The SRS shortlist is maintained on a three-year cycle. &nbsp;A base year consisting of the SF330 submittal and two subsequent years that only require a recertification.&nbsp; SF330s are valid for a period of three years and can be updated should significant company changes occur.</p>\\n\\n<p>- Existing Firms on 2024-2026 Cycle: Your firm is not required to submit a new SF330 but should return the annual certification sent to you via email.&nbsp; You must have an active unique SAM.GOV registration to be considered for awards.</p>\\n\\n<p>- New Firms for 2024-2026 Cycle: Your firm is required to submit a complete SF330 and Attachment A for the year 2026.&nbsp; See below for details. &nbsp;You must have an active unique SAM.GOV registration to be considered for awards.</p>\\n\\n<p>- 2027.&nbsp; ALL Firms are required to submit a new SF330. &nbsp;&nbsp;This will begin a new 3-year cycle.</p>\\n\\n<p><strong><em>WHAT DOES MY FIRM NEED TO SUBMIT TO DETERMINE ELIGIBILITY AND RECEIVE CONSIDERATION FOR FUTURE AE PROJECTS?</em></strong></p>\\n\\n<p>Submittals shall be brief and concise. <strong><u>Only the first fi</u></strong><strong><u>ft</u></strong><strong><u>y (50) pages</u></strong> of your response will be retained. The Initial review will determine if a firm is minimally qualified to do work for the Federal Government as described in the synopsis.&nbsp; After initial evaluation, minimally qualified firms will be listed in the short selection database and the first 50 pages of their submittal package placed on file.</p>\\n\\n<p>As specific projects arise, the short selection database will be used to pull a list of qualified firms that can perform the needed work at the specific location. At that point, the submittal package for those specific firms will be pulled from the file and used to perform a technical review as described in the synopsis.</p>\\n\\n<p><strong><em>The company submittal shall include the following information:</em></strong></p>\\n\\n<ol>\\n\\t<li><strong>Cover letter</strong> should be included with all other data. The letter should outline the work your firm specializes in and include a brief description of your firm&#39;s capabilities specifically relating to the project examples stated above. 1 Page Limit &ndash; <em>Not included in 50-page limit.</em></li>\\n\\t<li><strong>&nbsp;Attachment A - A&amp;E Submittal Cover Sheet</strong>.&nbsp; A-E FIRMS DO NOT NEED TO COVER ALL LOCATIONS NOR DO THEY NEED TO PERFORM ALL NAICS. ATTACHMENT A -A&amp;E SUBMITTAL COVER SHEET ALLOWS AN AE FIRM TO SELECT WHICH LOCATION THEY CAN COVER AND WHICH NAICS THEY ARE ABLE TO PERFORM. <em>2 Pages - Not included in 50-page limit.</em></li>\\n\\t<li><strong>System for Award Management (SAM) record</strong>. &nbsp;A copy of your current and active SAM registration is required for award of federal contracts and to be considered for project work.<strong><u> All NAICS Codes listed on the A&amp;E Submittal Cover Sheet must be listed on your SAM record.</u></strong> Contractors may register in SAM at www.sam.gov. Registration is free of charge to all Government Contractors. <em>- Not included in 50-page limit.</em></li>\\n\\t<li><strong>Attachment B - SF330, Parts 1 and 2</strong> (6 pages). Part 2 of the SF330 includes a list of the number of licensed professionals and the States of their licensing for each of the Function codes identified in block 9 of Part 2 of the SF330. https://www.gsa.gov/forms-library/architect-engineerqualifications.&nbsp; <strong>50-page limit applies. This includes the primary firm and their partners/subcontractors. </strong></li>\\n</ol>\\n\\n<p><strong>Design Fee Limitations.</strong></p>\\n\\n<p>In accordance with Federal Acquisition Regulation (FAR) 15.404 4(c)(4)(i)(B), fees for design services cannot exceed 6% of the Estimated Construction Cost Amount. See Attachment C for information on some specific services subject to/not subject to the 6% fee limitation. This list is not meant to be all inclusive.&nbsp; Please note: FAR 36.602-1(a) requires &ldquo;Professional qualifications necessary for satisfactory performance of required services&rdquo; but does not specifically require that a license be held in every state included in this requirement. However, the respondent should be familiar with requirements specific to the different locations and be available to travel to the location for any necessary site visits.&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>Submittal Information/Deadlines.&nbsp; </strong></p>\\n\\n<p><strong>Deadline:</strong> Submittals must be received on <strong>31 MAR 2026 by 1200 p.m. Anchorage, Alaska Time</strong>.</p>\\n\\n<p><strong>Addressing:</strong> All submittals will be pdf format and emailed.</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subject line of your email shall read: <strong><em>12445124R0001 REV2_Company Name_SF330_Submittal</em></strong></p>\\n\\n<p><strong>How to Submit:&nbsp; </strong>Submittals will be emailed to Cynthia.Granderson@usda.gov with a cc: Steven.Alves@usda.gov</p>\\n\\n<p>The Contracting Officer reserves the right to onboard additional AE firms as part of maintaining the Short Selection Database. The database will be refreshed on an annual basis via additional announcements on SAM.gov.&nbsp; Questions related to this announcement shall be referred to Steven Alves at Steven.Alves@usda.gov</p>\\n\\n<p><strong>Participating USDA States and Forests.&nbsp; </strong>Firms are encouraged to visit the participating unit websites to gain further insight into their potential unique requirements for engineering and design work<strong>:</strong></p>\\n\\n<ol>\\n\\t<li>Southern Research Station (SRS) - https://srs.fs.usda.gov/locations/</li>\\n\\t<li>Pacific Northwest Research Station (PNW) - <u>https://www.fs.usda.gov/research/pnw</u></li>\\n\\t<li>International Institute of Tropical Forestry (IITF) - https://www.fs.usda.gov/main/iitf</li>\\n\\t<li>Southern Region, Region 8 - https://www.fs.usda.gov/main/r8</li>\\n\\t<li>Alaska Region, Region 10 - https://www.fs.usda.gov/main/r10</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong><em>Contact Information</em></strong></p>\\n\\n<p><strong><em>Contracting Office Address</em></strong></p>\\n\\n<p>DANIEL BOONE NATIONAL FOREST</p>\\n\\n<p>1700 BYPASS ROAD</p>\\n\\n<p>WINCHESTER, KY 40391</p>\\n\\n<p></p>\\n\\n<p><strong><em>Primary Point of Contact</em></strong></p>\\n\\n<p>Cynthia Granderson</p>\\n\\n<p>Cynthia.Granderson@usda.gov</p>\\n\\n<p>601-965-1619</p>\\n\\n<p></p>\\n\\n<p><strong><em>Secondary Point of Contact</em></strong></p>\\n\\n<p>Steven Alves</p>\\n\\n<p>Steven.Alves@usda.gov</p>\\n\\n<p>859-745-3131</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0981f75c606649d6877badb1306bedf0/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 29051,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d1b45773f8c4f7daea340033bad0cf8/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 23127,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2ddee05ca0ba40b38e1b196abf58e242/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 502181,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2f47e3be4d5a4c90861f6fdca39be537/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 260607,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4aaff93e1fca4c30bc0618662e68f579/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 79830,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "AWS",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "AWS",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "virtual"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Georgia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "a058a53196d04cfa8c6c4c0b5b9e5f13",
+    "title": "LEGARE WINDBIRD ALIGNMENT",
+    "solicitationNumber": "70Z04026Q60739Y00",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-20",
+    "responseDeadline": "2026-03-30T12:00:00-04:00",
+    "agency": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.SFLC PROCUREMENT BRANCH 3(00040)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Clearwater Beach",
+      "state": "Maryland",
+      "zip": "21226"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/a058a53196d04cfa8c6c4c0b5b9e5f13/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a058a53196d04cfa8c6c4c0b5b9e5f13",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/950b7a322f874b52b5a5a2b9a7ead51b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d5fd54b16dea4a01a187adab7909582a/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6173J88001 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation,...",
+    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6173J88001 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation, which if timely received, shall be considered by this agency.</p>\\n\\n<p>The U.S. Coast Guard, Surface Forces Logistics Center (SFLC) intends to award a Firm Fixed Price Purchase Order. No down payments or advanced payments will be made to the awarded vendor. Vendor shall ensure they can secure funding for this order until delivered and received by the US Coast Guard. Payment will be made by Government Purchase order (Net 30) and the vendor shall assume financial responsibility until the order is accepted and received by US Coast Guard. Payment of the work is authorized to be submitted as work is completed but must be approved by the Contracting Officer First.</p>\\n\\n<p><strong>Basis for Award:</strong>&nbsp;This&nbsp;solicitation is based on FAR 13 &ndash; Simplified Acquisition Procedures and quotes will be reviewed and awarded on a Best Value basis per the solicitation.&nbsp; Past performance will only be reviewed for &ldquo;responsibility&rdquo; basis per FAR 9.1.&nbsp;&nbsp;The evaluation criteria for the quote&rsquo;s will be who meets all the technical requirements, who meets our deadlines and price.</p>\\n\\n<p><strong><u>All quotes shall be emailed to Shellby Hammond via Shellby.M.Hammond@uscg.mil and shall be received no later than 03/30/2026 at 1200 (Eastern). All emailed quotes shall have </u></strong><u><strong>2126406Y6173J88001</strong> </u><strong><u>in</u></strong><strong><u> the subject of the email.</u></strong></p>\\n\\n<p><strong><u>If a Site Visit is required in order to bid, please email David Scharf via David.j.scharf@uscg.mil in order to schedule.</u></strong></p>\\n\\n<p></p>\\n\\n<p><strong>Vendor Information:</strong></p>\\n\\n<p><strong>Entity Name</strong></p>\\n\\n<p><strong>Entity Unique Entity ID</strong></p>\\n\\n<p><strong>Entity Address</strong></p>\\n\\n<p><strong>Entity POC</strong></p>\\n\\n<p><strong>Entity Phone Number</strong></p>\\n\\n<p><strong>POC Email Address</strong></p>\\n\\n<p></p>\\n\\n<p><strong><u>Vendor shall provide</u></strong>:&nbsp;</p>\\n\\n<p><strong>Line 1: &nbsp;</strong></p>\\n\\n<p><strong>DESCRIPTION: </strong>LEGARE WINDBIRD ALIGNMENT IAW SOW</p>\\n\\n<p><strong>Unit of Issue: </strong>1 JB</p>\\n\\n<p><strong>Line Total: </strong></p>\\n\\n<p><strong>Estimated Performance Date:</strong></p>\\n\\n<p></p>\\n\\n<p>*All Work must be completed in accordance with the attached Statement of Work for the order.</p>\\n\\n<p>*Access to some drawings may be Export-Controlled and require any recipient to be registered in the Joint Certification Program (JCP) through DLA to receive the drawing. *</p>\\n\\n<p>*Services are Required to be complete on or around 04/28/2026*</p>\\n\\n<p>Place of Performance:</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U.S. COAST GUARD YARD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2401 HAWKINS POINT ROAD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BALTIMORE, MD 21226</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p><strong>Invoicing In IPP</strong></p>\\n\\n<p>It is a requirement that all invoicing for Purchase Orders will now be entered and processed through https://www.ipp.gov.</p>\\n\\n<p>All invoices must contain the following information: <strong>CG Purchase Order number, vendor&rsquo;s invoice number, cage number, PO item number, description of supplies or services, unit prices and extended totals (INVOICES FOR PURCHASE ORDERS AWARDED BY SURFACE FORCE LOGISTICS CENTER, BALTIMORE ARE TO BE SUMITTED AS NON PO IN IPP).</strong> Shipping costs will be indicated as a separate line item on the invoice (if applicable).<strong> Shipping cost $100 or more must be accompanied by a separate freight invoice when submitting an invoice(s) for payment (if applicable). </strong></p>\\n\\n<p>To submit an invoice, vendor must have access to www.ipp.gov. To gain access please indicate if you don&rsquo;t have an account So the issuing office can establish one for you.</p>\\n\\n<p></p>\\n\\n<p><strong>FAR Clauses</strong></p>\\n\\n<p><strong>This order is subject to but is not limited to the following Federal Acquisition Regulations:</strong></p>\\n\\n<p>52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.204-26 Covered Telecommunications Equipment or Services-Representation.</p>\\n\\n<p>52.212-1 Instructions to Offerors&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.212-3 Offeror Representations and Certifications&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities.</p>\\n\\n<p>52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/950b7a322f874b52b5a5a2b9a7ead51b/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 284034,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d5fd54b16dea4a01a187adab7909582a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 18501,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
     "title": "Sources Sought - Optimizing Data & Intelligence Services (ODIS)",
     "solicitationNumber": "86615526Q00008",
@@ -1525,6 +1665,74 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "17e30486863b4e099063d6361d10e45c",
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "solicitationNumber": "N6600126R0002",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-19",
+    "responseDeadline": "2026-03-19T21:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "92152"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/17e30486863b4e099063d6361d10e45c/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=17e30486863b4e099063d6361d10e45c",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"UPDATE 3-19-2026: solicitation forthcoming. ------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov.The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the prin...",
+    "descriptionFull": "{\"description\":\"UPDATE 3-19-2026: solicitation forthcoming.  ------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov.The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluation (RDTE) and Acquisition Center for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) and Information Operations (IO) is responsible for functions that include: mission analysis, assessment and development of technology base, basic and applied research, demonstration of technology, engineering in support of production, support to operating forces; supporting doctrine, policy, and strategy development; and integration of numerous National and Tactical systems in the area of Cyberspace Operations. To meet these responsibilities, NIWC Pacific requires advice, assistance, coordination and products necessary to support operational planning, assessment, integration, execution and technology development to assure superiority for the warfighter in the cyberspace domain. The full scope of this requirement is anticipated to include: technology assessment, development and transition; systems engineering; operational and technical support; exercise and experimentation support; software development and prototyping; training support; security engineering/cybersecurity. This is a follow-on requirement to a Multiple Award Contract (MAC) of the same title: Cyberspace Science, Research, Engineering and Technology Integration. A Small Business Set-Aside Cyberspace Science, Research, Engineering and Technology MAC (SBSA MAC) that covered a portion of the requirement was competed among small businesses was only awarded in 2017. The incumbent contract numbers for the Small Business MAC are N66001-17-D-0114 through -0117 and the incumbent contractors are Avanti Technologies Inc., Millennium Corporation, Sentar Inc., and Vector Planning and Services Inc. The ordering period of the predecessor SBSA MAC ended 07 March 2022. This follow-on procurement will be satisfied through one solicitation (which is the subject of this pre-solicitation notice) that will be competed among small businesses only. N66001-26-R-0002 is strictly a follow-on for the Small Business MAC. The full scope of the requirement is described in the attached Draft SOW. Only small businesses can compete for the SBSA multiple award contract (MAC). The follow-on for the SBSA MAC will be solicited at a future date estimated in Q2 2026. NIWC Pacific does not intend to hold an industry day for this requirement. This proposed acquisition has security requirements at the Top Secret level with incidental Secure Compartmented Information (SCI) access. NIWC Pacific intends on awarding multiple Indefinite Delivery/Indefinite Quantity (IDIQ) Cost Plus Fixed Fee (CPFF) type contracts. The prospective contracts will have a five-year base period with a two-year period. The estimated level of effort for the total SBSA requirement is 305,981 hours. The NAICS code for this procurement is 541330 with a size standard of $47 million. A Bidders Mailing List will not be established and hard copies of documents will not be provided. The solicitation will only be available electronically within the Procurement Integrated Enterprise Environment (PIEE) website at https://piee.eb.mil, under Notice. Any amendments, when issued, will also be available only on this web site. Matters posted on the web site are not terms of the solicitation unless the solicitation is written or amended to include such matters. FIRMS ARE ENCOURAGED TO REVIEW THE WEB SITE REGULARLY FOR UPDATED INFORMATION.  PIEE\ufffdAssistance:\ufffdFor\ufffdPIEE\ufffdtechnical issues,\ufffdsee the Vendor Customer Support resources at https://cac.piee.eb.mil/xhtml/auth/web/homepage/vendorCustomerSupport.xhtml.\ufffd\ufffd\ufffd  \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -2776,123 +2984,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "48496776bfc5421c89473c7783a8f72d",
-    "title": "A-E Shortlist for USDA-FS, Region 8 and 10, SRS-PNW-IITF Research Stations 2026",
-    "solicitationNumber": "12445124R0001",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-20",
-    "responseDeadline": "2026-03-31T12:00:00-08:00",
-    "agency": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA EAST 11",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Atlanta",
-      "state": "Georgia",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/48496776bfc5421c89473c7783a8f72d/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=48496776bfc5421c89473c7783a8f72d",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0981f75c606649d6877badb1306bedf0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d1b45773f8c4f7daea340033bad0cf8/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2ddee05ca0ba40b38e1b196abf58e242/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2f47e3be4d5a4c90861f6fdca39be537/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4aaff93e1fca4c30bc0618662e68f579/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/73d0ddc2a4cd4bc6819c9f6e05f945ca/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/75a4a413aaff42e1af32720831c6089b/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79dd434e227a46ef850204fd85e75723/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2b9570cbadf4549b1ca1b9df6029763/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb0d55cae4124ed0b8fc64d1f219aa89/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3745f12b8d949b8ab4e70c0a3761fa2/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f8c1a1624d114400a26ef1ab49622166/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faf1aca1555f42e0a64e7e899b63fd0b/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>Amendment 002.&nbsp; The purpose of amendment 002 is to open the 2026 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2026 through 04/30/2027.&nbsp;</p>\\n\\n<p>Amendment 001.&nbsp; The purpose of amendment 001 is to open the 2025 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2025 through 04/30/2026.&nbsp;</p>\\n\\n<p>*2025 PARTICIPANTS NEED TO RE-CERTIFY THEIR SF330 IS CORRECT AND ACCURATE <em>( 2026 Region 8 SRS Shortlist AE Pool Renewal Certification</em> form attached) BUT <u>DO NOT RESUBMIT A COMPLETE PACKAGE.</u></p>\\n\\n<p><u>** New applicant should complete the package issues in 2026 for the remaining one year.</u></p>\\n\\n<p></p>\\n\\n<p><em><strong>UPDATE: 19 Feb 2026 / 14000 ET&nbsp;&nbsp;</strong></em>Vir...",
-    "descriptionFull": "{\"description\":\"<p>Amendment 002.&nbsp; The purpose of amendment 002 is to open the 2026 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2026 through 04/30/2027.&nbsp;</p>\\n\\n<p>Amendment 001.&nbsp; The purpose of amendment 001 is to open the 2025 SRS Shortlist Call for Qualifications.&nbsp; This is for the period of 05/01/2025 through 04/30/2026.&nbsp;</p>\\n\\n<p>*2025 PARTICIPANTS NEED TO RE-CERTIFY THEIR SF330 IS CORRECT AND ACCURATE <em>( 2026 Region 8 SRS Shortlist AE Pool Renewal Certification</em> form attached) BUT <u>DO NOT RESUBMIT A COMPLETE PACKAGE.</u></p>\\n\\n<p><u>** New applicant should complete the package issues in 2026 for the remaining one year.</u></p>\\n\\n<p></p>\\n\\n<p><em><strong>UPDATE: 19 Feb 2026 / 14000 ET&nbsp;&nbsp;</strong></em>Virtual Contractor Interface #1 -&nbsp;See attachment for link to the virtual townhall.&nbsp; This will provide the opportunity to ask questions regarding the process or specifics on completing the SF-330.</p>\\n\\n<p><em><strong>UPDATE: 19 Mar 2026 / 14000 ET&nbsp;&nbsp;</strong></em>Virtual Contractor Interface #1 -&nbsp;See attachment for link to the virtual townhall.&nbsp; This will provide the opportunity to ask questions regarding the process or specifics on completing the SF-330.</p>\\n\\n<p></p>\\n\\n<p><strong>WHAT and WHERE IS THE SHORT SELECTION DATABASE USED FOR?</strong></p>\\n\\n<p>The Forest Service may utilize the Short Selection database to award Architect-Engineer (A&amp;E) contracts, below $350,000, in all States included within the USDA Forest Service SRS, PNW, and IITF footprints, (including the States/Territories of: Alabama, Alaska, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, Nebraska, North Carolina, Oklahoma, Oregon, South Carolina, Tennessee, Texas, Virginia, and Washington State, Puerto Rico, and U.S. Virgin Islands). Acquisition support is provided from SRS Headquarters located in Asheville, NC and all files will be located at the SRS Headquarters.</p>\\n\\n<p>The database contains all the qualified, interested AE firms that respond to this notice for consideration for future approved projects falling within the North American Industry Classification System (NAICS) codes indicated.&nbsp; Examples of some of the types of work include but is not limited to (approximately 73 awards over the previous 3 years 21-23 years):</p>\\n\\n<p>NAICS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024 Awards / Total Value&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2025 Awards / Total Value</p>\\n\\n<p>541310&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1 / $249,890.87&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 / $226,149.40</p>\\n\\n<p>541320&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\\n\\n<p>&nbsp;541330&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 29 / $2,519,954.78&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15 / $1,922,854.06</p>\\n\\n<p>541350&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>541360&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>541370&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33 / $1,232,504.46&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19 / $812,529.58</p>\\n\\n<p>541620&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>541690&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>541990&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p><strong>Total Annual Awards&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;65 / $4,119,477.11&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;37/$3,350,970.04</strong></p>\\n\\n<ul>\\n\\t<li>replacements, bridges, roads, and trails</li>\\n\\t<li>surveying (construction and property)</li>\\n\\t<li>construction inspection/safety inspections of roads, bridges under FP-14 and state laws</li>\\n\\t<li>design of repairs to small dams and impoundments</li>\\n\\t<li>laboratory repairs and renovations</li>\\n\\t<li>review and design of HVAC systems upgrades</li>\\n\\t<li>green building construction and certification consultation</li>\\n\\t<li>historic preservation</li>\\n\\t<li>renovations to improve energy efficiency and address safety concerns</li>\\n\\t<li>design of small warehouses and offices</li>\\n\\t<li>energy audits and studies</li>\\n\\t<li>design of photovoltaic and other renewable energy systems</li>\\n\\t<li>review and design of electrical systems</li>\\n\\t<li>drafting services</li>\\n\\t<li>overall facility condition assessments</li>\\n\\t<li>geotechnical investigation, and environmental (RCRA, CECRLA, CWA, etc.) investigations, reviews, inventories, audits, and coordination of RCRA and other waste disposal.</li>\\n</ul>\\n\\n<p>There is an average of 100 firms listed in our database each year. &nbsp;On an annual basis, an average of twenty requirements are expected to be executed using this database, throughout all states covered.</p>\\n\\n<p><strong>WHAT IS THE SHORT SELECTION PROCESS?</strong></p>\\n\\n<p>The Short Selection Process utilizes the procedures set forth in Federal Acquisition Regulation (FAR) Part 36.602-5.&nbsp; For A&amp;E projects with an estimated total fee under the Simplified Acquisition Threshold (currently $350,000) agencies may review current data files for eligible AE firms, perform a technical review and evaluation to determine the three (3) most highly qualified firms, and have discussions with the three (3) firms to determine the best qualified firm for that project. A price proposal will then be requested from the highest technically rated firm. If a reasonable price cannot be negotiated, discussions will be held with the second-best qualified firm, and so on. AE data files will be maintained by State and NAICS code. The AE&#39;s ability to provide licensed professionals in the State/Territory where the project is located (FAR 36.602-1(a)(1) and the firm&#39;s geographic proximity and knowledge of the local area (FAR 36.602-1(a)(5)) as identified on the AE&#39;s SF330 and supplemental information, will be used for the first preliminary screening of firms when a large list of potential firms exists.</p>\\n\\n<p><strong>Large Businesses should not respond.</strong> All acquisitions utilizing this short selection database shall be set aside for small business concerns. The database is set up with filters for State, Zip Code, NAICS Codes, Small Business Size, and Small Business Socio-Economic Classification.</p>\\n\\n<p><strong>Existing Small Business Firms and New Submittals</strong>.&nbsp; The SRS shortlist is maintained on a three-year cycle. &nbsp;A base year consisting of the SF330 submittal and two subsequent years that only require a recertification.&nbsp; SF330s are valid for a period of three years and can be updated should significant company changes occur.</p>\\n\\n<p>- Existing Firms on 2024-2026 Cycle: Your firm is not required to submit a new SF330 but should return the annual certification sent to you via email.&nbsp; You must have an active unique SAM.GOV registration to be considered for awards.</p>\\n\\n<p>- New Firms for 2024-2026 Cycle: Your firm is required to submit a complete SF330 and Attachment A for the year 2026.&nbsp; See below for details. &nbsp;You must have an active unique SAM.GOV registration to be considered for awards.</p>\\n\\n<p>- 2027.&nbsp; ALL Firms are required to submit a new SF330. &nbsp;&nbsp;This will begin a new 3-year cycle.</p>\\n\\n<p><strong><em>WHAT DOES MY FIRM NEED TO SUBMIT TO DETERMINE ELIGIBILITY AND RECEIVE CONSIDERATION FOR FUTURE AE PROJECTS?</em></strong></p>\\n\\n<p>Submittals shall be brief and concise. <strong><u>Only the first fi</u></strong><strong><u>ft</u></strong><strong><u>y (50) pages</u></strong> of your response will be retained. The Initial review will determine if a firm is minimally qualified to do work for the Federal Government as described in the synopsis.&nbsp; After initial evaluation, minimally qualified firms will be listed in the short selection database and the first 50 pages of their submittal package placed on file.</p>\\n\\n<p>As specific projects arise, the short selection database will be used to pull a list of qualified firms that can perform the needed work at the specific location. At that point, the submittal package for those specific firms will be pulled from the file and used to perform a technical review as described in the synopsis.</p>\\n\\n<p><strong><em>The company submittal shall include the following information:</em></strong></p>\\n\\n<ol>\\n\\t<li><strong>Cover letter</strong> should be included with all other data. The letter should outline the work your firm specializes in and include a brief description of your firm&#39;s capabilities specifically relating to the project examples stated above. 1 Page Limit &ndash; <em>Not included in 50-page limit.</em></li>\\n\\t<li><strong>&nbsp;Attachment A - A&amp;E Submittal Cover Sheet</strong>.&nbsp; A-E FIRMS DO NOT NEED TO COVER ALL LOCATIONS NOR DO THEY NEED TO PERFORM ALL NAICS. ATTACHMENT A -A&amp;E SUBMITTAL COVER SHEET ALLOWS AN AE FIRM TO SELECT WHICH LOCATION THEY CAN COVER AND WHICH NAICS THEY ARE ABLE TO PERFORM. <em>2 Pages - Not included in 50-page limit.</em></li>\\n\\t<li><strong>System for Award Management (SAM) record</strong>. &nbsp;A copy of your current and active SAM registration is required for award of federal contracts and to be considered for project work.<strong><u> All NAICS Codes listed on the A&amp;E Submittal Cover Sheet must be listed on your SAM record.</u></strong> Contractors may register in SAM at www.sam.gov. Registration is free of charge to all Government Contractors. <em>- Not included in 50-page limit.</em></li>\\n\\t<li><strong>Attachment B - SF330, Parts 1 and 2</strong> (6 pages). Part 2 of the SF330 includes a list of the number of licensed professionals and the States of their licensing for each of the Function codes identified in block 9 of Part 2 of the SF330. https://www.gsa.gov/forms-library/architect-engineerqualifications.&nbsp; <strong>50-page limit applies. This includes the primary firm and their partners/subcontractors. </strong></li>\\n</ol>\\n\\n<p><strong>Design Fee Limitations.</strong></p>\\n\\n<p>In accordance with Federal Acquisition Regulation (FAR) 15.404 4(c)(4)(i)(B), fees for design services cannot exceed 6% of the Estimated Construction Cost Amount. See Attachment C for information on some specific services subject to/not subject to the 6% fee limitation. This list is not meant to be all inclusive.&nbsp; Please note: FAR 36.602-1(a) requires &ldquo;Professional qualifications necessary for satisfactory performance of required services&rdquo; but does not specifically require that a license be held in every state included in this requirement. However, the respondent should be familiar with requirements specific to the different locations and be available to travel to the location for any necessary site visits.&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>Submittal Information/Deadlines.&nbsp; </strong></p>\\n\\n<p><strong>Deadline:</strong> Submittals must be received on <strong>31 MAR 2026 by 1200 p.m. Anchorage, Alaska Time</strong>.</p>\\n\\n<p><strong>Addressing:</strong> All submittals will be pdf format and emailed.</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subject line of your email shall read: <strong><em>12445124R0001 REV2_Company Name_SF330_Submittal</em></strong></p>\\n\\n<p><strong>How to Submit:&nbsp; </strong>Submittals will be emailed to Cynthia.Granderson@usda.gov with a cc: Steven.Alves@usda.gov</p>\\n\\n<p>The Contracting Officer reserves the right to onboard additional AE firms as part of maintaining the Short Selection Database. The database will be refreshed on an annual basis via additional announcements on SAM.gov.&nbsp; Questions related to this announcement shall be referred to Steven Alves at Steven.Alves@usda.gov</p>\\n\\n<p><strong>Participating USDA States and Forests.&nbsp; </strong>Firms are encouraged to visit the participating unit websites to gain further insight into their potential unique requirements for engineering and design work<strong>:</strong></p>\\n\\n<ol>\\n\\t<li>Southern Research Station (SRS) - https://srs.fs.usda.gov/locations/</li>\\n\\t<li>Pacific Northwest Research Station (PNW) - <u>https://www.fs.usda.gov/research/pnw</u></li>\\n\\t<li>International Institute of Tropical Forestry (IITF) - https://www.fs.usda.gov/main/iitf</li>\\n\\t<li>Southern Region, Region 8 - https://www.fs.usda.gov/main/r8</li>\\n\\t<li>Alaska Region, Region 10 - https://www.fs.usda.gov/main/r10</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong><em>Contact Information</em></strong></p>\\n\\n<p><strong><em>Contracting Office Address</em></strong></p>\\n\\n<p>DANIEL BOONE NATIONAL FOREST</p>\\n\\n<p>1700 BYPASS ROAD</p>\\n\\n<p>WINCHESTER, KY 40391</p>\\n\\n<p></p>\\n\\n<p><strong><em>Primary Point of Contact</em></strong></p>\\n\\n<p>Cynthia Granderson</p>\\n\\n<p>Cynthia.Granderson@usda.gov</p>\\n\\n<p>601-965-1619</p>\\n\\n<p></p>\\n\\n<p><strong><em>Secondary Point of Contact</em></strong></p>\\n\\n<p>Steven Alves</p>\\n\\n<p>Steven.Alves@usda.gov</p>\\n\\n<p>859-745-3131</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0981f75c606649d6877badb1306bedf0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 29051,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d1b45773f8c4f7daea340033bad0cf8/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 23127,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2ddee05ca0ba40b38e1b196abf58e242/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 502181,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2f47e3be4d5a4c90861f6fdca39be537/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 260607,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4aaff93e1fca4c30bc0618662e68f579/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 79830,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "AWS",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "AWS",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": [
-        "virtual"
-      ]
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": true,
-    "onsitePossible": false,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Georgia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {

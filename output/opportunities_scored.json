@@ -2,115 +2,108 @@
   "scored": [
     {
       "noticeId": "450c5091865141f0a18cd5087795f69f",
-      "relevance": 70,
+      "relevance": 55,
       "ease": 30,
-      "overall": 54,
-      "rationale": "Intelligence automation and data-centric support aligns with DevOps/automation but likely large, complex DoD effort."
+      "overall": 45,
+      "rationale": "Intelligence automation and data-centric support but broad operational scope likely large and complex."
     },
     {
       "noticeId": "22c4b67a358a4a84a396a4cba9a55118",
       "relevance": 5,
-      "ease": 90,
-      "overall": 39,
-      "rationale": "Solidworks subscription award; not relevant to AWS/DevOps scope."
+      "ease": 10,
+      "overall": 7,
+      "rationale": "Solidworks subscription award notice unrelated to DevOps or cloud engineering."
     },
     {
       "noticeId": "ededcad9edc6495bb6e4fe4339e66d31",
-      "relevance": 20,
+      "relevance": 25,
       "ease": 20,
-      "overall": 20,
-      "rationale": "IT governance and financial management support; minimal technical DevOps content and enterprise scale."
+      "overall": 23,
+      "rationale": "IT governance and financial management support with minimal technical DevOps scope."
     },
     {
       "noticeId": "5b17357dc69943ef9e39e37b800b39a7",
-      "relevance": 15,
-      "ease": 50,
-      "overall": 29,
-      "rationale": "SaaS for lab compliance; limited alignment to DevOps/AWS engineering."
-    },
-    {
-      "noticeId": "264b0685ad7047a8be2515b1fc1dd9c9",
-      "relevance": 5,
-      "ease": 80,
-      "overall": 35,
-      "rationale": "Water quality instruments procurement; not IT services."
-    },
-    {
-      "noticeId": "01f9c95ce6634e2fb98d389b076f9f5a",
-      "relevance": 10,
-      "ease": 60,
-      "overall": 30,
-      "rationale": "Social media management; low relevance to AWS/DevOps."
-    },
-    {
-      "noticeId": "9b64938ee50c44d7a3ef21e2c58235bd",
-      "relevance": 40,
-      "ease": 10,
-      "overall": 28,
-      "rationale": "IT hardware/software IDIQ reseller contract; some IT relevance but very large multi-award scope."
-    },
-    {
-      "noticeId": "ecdebfa23838420b812c3a19e4f6edd1",
-      "relevance": 35,
-      "ease": 40,
-      "overall": 37,
-      "rationale": "Optical network installation; infrastructure related but hardware-focused and onsite."
-    },
-    {
-      "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
-      "relevance": 75,
-      "ease": 35,
-      "overall": 59,
-      "rationale": "API security oversight with compliance aligns to DevSecOps/cloud skills but likely STRATUS vehicle and moderate complexity."
-    },
-    {
-      "noticeId": "110209fafe30416fa12ef1d51af98bb8",
-      "relevance": 60,
-      "ease": 65,
-      "overall": 62,
-      "rationale": "Remote monitoring and server BPA; aligns with automation/Linux and manageable BPA scope."
-    },
-    {
-      "noticeId": "5f8e3ed03624415baf4874c8c8bb08a8",
       "relevance": 10,
       "ease": 40,
       "overall": 22,
-      "rationale": "Endpoint hardware supply RFI; limited DevOps relevance."
+      "rationale": "SaaS for compliance and training with limited infrastructure or DevOps relevance."
+    },
+    {
+      "noticeId": "9b64938ee50c44d7a3ef21e2c58235bd",
+      "relevance": 20,
+      "ease": 10,
+      "overall": 16,
+      "rationale": "IT hardware and reseller IDIQ focused on products not engineering services."
+    },
+    {
+      "noticeId": "ecdebfa23838420b812c3a19e4f6edd1",
+      "relevance": 40,
+      "ease": 25,
+      "overall": 34,
+      "rationale": "Network installation and Cisco optical integration; some Linux/network overlap but hardware-heavy and onsite."
+    },
+    {
+      "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
+      "relevance": 60,
+      "ease": 35,
+      "overall": 50,
+      "rationale": "API architecture, security, and integration aligns with DevOps and cloud skills but likely specialized and competitive."
+    },
+    {
+      "noticeId": "110209fafe30416fa12ef1d51af98bb8",
+      "relevance": 50,
+      "ease": 60,
+      "overall": 54,
+      "rationale": "Remote monitoring and server management system aligns with Linux and automation and structured as BPA."
+    },
+    {
+      "noticeId": "16a3fc9ba1fb4aa89de216ff577a647e",
+      "relevance": 10,
+      "ease": 15,
+      "overall": 12,
+      "rationale": "Enterprise hardware provisioning RFI not focused on cloud or DevOps engineering."
+    },
+    {
+      "noticeId": "557c4bde13a245728eeb67e1a9268a3d",
+      "relevance": 20,
+      "ease": 35,
+      "overall": 26,
+      "rationale": "Drawing management system BPA with limited indication of cloud or automation scope."
     },
     {
       "noticeId": "845608430c2848a6985fc6847ff9c59e",
       "relevance": 5,
-      "ease": 70,
-      "overall": 31,
-      "rationale": "Calibration service; not aligned to AWS/DevOps capabilities."
+      "ease": 50,
+      "overall": 23,
+      "rationale": "Calibration service procurement unrelated to AWS, Terraform, or DevOps."
     },
     {
       "noticeId": "e55570576594442da264a129cb79a356",
       "relevance": 65,
-      "ease": 40,
-      "overall": 55,
-      "rationale": "Web application and GIS system updates; relevant to software engineering but unclear cloud/DevOps scope."
+      "ease": 45,
+      "overall": 57,
+      "rationale": "Web application and GIS system updates align with Python and automation; scope appears moderate though delayed."
     },
     {
       "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
-      "relevance": 55,
+      "relevance": 50,
       "ease": 20,
-      "overall": 41,
-      "rationale": "Weather modeling software support; software-heavy but likely large, research-oriented effort."
+      "overall": 38,
+      "rationale": "Software development and modeling support relevant but likely large multi-phase effort."
     },
     {
       "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
-      "relevance": 80,
-      "ease": 25,
+      "relevance": 70,
+      "ease": 40,
       "overall": 58,
-      "rationale": "Container analysis under Platform One strongly aligns with DevSecOps/containerization but likely complex vehicle-based award."
+      "rationale": "Container analysis under Platform One strongly aligns with DevOps and Linux; complexity moderate."
     },
     {
       "noticeId": "bf17aa33b2f5402c88da46e66c8686ac",
       "relevance": 5,
-      "ease": 50,
-      "overall": 23,
-      "rationale": "Energy and minerals consulting; not IT/DevOps focused."
+      "ease": 30,
+      "overall": 15,
+      "rationale": "Energy and minerals consulting unrelated to IT or cloud engineering."
     },
     {
       "noticeId": "ceb3e31fc3454c5c831de4b4f1ea891e",
@@ -120,186 +113,200 @@
       "rationale": "Requirement cancelled."
     },
     {
+      "noticeId": "f514d28929354908be6feda786d53d67",
+      "relevance": 5,
+      "ease": 10,
+      "overall": 7,
+      "rationale": "A-E shortlist for engineering disciplines not related to IT services."
+    },
+    {
+      "noticeId": "a058a53196d04cfa8c6c4c0b5b9e5f13",
+      "relevance": 0,
+      "ease": 10,
+      "overall": 4,
+      "rationale": "Mechanical alignment services unrelated to IT."
+    },
+    {
       "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
-      "relevance": 60,
+      "relevance": 55,
       "ease": 30,
-      "overall": 48,
-      "rationale": "Data and intelligence services; potentially analytics/engineering but enterprise scale and broad scope."
+      "overall": 45,
+      "rationale": "Enterprise data and intelligence services likely includes data engineering but broad engineering NAICS."
+    },
+    {
+      "noticeId": "17e30486863b4e099063d6361d10e45c",
+      "relevance": 75,
+      "ease": 25,
+      "overall": 55,
+      "rationale": "Cyberspace R&D and software prototyping highly relevant to DevOps but large MAC with high complexity and security."
     },
     {
       "noticeId": "c9920ad6388542d793013ab8393cb4de",
-      "relevance": 0,
+      "relevance": 5,
       "ease": 20,
-      "overall": 8,
-      "rationale": "A&E services; not IT focused."
+      "overall": 11,
+      "rationale": "A&E services for regions not IT-focused."
     },
     {
       "noticeId": "eca1a867ae5d4f6aa86bf38b784145a2",
-      "relevance": 50,
-      "ease": 15,
-      "overall": 36,
-      "rationale": "C4ISR sustainment via SeaPort; relevant to IT but large, restricted vehicle."
+      "relevance": 60,
+      "ease": 20,
+      "overall": 44,
+      "rationale": "C4ISR sustainment includes software and systems engineering but restricted to SeaPort MAC holders."
     },
     {
       "noticeId": "bf4515e0a70c4c2682c7a2f2aab8ae31",
       "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Highway/bridge engineering; not IT services."
+      "ease": 10,
+      "overall": 4,
+      "rationale": "Highway and bridge engineering services unrelated to IT."
     },
     {
       "noticeId": "7ccf155a46734cc7bc5f9736000b929f",
       "relevance": 0,
-      "ease": 30,
-      "overall": 12,
-      "rationale": "Dust collection engineering; not IT/DevOps related."
+      "ease": 20,
+      "overall": 8,
+      "rationale": "Dust collection system engineering unrelated to IT services."
     },
     {
       "noticeId": "128c9a15e1824335ada6a0450f4e5ef3",
-      "relevance": 55,
-      "ease": 20,
-      "overall": 41,
-      "rationale": "Naval enterprise network engineering; relevant to IT but likely large program support."
+      "relevance": 50,
+      "ease": 25,
+      "overall": 40,
+      "rationale": "Naval enterprise network engineering support relevant to infrastructure but likely large and onsite."
     },
     {
       "noticeId": "83c7e626144b47a0a4c9904369c83fb5",
-      "relevance": 30,
+      "relevance": 20,
       "ease": 15,
-      "overall": 24,
-      "rationale": "Router modernization under OASIS+; some IT relevance but hardware-centric and restricted access."
+      "overall": 18,
+      "rationale": "Router hardware qualification with limited software DevOps scope and restricted access."
     },
     {
       "noticeId": "69ebac432b2f42718a745ac53cc3a0eb",
       "relevance": 0,
       "ease": 20,
       "overall": 8,
-      "rationale": "Runway planning charrette; not IT focused."
+      "rationale": "Runway planning services unrelated to IT."
     },
     {
       "noticeId": "2013d23c74394c0c91e26023e2e6f6b3",
-      "relevance": 10,
-      "ease": 10,
-      "overall": 10,
-      "rationale": "A-E design for facilities; minimal IT relevance."
+      "relevance": 0,
+      "ease": 15,
+      "overall": 6,
+      "rationale": "A-E design for industrial facilities unrelated to cloud or DevOps."
     },
     {
       "noticeId": "81115a2634b749898a5cd2ecb110a167",
-      "relevance": 10,
-      "ease": 20,
-      "overall": 14,
-      "rationale": "Industrial district planning; not IT services."
+      "relevance": 0,
+      "ease": 15,
+      "overall": 6,
+      "rationale": "Industrial district planning A-E services not IT-focused."
     },
     {
       "noticeId": "4db25f989b7b4f99850d7a8113d8a8e4",
       "relevance": 0,
       "ease": 10,
       "overall": 4,
-      "rationale": "Enterprise construction management; not IT focused."
+      "rationale": "Enterprise construction management services unrelated to IT engineering."
     },
     {
       "noticeId": "d6abb9f0bfe9416ca983319ec7e1aff1",
       "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Construction inspection services; not IT related."
+      "ease": 15,
+      "overall": 6,
+      "rationale": "Construction inspection services not related to IT."
     },
     {
       "noticeId": "c4db50dbe927452ca37ee8a72f612594",
       "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Highway/bridge A-E MATOC; not IT services."
+      "ease": 10,
+      "overall": 4,
+      "rationale": "Highway and bridge A-E MATOC unrelated to IT services."
     },
     {
       "noticeId": "e73f5fe650384121a082c4850475a799",
-      "relevance": 5,
-      "ease": 5,
-      "overall": 5,
-      "rationale": "Large A-E MATOC for MILCON; not aligned to IT DevOps scope."
+      "relevance": 0,
+      "ease": 10,
+      "overall": 4,
+      "rationale": "Large-scale A-E services for base facilities unrelated to IT."
     },
     {
       "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-      "relevance": 45,
-      "ease": 15,
-      "overall": 33,
-      "rationale": "Tactical networks support; some relevance to networking but restricted vehicle and complex."
+      "relevance": 40,
+      "ease": 20,
+      "overall": 32,
+      "rationale": "Tactical networks support somewhat relevant but limited to specific MAC holders and defense context."
     },
     {
       "noticeId": "96e1be96b369433ea543969c91f97bef",
-      "relevance": 5,
-      "ease": 30,
-      "overall": 15,
-      "rationale": "Accounting support services; not technical IT engineering."
+      "relevance": 10,
+      "ease": 20,
+      "overall": 14,
+      "rationale": "Accounting support services not aligned with DevOps or cloud engineering."
     },
     {
       "noticeId": "e8d30f9553c84339802369b4365a7713",
-      "relevance": 65,
-      "ease": 25,
-      "overall": 49,
-      "rationale": "Engineering and integration for C-sUAS; technical but likely large, complex defense effort."
-    },
-    {
-      "noticeId": "48496776bfc5421c89473c7783a8f72d",
-      "relevance": 0,
+      "relevance": 50,
       "ease": 20,
-      "overall": 8,
-      "rationale": "A-E shortlist database; not IT services."
+      "overall": 38,
+      "rationale": "Engineering and integration services may include software and cybersecurity but likely complex defense program."
     },
     {
       "noticeId": "88f77352de214b44b2750a5e1369bdfe",
       "relevance": 0,
-      "ease": 15,
-      "overall": 6,
-      "rationale": "Construction inspection IDIQ; not IT related."
+      "ease": 10,
+      "overall": 4,
+      "rationale": "Construction inspection IDIQ unrelated to IT engineering."
     },
     {
       "noticeId": "636c5770903d493f9002e75ca24d84e3",
-      "relevance": 50,
-      "ease": 70,
-      "overall": 58,
-      "rationale": "Digital usability testing SaaS subscription; moderate relevance and manageable subscription scope."
+      "relevance": 35,
+      "ease": 65,
+      "overall": 47,
+      "rationale": "Cloud-based digital testing SaaS subscription aligns moderately and appears low complexity."
     }
   ],
   "top10": [
     {
-      "noticeId": "110209fafe30416fa12ef1d51af98bb8",
-      "reason": "Remote monitoring server BPA aligns with automation/Linux and appears manageable."
-    },
-    {
-      "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
-      "reason": "API security and oversight strongly aligns with DevSecOps capabilities."
-    },
-    {
       "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
-      "reason": "Container analysis under Platform One fits DevOps/container expertise."
-    },
-    {
-      "noticeId": "636c5770903d493f9002e75ca24d84e3",
-      "reason": "Digital platform subscription is smaller scope and SaaS-oriented."
+      "reason": "Container analysis aligns strongly with DevOps, Linux, and cloud-native tooling."
     },
     {
       "noticeId": "e55570576594442da264a129cb79a356",
-      "reason": "Web application/GIS updates align with software engineering skills."
+      "reason": "Web application and GIS modernization fits Python and automation skills."
+    },
+    {
+      "noticeId": "17e30486863b4e099063d6361d10e45c",
+      "reason": "Cyberspace R&D and software prototyping highly relevant to DevOps capabilities."
+    },
+    {
+      "noticeId": "110209fafe30416fa12ef1d51af98bb8",
+      "reason": "Remote monitoring server system aligns with Linux and automation expertise."
+    },
+    {
+      "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
+      "reason": "API architecture and security oversight fits cloud and DevOps skillset."
+    },
+    {
+      "noticeId": "636c5770903d493f9002e75ca24d84e3",
+      "reason": "Cloud SaaS subscription for digital testing appears manageable and moderately aligned."
     },
     {
       "noticeId": "450c5091865141f0a18cd5087795f69f",
-      "reason": "Automation and data integration support relevant to DevOps skillset."
+      "reason": "Automation and data integration support relevant though broad scope."
     },
     {
       "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
-      "reason": "Data and intelligence services may leverage cloud and analytics expertise."
+      "reason": "Enterprise data and intelligence services potentially include data engineering."
     },
     {
-      "noticeId": "e8d30f9553c84339802369b4365a7713",
-      "reason": "Engineering and integration services potentially align with DevSecOps tooling."
+      "noticeId": "eca1a867ae5d4f6aa86bf38b784145a2",
+      "reason": "C4ISR sustainment includes software engineering though access restricted."
     },
     {
-      "noticeId": "c9ba2896c2e3404fa638750bc27243bf",
-      "reason": "Software-heavy weather modeling support could leverage DevOps practices."
-    },
-    {
-      "noticeId": "128c9a15e1824335ada6a0450f4e5ef3",
-      "reason": "Enterprise network engineering relevant but likely larger scale effort."
+      "noticeId": "ecdebfa23838420b812c3a19e4f6edd1",
+      "reason": "Network modernization has some infrastructure relevance despite hardware focus."
     }
   ]
 }
