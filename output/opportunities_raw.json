@@ -1,5 +1,93 @@
 [
   {
+    "noticeId": "b9dc724635ee4219be2bb53273b1dee6",
+    "title": "Award Notice to CounterTrade Products, Inc. for Dell Brand Computer Products",
+    "solicitationNumber": "370873",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
+    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N61331",
+    "postedDate": "2026-03-23",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-04",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "7B20",
+    "active": "Yes",
+    "award": {
+      "date": "2026-03-20",
+      "number": "NNG15SC30B",
+      "amount": "801998.00",
+      "awardee": {
+        "name": "COUNTERTRADE PRODUCTS, INC.",
+        "location": {
+          "city": {
+            "code": "3455",
+            "name": "Arvada"
+          },
+          "state": {
+            "code": "CO",
+            "name": "Colorado"
+          },
+          "zip": "80003",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "CN4KSKX2UQY5",
+        "cageCode": "0J699"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "kaitlin.h.summerville.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Kaitlin Summerville"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b9dc724635ee4219be2bb53273b1dee6",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "32407-7001",
+      "city": "PANAMA CITY BEACH",
+      "countryCode": "USA",
+      "state": "FL"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "54725",
+        "name": "Panama City Beach"
+      },
+      "state": {
+        "code": "FL",
+        "name": "Florida"
+      },
+      "zip": "32407",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/b9dc724635ee4219be2bb53273b1dee6/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b9dc724635ee4219be2bb53273b1dee6&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
     "noticeId": "44ea0370739a4186be9a41606346f47f",
     "title": "7A21--RFQ 24  Licensing for HYCU Services",
     "solicitationNumber": "36C25626Q0500",
@@ -3051,6 +3139,240 @@
     "resourceLinks": null
   },
   {
+    "noticeId": "a5c0c99bd080474fa3d09a6faf6e80f9",
+    "title": "NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small Unmanned Aircraft Systems (SUAS) Reusable Architecture (SRA)",
+    "solicitationNumber": "N0042126R1006",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
+    "fullParentPathCode": "017.1700.NAVAIR.NAVAIR HQS.N00019",
+    "postedDate": "2026-03-23",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-07-15",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-01T10:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "H216",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "olivia.e.bossert.civ@us.navy.mil",
+        "phone": null,
+        "title": null,
+        "fullName": "Olivia Bossert"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "amy.g.davis@navy.mil",
+        "phone": "3017372787",
+        "title": null,
+        "fullName": "Amy G. Davis"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a5c0c99bd080474fa3d09a6faf6e80f9",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20670-5000",
+      "city": "PATUXENT RIVER",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "69525",
+        "name": "Saint Inigoes"
+      },
+      "state": {
+        "code": "MD",
+        "name": "Maryland"
+      },
+      "zip": "20684",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/a5c0c99bd080474fa3d09a6faf6e80f9/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=a5c0c99bd080474fa3d09a6faf6e80f9&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0303933516464b3995848ddccf31466b/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04252eda3b2d4eddad1ee5406e372219/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/08b6fbe537194de19b7387dea2bc902e/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/364f2cbabb7f4a6da82e71b775f7c95f/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/48d69e07c0e24c64817c7f02a7968bf6/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/51ca185917f64ad0b8b9ab378e94d2c5/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/55e807efe3824bd899ac45526a64c256/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5faa97a99e9049c8952c8b4e97d2a5bc/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8472906fd6a045daa4f13b014336170a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8535b81b4ba3466ca4f00ed04f9431d7/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/94a7363bf82a42c9b9d5ed24b86a2fac/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9c4d7de6cc4c4da48712aa810cdc562f/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a0304ee28bb0429580716504ec0f9d61/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b202cd76ac41482aaf0f370cbabe8edc/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b433ef7181e14b4da3324f54a034626f/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc233b9633b24cbd95134c254780971c/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c8aa4654334145feb8cec2c528b023ef/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbf337cec5ee4b00949bb78984c27f82/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cded2566de404920a7ec2203e0d5ea7c/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e4253e5cf47845d999f6f9a06fd3c5b9/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ed295f137e694bd990d8b6247975aa08/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/edf6e6e47b6045aa99d092334dd2f343/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ef36ab69d08a43caac5600a3a51335f4/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f2f011a965574b14a986d66d357871de/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffcc4bac3f9446aea69c3199aa4ac4b8/download"
+    ]
+  },
+  {
+    "noticeId": "7bde55bbd8924ed3a98aba7a1e70d22c",
+    "title": "Bridge Inspection and Assessment - Prescott NF",
+    "solicitationNumber": "127EAX26Q0013",
+    "fullParentPathName": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA SOUTHWEST 7",
+    "fullParentPathCode": "012.12C2.127EAX",
+    "postedDate": "2026-03-23",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-11",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-27T13:00:00-07:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C213",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "blaine.greenwalt@usda.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Blaine Greenwalt"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7bde55bbd8924ed3a98aba7a1e70d22c",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "871023498",
+      "city": "Albuquerque",
+      "countryCode": "USA",
+      "state": "NM"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "17390",
+        "name": "Crown King"
+      },
+      "state": {
+        "code": "AZ",
+        "name": "Arizona"
+      },
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/7bde55bbd8924ed3a98aba7a1e70d22c/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=7bde55bbd8924ed3a98aba7a1e70d22c&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ee4eb9326f24ba0bc5746b51636950f/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1bf1ccdee2e746b8b48cf6d59fd47cb0/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/791c77fe10b344109ebca5943b5ed042/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9199198aa4394bc8a768d3df1aed7533/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9318dd44889f4b2cb41a9351436389a1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a09844139f2c487796dcb761a5f5cee8/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7f34166ec6d4eb0a0e6c9def207d689/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c255652fa52845188932d931a35b6f5b/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d8b9aff8327745b0acc83cc9b58dafce/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dfac16164a4446a986bf9f18c840fad1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f2d5febf7be645a6903bd6e72c35afa8/download"
+    ]
+  },
+  {
+    "noticeId": "9252a07649844bed80c9d602e9d079ce",
+    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
+    "solicitationNumber": "N66001-26-R-3506",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "fullParentPathCode": "017.1700.SPAWAR.SPAWAR PACIFIC.N66001",
+    "postedDate": "2026-03-22",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "autocustom",
+    "archiveDate": "2027-03-16",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-24T15:00:00-07:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "erwin.c.cablay.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Erwin Cablay"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "stephen.i.enokida.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Stephen Enokida"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9252a07649844bed80c9d602e9d079ce",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "92152-5001",
+      "city": "SAN DIEGO",
+      "countryCode": "USA",
+      "state": "CA"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "San Diego, CA 92152 USA",
+      "zip": "92152"
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/9252a07649844bed80c9d602e9d079ce/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=9252a07649844bed80c9d602e9d079ce&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
     "noticeId": "f514d28929354908be6feda786d53d67",
     "title": "A-E Shortlist for USDA-FS, Region 8 and 10, SRS-PNW-IITF Research Stations 2026",
     "solicitationNumber": "12445124R0001",
@@ -3261,102 +3583,6 @@
     ]
   },
   {
-    "noticeId": "ca4f5e932c734a278689917566d56360",
-    "title": "NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small Unmanned Aircraft Systems (SUAS) Reusable Architecture (SRA)",
-    "solicitationNumber": "N0042126R1006",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
-    "fullParentPathCode": "017.1700.NAVAIR.NAVAIR HQS.N00019",
-    "postedDate": "2026-03-19",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-07-15",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-01T10:00:00-04:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "H216",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "olivia.e.bossert.civ@us.navy.mil",
-        "phone": null,
-        "title": null,
-        "fullName": "Olivia Bossert"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "amy.g.davis@navy.mil",
-        "phone": "3017372787",
-        "title": null,
-        "fullName": "Amy G. Davis"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ca4f5e932c734a278689917566d56360",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20670-5000",
-      "city": "PATUXENT RIVER",
-      "countryCode": "USA",
-      "state": "MD"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "69525",
-        "name": "Saint Inigoes"
-      },
-      "state": {
-        "code": "MD",
-        "name": "Maryland"
-      },
-      "zip": "20684",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/ca4f5e932c734a278689917566d56360/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ca4f5e932c734a278689917566d56360&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0303933516464b3995848ddccf31466b/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04252eda3b2d4eddad1ee5406e372219/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/08b6fbe537194de19b7387dea2bc902e/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/364f2cbabb7f4a6da82e71b775f7c95f/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/48d69e07c0e24c64817c7f02a7968bf6/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/51ca185917f64ad0b8b9ab378e94d2c5/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8472906fd6a045daa4f13b014336170a/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/94a7363bf82a42c9b9d5ed24b86a2fac/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9c4d7de6cc4c4da48712aa810cdc562f/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a0304ee28bb0429580716504ec0f9d61/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b202cd76ac41482aaf0f370cbabe8edc/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b433ef7181e14b4da3324f54a034626f/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb2592889bb2464eb287a80e8931c708/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc233b9633b24cbd95134c254780971c/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c8aa4654334145feb8cec2c528b023ef/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbf337cec5ee4b00949bb78984c27f82/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cded2566de404920a7ec2203e0d5ea7c/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e4253e5cf47845d999f6f9a06fd3c5b9/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e7eabad4ef44450493a2a60cd962a4e5/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ed295f137e694bd990d8b6247975aa08/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/edf6e6e47b6045aa99d092334dd2f343/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ef36ab69d08a43caac5600a3a51335f4/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffcc4bac3f9446aea69c3199aa4ac4b8/download"
-    ]
-  },
-  {
     "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
     "title": "Sources Sought - Optimizing Data & Intelligence Services (ODIS)",
     "solicitationNumber": "86615526Q00008",
@@ -3476,79 +3702,6 @@
       }
     ],
     "resourceLinks": null
-  },
-  {
-    "noticeId": "7aca689baab34f698a9e01629d2e5b77",
-    "title": "Bridge Inspection and Assessment - Prescott NF",
-    "solicitationNumber": "127EAX26Q0013",
-    "fullParentPathName": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA SOUTHWEST 7",
-    "fullParentPathCode": "012.12C2.127EAX",
-    "postedDate": "2026-03-19",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-11",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-27T13:00:00-07:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C213",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "blaine.greenwalt@usda.gov",
-        "phone": "",
-        "title": null,
-        "fullName": "Blaine Greenwalt"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7aca689baab34f698a9e01629d2e5b77",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "871023498",
-      "city": "Albuquerque",
-      "countryCode": "USA",
-      "state": "NM"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "17390",
-        "name": "Crown King"
-      },
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/7aca689baab34f698a9e01629d2e5b77/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=7aca689baab34f698a9e01629d2e5b77&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ee4eb9326f24ba0bc5746b51636950f/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1bf1ccdee2e746b8b48cf6d59fd47cb0/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/791c77fe10b344109ebca5943b5ed042/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9199198aa4394bc8a768d3df1aed7533/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9318dd44889f4b2cb41a9351436389a1/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a09844139f2c487796dcb761a5f5cee8/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c255652fa52845188932d931a35b6f5b/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d8b9aff8327745b0acc83cc9b58dafce/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f2d5febf7be645a6903bd6e72c35afa8/download"
-    ]
   },
   {
     "noticeId": "6900136139f44f81ad1bc9af9ff36499",
@@ -3977,67 +4130,6 @@
       {
         "rel": "self",
         "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5d162267195e4f458228f188b6cca15d&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
-    "noticeId": "128c9a15e1824335ada6a0450f4e5ef3",
-    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
-    "solicitationNumber": "N66001-26-R-3506",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-    "fullParentPathCode": "017.1700.SPAWAR.SPAWAR PACIFIC.N66001",
-    "postedDate": "2026-03-17",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "autocustom",
-    "archiveDate": "2027-03-16",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-24T15:00:00-07:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "erwin.c.cablay.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Erwin Cablay"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "stephen.i.enokida.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Stephen Enokida"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=128c9a15e1824335ada6a0450f4e5ef3",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "92152-5001",
-      "city": "SAN DIEGO",
-      "countryCode": "USA",
-      "state": "CA"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "San Diego, CA 92152 USA",
-      "zip": "92152"
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/128c9a15e1824335ada6a0450f4e5ef3/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=128c9a15e1824335ada6a0450f4e5ef3&limit=1"
       }
     ],
     "resourceLinks": null
@@ -5671,80 +5763,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/96838b4303ce489b978c63a051d636d6/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b9c533a71b034bd09d066e23a39e3619/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c4d397e6cb7b487ab73b2cefdaa57af9/download"
-    ]
-  },
-  {
-    "noticeId": "e8d30f9553c84339802369b4365a7713",
-    "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
-    "solicitationNumber": "SEIS21226",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.ELECTRONIC SYSTEMS.FA2381 FORCE PROTECTION AFLCMC/HBUK",
-    "fullParentPathCode": "057.5700.AFMC.AFLCMC.PEO-ELECTRONIC SYS.FA2381",
-    "postedDate": "2026-02-20",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-31",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-16T17:00:00-04:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "J063",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "Adam.factor.1@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Adam A. Factor"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "kristen.rienzo@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Kristen Rienzo"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e8d30f9553c84339802369b4365a7713",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "01731",
-      "city": "HANSCOM AFB",
-      "countryCode": "USA",
-      "state": "MA"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "0",
-        "name": "Hanscom AFB"
-      },
-      "state": {
-        "code": "MA",
-        "name": "Massachusetts"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e8d30f9553c84339802369b4365a7713&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2cdbfdf100874630bf83480b588bf75b/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dbca6d797f324e3c96d532f705dcc55d/download"
     ]
   },
   {

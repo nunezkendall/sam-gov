@@ -1119,6 +1119,74 @@
     "updatedDate": null
   },
   {
+    "noticeId": "9252a07649844bed80c9d602e9d079ce",
+    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
+    "solicitationNumber": "N66001-26-R-3506",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-22",
+    "responseDeadline": "2026-03-24T15:00:00-07:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "92152"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/9252a07649844bed80c9d602e9d079ce/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9252a07649844bed80c9d602e9d079ce",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"Update Number 0001: The purpose of this amendment is to assist interested offerors in preparing their responses offline, a PDF copy of the full market survey questionnaire has been added to the attachments/links section of this notice. The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. Attached to this notice are the official Market Survey document and a consolidated Question and Answer (QA) document. The QA provides responses to all timely questions received from interested parties regarding this requirement. \"}",
+    "descriptionFull": "{\"description\":\"Update Number 0001: The purpose of this amendment is to assist interested offerors in preparing their responses offline, a PDF copy of the full market survey questionnaire has been added to the attachments/links section of this notice. The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. Attached to this notice are the official Market Survey document and a consolidated Question and Answer (QA) document. The QA provides responses to all timely questions received from interested parties regarding this requirement.  \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "f514d28929354908be6feda786d53d67",
     "title": "A-E Shortlist for USDA-FS, Region 8 and 10, SRS-PNW-IITF Research Stations 2026",
     "solicitationNumber": "12445124R0001",
@@ -1730,74 +1798,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "128c9a15e1824335ada6a0450f4e5ef3",
-    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
-    "solicitationNumber": "N66001-26-R-3506",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-17",
-    "responseDeadline": "2026-03-24T15:00:00-07:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "92152"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/128c9a15e1824335ada6a0450f4e5ef3/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=128c9a15e1824335ada6a0450f4e5ef3",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. Attached to this notice are the official Market Survey document and a consolidated Question and Answer (QA) document. The QA provides responses to all timely questions received from interested parties regarding this requirement. \"}",
-    "descriptionFull": "{\"description\":\"The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. Attached to this notice are the official Market Survey document and a consolidated Question and Answer (QA) document. The QA provides responses to all timely questions received from interested parties regarding this requirement. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "network"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -2574,90 +2574,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "e8d30f9553c84339802369b4365a7713",
-    "title": "DRAFT RFP/FOPR Force Protection Counter-small Unmanned Aircraft Systems (C-sUAS) Sustainment, Engineering, & Integration Services (SEIS)",
-    "solicitationNumber": "SEIS21226",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-20",
-    "responseDeadline": "2026-03-16T17:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.ELECTRONIC SYSTEMS.FA2381 FORCE PROTECTION AFLCMC/HBUK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Hanscom AFB",
-      "state": "Massachusetts",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/e8d30f9553c84339802369b4365a7713/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e8d30f9553c84339802369b4365a7713",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2cdbfdf100874630bf83480b588bf75b/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dbca6d797f324e3c96d532f705dcc55d/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this documen...",
-    "descriptionFull": "{\"description\":\"<p><strong>Purpose:&nbsp;</strong>The United States Air Force (USAF) is issuing this DRAFT Request for Proposal (RFP) and Fair Opportunity Proposal Request (FOPR) to provide industry with an opportunity to provide questions, comments, and concerns on draft requirement documents. Any vendors requesting access to CUI documents will be vetted through ESS security office prior to receiving approval. Questions and comments will be addressed after close of SAM posting by an amendment to this post.</p>\\n\\n<p>All interested and qualified Small businesses are encouraged to respond to this notice in accordance with the instructions addressed herein.</p>\\n\\n<p><strong>Instructions:&nbsp;</strong>Your submission should be organized in accordance with the instructions in this document to permit a thorough and accurate review and evaluation by the USAF. Comments, inquiries and responses to this RFI must be submitted to the USAF via electronic mail to the following: Mr. Robert Gill at robert.gill.12@us.af.mil, Ms. Kristen Rienzo at kristen.rienzo@us.af.mil, and Captain Adam Factor at adam.factor.1@us.af.mil.</p>\\n\\n<p><strong>Disclaimer:</strong>&nbsp;THIS REQUEST FOR INFORMATION IS SOLELY FOR INFORMATIONAL AND PLANNING PURPOSES AND DOES NOT CONSTITUTE A SOLICITATION. In accordance with FAR 15.201(e), responses to this notice are not offers and cannot be accepted by the Government to form a binding contract, nor do they affect a potential offeror&#39;s ability to respond to any future synopsis/solicitation, which may or may not follow or restrict the Government&#39;s eventual acquisition approach. The Government will not provide reimbursement for any information that may be submitted in response to this notice, and no basis for a claim against the Government shall arise from a response to this notice or Government use of any information provided. Respondents are solely responsible for all expenses associated with responding to this RFI.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2cdbfdf100874630bf83480b588bf75b/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 245572,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dbca6d797f324e3c96d532f705dcc55d/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 22534,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Massachusetts"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
