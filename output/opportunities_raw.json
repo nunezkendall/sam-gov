@@ -88,6 +88,94 @@
     "resourceLinks": null
   },
   {
+    "noticeId": "ad9be471be9b45a49f31df46e3140787",
+    "title": "DA10--508-26-3-2090-0141|DSS PCFU LIVE DATA CARDS|B+4|  (VA-26-00044554)",
+    "solicitationNumber": "SEWP370106",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.247-NETWORK CONTRACT OFFICE 7 (36C247)",
+    "fullParentPathCode": "036.3600.36C247",
+    "postedDate": "2026-03-23",
+    "type": "Award Notice",
+    "baseType": "Award Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-04-02",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "DA10",
+    "active": "Yes",
+    "award": {
+      "date": "2026-03-23",
+      "number": "NNG15SD34B36C24726F0118A",
+      "amount": "139310.30",
+      "awardee": {
+        "name": "MINBURN TECHNOLOGY GROUP, LLC",
+        "location": {
+          "streetAddress": "",
+          "streetAddress2": "",
+          "city": {
+            "name": "GREAT FALLS"
+          },
+          "state": {
+            "name": "VA"
+          },
+          "zip": "22066-3911",
+          "country": {
+            "name": "VA"
+          }
+        },
+        "ueiSAM": "WN8JFVZTBCA5",
+        "cageCode": "66LV8"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "ashley.stewart4@va.gov",
+        "phone": "7067330188",
+        "title": "Contracting Specialist",
+        "fullName": "Ashley Stewart"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ad9be471be9b45a49f31df46e3140787",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "30904",
+      "city": "AUGUSTA",
+      "countryCode": "USA",
+      "state": "GA"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "",
+      "streetAddress2": "",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/ad9be471be9b45a49f31df46e3140787/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ad9be471be9b45a49f31df46e3140787&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2965573ade364dcdb8fa03216bec584c/download"
+    ]
+  },
+  {
     "noticeId": "44ea0370739a4186be9a41606346f47f",
     "title": "7A21--RFQ 24  Licensing for HYCU Services",
     "solicitationNumber": "36C25626Q0500",
@@ -813,77 +901,6 @@
       }
     ],
     "resourceLinks": null
-  },
-  {
-    "noticeId": "ce464fd6c732429788458e246ad463e7",
-    "title": "6515--TELEHEALTH COMPUTER CARTS | Bakersfield CBOC",
-    "solicitationNumber": "36C24W26Q0106",
-    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.RPO WEST (36C24W)",
-    "fullParentPathCode": "036.3600.36C24W",
-    "postedDate": "2026-03-12",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-06-24",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-26T09:00:00-05:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "6515",
-    "active": "Yes",
-    "award": {
-      "awardee": {}
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "danita.webster1@va.gov",
-        "phone": "(469) 797-2140",
-        "title": "Contract specialist",
-        "fullName": "Danita Webster"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ce464fd6c732429788458e246ad463e7",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "95652",
-      "city": "MCCLELLAN",
-      "countryCode": "USA",
-      "state": "CA"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "Department of Veterans Affairs Greater Los Angeles Healthcare System",
-      "streetAddress2": "Interim Bakersfield Clinic 900Old River Rd.",
-      "city": {
-        "name": "Bakersfield"
-      },
-      "state": {
-        "name": "CA"
-      },
-      "zip": "93311",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/ce464fd6c732429788458e246ad463e7/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ce464fd6c732429788458e246ad463e7&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/597180943be94ba698a730dbcfb54fe5/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7154863710fa4e9b9d90e0445e904579/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a5abfed2b5f3430eb4a289f45cd90f9c/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc6aa60b27524057b0d02a620ba22216/download"
-    ]
   },
   {
     "noticeId": "5b17357dc69943ef9e39e37b800b39a7",
@@ -2188,6 +2205,77 @@
     ]
   },
   {
+    "noticeId": "44aca020492f472aa4c2df915c3264f4",
+    "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers  AMENDMENT",
+    "solicitationNumber": "36C24526Q0376",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
+    "fullParentPathCode": "036.3600.36C245",
+    "postedDate": "2026-03-24",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Presolicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-30",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-31T08:00:00-04:00",
+    "naicsCode": "541511",
+    "naicsCodes": [
+      "541511"
+    ],
+    "classificationCode": "R425",
+    "active": "Yes",
+    "award": {
+      "awardee": {}
+    },
+    "pointOfContact": [
+      {
+        "fax": "NONE",
+        "type": "primary",
+        "email": "Keysha.Gorman74@va.gov",
+        "phone": "NONE",
+        "title": "CONTRACT SPECIALIST",
+        "fullName": "KEYSHA GORMAN"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=44aca020492f472aa4c2df915c3264f4",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "21090",
+      "city": "LINTHICUM",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "Department of Veterans Affairs VISN 5 | NCO 5",
+      "streetAddress2": "SUITE 275 849 INTERNATIONAL DRIVE",
+      "city": {
+        "code": "47150",
+        "name": "Linthicum Heights"
+      },
+      "state": {
+        "code": "MD",
+        "name": "Maryland"
+      },
+      "zip": "21090",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/44aca020492f472aa4c2df915c3264f4/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=44aca020492f472aa4c2df915c3264f4&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7fe4032be3a34295b1d71342cb68a756/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c2cfffebb9fa401caf9ab8b25dfbd6b4/download"
+    ]
+  },
+  {
     "noticeId": "557c4bde13a245728eeb67e1a9268a3d",
     "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers",
     "solicitationNumber": "36C24526Q0376",
@@ -2651,6 +2739,73 @@
       }
     ],
     "resourceLinks": null
+  },
+  {
+    "noticeId": "9e1c30fb813a423cae16fa2bdee109fe",
+    "title": "MIAG Multomat Mill Remediation, Fargo, ND",
+    "solicitationNumber": "1232SA26Q0352",
+    "fullParentPathName": "AGRICULTURE, DEPARTMENT OF.AGRICULTURAL RESEARCH SERVICE.USDA ARS AFM APD",
+    "fullParentPathCode": "012.12H2.1232SA",
+    "postedDate": "2026-03-24",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-21",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-06T10:00:00-04:00",
+    "naicsCode": "541690",
+    "naicsCodes": [
+      "541690"
+    ],
+    "classificationCode": "R706",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "osvaldo.rodriguez@usda.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Osvaldo Rodriguez"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9e1c30fb813a423cae16fa2bdee109fe",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20705",
+      "city": "BELTSVILLE",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "25700",
+        "name": "Fargo"
+      },
+      "state": {
+        "code": "ND",
+        "name": "North Dakota"
+      },
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/9e1c30fb813a423cae16fa2bdee109fe/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=9e1c30fb813a423cae16fa2bdee109fe&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0325927b34274c09b23cd4abc2d907cb/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7fda502c385435cb2c525ed47992060/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/df8d439da8ed4e1db429d5c5dc8e2198/download"
+    ]
   },
   {
     "noticeId": "cefb47ada06e45d787152769203dd531",
@@ -3139,6 +3294,67 @@
     "resourceLinks": null
   },
   {
+    "noticeId": "62f6cce990024b97bec11bd574df90da",
+    "title": "C--Multiple Award IDIQ  Professional Fire Protection",
+    "solicitationNumber": "140PS126R0001",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.DOI, NPS CONOPS STRATEGIC",
+    "fullParentPathCode": "014.1443.140PS1",
+    "postedDate": "2026-03-24",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-08",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-23T17:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "stephen_loftus@ios.doi.gov",
+        "phone": "202-354-2267",
+        "title": null,
+        "fullName": "Loftus, Stephen"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=62f6cce990024b97bec11bd574df90da",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20240",
+      "city": "Washington",
+      "countryCode": "USA",
+      "state": "DC"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/62f6cce990024b97bec11bd574df90da/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=62f6cce990024b97bec11bd574df90da&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/253ea0d86c084c8ea822b0f0ac4aeb1f/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/645e5dd5932c4c1184c12047e87aba65/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/671824b761b44539a7cc60657aae21c1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7de654bb332a4a19ab9664c5f833aa3a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e69d713130944d78e32c739d3e59bde/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d52e12581cb541cf8f02db588eb30136/download"
+    ]
+  },
+  {
     "noticeId": "a5c0c99bd080474fa3d09a6faf6e80f9",
     "title": "NAWCAD (WOLF) Ship and Air Integrated Warfare Division Small Unmanned Aircraft Systems (SUAS) Reusable Architecture (SRA)",
     "solicitationNumber": "N0042126R1006",
@@ -3309,6 +3525,85 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d8b9aff8327745b0acc83cc9b58dafce/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dfac16164a4446a986bf9f18c840fad1/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f2d5febf7be645a6903bd6e72c35afa8/download"
+    ]
+  },
+  {
+    "noticeId": "2cca7dc305a04cdfbea5934d261de4a3",
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "solicitationNumber": "N6600126R0002",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "fullParentPathCode": "017.1700.SPAWAR.SPAWAR PACIFIC.N66001",
+    "postedDate": "2026-03-23",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-05",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-20T11:00:00-07:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "AC12",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "eric.r.pomroy.civ@us.navy.mil",
+        "phone": "8086356304",
+        "title": null,
+        "fullName": "Eric Pomroy"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "jacob.p.ward.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Jacob Ward"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2cca7dc305a04cdfbea5934d261de4a3",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "92152-5001",
+      "city": "SAN DIEGO",
+      "countryCode": "USA",
+      "state": "CA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "66000",
+        "name": "San Diego"
+      },
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "92152",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/2cca7dc305a04cdfbea5934d261de4a3/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=2cca7dc305a04cdfbea5934d261de4a3&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3629617130dc482aa17a25343ec3e602/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b661b972c6fc4191a59ed655c80bf27a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb6e6b6353964442b2d1d8c36aa84031/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ef15ce0a18ca4a729d854db04da4069a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f22c42fb6a3a4ccbaae0daba199e70da/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f45192bbc2b544aebcd30700c38cb7e3/download"
     ]
   },
   {
@@ -5322,148 +5617,6 @@
       {
         "rel": "self",
         "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=51ce885f838a4c3da989c14dd7507d7a&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
-    "noticeId": "f3bbfc4ecc26478eb724ef50a277ccc4",
-    "title": "BLUE INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) FOR MECHANICAL, ELECTRICAL, PLUMBING, AND FIRE PROTECTION (MEP-FP) ARCHITECT-ENGINEERING (A-E) SERVICES FOR MEDIUM PROJECTS",
-    "solicitationNumber": "N4008024R2186",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC ATLANTIC CMD.NAVFAC WASHINGTON.NAVFACSYSCOM WASHINGTON",
-    "fullParentPathCode": "017.1700.NAVFAC.NAVFAC ATLANTIC CMD.NAVFAC WASHINGTON.N40080",
-    "postedDate": "2026-02-24",
-    "type": "Award Notice",
-    "baseType": "Award Notice",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-03-23",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": null,
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": {
-      "date": "2026-02-23",
-      "number": "N4008026D0002",
-      "amount": "5e+07",
-      "awardee": {
-        "name": "BKM PRIME AE SB JV, LLC",
-        "location": {
-          "zip": "20374"
-        },
-        "ueiSAM": "NDLQWZF6Z1E8",
-        "cageCode": "9CFY8",
-        "manual": false
-      }
-    },
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "holly.r.snow.civ@us.navy.mil",
-        "phone": null,
-        "title": null,
-        "fullName": "Holly Snow"
-      },
-      {
-        "fax": null,
-        "type": "secondary",
-        "email": null,
-        "phone": null,
-        "title": null,
-        "fullName": null
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f3bbfc4ecc26478eb724ef50a277ccc4",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20374-5018",
-      "city": "WASHINGTON NAVY YARD",
-      "countryCode": "USA",
-      "state": "DC"
-    },
-    "placeOfPerformance": null,
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/f3bbfc4ecc26478eb724ef50a277ccc4/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f3bbfc4ecc26478eb724ef50a277ccc4&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
-    "noticeId": "14100cca5a2445aabea063a81fecb410",
-    "title": "GOLD INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) FOR MECHANICAL, ELECTRICAL, PLUMBING, AND FIRE PROTECTION (MEP-FP) ARCHITECT-ENGINEERING (A-E) SERVICES FOR MEDIUM PROJECTS",
-    "solicitationNumber": "N4008024R2186",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC ATLANTIC CMD.NAVFAC WASHINGTON.NAVFACSYSCOM WASHINGTON",
-    "fullParentPathCode": "017.1700.NAVFAC.NAVFAC ATLANTIC CMD.NAVFAC WASHINGTON.N40080",
-    "postedDate": "2026-02-24",
-    "type": "Award Notice",
-    "baseType": "Award Notice",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-03-23",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": null,
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": {
-      "date": "2026-02-23",
-      "number": "N4008026D0003",
-      "amount": "5e+07",
-      "awardee": {
-        "name": "SUMMER CONSULTANTS, INC.",
-        "location": {
-          "zip": "20374"
-        },
-        "ueiSAM": "FQSENZ2KJDZ8",
-        "cageCode": "0C7T4",
-        "manual": false
-      }
-    },
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "holly.r.snow.civ@us.navy.mil",
-        "phone": null,
-        "title": null,
-        "fullName": "Holly Snow"
-      },
-      {
-        "fax": null,
-        "type": "secondary",
-        "email": null,
-        "phone": null,
-        "title": null,
-        "fullName": null
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=14100cca5a2445aabea063a81fecb410",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20374-5018",
-      "city": "WASHINGTON NAVY YARD",
-      "countryCode": "USA",
-      "state": "DC"
-    },
-    "placeOfPerformance": null,
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/14100cca5a2445aabea063a81fecb410/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=14100cca5a2445aabea063a81fecb410&limit=1"
       }
     ],
     "resourceLinks": null
