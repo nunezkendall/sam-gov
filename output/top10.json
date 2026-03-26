@@ -1,19 +1,8 @@
 [
   {
-    "noticeId": "110209fafe30416fa12ef1d51af98bb8",
-    "reason": "Remote monitoring server system aligns with Linux/automation and manageable BPA scope.",
-    "overallScore": 50,
-    "title": "Airfield Data Management Server - BPA",
-    "uiLink": "https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view",
-    "descriptionSnippet": "{\"description\":\"<p><strong><u>Amendment 0001</u></strong>&nbsp;- Please note Amendment 0001. The purpose of this amendment is to correct the solicitation due date to March 16th.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
-    "responseDeadline": "2026-03-16T15:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
-    "reason": "Container analysis under Platform One strongly aligns with DevSecOps/container expertise.",
-    "overallScore": 49,
+    "reason": "Strong DevSecOps/container focus aligned with cloud and automation expertise.",
+    "overallScore": 54,
     "title": "Iron Bank Container Analysis Requirement",
     "uiLink": "https://sam.gov/workspace/contract/opp/ec332587105e4fbb8ff0e0f16196cb40/view",
     "descriptionSnippet": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
@@ -23,8 +12,8 @@
   },
   {
     "noticeId": "2cca7dc305a04cdfbea5934d261de4a3",
-    "reason": "Cyber and software development MAC closely matches DevOps and engineering capabilities.",
-    "overallScore": 48,
+    "reason": "Highly relevant cyber and software engineering scope under small business MAC.",
+    "overallScore": 51,
     "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
     "uiLink": "https://sam.gov/workspace/contract/opp/2cca7dc305a04cdfbea5934d261de4a3/view",
     "descriptionSnippet": "{\"description\":\"<p>UPDATE 3-20-2026: Solicitation posted. <strong>Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).</strong> &nbsp;--------------------- UPDATE 3-19-2026: solicitation forthcoming. &nbsp;------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the solicitation related to the presolicitation notice and Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval I...",
@@ -33,8 +22,19 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "110209fafe30416fa12ef1d51af98bb8",
+    "reason": "Remote monitoring/server system with manageable BPA scope.",
+    "overallScore": 50,
+    "title": "Airfield Data Management Server - BPA",
+    "uiLink": "https://sam.gov/workspace/contract/opp/110209fafe30416fa12ef1d51af98bb8/view",
+    "descriptionSnippet": "{\"description\":\"<p><strong><u>Amendment 0001</u></strong>&nbsp;- Please note Amendment 0001. The purpose of this amendment is to correct the solicitation due date to March 16th.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>The 555th Software Engineering Squadron (SWES) is requiring the Remote Monitoring and Maintenance (RMM) system that is<br />\\ndesigned to modernize the Air Force&#39;s monitoring and maintenance of Navigational Aids (NAVAIDs) on airfields.&nbsp;The Airfield Data Management Server will be a 5 year Blanket Purchase Agreement.&nbsp;</p>\\n\"}",
+    "responseDeadline": "2026-03-16T15:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "450c5091865141f0a18cd5087795f69f",
-    "reason": "Automation and data integration support relevant to DevOps and Python skills.",
+    "reason": "Automation and data-centric intelligence support aligns with DevOps skills.",
     "overallScore": 48,
     "title": "Intelligence and Automation Operations",
     "uiLink": "https://sam.gov/workspace/contract/opp/450c5091865141f0a18cd5087795f69f/view",
@@ -44,8 +44,19 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "8baecca2ad24485ca2659b7fbefe5482",
+    "reason": "Cloud-based digital platform subscription with moderate technical alignment.",
+    "overallScore": 48,
+    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
+    "uiLink": "https://sam.gov/workspace/contract/opp/8baecca2ad24485ca2659b7fbefe5482/view",
+    "descriptionSnippet": "{\"description\":\"<p>Amendment 2 is being issued to extend the due date for quotes. The new due date is Monday, March 30, 2026 and the time they&#39;re due is 12:00 PM EDT. No other changes are being made to the solicitation.</p>\\n\\n<p></p>\\n\\n<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and inc...",
+    "responseDeadline": "2026-03-30T12:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
-    "reason": "API security and lifecycle oversight aligns with cloud and DevOps practices.",
+    "reason": "API architecture and security oversight fits cloud and DevOps capabilities.",
     "overallScore": 47,
     "title": "USDA STRATUS GUS B2G Support Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view",
@@ -55,8 +66,19 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "e03db8e4dddb4de190980e3af5a09461",
+    "reason": "C4ISR sustainment includes software and systems engineering elements.",
+    "overallScore": 47,
+    "title": "RFP N6523626R3007",
+    "uiLink": "https://sam.gov/workspace/contract/opp/e03db8e4dddb4de190980e3af5a09461/view",
+    "descriptionSnippet": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non-Disclosure Ag...",
+    "responseDeadline": "2026-04-17T12:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
-    "reason": "Data and intelligence services may leverage AWS, automation, and data engineering.",
+    "reason": "Enterprise data and intelligence services potentially leverage automation and cloud.",
     "overallScore": 45,
     "title": "Sources Sought - Optimizing Data & Intelligence Services (ODIS)",
     "uiLink": "https://sam.gov/workspace/contract/opp/c4b2d4ccd7614a0ebd5052caace65370/view",
@@ -66,31 +88,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "636c5770903d493f9002e75ca24d84e3",
-    "reason": "Cloud-based digital testing subscription; simpler scope with SaaS alignment.",
-    "overallScore": 45,
-    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
-    "uiLink": "https://sam.gov/workspace/contract/opp/636c5770903d493f9002e75ca24d84e3/view",
-    "descriptionSnippet": "{\"description\":\"<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user sc...",
-    "responseDeadline": "2026-03-26T12:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "d0719bb1c98a4b71937d031621052420",
-    "reason": "C4ISR sustainment includes software and systems engineering elements.",
-    "overallScore": 38,
-    "title": "RFP N6523626R3007-0001",
-    "uiLink": "https://sam.gov/workspace/contract/opp/d0719bb1c98a4b71937d031621052420/view",
-    "descriptionSnippet": "{\"description\":\"<p>Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***&nbsp;Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available.&nbsp; In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non...",
-    "responseDeadline": "2026-04-17T12:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-    "reason": "Tactical network software development relevant though vehicle-restricted.",
-    "overallScore": 36,
+    "reason": "Tactical networks software scope relevant to DevOps and systems engineering.",
+    "overallScore": 45,
     "title": "CANES Tactical Networks Market Survey",
     "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
     "descriptionSnippet": "{\"description\":\"Market Survey (MS) for Services Procurements NUWCDIVNPT Code 25 CANES Tactical Networks; REFERENCE NUMBER: N66604-26-R-3000-MS1; *LARGE BUSINESSES DO NOT NEED TO RESPOND TO THIS NOTICE*; This Market Survey is limited to Limited to SeaPort-NxG MAC Holders only.; Note this notice is being posted in both the PIEE/SAM and the SeaPort Portal. There is no difference in the two postings. The solicitation will be posted in PIEE/SAM.; Amendment 1 is posted 2/17/2026 to add requirement that respondents include their current SeaPort MAC number. Amendment 2 posted 2/26/2026 to: \\t1) Update Key Personnel Required and Desired Qualifications for Task 4.6\\t2) Revise SOW to add Applicable Document 3.35 and to add a note to section 4.0 that all software development shall be performed in a...",
@@ -100,8 +100,8 @@
   },
   {
     "noticeId": "39825fd86b46449d8aaa9c20c2e29079",
-    "reason": "IT/OT lifecycle sustainment relevant to infrastructure and automation skills.",
-    "overallScore": 35,
+    "reason": "IT/OT lifecycle sustainment relevant to infrastructure and Linux expertise.",
+    "overallScore": 44,
     "title": "Navy Shore Sustainment Support (N3S)",
     "uiLink": "https://sam.gov/workspace/contract/opp/39825fd86b46449d8aaa9c20c2e29079/view",
     "descriptionSnippet": "{\"description\":\"*** This Sources Sought Notice is for SEAPORT NxG SMALL BUSINESS MAC HOLDERS ONLY. No other offers will be considered. SEAPORT Small Business MAC holders will need to register for PIEE accounts in order to receive market survey requests, solicitations and submit proposals/offers.*** Naval Information Warfare Center Atlantic (NIWC Atlantic) is issuing this Market Survey for determining Small Business capabilities and is soliciting information from potential sources to provide systems lifecycle sustainment support for the Information Technology (IT) and Operational Technology (OT) systems and management support services to NIWC Atlantic in support of Commander Navy Installations Command (CNIC) N6 Regions, Continental United States (CONUS) and Outside the Continental United...",

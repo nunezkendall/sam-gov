@@ -1203,15 +1203,15 @@
     "updatedDate": null
   },
   {
-    "noticeId": "d0719bb1c98a4b71937d031621052420",
-    "title": "RFP N6523626R3007-0001",
+    "noticeId": "e03db8e4dddb4de190980e3af5a09461",
+    "title": "RFP N6523626R3007",
     "solicitationNumber": "N6523626R3007",
     "type": "Solicitation",
     "baseType": "Solicitation",
     "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-03-24",
+    "postedDate": "2026-03-26",
     "responseDeadline": "2026-04-17T12:00:00-04:00",
     "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR LANT.NIWC ATLANTIC",
     "office": "",
@@ -1221,8 +1221,8 @@
       "zip": "29410"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/d0719bb1c98a4b71937d031621052420/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d0719bb1c98a4b71937d031621052420",
+      "uiLink": "https://sam.gov/workspace/contract/opp/e03db8e4dddb4de190980e3af5a09461/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e03db8e4dddb4de190980e3af5a09461",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24a5768cf7ae4c5abdf4f7121186c70b/download",
@@ -1230,8 +1230,8 @@
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9203737eeb0e4353b244e2ea357aa099/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"<p>Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***&nbsp;Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available.&nbsp; In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non...",
-    "descriptionFull": "{\"description\":\"<p>Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***&nbsp;Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available.&nbsp; In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non-Disclosure Agreement (NDA) (Attachment #17 NDA for CUI Attachments) for each individual requiring access to the non-public documents. To ensure a streamlined process, the Prime Offeror shall designate a single Point of Contact (POC) responsible for collecting all required Non-Disclosure Agreements (NDAs) from its team members and subcontractors. The POC will then submit the consolidated NDAs as a single, encrypted email package to the Contract Specialist, Jessica Meddick, at jessica.l.meddick.civ@us.navy.mil. The body of the submission email must clearly identify the full names of the individuals for whom NDAs are being submitted, specifying whether they are team members or subcontractors.The deadline for receipt of all NDAs is 12:00 p.m. Eastern Time on 25 March 2026. *** Q&amp;A doc has been added.&nbsp;</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non-Disclosure Ag...",
+    "descriptionFull": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non-Disclosure Agreement (NDA) (Attachment #17 NDA for CUI Attachments) for each individual requiring access to the non-public documents. To ensure a streamlined process, the Prime Offeror shall designate a single Point of Contact (POC) responsible for collecting all required Non-Disclosure Agreements (NDAs) from its team members and subcontractors. The POC will then submit the consolidated NDAs as a single, encrypted email package to the Contract Specialist, Jessica Meddick, at jessica.l.meddick.civ@us.navy.mil. The body of the submission email must clearly identify the full names of the individuals for whom NDAs are being submitted, specifying whether they are team members or subcontractors. The deadline for receipt of all NDAs is 12:00 p.m. Eastern Time on 25 March 2026. *** Amendment 0002 adds the following provisions to Section L: 252.215-7992, 252.215-7996, and 252.215-7994. The provisions are highlighted in Section L. \"}",
     "attachments": [
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24a5768cf7ae4c5abdf4f7121186c70b/download",
@@ -2775,76 +2775,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "96e1be96b369433ea543969c91f97bef",
-    "title": "NAVWAR HQ 1.0 Accounting Support Services",
-    "solicitationNumber": "N0003926RE019",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-02-23",
-    "responseDeadline": "2026-02-25T15:30:00-08:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "92110"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/96e1be96b369433ea543969c91f97bef/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=96e1be96b369433ea543969c91f97bef",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"The Department of the Navy (DON), Naval Information Warfare Systems Command (NAVWAR) Headquarter (HQ), Comptroller Directorate (Code 1.0) is acquiring accounting support services. NAVWAR 1.0 is responsible for the core comptroller functions for NAVWAR HQ; Program Executive Office (PEO); Command, Control, Communications, Computers and Intelligence (C4I); PEO-Enterprise Information Systems (EIS); PEO SPACE; Fleet Readiness Directorate (FRD); Joint Tactical Networking Center (JTNC); and NAVWAR Space Field Activity. The Comptroller functions include but are not limited to: managing and administering Travel, Payroll, Vendor Pay, Funds Control, Tri-Annual Review (TAR), General Ledger, and Budget Execution. The Contractor shall assist the Comptroller by providing managerial, ac...",
-    "descriptionFull": "{\"description\":\"The Department of the Navy (DON), Naval Information Warfare Systems Command (NAVWAR) Headquarter (HQ), Comptroller Directorate (Code 1.0) is acquiring accounting support services. NAVWAR 1.0 is responsible for the core comptroller functions for NAVWAR HQ; Program Executive Office (PEO); Command, Control, Communications, Computers and Intelligence (C4I); PEO-Enterprise Information Systems (EIS); PEO SPACE; Fleet Readiness Directorate (FRD); Joint Tactical Networking Center (JTNC); and NAVWAR Space Field Activity. The Comptroller functions include but are not limited to: managing and administering Travel, Payroll, Vendor Pay, Funds Control, Tri-Annual Review (TAR), General Ledger, and Budget Execution. The Contractor shall assist the Comptroller by providing managerial, accounting, budgeting, analytical, reconciliation and administrative support services in support of NAVWAR HQ and its PEO programs and acquisitions. This amendment provides additional questions and answers as well as the sample scenarios. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network",
-      "networking"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "network",
-        "networking"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "88f77352de214b44b2750a5e1369bdfe",
     "title": "Construction Inspection IDIQ",
     "solicitationNumber": "6982AF25R000016",
@@ -2915,7 +2845,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "636c5770903d493f9002e75ca24d84e3",
+    "noticeId": "8baecca2ad24485ca2659b7fbefe5482",
     "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
     "solicitationNumber": "75D30126Q78839",
     "type": "Combined Synopsis/Solicitation",
@@ -2923,8 +2853,8 @@
     "naicsCode": "518210",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-03-18",
-    "responseDeadline": "2026-03-26T12:00:00-04:00",
+    "postedDate": "2026-03-26",
+    "responseDeadline": "2026-03-30T12:00:00-04:00",
     "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.CENTERS FOR DISEASE CONTROL AND PREVENTION.CDC OFFICE OF ACQUISITION SERVICES",
     "office": "",
     "placeOfPerformance": {
@@ -2933,17 +2863,18 @@
       "zip": "30329"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/636c5770903d493f9002e75ca24d84e3/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=636c5770903d493f9002e75ca24d84e3",
+      "uiLink": "https://sam.gov/workspace/contract/opp/8baecca2ad24485ca2659b7fbefe5482/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8baecca2ad24485ca2659b7fbefe5482",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b1702ae871914624b882f3ecb20a282d/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3da2b603ab84ea2a2e79c6f54f12fd4/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f774ee7ab75d439f8938b6143feb9fa1/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f774ee7ab75d439f8938b6143feb9fa1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f8f5c4b69a3e49d38091b9a73ae89af0/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user sc...",
-    "descriptionFull": "{\"description\":\"<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transcribed by the system, and testing results are provided within minutes of completion of the test. OC UX staff can then focus their time on analysis of the results and making improvements to CDC&rsquo;s digital content as a result of the feedback. This would allow CDC to ensure its digital products and services meet user needs and provide OC UX staff data and insights to inform effective health communications across CDC&rsquo;s key audiences.</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"<p>Amendment 2 is being issued to extend the due date for quotes. The new due date is Monday, March 30, 2026 and the time they&#39;re due is 12:00 PM EDT. No other changes are being made to the solicitation.</p>\\n\\n<p></p>\\n\\n<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and inc...",
+    "descriptionFull": "{\"description\":\"<p>Amendment 2 is being issued to extend the due date for quotes. The new due date is Monday, March 30, 2026 and the time they&#39;re due is 12:00 PM EDT. No other changes are being made to the solicitation.</p>\\n\\n<p></p>\\n\\n<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and includes a combination of unmoderated short user tests, unmoderated standard user tests and moderated user tests with live participants recruited from the platform&rsquo;s Contributor Network.<br />\\nThe ability to record user screens along with capturing user comments and feedback on desktop or mobile devices prevents the OC UX staff from having to monitor each testing sessions. The feedback is rapidly transcribed by the system, and testing results are provided within minutes of completion of the test. OC UX staff can then focus their time on analysis of the results and making improvements to CDC&rsquo;s digital content as a result of the feedback. This would allow CDC to ensure its digital products and services meet user needs and provide OC UX staff data and insights to inform effective health communications across CDC&rsquo;s key audiences.</p>\\n\"}",
     "attachments": [
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b1702ae871914624b882f3ecb20a282d/download",
@@ -2961,6 +2892,12 @@
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f774ee7ab75d439f8938b6143feb9fa1/download",
         "contentType": "application/octet-stream",
         "byteSize": 152122,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f8f5c4b69a3e49d38091b9a73ae89af0/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 611633,
         "textSnippet": ""
       }
     ],
