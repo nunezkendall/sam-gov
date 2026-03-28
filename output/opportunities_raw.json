@@ -75,6 +75,72 @@
     ]
   },
   {
+    "noticeId": "6675d6fb274346a6a950eeb1e52a4704",
+    "title": "Data Migration RFI",
+    "solicitationNumber": "FA283426Q0001",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.PRESIDENTIAL AND EXECUTIVE AIRLIFT.FA2834  AFLCMC WV",
+    "fullParentPathCode": "057.5700.AFMC.AFLCMC.PEO-PE.FA2834",
+    "postedDate": "2026-03-27",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-11",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-26T16:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "7E20",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "landon.smith.13@us.af.mil",
+        "phone": null,
+        "title": null,
+        "fullName": "Capt Landon Smith"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6675d6fb274346a6a950eeb1e52a4704",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "01731-2100",
+      "city": "HANSCOM AFB",
+      "countryCode": "USA",
+      "state": "MA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "0",
+        "name": "Hanscom AFB"
+      },
+      "state": {
+        "code": "MA",
+        "name": "Massachusetts"
+      },
+      "zip": "01731",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/6675d6fb274346a6a950eeb1e52a4704/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=6675d6fb274346a6a950eeb1e52a4704&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download"
+    ]
+  },
+  {
     "noticeId": "b6fa59f9e5214e1a9c4eb3ceb08a408a",
     "title": "D--REDSKY E911 ANYWHERE LICENSING AND SUPPORT",
     "solicitationNumber": "89503226QWA000714",
@@ -956,102 +1022,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "d36127e727f841649e01d50a86bc1033",
-    "title": "JOPES/TransViz",
-    "solicitationNumber": "HTC711-26-F-E167",
-    "fullParentPathName": "DEPT OF DEFENSE.US TRANSPORTATION COMMAND (USTRANSCOM).USTRANSCOM-AQ",
-    "fullParentPathCode": "097.9776.HTC711",
-    "postedDate": "2026-03-12",
-    "type": "Award Notice",
-    "baseType": "Award Notice",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-27",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": null,
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "DA01",
-    "active": "Yes",
-    "award": {
-      "date": "2026-03-12",
-      "number": "GS35F118BA",
-      "amount": "5659048.50",
-      "awardee": {
-        "name": "TRILLION TECHNOLOGY SOLUTIONS INC",
-        "location": {
-          "city": {
-            "code": "66672",
-            "name": "Reston"
-          },
-          "state": {
-            "code": "VA",
-            "name": "Virginia"
-          },
-          "zip": "20191",
-          "country": {
-            "code": "USA",
-            "name": "UNITED STATES"
-          }
-        },
-        "ueiSAM": "JL52GGBB7YE5",
-        "cageCode": "54PR6"
-      }
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "natascha.n.wolman.civ@mail.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Natascha N. Wolman"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "tian.v.wylie.mil@mail.mil",
-        "phone": "6188170869",
-        "title": null,
-        "fullName": "Tian Wylie"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d36127e727f841649e01d50a86bc1033",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "62225-5357",
-      "city": "SCOTT AFB",
-      "countryCode": "USA",
-      "state": "IL"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "68328",
-        "name": "Scott Air Force Base"
-      },
-      "state": {
-        "code": "IL",
-        "name": "Illinois"
-      },
-      "zip": "62225",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/d36127e727f841649e01d50a86bc1033/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d36127e727f841649e01d50a86bc1033&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
     "noticeId": "5b17357dc69943ef9e39e37b800b39a7",
     "title": "DG10--RFI to SAM.gov -- Medialab Maint. Of Cert & Reg Compliance  Software.",
     "solicitationNumber": "36C24126Q0329",
@@ -1197,73 +1167,6 @@
     ]
   },
   {
-    "noticeId": "ba06b944745c4d94b58798a9238bfafc",
-    "title": "Pyxis Anesthesia ES Equipment",
-    "solicitationNumber": "36C25526Q0242",
-    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.255-NETWORK CONTRACT OFFICE 15 (36C255)",
-    "fullParentPathCode": "036.3600.36C255",
-    "postedDate": "2026-03-05",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-27",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-12T11:00:00-05:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "6515",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "veronica.flores@va.gov",
-        "phone": "",
-        "title": null,
-        "fullName": "Betty Flores"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ba06b944745c4d94b58798a9238bfafc",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "66048",
-      "city": "LEAVENWORTH",
-      "countryCode": "USA",
-      "state": "KS"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "11242",
-        "name": "Cape Girardeau"
-      },
-      "state": {
-        "code": "MO",
-        "name": "Missouri"
-      },
-      "zip": "63703",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/ba06b944745c4d94b58798a9238bfafc/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ba06b944745c4d94b58798a9238bfafc&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bd39feec994b493582021d245c773ef0/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d9af90caeeef4778b0cc10c02b82ed93/download"
-    ]
-  },
-  {
     "noticeId": "ea34e11d44014c48be1675fbb7d21681",
     "title": "FY25 OPM OIG Net Licenses",
     "solicitationNumber": "OPM03022026",
@@ -1397,133 +1300,6 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2b3600bda1d24d84834f5c0062636df4/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fad680a391ce49019fc2e594ce08fd47/download"
-    ]
-  },
-  {
-    "noticeId": "ed53e2a7b5e741fba9236ea451e64751",
-    "title": "DELL Laptops",
-    "solicitationNumber": "N6426726Q4018",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
-    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N64267",
-    "postedDate": "2026-02-26",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-27",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-12T17:00:00-07:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "7B20",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "julia.m.hunt3.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Julia Hunt"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ed53e2a7b5e741fba9236ea451e64751",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "92860",
-      "city": "NORCO",
-      "countryCode": "USA",
-      "state": "CA"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "51560",
-        "name": "Norco"
-      },
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "92860",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/ed53e2a7b5e741fba9236ea451e64751/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ed53e2a7b5e741fba9236ea451e64751&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/90446f1ab5eb4194aadf2b3ac9f9e9b8/download"
-    ]
-  },
-  {
-    "noticeId": "09ee5cd2f30142bf9eeb6ac46fa0d5c2",
-    "title": "Atlassian Project Configurator Software Renewal",
-    "solicitationNumber": "70Z03826QM0000010",
-    "fullParentPathName": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.AVIATION LOGISTICS CENTER (ALC)(00038)",
-    "fullParentPathCode": "070.7008.70Z038",
-    "postedDate": "2026-02-25",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-04-02",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-02T12:00:00-05:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "7A21",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "jeremy.a.wood@uscg.mil",
-        "phone": "2068204324",
-        "title": null,
-        "fullName": "Jeremy A. Wood"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "Marina.E.Decker@uscg.mil",
-        "phone": "2523847486",
-        "title": null,
-        "fullName": "Marina Decker"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=09ee5cd2f30142bf9eeb6ac46fa0d5c2",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "27909",
-      "city": "Elizabeth City",
-      "countryCode": "USA",
-      "state": "NC"
-    },
-    "placeOfPerformance": null,
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/09ee5cd2f30142bf9eeb6ac46fa0d5c2/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=09ee5cd2f30142bf9eeb6ac46fa0d5c2&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9843b3edbcb24e26837b6759878be267/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eb546af5a1a643ed87de5f0f8b2b7f17/download"
     ]
   },
   {
@@ -3525,6 +3301,67 @@
     "resourceLinks": null
   },
   {
+    "noticeId": "9176ee94b56740bdb9b5a76b16762391",
+    "title": "Seaport NxG - N6600126R3505 Tactical Data Links ",
+    "solicitationNumber": "N6600126R3505",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "fullParentPathCode": "017.1700.SPAWAR.SPAWAR PACIFIC.N66001",
+    "postedDate": "2026-03-27",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-04-03",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-03T12:00:00-07:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "L059",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "claudia.c.carvajal.civ@us.navy.mil",
+        "phone": "619-553-1248",
+        "title": null,
+        "fullName": "Claudia Carvajal"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "aica.m.dizon.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Aica Dizon"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9176ee94b56740bdb9b5a76b16762391",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "92152-5001",
+      "city": "SAN DIEGO",
+      "countryCode": "USA",
+      "state": "CA"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "53560 HULL STREET, SAN DIEGO CA 92152-5001",
+      "zip": "92152"
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/9176ee94b56740bdb9b5a76b16762391/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=9176ee94b56740bdb9b5a76b16762391&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
     "noticeId": "e03db8e4dddb4de190980e3af5a09461",
     "title": "RFP N6523626R3007",
     "solicitationNumber": "N6523626R3007",
@@ -4946,101 +4783,6 @@
     ]
   },
   {
-    "noticeId": "5d162267195e4f458228f188b6cca15d",
-    "title": "Highway Infrastructure Engineering and Research  Data Services (HIERD)",
-    "solicitationNumber": "693JJ326R000001",
-    "fullParentPathName": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT",
-    "fullParentPathCode": "069.6925.693JJ3",
-    "postedDate": "2026-03-17",
-    "type": "Award Notice",
-    "baseType": "Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-03-28",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": null,
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "AS12",
-    "active": "Yes",
-    "award": {
-      "date": "2026-03-13",
-      "number": "693JJ326D000008",
-      "amount": "8000000.00",
-      "awardee": {
-        "name": "IENGINEERING CORPORATION",
-        "location": {
-          "city": {
-            "code": "14744",
-            "name": "Chantilly"
-          },
-          "state": {
-            "code": "VA",
-            "name": "Virginia"
-          },
-          "zip": "20152",
-          "country": {
-            "code": "USA",
-            "name": "UNITED STATES"
-          }
-        },
-        "ueiSAM": "HLT8L7ABKBR3",
-        "cageCode": "3V5Q2"
-      }
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "tamiko.aikens@dot.gov",
-        "phone": "",
-        "title": null,
-        "fullName": "Tamiko Aikens"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "Bob.P.Brown@dot.gov",
-        "phone": "",
-        "title": null,
-        "fullName": "Bob Brown"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5d162267195e4f458228f188b6cca15d",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20590",
-      "city": "WASHINGTON",
-      "countryCode": "USA",
-      "state": "DC"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "48376",
-        "name": "Mc Lean"
-      },
-      "state": {
-        "code": "VA",
-        "name": "Virginia"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5d162267195e4f458228f188b6cca15d/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5d162267195e4f458228f188b6cca15d&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
     "noticeId": "7a224b56e69645fdb5ea999f287d6820",
     "title": "Upper Wing and Elevon Heater Carriage Hardware",
     "solicitationNumber": "80NSSC26927176Q",
@@ -6253,8 +5995,8 @@
     ]
   },
   {
-    "noticeId": "5137c33d30864f7c97020a197e21706b",
-    "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Science",
+    "noticeId": "4a962a63d536421abe3570617fb3aea3",
+    "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Sciences",
     "solicitationNumber": "AP4050",
     "fullParentPathName": "EDUCATION, DEPARTMENT OF.EDUCATION, DEPARTMENT OF.CONTRACTS AND ACQUISTIONS MANAGEMEN",
     "fullParentPathCode": "091.9100.919900",
@@ -6283,7 +6025,7 @@
         "fullName": "Tracey Perry"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5137c33d30864f7c97020a197e21706b",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4a962a63d536421abe3570617fb3aea3",
     "organizationType": "OFFICE",
     "officeAddress": {
       "zipcode": "20202",
@@ -6307,16 +6049,16 @@
       }
     },
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5137c33d30864f7c97020a197e21706b/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/4a962a63d536421abe3570617fb3aea3/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5137c33d30864f7c97020a197e21706b&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=4a962a63d536421abe3570617fb3aea3&limit=1"
       }
     ],
     "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf55cef97d8e4153a2fc1a60fa469ef7/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e26bbc57500b44c3bb136957fe75fa6c/download"
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/895f12fc034946749c05a94b03c367e0/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf55cef97d8e4153a2fc1a60fa469ef7/download"
     ]
   },
   {

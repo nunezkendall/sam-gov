@@ -1,5 +1,82 @@
 [
   {
+    "noticeId": "6675d6fb274346a6a950eeb1e52a4704",
+    "title": "Data Migration RFI",
+    "solicitationNumber": "FA283426Q0001",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-27",
+    "responseDeadline": "2026-04-26T16:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.PRESIDENTIAL AND EXECUTIVE AIRLIFT.FA2834  AFLCMC WV",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Hanscom AFB",
+      "state": "Massachusetts",
+      "zip": "01731"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/6675d6fb274346a6a950eeb1e52a4704/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6675d6fb274346a6a950eeb1e52a4704",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 41050,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "migration"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "migration"
+      ],
+      "description": [
+        "migration"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Massachusetts"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "450c5091865141f0a18cd5087795f69f",
     "title": "Intelligence and Automation Operations",
     "solicitationNumber": "W50NH9-26-R-A002",
@@ -3095,8 +3172,8 @@
     "updatedDate": null
   },
   {
-    "noticeId": "5137c33d30864f7c97020a197e21706b",
-    "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Science",
+    "noticeId": "4a962a63d536421abe3570617fb3aea3",
+    "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Sciences",
     "solicitationNumber": "AP4050",
     "type": "Sources Sought",
     "baseType": "Sources Sought",
@@ -3113,27 +3190,27 @@
       "zip": "20202"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5137c33d30864f7c97020a197e21706b/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5137c33d30864f7c97020a197e21706b",
+      "uiLink": "https://sam.gov/workspace/contract/opp/4a962a63d536421abe3570617fb3aea3/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4a962a63d536421abe3570617fb3aea3",
       "additionalInfoLink": null,
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf55cef97d8e4153a2fc1a60fa469ef7/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e26bbc57500b44c3bb136957fe75fa6c/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/895f12fc034946749c05a94b03c367e0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf55cef97d8e4153a2fc1a60fa469ef7/download"
       ]
     },
     "descriptionSnippet": "{\"description\":\"<p>The Institute of Education Sciences (IES) plans to award a new task order for support of its web operations by providing cloud hosting, system administration, and website administration and critical feature development, and user, staff and developer support. IES currently maintains a virtual data center hosted in Amazon Web Services (AWS). The primary function of the data center is to host survey collection and dissemination websites in support of IES&rsquo; mission. This includes web servers, database servers, a vast array of websites and data driven web applications, a system management and web development environment, terminal servers housing analytical and statistical software, and other system support servers.</p>\\n\"}",
     "descriptionFull": "{\"description\":\"<p>The Institute of Education Sciences (IES) plans to award a new task order for support of its web operations by providing cloud hosting, system administration, and website administration and critical feature development, and user, staff and developer support. IES currently maintains a virtual data center hosted in Amazon Web Services (AWS). The primary function of the data center is to host survey collection and dissemination websites in support of IES&rsquo; mission. This includes web servers, database servers, a vast array of websites and data driven web applications, a system management and web development environment, terminal servers housing analytical and statistical software, and other system support servers.</p>\\n\"}",
     "attachments": [
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf55cef97d8e4153a2fc1a60fa469ef7/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/895f12fc034946749c05a94b03c367e0/download",
         "contentType": "application/octet-stream",
-        "byteSize": 107155,
+        "byteSize": 72387,
         "textSnippet": ""
       },
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e26bbc57500b44c3bb136957fe75fa6c/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf55cef97d8e4153a2fc1a60fa469ef7/download",
         "contentType": "application/octet-stream",
-        "byteSize": 77371,
+        "byteSize": 107155,
         "textSnippet": ""
       }
     ],
