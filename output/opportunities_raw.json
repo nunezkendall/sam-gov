@@ -5693,67 +5693,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "51ce885f838a4c3da989c14dd7507d7a",
-    "title": "CANES Tactical Networks Market Survey",
-    "solicitationNumber": "N66604-26-R-3000-MS1",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NUWC DIV NEWPORT",
-    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N66604",
-    "postedDate": "2026-02-26",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "autocustom",
-    "archiveDate": "2027-02-26",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-04T14:00:00-05:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "DG10",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "zachary.g.silveira.civ@us.navy.mil",
-        "phone": "4018325760",
-        "title": null,
-        "fullName": "Zachary Silveira"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "renee.m.thiboutot.civ@us.navy.mil",
-        "phone": "(401) 832-7413",
-        "title": null,
-        "fullName": "Renee Thiboutot"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=51ce885f838a4c3da989c14dd7507d7a",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "02841-1703",
-      "city": "NEWPORT",
-      "countryCode": "USA",
-      "state": "RI"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "",
-      "zip": ""
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/51ce885f838a4c3da989c14dd7507d7a/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=51ce885f838a4c3da989c14dd7507d7a&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
     "noticeId": "be9f1792c7bf4829b0687e44bfb58411",
     "title": "Synopsis ",
     "solicitationNumber": "FA8903-26-R-0011",
@@ -6326,58 +6265,5 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0c39ab927c64278a50e1e95b12c8a32/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f55a21f434264fc6b86d7b65c6f59f2c/download"
     ]
-  },
-  {
-    "noticeId": "dc85330c80444805952044e6fb35277a",
-    "title": "A/V Support Services in Support of USAR-LC",
-    "solicitationNumber": "W15QKN26RA023",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-PICA",
-    "fullParentPathCode": "021.2100.AMC.ACC.ACC-CTRS.ACC-NJ.W15QKN",
-    "postedDate": "2026-02-26",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2027-02-26",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-02-26T12:00:00-05:00",
-    "naicsCode": "518210",
-    "naicsCodes": [
-      "518210"
-    ],
-    "classificationCode": "R426",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "bryan.e.thompson20.civ@army.mil",
-        "phone": "5206875375",
-        "title": null,
-        "fullName": "Bryan Thompson"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=dc85330c80444805952044e6fb35277a",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "07806-5000",
-      "city": "PICATINNY ARSENAL",
-      "countryCode": "USA",
-      "state": "NJ"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "",
-      "zip": ""
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/dc85330c80444805952044e6fb35277a/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=dc85330c80444805952044e6fb35277a&limit=1"
-      }
-    ],
-    "resourceLinks": null
   }
 ]
