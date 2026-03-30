@@ -1,5 +1,80 @@
 [
   {
+    "noticeId": "281814aa00374bb9a120238875d6084f",
+    "title": "MSHA MIMMS Software and Maintenance",
+    "solicitationNumber": "1605TB-26-Q-00033",
+    "fullParentPathName": "LABOR, DEPARTMENT OF.OFFICE OF THE ASSISTANT SECRETARY FOR ADMINISTRATION AND MANAGEMENT.DOL-ITAS DIVISION B PROCUREMENT",
+    "fullParentPathCode": "016.1605.1605TB",
+    "postedDate": "2026-03-30",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-14",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-03-30T19:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "DA10",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "Santamaria.Jorge.E@dol.gov",
+        "phone": null,
+        "title": null,
+        "fullName": "Jorge Santamaria"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "McKeever.Jennifer@dol.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Jennifer McKeever"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=281814aa00374bb9a120238875d6084f",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20210",
+      "city": "WASHINGTON",
+      "countryCode": "USA",
+      "state": "DC"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "80932",
+        "name": "Triadelphia"
+      },
+      "state": {
+        "code": "WV",
+        "name": "West Virginia"
+      },
+      "zip": "26059",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/281814aa00374bb9a120238875d6084f/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=281814aa00374bb9a120238875d6084f&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/49f3520b9ab8491aacb6c48c46e6f5c0/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a44c7bb0b4e34365b647198caeee1074/download"
+    ]
+  },
+  {
     "noticeId": "fc61e4ef450a46cfbbc07faed27dfb29",
     "title": "Automated Flight Scheduling Software",
     "solicitationNumber": "F3G5GA6013A003",
@@ -193,80 +268,6 @@
       }
     ],
     "resourceLinks": null
-  },
-  {
-    "noticeId": "d2cc928cd1a34879891aee102386dda8",
-    "title": "MSHA MIMMS Software and Maintenance",
-    "solicitationNumber": "1605TB-26-Q-00033",
-    "fullParentPathName": "LABOR, DEPARTMENT OF.OFFICE OF THE ASSISTANT SECRETARY FOR ADMINISTRATION AND MANAGEMENT.DOL-ITAS DIVISION B PROCUREMENT",
-    "fullParentPathCode": "016.1605.1605TB",
-    "postedDate": "2026-03-25",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-14",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-30T13:00:00-04:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "DA10",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "Santamaria.Jorge.E@dol.gov",
-        "phone": null,
-        "title": null,
-        "fullName": "Jorge Santamaria"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "McKeever.Jennifer@dol.gov",
-        "phone": "",
-        "title": null,
-        "fullName": "Jennifer McKeever"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d2cc928cd1a34879891aee102386dda8",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20210",
-      "city": "WASHINGTON",
-      "countryCode": "USA",
-      "state": "DC"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "80932",
-        "name": "Triadelphia"
-      },
-      "state": {
-        "code": "WV",
-        "name": "West Virginia"
-      },
-      "zip": "26059",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/d2cc928cd1a34879891aee102386dda8/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d2cc928cd1a34879891aee102386dda8&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a44c7bb0b4e34365b647198caeee1074/download"
-    ]
   },
   {
     "noticeId": "b9dc724635ee4219be2bb53273b1dee6",
@@ -1230,76 +1231,6 @@
     ],
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/77376a9abf464031ac93d66e24bb4412/download"
-    ]
-  },
-  {
-    "noticeId": "260b4a420e1b4a28bf1f5d8d1f07a152",
-    "title": "DA10--Brand Name DSS PREFERENCE CARDS",
-    "solicitationNumber": "36C10B26Q0223",
-    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
-    "fullParentPathCode": "036.3600.36C10B",
-    "postedDate": "2026-02-27",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-04-03",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-04T12:00:00-05:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "DA10",
-    "active": "Yes",
-    "award": {
-      "awardee": {}
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "belinda.espindola@va.gov",
-        "phone": "848-377-5129",
-        "title": "Contract Specialist",
-        "fullName": "Belinda Espindola"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=260b4a420e1b4a28bf1f5d8d1f07a152",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "07724",
-      "city": "EATONTOWN",
-      "countryCode": "USA",
-      "state": "NJ"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "James J. Peters VA Medical Center 130 West Kingsbridge Road",
-      "streetAddress2": "",
-      "city": {
-        "name": "Bronx"
-      },
-      "state": {
-        "code": "NY",
-        "name": "New York"
-      },
-      "zip": "10468",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/260b4a420e1b4a28bf1f5d8d1f07a152/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=260b4a420e1b4a28bf1f5d8d1f07a152&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2b3600bda1d24d84834f5c0062636df4/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fad680a391ce49019fc2e594ce08fd47/download"
     ]
   },
   {
@@ -2476,59 +2407,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "909c17a4346c4ae189e1ddd7a782fc68",
-    "title": "Construction Cost Estimating Book",
-    "solicitationNumber": "W911S226QA007",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "fullParentPathCode": "021.2100.AMC.ACC.MICC.419TH CSB.W911S2",
-    "postedDate": "2026-02-27",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2027-02-27",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-06T13:00:00-05:00",
-    "naicsCode": "541511",
-    "naicsCodes": [
-      "541511"
-    ],
-    "classificationCode": "7A21",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "cody.a.bresette.civ@army.mil",
-        "phone": "3157723397",
-        "title": null,
-        "fullName": "Cody Bresette"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=909c17a4346c4ae189e1ddd7a782fc68",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "13602-5220",
-      "city": "FORT DRUM",
-      "countryCode": "USA",
-      "state": "NY"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "",
-      "zip": "13602"
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/909c17a4346c4ae189e1ddd7a782fc68/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=909c17a4346c4ae189e1ddd7a782fc68&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
     "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
     "title": "Iron Bank Container Analysis Requirement",
     "solicitationNumber": "IronBankCAT",
@@ -2598,6 +2476,83 @@
       }
     ],
     "resourceLinks": null
+  },
+  {
+    "noticeId": "bf6f8cd51bc64abab9c90178c5277d16",
+    "title": "R425 - Specialized Technical and Analytical Support Services in Support of ASN (EI&E)",
+    "solicitationNumber": "N0018926BR005",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+    "fullParentPathCode": "017.1700.NAVSUP.NAVSUP GLS.NAVSUP FLC NORFOLK.N00189",
+    "postedDate": "2026-03-30",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-18",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-03T10:00:00-04:00",
+    "naicsCode": "541690",
+    "naicsCodes": [
+      "541690"
+    ],
+    "classificationCode": "R425",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "shanna.c.harris.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Shanna Harris"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bf6f8cd51bc64abab9c90178c5277d16",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "23511-3392",
+      "city": "NORFOLK",
+      "countryCode": "USA",
+      "state": "VA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "50000",
+        "name": "Washington"
+      },
+      "state": {
+        "code": "DC",
+        "name": "District of Columbia"
+      },
+      "zip": "20350",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/bf6f8cd51bc64abab9c90178c5277d16/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=bf6f8cd51bc64abab9c90178c5277d16&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0b892fce5c16453facb492ffe997c7fc/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0bbc8fa970d04733ba775deab6a2a370/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16885d5bad2b40fdbcf7aec5162bd858/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/42e4d77324804c90bfebab40704848e1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/51ff2bfe2f8b4cfda9c2449d95585064/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b2e36c0018a4328ae65251a2ddfdc0a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b92774be74f4965aa6d6dce4136ab96/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87455567c097483a8cac12fdab9f9b19/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9232d1ef5e6e467ca4d06e944178f94d/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a80676d1a9164a5c98398a8257528013/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ba5f6772ea83461183b3892f347d61ae/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f660bb515158478b917ee3a9b5b4e753/download"
+    ]
   },
   {
     "noticeId": "bed3580b4fa54bd1acfba88ed3ee9c53",
@@ -3022,81 +2977,6 @@
       }
     ],
     "resourceLinks": null
-  },
-  {
-    "noticeId": "058246acc5604bde9d9c3825e771ee48",
-    "title": "R425 - Specialized Technical and Analytical Support Services in Support of ASN (EI&E)",
-    "solicitationNumber": "N0018926BR005",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
-    "fullParentPathCode": "017.1700.NAVSUP.NAVSUP GLS.NAVSUP FLC NORFOLK.N00189",
-    "postedDate": "2026-03-18",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-18",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-03T10:00:00-04:00",
-    "naicsCode": "541690",
-    "naicsCodes": [
-      "541690"
-    ],
-    "classificationCode": "R425",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "shanna.c.harris.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Shanna Harris"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=058246acc5604bde9d9c3825e771ee48",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "23511-3392",
-      "city": "NORFOLK",
-      "countryCode": "USA",
-      "state": "VA"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "50000",
-        "name": "Washington"
-      },
-      "state": {
-        "code": "DC",
-        "name": "District of Columbia"
-      },
-      "zip": "20350",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/058246acc5604bde9d9c3825e771ee48/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=058246acc5604bde9d9c3825e771ee48&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0bbc8fa970d04733ba775deab6a2a370/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16885d5bad2b40fdbcf7aec5162bd858/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/51ff2bfe2f8b4cfda9c2449d95585064/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b2e36c0018a4328ae65251a2ddfdc0a/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b92774be74f4965aa6d6dce4136ab96/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9232d1ef5e6e467ca4d06e944178f94d/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a80676d1a9164a5c98398a8257528013/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ba5f6772ea83461183b3892f347d61ae/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c48a331c491b4e07bd44c7278720c185/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f660bb515158478b917ee3a9b5b4e753/download"
-    ]
   },
   {
     "noticeId": "bf17aa33b2f5402c88da46e66c8686ac",
@@ -5630,67 +5510,6 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d8babfdd07154b178c751c685d414282/download"
     ]
-  },
-  {
-    "noticeId": "e73f5fe650384121a082c4850475a799",
-    "title": "Multiple Award Task Order Contract for Architect-Engineering (A-E) Services for FSRM and MILCON Title I and Title II projects at Andersen AFB (AE25GUAM)",
-    "solicitationNumber": "FA890326R0014",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
-    "fullParentPathCode": "057.5700.AFMC.AFIMSC-AFICC.FA8903",
-    "postedDate": "2026-02-27",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2027-02-27",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-02T14:00:00-06:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C211",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "samuel.mendez@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Samuel Mendez, Contracting Officer"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "jean.stevens.1@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Jean Stevens, Contract Specialist"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e73f5fe650384121a082c4850475a799",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "78236-9861",
-      "city": "JBSA LACKLAND",
-      "countryCode": "USA",
-      "state": "TX"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "ANDERSEN AIR FORCE BASE, GUAM",
-      "zip": ""
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/e73f5fe650384121a082c4850475a799/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e73f5fe650384121a082c4850475a799&limit=1"
-      }
-    ],
-    "resourceLinks": null
   },
   {
     "noticeId": "be9f1792c7bf4829b0687e44bfb58411",
