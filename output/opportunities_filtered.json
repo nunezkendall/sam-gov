@@ -1,5 +1,71 @@
 [
   {
+    "noticeId": "03bca6ce2bb54104a50f55d8ed32331e",
+    "title": "HURREVAC and RtePM - Operations and Maintenance (O and M)",
+    "solicitationNumber": "W912DR26RA029",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-30",
+    "responseDeadline": "2026-04-15T13:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "21201"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/03bca6ce2bb54104a50f55d8ed32331e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=03bca6ce2bb54104a50f55d8ed32331e",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"This is an operations, maintenance, and development of HURREVAC (HURRicane EVACuation) program and its sub-component (i.e., Real Time Evacuation Planning Model RteP]). This will be a Firm Fixed Price Contract with a three (3) year period of performance. Solicitation will be posted to SAM.gov on or about 15 April 2026 at 1300 est. \"}",
+    "descriptionFull": "{\"description\":\"This is an operations, maintenance, and development of HURREVAC (HURRicane EVACuation) program and its sub-component (i.e., Real Time Evacuation Planning Model RteP]). This will be a Firm Fixed Price Contract with a three (3) year period of performance. Solicitation will be posted to SAM.gov on or about 15 April 2026 at 1300 est.  \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "6675d6fb274346a6a950eeb1e52a4704",
     "title": "Data Migration RFI",
     "solicitationNumber": "FA283426Q0001",
@@ -846,6 +912,72 @@
     "updatedDate": null
   },
   {
+    "noticeId": "f96527e55d89471788a0d1da6f6f0b6f",
+    "title": "Office of Head Start Monitoring Support - Aligned Monitoring System 2.0 \u2013 Digital Strategy",
+    "solicitationNumber": "GS35F284CA-7571MN26F80017",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541511",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-31",
+    "responseDeadline": "",
+    "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "zip": "21230"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/f96527e55d89471788a0d1da6f6f0b6f/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f96527e55d89471788a0d1da6f6f0b6f",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The purpose of this special notice is to notify industry of the transfer of Department of the Interior (DOI) Contract Number 140D0425F0866, awarded to Arch Systems, LLC on March 26, 2026, to the Department of Health and Human Services (HHS) under new Task Order Number GS35F284CA/7571MN26F80017, effective March 29, 2026.</p>\\n\\n<p>All terms and conditions of the original contract remain unchanged, including:</p>\\n\\n<p>-Ultimate Contract Value</p>\\n\\n<p>-Period of Performance</p>\\n\\n<p>This administrative transfer does not alter the scope of work, deliverables, or any other contractual obligations.&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The purpose of this special notice is to notify industry of the transfer of Department of the Interior (DOI) Contract Number 140D0425F0866, awarded to Arch Systems, LLC on March 26, 2026, to the Department of Health and Human Services (HHS) under new Task Order Number GS35F284CA/7571MN26F80017, effective March 29, 2026.</p>\\n\\n<p>All terms and conditions of the original contract remain unchanged, including:</p>\\n\\n<p>-Ultimate Contract Value</p>\\n\\n<p>-Period of Performance</p>\\n\\n<p>This administrative transfer does not alter the scope of work, deliverables, or any other contractual obligations.&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "Monitoring"
+      ],
+      "description": []
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "44aca020492f472aa4c2df915c3264f4",
     "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers  AMENDMENT",
     "solicitationNumber": "36C24526Q0376",
@@ -1380,6 +1512,151 @@
     "brandNameLikely": false,
     "brandNameIndicators": [],
     "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "62592bca5ddb4acd89638dee4092c9b4",
+    "title": "The Radford Army Ammunition Plant (RFAAP) Acid Farm Storage Tanks",
+    "solicitationNumber": "W911S226RA004",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-31",
+    "responseDeadline": "2026-04-30T15:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "24141"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/62592bca5ddb4acd89638dee4092c9b4/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=62592bca5ddb4acd89638dee4092c9b4",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"This is an A-E Synopsis in accordance with FAR 36.102. The Mission and Installation Contracting Command - Fort Drum is procuring Architect-Engineer (A-E) Design Services for the Acid Farm storage tanks at the Radford Army Ammunition Plant (RFAAP). This procurement is conducted under the Brooks Architect-Engineer Act (40 U.S.C Section 1102) and Far subpart 36.102, which require that A-E contracts be negotiated on the basis of demonstrated competence and qualifications for the required professional services. The selected A-E firm will provide design services for a modernized Acid Tank Farm capable of supporting capacity requirements of the modernized Nitric Acid Concentrator/Sulfuric Acid Concentrator (NAC/SAC), Modernized Nitrocellulose (MNC) production facility, and the ...",
+    "descriptionFull": "{\"description\":\"This is an A-E Synopsis in accordance with FAR 36.102. The Mission and Installation Contracting Command - Fort Drum is procuring Architect-Engineer (A-E) Design Services for the Acid Farm storage tanks at the Radford Army Ammunition Plant (RFAAP).  This procurement is conducted under the Brooks Architect-Engineer Act (40 U.S.C Section 1102) and Far subpart 36.102, which require that A-E contracts be negotiated on the basis of demonstrated competence and qualifications for the required professional services. The selected A-E firm will provide design services for a modernized Acid Tank Farm capable of supporting capacity requirements of the modernized Nitric Acid Concentrator/Sulfuric Acid Concentrator (NAC/SAC), Modernized Nitrocellulose (MNC) production facility, and the Legacy Nitroglycerin Production Facility (NG-2) at (RFAAP). \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "1680aa0b6045438b938f4c19e77c7dca",
+    "title": "NUWC Division Keyport 2MMTR Services",
+    "solicitationNumber": "N6572626R3101",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-03-30",
+    "responseDeadline": "2026-04-14T15:30:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVSEALOGCENKYPTDIVNUWC  MECH PA",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Norfolk",
+      "state": "Virginia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/1680aa0b6045438b938f4c19e77c7dca/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1680aa0b6045438b938f4c19e77c7dca",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8571dfdcf50c49e29dc6e9176424bc27/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>Naval Undersea Warfare Center (NUWC) Keyport </strong></p>\\n\\n<p><strong>Miniature Microminiature/Module Test &amp; Repair ISEA Services </strong></p>\\n\\n<p><strong>N6572626R3101</strong></p>\\n\\n<p><strong>***This advance notice is for SEAPORT NXG MAC HOLDERS ONLY and is a SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***.</strong></p>\\n\\n<p>Naval Sea Logistics Center (NAVSEALOGCEN) intends to solicit a SeaPort-NxG task order to provide engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Governmen...",
+    "descriptionFull": "{\"description\":\"<p><strong>Naval Undersea Warfare Center (NUWC) Keyport </strong></p>\\n\\n<p><strong>Miniature Microminiature/Module Test &amp; Repair ISEA Services </strong></p>\\n\\n<p><strong>N6572626R3101</strong></p>\\n\\n<p><strong>***This advance notice is for SEAPORT NXG MAC HOLDERS ONLY and is a SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***.</strong></p>\\n\\n<p>Naval Sea Logistics Center (NAVSEALOGCEN) intends to solicit a SeaPort-NxG task order to provide engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Government electronic and electrical systems. The solicitation for this requirement will be posted in the Procurement Integrated Enterprise Environment (PIEE) Solicitation Module and publicized via SAM.gov.</p>\\n\\n<p>A SeaPort-NxG Sources Sought notice was issued in the SeaPort portal on 26 January 2026 for this requirement entitled, &ldquo;2MMTR FOLLOW ON.&rdquo; Based on the responses received, NAVSEALOGCEN intends to issue this solicitation as a SeaPort NxG Small Business set-aside.&nbsp;</p>\\n\\n<p><em><u>NOTE</u></em><em>:&nbsp; To be eligible as a SeaPort-NxG Small Business during the competitive ordering process, the Prime&rsquo;s basic SeaPort NxG contract must reflect a Small Business </em><em>wi</em><em>thin the System for Award Management (SAM)</em><em> at the time of proposal submission.</em></p>\\n\\n<p>This notice also provides a draft Performance Work Statement (PWS) for the upcoming task order solicitation. The draft PWS is being released to solicit comments and questions from interested parties.&nbsp;</p>\\n\\n<p>Interested parties/potential offerors are encouraged to respond to this Advance Notice with questions and comments as soon as possible in order to allow for review prior to release of the solicitation.&nbsp; Questions and answers shall be submitted by email to marisa.n.wirfel.civ@us.navy.mil and cody.d.hutchinson.civ@us.navy.mil.&nbsp; Note that questions/comments submitted in response to this draft PWS may not receive a response; however, all questions and comments will be reviewed by the Government to assist in identifying revisions that may be incorporated in the PWS.</p>\\n\\n<p>The resulting task order is anticipated to be a level of effort task order issued on a Cost-Plus-Fixed-Fee (CPFF) basis.&nbsp; It is anticipated that award of the task order will be made on a best value basis to the Government, and a trade-off analysis will be performed taking into consideration technical capability, past performance, and evaluated cost / price.&nbsp; The solicitation is anticipated to include a one-year Base Period and four (4) one-year Option Periods.</p>\\n\\n<p>The incumbent contractor currently providing the support services for this requirement is Engineering Services Network under SeaPort-NxG task order N00178-19-D-7599/N6660422F3006.</p>\\n\\n<p>NAVSEALOGCEN anticipates procurement milestones to occur on or around the following dates:</p>\\n\\n<p>Solicitation Issued: April 2026</p>\\n\\n<p>Proposals Due: May 2026</p>\\n\\n<p>Task Order Award: August 2026</p>\\n\\n<p>Task Order Start: October 2026</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8571dfdcf50c49e29dc6e9176424bc27/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 115712,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
     "scopeRisk": false,
     "workModeNotes": {
       "onsiteRequired": false,
