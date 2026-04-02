@@ -1419,6 +1419,315 @@
     "updatedDate": null
   },
   {
+    "noticeId": "e4a5e58a5f1841babc75d68218752f84",
+    "title": "Personnel Administration Services",
+    "solicitationNumber": "N4658126PRFA038",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-02",
+    "responseDeadline": "2026-04-09T12:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Norfolk",
+      "state": "Virginia",
+      "zip": "23511"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/e4a5e58a5f1841babc75d68218752f84/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e4a5e58a5f1841babc75d68218752f84",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7d19b09d799345888180c4560d4b5b0a/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***Note: This opportunity will be restricted to SeaPort NxG Mac Holders only***</p>\\n\\n<p>****&nbsp; This NOT a solicitation.&nbsp; This is a request for information only and it is requested that all interested vendors submit capability statement(s), Rough Order of Magnitude (ROM), and evidence of related past performance in response to this notice by email to: lateasha.e.cunningham.civ@us.navy.mil ****</p>\\n\\n<p>Please refer to the attached PWS for complete details for this requirement.</p>\\n\\n<p><u>1. General</u>: This is a non-personal services contract to provide Personnel Administration Services for Commander, Naval Surface Forces, Atlantic Fleet&nbsp;(CNSL) Directorate N01F (Comptroller)...",
+    "descriptionFull": "{\"description\":\"<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***Note: This opportunity will be restricted to SeaPort NxG Mac Holders only***</p>\\n\\n<p>****&nbsp; This NOT a solicitation.&nbsp; This is a request for information only and it is requested that all interested vendors submit capability statement(s), Rough Order of Magnitude (ROM), and evidence of related past performance in response to this notice by email to: lateasha.e.cunningham.civ@us.navy.mil ****</p>\\n\\n<p>Please refer to the attached PWS for complete details for this requirement.</p>\\n\\n<p><u>1. General</u>: This is a non-personal services contract to provide Personnel Administration Services for Commander, Naval Surface Forces, Atlantic Fleet&nbsp;(CNSL) Directorate N01F (Comptroller) Norfolk and Mayport offices. The Contractor shall provide technical, analytical, training, and travel program support. The Government shall not exercise any supervision or control over the contract service providers performing the services herein. Such contract service providers shall be accountable solely to the Contractor who, in turn is responsible to the Government.</p>\\n\\n<p><u>1.1 Description of Services:</u> The contractor shall provide&nbsp;customer service to all CNSL fleet ships, employees and customers involving the execution of Defense Travel Program Authorizations and Vouchers. The contractor shall be&nbsp;responsible for ensuring that travelers complete their travel authorization documentation in accordance with defense travel regulations. Contractor must be familiar with Defense Travel System (DTS) the Joint Travel Regulations (JTR) procedures, the Defense Table of Official Distance and Defense Travel Management Office (DTMO) instructions. Contractor shall have cradle-to-grave overall responsibility, upon receipt of a Passenger Reservation Request (PRR), to ensure that the travel authorization is properly completed and that the travelers&rsquo; requirements will be met. The contractor shall make all necessary travel arrangements to include, identifying proper flights, hotels, and rental car &ndash; and reserving those for the traveler. The contractor shall monitor and track both approved and unapproved travel. The contractor shall ensure that arrangements have been properly reserved and/or funded to ensure that the travelers can accomplish the mission. The contractor shall support CNSL in preparation and review of travel authorization and vouchers as defined in the Performance Work Statement except for those items specified as government furnished items and services.</p>\\n\\n<p><u>1.2 Period of Performance: </u>The period of performance shall be for one (1) Base Year of 12 months, four (4) 12-month option years, and one (1) 6-month optional period starting July 1, 2026.</p>\\n\\n<p>Please reference the attached PWS for more detailed information.</p>\\n\\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ***Note: This opportunity will be restricted to SeaPort NxG Mac Holders only***</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7d19b09d799345888180c4560d4b5b0a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 64874,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "307652e151024b5b989d236664a17187",
+    "title": "Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services",
+    "solicitationNumber": "693C7326R000029",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-02",
+    "responseDeadline": "2026-04-21T14:00:00-04:00",
+    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693C73 EASTERN FED LANDS DIVISION",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Virginia",
+      "zip": "20147"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/307652e151024b5b989d236664a17187/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=307652e151024b5b989d236664a17187",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4df05485ff61468185abcad1104c93ef/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/703b703544394787b67ad18cdc4d6af9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/793af832045d408f8156ec88d44180cc/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD) anticipates awarding up to four Indefinite Delivery Indefinite Quantity (IDIQ) contracts to small business concerns only to perform subsequent task orders for highway and/or bridge design and engineering services and various other architect-engineer (A-E) services in support of highway, street, and bridge construction projects for Federal Land Management Agencies (i.e. National Park Service, U.S. Forest Service, U.S. Fish and Wildlife Service, etc.) within the continental United States and its territories such as Puerto Rico and the U.S. Virgin Islands with a t...",
+    "descriptionFull": "{\"description\":\"<p>Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD) anticipates awarding up to four Indefinite Delivery Indefinite Quantity (IDIQ) contracts to small business concerns only to perform subsequent task orders for highway and/or bridge design and engineering services and various other architect-engineer (A-E) services in support of highway, street, and bridge construction projects for Federal Land Management Agencies (i.e. National Park Service, U.S. Forest Service, U.S. Fish and Wildlife Service, etc.) within the continental United States and its territories such as Puerto Rico and the U.S. Virgin Islands with a total shared capacity of $60 million. &nbsp;For additional information on the selection of engineering firms for IDIQ contracts see FAR Part 36.6.&nbsp;</p>\\n\\n<p>The type of work performed on each A-E task order will vary but may primarily include highway and bridge design and related engineering services.&nbsp; Secondary services include but are not limited to geotechnical, hydraulics and hydrology, survey and mapping, traffic and safety engineering, structural engineering, planning and/or scoping, value engineering, environmental compliance, landscaping, architectural and architecturally related services, and other engineering services as required. &nbsp;All work must be performed or approved by a registered Professional Engineer. &nbsp;All electronic plans and specifications must be fully compatible with the Google Workspace platform, OpenRoads and OpenBridge Designer software, and other FHWA approved and compatible software. &nbsp;Familiarity with the FHWA is desired and expertise with AASHTO policies is required.&nbsp;</p>\\n\\n<p>The MATOC will have a shared total capacity of $60,000,000 among all IDIQ contract holders.&nbsp; The planned duration for the IDIQ contracts is a total of five years, consisting of a base year period and four option year periods.</p>\\n\\n<p>This acquisition will be a <strong>total small business set-aside </strong>and will be solicited and awarded under the North American Industry Classification System (NAICS) code 541330. The small business size standard for NAICS code 541330 is $25.5 million.&nbsp; Please note that the size of a small business firm includes all parents, subsidiaries, affiliates, etc.&nbsp; Refer to the Code of Federal Regulations 13 CFR 121.103 for information on how the SBA determines affiliation and 13 CFR 121.108 regarding the penalties for misrepresentation of size status.&nbsp; If a member of a joint venture (JV), include relevant information from both members of the JV.</p>\\n\\n<p><strong>Step 1 Pre-Selection</strong> will be based on the following technical evaluation criteria listed below:</p>\\n\\n<p><strong>(1) Specialized Experience and Technical Competence</strong> of the firm in providing highway and bridge design and related services as listed in this RFQ. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(2)</strong> <strong>Professional Qualifications</strong> necessary for performance of these types of services as listed in this RFQ. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(3) Capacity to Accomplish All Work in the Required Time</strong>. &nbsp;List numbers of teams available to do the types of services as listed in this RFQ including subcontractors. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(4) Past Performance</strong> will be evaluated on contracts for highway and bridge design and related services as listed in this RFQ with federal, state, and local government agencies and private industry in terms of quality of work, cost control, and compliance with performance schedules.&nbsp; Firms must identify references for past performance that must include a point of contact (POC), current telephone number, current email address, names of projects, and dates of performance. &nbsp;Provide interim or final past performance evaluations for the example projects in Section F of the SF330. &nbsp;In addition to the example projects, additional past performance evaluations may be provided as well. &nbsp;The period of performance end date for all projects must be within the past 7 years.&nbsp; The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p>No solicitation package is available. The successful firm or firms will be awarded an IDIQ contract based on data contained in their SF330s, past performance references and pertinent past performance information available from other sources. &nbsp;Interviews with pre-selected firms may be conducted if determined necessary. &nbsp;Forms can be downloaded from https://www.gsa.gov/forms.&nbsp;</p>\\n\\n<p>After successful negotiations with the firms, individual IDIQ contracts will be awarded. All subsequent task orders issued under the IDIQ contracts will be firm-fixed price. The individual task orders will be issued based upon the terms of the IDIQ contracts and when project needs are identified for a specific project(s). Each minimum guaranteed contract amount is $100,000.00 over the life of the contract.</p>\\n\\n<p>Interested firms having the capabilities for this work are invited to submit Part I of the SF 330 for the prime and/or joint venture firm, and Part II of the SF 330 for each member of the proposed team or subcontractors, by addressing a transmittal letter to the office shown. &nbsp;Joint Ventures must also submit a copy of the Joint Venture Agreement.</p>\\n\\n<p>The SF 330 should be completed per the instructions on the form and may be expanded, if necessary, to address the selection criteria fully.&nbsp;</p>\\n\\n<p>Directly address the technical evaluation criteria in the SF 330, Section &ldquo;H&rdquo;- Additional Information, along with any other relevant information.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>Interested firms shall include sufficient detailed information to allow complete evaluation. &nbsp;The Government reserves the right to reject all offers. &nbsp;The Government will use technical evaluation criteria for the evaluation process in rendering the best decision for award of any contract.</p>\\n\\n<p>An architect-engineer evaluation board will review and evaluate offeror qualifications and select the most highly qualified offerors based on the established RFQ evaluation criteria to participate in the second step of the selection process.&nbsp; The offerors selected to participate in step 2 of the selection process will be sent a Request for Proposal (RFP), which will explain the remainder of the process requirements at that time.</p>\\n\\n<p><strong>IMPORTANT SAM REGISTRATION AND PAYMENT REQUIREMENTS</strong></p>\\n\\n<p>In accordance with Federal Acquisition Regulation (FAR) 52.204-7 (DEVIATION NOV 2025), prospective offerors shall have an active Federal Government contracts registration in the System for Award Management (SAM) when submitting an offer in response to the solicitation and at the time of award. To register in SAM, go to https://www.sam.gov.&nbsp; Annual contractor representations and certifications must be completed online at https://www.sam.gov. Also, FAR 52.232-33 requires SAM registration for payment.&nbsp;</p>\\n\\n<p>Register to receive email notifications to be automatically notified when a document is added or updated for this solicitation and any amendments in the future. &nbsp;Please note if firms do not register as an interested vendor for this solicitation on https://www.sam.gov, there will be no Interested Vendors List. &nbsp;It is the offerors&#39; responsibility to check the Internet address provided as necessary for any posted changes to this notice and future solicitations and/or amendments.</p>\\n\\n<p>Note: Attached at the end of this document is a form the firm can use to try to obtain past performance information.&nbsp; You can fill in the name and address of your company and project name and/or number, and for what agency the work was performed. &nbsp;Send this out to your Project Manager at the DOT or other agency/firm to fill out and send directly to:&nbsp; eflhd.ae@dot.gov by email. &nbsp;If the Project Manager will not provide past performance information, send us an email from them stating this.</p>\\n\\n<p>Please send all questions concerning the solicitation to eflhd.ae@dot.gov. Please be sure to include the solicitation number <strong>693C7326R000029</strong> in the subject line of your email along with the point of contact information for the requesting firm in the body of the email. &nbsp;Requests for &#39;faxing&#39; or overnight mailing will not be accepted.</p>\\n\\n<p><strong>Step 1 submittals are due by April 21, 2026, at 2:00 p.m</strong>.<strong> EST</strong> via email to eflhd.ae@dot.gov to the attention of Mr. Raymond Delpesche and/or Ms. Colleen Delauter. &nbsp;Please be sure to include the solicitation number <strong>693C7326R000029</strong> in the subject line of your email.&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4df05485ff61468185abcad1104c93ef/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 98625,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/703b703544394787b67ad18cdc4d6af9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 118721,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/793af832045d408f8156ec88d44180cc/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 279677,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "1d62d2e38dd64c0a8dc852e211882903",
+    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
+    "solicitationNumber": "RFP1798904",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-02",
+    "responseDeadline": "2026-04-14T23:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Wright Patterson AFB",
+      "state": "Ohio",
+      "zip": "45433"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/1d62d2e38dd64c0a8dc852e211882903/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1d62d2e38dd64c0a8dc852e211882903",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD F...",
+    "descriptionFull": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "modernization"
+      ],
+      "description": [
+        "modernization"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Ohio"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "8eb503c1e6d944a59d9011c9fb40c898",
+    "title": "Declassification Support Services",
+    "solicitationNumber": "H91269627909",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-01",
+    "responseDeadline": "2026-04-15T09:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Washington",
+      "state": "District of Columbia",
+      "zip": "20301"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/8eb503c1e6d944a59d9011c9fb40c898/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8eb503c1e6d944a59d9011c9fb40c898",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/06d130c880fc439eaf4d297206c84b7a/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>SOURCES SOUGHT NOTICE</p>\\n\\n<p><strong>Note: Despite this source sought notice being posted to SAM.gov, it is anticipated that this follow-on requirement will again be solicited under the SeaPort contracts. As such, it is requested for vendors responding to the SAM.gov posting to indicate if the firm is currently awarded, or intends to pursue an award of, a SeaPort-NxG contract.</strong></p>\\n\\n<p>This announcement constitutes a Sources Sought Synopsis for market research information and planning purposes to identify the availability of potential sources capable of providing technical and administrative support services for declassification review, action processing, and tracking of record material for the Joint Staff Declassification Branch. Refer to the attached dr...",
+    "descriptionFull": "{\"description\":\"<p>SOURCES SOUGHT NOTICE</p>\\n\\n<p><strong>Note: Despite this source sought notice being posted to SAM.gov, it is anticipated that this follow-on requirement will again be solicited under the SeaPort contracts. As such, it is requested for vendors responding to the SAM.gov posting to indicate if the firm is currently awarded, or intends to pursue an award of, a SeaPort-NxG contract.</strong></p>\\n\\n<p>This announcement constitutes a Sources Sought Synopsis for market research information and planning purposes to identify the availability of potential sources capable of providing technical and administrative support services for declassification review, action processing, and tracking of record material for the Joint Staff Declassification Branch. Refer to the attached draft Performance Work Statement (PWS) file, which provides details on all the requirements. All aspects of the requirement, to include the estimated level of effort and periods of performance, are subject to future revisions.</p>\\n\\n<p>This requirement is a follow-on to existing Task Order, N0018923F3022, performed by QualX Corporation and was previously solicited and awarded under Seaport-NxG. The results of this market research will contribute to determining the method of procurement for the follow-on acquisition. Award of the resultant task order is anticipated to occur prior to May 2026, with services tentatively scheduled to commence by&nbsp;25 May 2026. The applicable NAICS code and size standard are&nbsp;541330 for Engineering Services and $25.5 million respectively.</p>\\n\\n<p>Prospective quoters possessing the requisite skills, resources, and capabilities necessary to perform the stated requirements are invited to respond to this market research survey/sources sought synopsis via the submission of a tailored executive summary, no more than five (5) pages in length. The submission should include the following information:</p>\\n\\n<ol>\\n\\t<li>Company Information:&nbsp;Company name; address; email address; web site address/URL; point of contact name; and phone number. Please also indicate if the identified prospective quoter would be performing in the capacity of a prime or subcontractor. If significant subcontracting or teaming is anticipated, prospective quoters should address the administrative and management structure of such arrangements.</li>\\n\\t<li>CAGE Codes:&nbsp;Contractor and Government Entity (CAGE) Codes for all prime and subcontractor prospective quoters.</li>\\n\\t<li>Business Size:&nbsp;Size of business for all prime and subcontractor prospective quoters - Large Business, Small Business, Small Disadvantaged Business, 8(a), Hubzone, Woman-owned, Veteran-Owned, Service Disabled Veteran-owned, etc.</li>\\n\\t<li>Capability and Past Performance:&nbsp;A tailored capability statement displaying the prospective quoter&rsquo;s ability to perform the PWS requirements. When providing past performance information, please include only relevant past performance on the same or similar work within the last five (5) years. This information should identify the applicable contract number, total contract dollar amount, period of performance, description of the services provided, and a customer point of contact with a corresponding telephone number and e-mail address. If subcontractor past performance is provided, clearly detail the aspects of the requirement the subcontractor supported.</li>\\n</ol>\\n\\n<p>All submissions are required to be submitted via e-mail to&nbsp;david.m.benham.civ@us.navy.mil&nbsp;no later than&nbsp;5:00 PM ET on 16 April 2026. Please direct any questions concerning this sources sought synopsis to David Benham via email.</p>\\n\\n<p>This announcement constitutes a sources sought synopsis for written information only and is not to be construed in any way as a commitment by the Government. This is not a solicitation announcement for proposals or quotes, and a contract will not be awarded from this announcement. The Government will not pay for the information received in response to this announcement. Respondents will not be notified of the results. The information contained within this notice may be updated or changed prior to the issuance of an official solicitation.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/06d130c880fc439eaf4d297206c84b7a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 4324063,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "District of Columbia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "d625b9cbdff349f8872b9b2ffd42986a",
     "title": "MAHG181094CR Repair Runway Charrette, Keesler AFB, MS",
     "solicitationNumber": "FA301026R0002",
@@ -2480,90 +2789,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "bf4515e0a70c4c2682c7a2f2aab8ae31",
-    "title": "Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services",
-    "solicitationNumber": "693C7326R000029",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-17",
-    "responseDeadline": "2026-04-21T14:00:00-04:00",
-    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693C73 EASTERN FED LANDS DIVISION",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": "Virginia",
-      "zip": "20147"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/bf4515e0a70c4c2682c7a2f2aab8ae31/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bf4515e0a70c4c2682c7a2f2aab8ae31",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4df05485ff61468185abcad1104c93ef/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/703b703544394787b67ad18cdc4d6af9/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD) anticipates awarding up to four Indefinite Delivery Indefinite Quantity (IDIQ) contracts to small business concerns only to perform subsequent task orders for highway and/or bridge design and engineering services and various other architect-engineer (A-E) services in support of highway, street, and bridge construction projects for Federal Land Management Agencies (i.e. National Park Service, U.S. Forest Service, U.S. Fish and Wildlife Service, etc.) within the continental United States and its territories such as Puerto Rico and the U.S. Virgin Islands with a t...",
-    "descriptionFull": "{\"description\":\"<p>Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD) anticipates awarding up to four Indefinite Delivery Indefinite Quantity (IDIQ) contracts to small business concerns only to perform subsequent task orders for highway and/or bridge design and engineering services and various other architect-engineer (A-E) services in support of highway, street, and bridge construction projects for Federal Land Management Agencies (i.e. National Park Service, U.S. Forest Service, U.S. Fish and Wildlife Service, etc.) within the continental United States and its territories such as Puerto Rico and the U.S. Virgin Islands with a total shared capacity of $60 million. &nbsp;For additional information on the selection of engineering firms for IDIQ contracts see FAR Part 36.6.&nbsp;</p>\\n\\n<p>The type of work performed on each A-E task order will vary but may primarily include highway and bridge design and related engineering services.&nbsp; Secondary services include but are not limited to geotechnical, hydraulics and hydrology, survey and mapping, traffic and safety engineering, structural engineering, planning and/or scoping, value engineering, environmental compliance, landscaping, architectural and architecturally related services, and other engineering services as required. &nbsp;All work must be performed or approved by a registered Professional Engineer. &nbsp;All electronic plans and specifications must be fully compatible with the Google Workspace platform, OpenRoads and OpenBridge Designer software, and other FHWA approved and compatible software. &nbsp;Familiarity with the FHWA is desired and expertise with AASHTO policies is required.&nbsp;</p>\\n\\n<p>The MATOC will have a shared total capacity of $60,000,000 among all IDIQ contract holders.&nbsp; The planned duration for the IDIQ contracts is a total of five years, consisting of a base year period and four option year periods.</p>\\n\\n<p>This acquisition will be a <strong>total small business set-aside </strong>and will be solicited and awarded under the North American Industry Classification System (NAICS) code 541330. The small business size standard for NAICS code 541330 is $25.5 million.&nbsp; Please note that the size of a small business firm includes all parents, subsidiaries, affiliates, etc.&nbsp; Refer to the Code of Federal Regulations 13 CFR 121.103 for information on how the SBA determines affiliation and 13 CFR 121.108 regarding the penalties for misrepresentation of size status.&nbsp; If a member of a joint venture (JV), include relevant information from both members of the JV.</p>\\n\\n<p><strong>Step 1 Pre-Selection</strong> will be based on the following technical evaluation criteria listed below:</p>\\n\\n<p><strong>(1) Specialized Experience and Technical Competence</strong> of the firm in providing highway and bridge design and related services as listed in this RFQ. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(2)</strong> <strong>Professional Qualifications</strong> necessary for performance of these types of services as listed in this RFQ. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(3) Capacity to Accomplish All Work in the Required Time</strong>. &nbsp;List numbers of teams available to do the types of services as listed in this RFQ including subcontractors. &nbsp;The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p><strong>(4) Past Performance</strong> will be evaluated on contracts for highway and bridge design and related services as listed in this RFQ with federal, state, and local government agencies and private industry in terms of quality of work, cost control, and compliance with performance schedules.&nbsp; Firms must identify references for past performance that must include a point of contact (POC), current telephone number, current email address, names of projects, and dates of performance. &nbsp;Provide interim or final past performance evaluations for the example projects in Section F of the SF330. &nbsp;In addition to the example projects, additional past performance evaluations may be provided as well. &nbsp;The period of performance end date for all projects must be within the past 7 years.&nbsp; The evaluation of this factor will use &ldquo;Confidence Level&rdquo; ratings of &ldquo;High,&rdquo; &ldquo;Some,&rdquo; and &ldquo;Low.&rdquo;</p>\\n\\n<p>No solicitation package is available. The successful firm or firms will be awarded an IDIQ contract based on data contained in their SF330s, past performance references and pertinent past performance information available from other sources. &nbsp;Interviews with pre-selected firms may be conducted if determined necessary. &nbsp;Forms can be downloaded from https://www.gsa.gov/forms.&nbsp;</p>\\n\\n<p>After successful negotiations with the firms, individual IDIQ contracts will be awarded. All subsequent task orders issued under the IDIQ contracts will be firm-fixed price. The individual task orders will be issued based upon the terms of the IDIQ contracts and when project needs are identified for a specific project(s). Each minimum guaranteed contract amount is $100,000.00 over the life of the contract.</p>\\n\\n<p>Interested firms having the capabilities for this work are invited to submit Part I of the SF 330 for the prime and/or joint venture firm, and Part II of the SF 330 for each member of the proposed team or subcontractors, by addressing a transmittal letter to the office shown. &nbsp;Joint Ventures must also submit a copy of the Joint Venture Agreement.</p>\\n\\n<p>The SF 330 should be completed per the instructions on the form and may be expanded, if necessary, to address the selection criteria fully.&nbsp;</p>\\n\\n<p>Directly address the technical evaluation criteria in the SF 330, Section &ldquo;H&rdquo;- Additional Information, along with any other relevant information.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>Interested firms shall include sufficient detailed information to allow complete evaluation. &nbsp;The Government reserves the right to reject all offers. &nbsp;The Government will use technical evaluation criteria for the evaluation process in rendering the best decision for award of any contract.</p>\\n\\n<p>An architect-engineer evaluation board will review and evaluate offeror qualifications and select the most highly qualified offerors based on the established RFQ evaluation criteria to participate in the second step of the selection process.&nbsp; The offerors selected to participate in step 2 of the selection process will be sent a Request for Proposal (RFP), which will explain the remainder of the process requirements at that time.</p>\\n\\n<p><strong>IMPORTANT SAM REGISTRATION AND PAYMENT REQUIREMENTS</strong></p>\\n\\n<p>In accordance with Federal Acquisition Regulation (FAR) 52.204-7 (DEVIATION NOV 2025), prospective offerors shall have an active Federal Government contracts registration in the System for Award Management (SAM) when submitting an offer in response to the solicitation and at the time of award. To register in SAM, go to https://www.sam.gov.&nbsp; Annual contractor representations and certifications must be completed online at https://www.sam.gov. Also, FAR 52.232-33 requires SAM registration for payment.&nbsp;</p>\\n\\n<p>Register to receive email notifications to be automatically notified when a document is added or updated for this solicitation and any amendments in the future. &nbsp;Please note if firms do not register as an interested vendor for this solicitation on https://www.sam.gov, there will be no Interested Vendors List. &nbsp;It is the offerors&#39; responsibility to check the Internet address provided as necessary for any posted changes to this notice and future solicitations and/or amendments.</p>\\n\\n<p>Note: Attached at the end of this document is a form the firm can use to try to obtain past performance information.&nbsp; You can fill in the name and address of your company and project name and/or number, and for what agency the work was performed. &nbsp;Send this out to your Project Manager at the DOT or other agency/firm to fill out and send directly to:&nbsp; eflhd.ae@dot.gov by email. &nbsp;If the Project Manager will not provide past performance information, send us an email from them stating this.</p>\\n\\n<p>Please send all questions concerning the solicitation to eflhd.ae@dot.gov. Please be sure to include the solicitation number <strong>693C7326R000029</strong> in the subject line of your email along with the point of contact information for the requesting firm in the body of the email. &nbsp;Requests for &#39;faxing&#39; or overnight mailing will not be accepted.</p>\\n\\n<p><strong>Step 1 submittals are due by April 21, 2026, at 2:00 p.m</strong>.<strong> EST</strong> via email to eflhd.ae@dot.gov to the attention of Mr. Raymond Delpesche and/or Ms. Colleen Delauter. &nbsp;Please be sure to include the solicitation number <strong>693C7326R000029</strong> in the subject line of your email.&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4df05485ff61468185abcad1104c93ef/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 98625,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/703b703544394787b67ad18cdc4d6af9/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 118721,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "7ccf155a46734cc7bc5f9736000b929f",
     "title": "Dust Collection System Evaluation",
     "solicitationNumber": "FN1609-26",
@@ -2665,74 +2890,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "83c7e626144b47a0a4c9904369c83fb5",
-    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
-    "solicitationNumber": "RFP1798904",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-12",
-    "responseDeadline": "2026-04-14T23:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Wright Patterson AFB",
-      "state": "Ohio",
-      "zip": "45433"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/83c7e626144b47a0a4c9904369c83fb5/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=83c7e626144b47a0a4c9904369c83fb5",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD F...",
-    "descriptionFull": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "modernization"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "modernization"
-      ],
-      "description": [
-        "modernization"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Ohio"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -3060,51 +3217,44 @@
     "updatedDate": null
   },
   {
-    "noticeId": "c4db50dbe927452ca37ee8a72f612594",
-    "title": "Multiple Award Task Order Contract (MATOC) for Highway and Bridge Design and Engineering Services",
-    "solicitationNumber": "693C73-26-R-000029",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
+    "noticeId": "d2be083f09314c36a918aa90f5157e6c",
+    "title": "Synopsis",
+    "solicitationNumber": "FA890326R0011",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Special Notice",
     "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-03-02",
-    "responseDeadline": "2026-04-16T14:00:00-04:00",
-    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693C73 EASTERN FED LANDS DIVISION",
+    "postedDate": "2026-04-01",
+    "responseDeadline": "2026-04-14T14:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
     "office": "",
     "placeOfPerformance": {
       "city": null,
       "state": null,
-      "zip": null
+      "zip": ""
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/c4db50dbe927452ca37ee8a72f612594/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c4db50dbe927452ca37ee8a72f612594",
+      "uiLink": "https://sam.gov/workspace/contract/opp/d2be083f09314c36a918aa90f5157e6c/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d2be083f09314c36a918aa90f5157e6c",
       "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d8babfdd07154b178c751c685d414282/download"
-      ]
+      "resourceLinks": null
     },
-    "descriptionSnippet": "{\"description\":\"<p>Multiple Award Task Order Contract (MATOC) for Highway and/or Bridge Design and Engineering Services:</p>\\n\\n<p>Solicitation Number 693C73-26-R-000029</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD) anticipates awarding up to four Indefinite Delivery Indefinite Quantity (IDIQ) Contracts to small business concerns only to perform subsequent task orders for highway and/or bridge design and engineering services and various other architect-engineer (A-E) services in support of highway, street, and bridge construction projects for Federal Land Management agencies (i.e. National Park Service, U.S. Forest Service, U.S. Fish and Wildlife Service, etc.) within the continental United States and its territories such as Puerto R...",
-    "descriptionFull": "{\"description\":\"<p>Multiple Award Task Order Contract (MATOC) for Highway and/or Bridge Design and Engineering Services:</p>\\n\\n<p>Solicitation Number 693C73-26-R-000029</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD) anticipates awarding up to four Indefinite Delivery Indefinite Quantity (IDIQ) Contracts to small business concerns only to perform subsequent task orders for highway and/or bridge design and engineering services and various other architect-engineer (A-E) services in support of highway, street, and bridge construction projects for Federal Land Management agencies (i.e. National Park Service, U.S. Forest Service, U.S. Fish and Wildlife Service, etc.) within the continental United States and its territories such as Puerto Rico and the U.S. Virgin Islands. &nbsp;</p>\\n\\n<p>The type of work performed on each A-E task order will vary but may primarily include highway and/or bridge design and related engineering services. &nbsp;Secondary services include but are not limited to geotechnical, hydraulics and hydrology, survey and mapping, traffic and safety engineering, structural engineering, planning and/or scoping, value engineering, environmental compliance, landscaping, architectural and architecturally related services, and other engineering services as may be required. &nbsp;All work must be performed or approved by a registered Professional Engineer. &nbsp;All electronic plans and specifications must be fully compatible with the Google Workspace platform, OpenRoads and OpenBridge Designer software, and other FHWA approved and compatible software. &nbsp;Familiarity with the FHWA is desired and expertise with AASHTO policies is required. &nbsp;</p>\\n\\n<p>The MATOC will have a shared total capacity of $60,000,000 among all IDIQ contract holders. &nbsp;The planned duration for the IDIQ contracts is a total of five years, consisting of a base year period and four option year periods.</p>\\n\\n<p>This acquisition will be a total small business set-aside and will be solicited and awarded under the North American Industry Classification System (NAICS) code 541330. &nbsp;The small business size standard for NAICS code 541330 is $25.5 million. &nbsp;Please note that the size of a small business firm includes all parents, subsidiaries, affiliates, etc. &nbsp;Refer to the Code of Federal Regulations 13 CFR 121.103 for information on how the SBA determines affiliation and 13 CFR 121.108 regarding the penalties for misrepresentation of size status. &nbsp;If a member of a joint venture (JV), include relevant information from both members of the JV.</p>\\n\\n<p>EFLHD is conducting a &ldquo;two-stage&rdquo; qualifications-based selection process per Federal Acquisition Regulation (FAR) Part 36. &nbsp;During the first stage, the Request for Qualifications (RFQ) solicitation will be issued on or about March 17, 2026. &nbsp;Statements of qualifications (SOQ) will be due electronically approximately 30 calendar days after the RFQ has been issued. &nbsp;An architect-engineer evaluation board will review and evaluate offeror qualifications and select the most highly qualified offerors based on the established RFQ evaluation criteria to participate in the second stage of the selection process. &nbsp;Additional information regarding submission requirements for stage one will be provided in the RFQ. &nbsp;The offerors selected to participate in the second stage of the selection process will be sent a Request for Proposal (RFP), which will explain the remainder of the process requirements at that time.</p>\\n\\n<p>IMPORTANT SAM REGISTRATION AND PAYMENT REQUIREMENTS:</p>\\n\\n<p>In accordance with Federal Acquisition Regulation (FAR) 52.204-7 (DEVIATION NOV 2025), prospective offerors shall have an active Federal Government contracts registration in the System for Award Management (SAM) when submitting an offer in response to the solicitation and at the time of award. &nbsp;To register in SAM, go to https://www.sam.gov. &nbsp;Annual contractor representations and certifications must be completed online at https://www.sam.gov. &nbsp;Also, FAR 52.232-33 requires SAM registration for payment. &nbsp;</p>\\n\\n<p>Register to receive email notifications to be automatically notified when a document is added or updated for this pre-solicitation notice and the solicitation and any amendments in the future. &nbsp;Please note if firms do not register as an interested vendor for this solicitation on https://www.sam.gov, there will be no Interested Vendors List. &nbsp;It is the offerors&#39; responsibility to check the Internet address provided as necessary for any posted changes to this notice and future solicitations and/or amendments.</p>\\n\\n<p>Please send all questions concerning the solicitation to eflhd.ae@dot.gov. &nbsp;Please be sure to include the solicitation number in the subject line of your email along with the point of contact information for the requesting firm in the body of the email. &nbsp;Requests for &#39;faxing&#39; or overnight mailing will not be accepted.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d8babfdd07154b178c751c685d414282/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 106148,
-        "textSnippet": ""
-      }
-    ],
+    "descriptionSnippet": "{\"description\":\"This is a formal synopsis requesting SF 330 submissions, FA890326R0011, for a Multiple Award Task Order Contract for Resilient Architect-Engineering Services for the United States and Outlying Areas, issued by the Air Force Installation Contracting Center, 772nd Enterprise Sourcing Squadron at JBSA-Lackland, TX. The Air Force intends to award an Indefinite Delivery Indefinite Quantity contract with a total shared ceiling of 3.4 Billion dollars to support Facility Sustainment, Restoration and Modernization and Military Construction Title I and Title II projects. This solicitation is being issued as an Unrestricted Pool and a Partial Small Business Set-Aside Pool. This notice constitutes the formal request for interested and qualified firms to submit their qualifications v...",
+    "descriptionFull": "{\"description\":\"This is a formal synopsis requesting SF 330 submissions, FA890326R0011, for a Multiple Award Task Order Contract for Resilient Architect-Engineering Services for the United States and Outlying Areas, issued by the Air Force Installation Contracting Center, 772nd Enterprise Sourcing Squadron at JBSA-Lackland, TX. The Air Force intends to award an Indefinite Delivery Indefinite Quantity contract with a total shared ceiling of 3.4 Billion dollars to support Facility Sustainment, Restoration and Modernization and Military Construction Title I and Title II projects. This solicitation is being issued as an Unrestricted Pool and a Partial Small Business Set-Aside Pool. This notice constitutes the formal request for interested and qualified firms to submit their qualifications via the Standard Form 330, Architect-Engineer Qualifications. All SF330 submissions must be received electronically through the Procurement Integrated Enterprise Environment Solicitation Module by 14 April 2026, no later than 2:00 PM Central Daylight Time. Submissions received after this date and time will be considered late and may not be evaluated. Emailed or hard copy submissions will not be accepted. It is the offerors responsibility to be registered in PIEE and to ensure their submission is fully uploaded and received by the Government by the specified deadline. Full details regarding submission requirements, evaluation criteria, and project scope are contained within the official solicitation documents attached to this notice in PIEE. The question and answer period for this solicitation is closed and no further questions will be accepted. The points of contact are Samuel L Mendez II, Contracting Officer, at samuel.mendez at us.af.mil, and Monica Gallegos, Contract Specialist, at monica.gallegos at us.af.mil. For general inquiries, please use the workflow email at aficc.raes.workflow at us.af.mil.The synopsis has been revised to incorporate the final Questions and Answers. All parties are advised to review the updated synopsis thoroughly. \"}",
+    "attachments": [],
     "attachmentsTextCombined": "",
     "amountEstimate": null,
     "amountSource": null,
     "amountInRange": null,
     "keywordsMatched": [
+      "modernization",
       "LAN"
     ],
     "keywordsMatchedIn": {
       "title": [],
       "description": [
+        "modernization",
         "LAN"
       ]
     },
@@ -3120,7 +3270,9 @@
     "onsitePossible": true,
     "brandNameLikely": false,
     "brandNameIndicators": [],
-    "scopeIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
     "scopeRisk": false,
     "workModeNotes": {
       "onsiteRequired": false,
