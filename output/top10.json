@@ -1,8 +1,8 @@
 [
   {
     "noticeId": "4a962a63d536421abe3570617fb3aea3",
-    "reason": "Direct AWS cloud hosting and system administration support; strong DevOps fit and likely service-based task order.",
-    "overallScore": 81,
+    "reason": "Direct AWS cloud hosting and system administration support; strong DevOps fit and manageable scope.",
+    "overallScore": 82,
     "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Sciences",
     "uiLink": "https://sam.gov/workspace/contract/opp/4a962a63d536421abe3570617fb3aea3/view",
     "descriptionSnippet": "{\"description\":\"<p>The Institute of Education Sciences (IES) plans to award a new task order for support of its web operations by providing cloud hosting, system administration, and website administration and critical feature development, and user, staff and developer support. IES currently maintains a virtual data center hosted in Amazon Web Services (AWS). The primary function of the data center is to host survey collection and dissemination websites in support of IES&rsquo; mission. This includes web servers, database servers, a vast array of websites and data driven web applications, a system management and web development environment, terminal servers housing analytical and statistical software, and other system support servers.</p>\\n\"}",
@@ -12,8 +12,8 @@
   },
   {
     "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
-    "reason": "Container analysis under Platform One; aligns with DevSecOps and Kubernetes/container expertise.",
-    "overallScore": 63,
+    "reason": "Container analysis under Platform One; strong DevSecOps and container expertise alignment.",
+    "overallScore": 53,
     "title": "Iron Bank Container Analysis Requirement",
     "uiLink": "https://sam.gov/workspace/contract/opp/ec332587105e4fbb8ff0e0f16196cb40/view",
     "descriptionSnippet": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
@@ -22,20 +22,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
-    "reason": "API security and integration oversight; strong match to cloud, automation, and security skills.",
-    "overallScore": 62,
-    "title": "USDA STRATUS GUS B2G Support Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view",
-    "descriptionSnippet": "{\"description\":\"<p>Rural Development Technology Office (RD TO) Cybersecurity Division (CSD) will have administrative, technical and operational oversight of the API SME to ensure mission and business objectives are achieved while keeping security in the forefront. The API SME will be responsible for the end-to-end lifecycle of API oversight, security, ensuring robust, scalable, and secure interfaces for residential mortgage-related applications.<em> </em>This acquisition is to provide the Cybersecurity Division (CSD) with administrative, technical and operational oversight of the API SME but not limited to:</p>\\n\\n<ul>\\n\\t<li>Reviewing and validating API architectures for residential mortgage-related applications.</li>\\n\\t<li>Implementing security best practices for API authentication, ...",
-    "responseDeadline": "2026-04-12T16:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "03bca6ce2bb54104a50f55d8ed32331e",
-    "reason": "Operations and maintenance of software system; potential steady DevOps support role.",
-    "overallScore": 58,
+    "reason": "Software operations and maintenance with development component; relevant to automation and Linux skills.",
+    "overallScore": 52,
     "title": "HURREVAC and RtePM - Operations and Maintenance (O and M)",
     "uiLink": "https://sam.gov/workspace/contract/opp/03bca6ce2bb54104a50f55d8ed32331e/view",
     "descriptionSnippet": "{\"description\":\"This is an operations, maintenance, and development of HURREVAC (HURRicane EVACuation) program and its sub-component (i.e., Real Time Evacuation Planning Model RteP]). This will be a Firm Fixed Price Contract with a three (3) year period of performance. Solicitation will be posted to SAM.gov on or about 15 April 2026 at 1300 est. \"}",
@@ -46,7 +35,7 @@
   {
     "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
     "reason": "Data and intelligence services likely involving data engineering and automation.",
-    "overallScore": 58,
+    "overallScore": 50,
     "title": "Sources Sought - Optimizing Data & Intelligence Services (ODIS)",
     "uiLink": "https://sam.gov/workspace/contract/opp/c4b2d4ccd7614a0ebd5052caace65370/view",
     "descriptionSnippet": "{\"description\":\"<p>The Department of Housing and Urban Development (HUD), Office of Enterprise Data and Technology Solutions OEDTS), Enterprise Data Solution (EDS) Division is issuing this sources sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support this requirement for Optimizing Data &amp; Intelligence Services (ODIS). The result of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 541330 Engineering Services.</p>\\n\\n<p>There is no solicitation at this time. This request for capability information does not constitute a request for proposals; submission of any information in resp...",
@@ -55,9 +44,20 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
+    "reason": "API security and lifecycle oversight aligns with DevOps and cloud security practices.",
+    "overallScore": 46,
+    "title": "USDA STRATUS GUS B2G Support Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view",
+    "descriptionSnippet": "{\"description\":\"<p>Rural Development Technology Office (RD TO) Cybersecurity Division (CSD) will have administrative, technical and operational oversight of the API SME to ensure mission and business objectives are achieved while keeping security in the forefront. The API SME will be responsible for the end-to-end lifecycle of API oversight, security, ensuring robust, scalable, and secure interfaces for residential mortgage-related applications.<em> </em>This acquisition is to provide the Cybersecurity Division (CSD) with administrative, technical and operational oversight of the API SME but not limited to:</p>\\n\\n<ul>\\n\\t<li>Reviewing and validating API architectures for residential mortgage-related applications.</li>\\n\\t<li>Implementing security best practices for API authentication, ...",
+    "responseDeadline": "2026-04-12T16:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "2cca7dc305a04cdfbea5934d261de4a3",
-    "reason": "Cyber R&D and software development MAC; excellent technical fit though high competition.",
-    "overallScore": 55,
+    "reason": "Cyber and software development MAC; strong technical relevance though large vehicle.",
+    "overallScore": 46,
     "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
     "uiLink": "https://sam.gov/workspace/contract/opp/2cca7dc305a04cdfbea5934d261de4a3/view",
     "descriptionSnippet": "{\"description\":\"<p>UPDATE 3-20-2026: Solicitation posted. <strong>Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).</strong> &nbsp;--------------------- UPDATE 3-19-2026: solicitation forthcoming. &nbsp;------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the solicitation related to the presolicitation notice and Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval I...",
@@ -66,20 +66,31 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "9252a07649844bed80c9d602e9d079ce",
-    "reason": "Enterprise network engineering and integration support; technical alignment.",
-    "overallScore": 45,
-    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
-    "uiLink": "https://sam.gov/workspace/contract/opp/9252a07649844bed80c9d602e9d079ce/view",
-    "descriptionSnippet": "{\"description\":\"Update Number 0001: The purpose of this amendment is to assist interested offerors in preparing their responses offline, a PDF copy of the full market survey questionnaire has been added to the attachments/links section of this notice. The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. Attached to this notice are the official Market Survey document and a consolidated Question and Answer (QA) document. The QA provides responses to all timely questions received from interested parties regarding this requirement. \"}",
-    "responseDeadline": "2026-03-24T15:00:00-07:00",
+    "noticeId": "450c5091865141f0a18cd5087795f69f",
+    "reason": "Automation operations support with data-centric focus; partial DevOps alignment.",
+    "overallScore": 43,
+    "title": "Intelligence and Automation Operations",
+    "uiLink": "https://sam.gov/workspace/contract/opp/450c5091865141f0a18cd5087795f69f/view",
+    "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
+    "responseDeadline": "2026-04-17T09:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "e55570576594442da264a129cb79a356",
+    "reason": "Web application update project; moderate software engineering relevance.",
+    "overallScore": 40,
+    "title": "California Abandoned Mine Lands Agency Group (CAMLAG) Database Application Phase 3",
+    "uiLink": "https://sam.gov/workspace/contract/opp/e55570576594442da264a129cb79a356/view",
+    "descriptionSnippet": "{\"description\":\"<p><strong>Subject: <u>Update to Sources Sought Notice No. W9123826S0005 - AMLDB Web Application Update</u></strong></p>\\n\\n<p>This notice is to provide an update to the Sources Sought Notice No. W9123826S0005 for the project involving the update of the AMLDB Web Application and related AML GIS system components.</p>\\n\\n<p>Please be advised that the solicitation, originally anticipated for release in January 2025, has been delayed. The U.S. Army Corps of Engineers (USACE) is currently discussing the path forward for this requirement. There is no definitive date of solicitation in the near future.</p>\\n\\n<p>We appreciate the interest and responses received for this market research effort. Please continue to monitor SAM.gov for updates.</p>\\n\"}",
+    "responseDeadline": "",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "e03db8e4dddb4de190980e3af5a09461",
-    "reason": "C4ISR sustainment engineering; relevant to systems and automation expertise.",
-    "overallScore": 42,
+    "reason": "C4ISR sustainment may include software and systems engineering support.",
+    "overallScore": 33,
     "title": "RFP N6523626R3007",
     "uiLink": "https://sam.gov/workspace/contract/opp/e03db8e4dddb4de190980e3af5a09461/view",
     "descriptionSnippet": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Note: Attachments 5 Staffing Scope Matrix, 8 Consolidated GFP Form, 9 Contractor Acquired Property, 12 Prime Pricing Model, and 13 Subcontractor Pricing Model included with this RFP include Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to these attachments, the Offeror shall download, complete, and submit a signed Non-Disclosure Ag...",
@@ -88,20 +99,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "804ee46828fa4b97a178bc8cef7b66d5",
-    "reason": "Network engineering support; relevant to infrastructure and Linux networking skills.",
-    "overallScore": 41,
-    "title": "Network Engineering Support Seaport",
-    "uiLink": "https://sam.gov/workspace/contract/opp/804ee46828fa4b97a178bc8cef7b66d5/view",
-    "descriptionSnippet": "{\"description\":\"This requirement is for NSWCPD Codes 542 and 543, which are responsible for Hull, Mechanical and Electrical (HM and E) and Navigation Networks. This requirement is for engineering support services. This effort shall provide engineering, technical and administrative services required for the design, development, integration, configuration, testing, troubleshooting, repair, maintenance and fleet sustainment of IC Data Networks and associated user systems. NOTE: Type of Contract: This will be a Cost-Plus-Fixed-Fee (CPFF) Task Order that will be competed under the SeaPort-NXG Multiple Award Contract (MAC) amongst all Small Business MAC holders. \"}",
-    "responseDeadline": "2026-05-05T12:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "39825fd86b46449d8aaa9c20c2e29079",
-    "reason": "Enterprise IT lifecycle sustainment; relevant but large-scale effort.",
-    "overallScore": 40,
+    "reason": "IT/OT lifecycle sustainment with potential infrastructure automation components.",
+    "overallScore": 33,
     "title": "Navy Shore Sustainment Support (N3S)",
     "uiLink": "https://sam.gov/workspace/contract/opp/39825fd86b46449d8aaa9c20c2e29079/view",
     "descriptionSnippet": "{\"description\":\"*** This Sources Sought Notice is for SEAPORT NxG SMALL BUSINESS MAC HOLDERS ONLY. No other offers will be considered. SEAPORT Small Business MAC holders will need to register for PIEE accounts in order to receive market survey requests, solicitations and submit proposals/offers.*** Naval Information Warfare Center Atlantic (NIWC Atlantic) is issuing this Market Survey for determining Small Business capabilities and is soliciting information from potential sources to provide systems lifecycle sustainment support for the Information Technology (IT) and Operational Technology (OT) systems and management support services to NIWC Atlantic in support of Commander Navy Installations Command (CNIC) N6 Regions, Continental United States (CONUS) and Outside the Continental United...",
