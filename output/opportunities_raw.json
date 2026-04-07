@@ -1,5 +1,73 @@
 [
   {
+    "noticeId": "8bc93f531802470e84b502b5d0d9e24b",
+    "title": "6515--EQUIPMENT - Philips Laser System - Ann Arbor",
+    "solicitationNumber": "36C25026Q0419",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.250-NETWORK CONTRACT OFFICE 10 (36C250)",
+    "fullParentPathCode": "036.3600.36C250",
+    "postedDate": "2026-04-07",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-04-19",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-14T16:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "6515",
+    "active": "Yes",
+    "award": {
+      "awardee": {}
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "brooke.hansen@va.gov",
+        "phone": "No phoned inquiries will be accepted.",
+        "title": "Contract Specialist",
+        "fullName": "Brooke Hansen"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8bc93f531802470e84b502b5d0d9e24b",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "45428",
+      "city": "DAYTON",
+      "countryCode": "USA",
+      "state": "OH"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "VA Ann Arbor Healthcare System",
+      "streetAddress2": " 2215 Fuller Rd",
+      "city": {
+        "name": "Ann Arbor"
+      },
+      "state": {
+        "name": "MI"
+      },
+      "zip": "48105",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/8bc93f531802470e84b502b5d0d9e24b/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8bc93f531802470e84b502b5d0d9e24b&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ca795ab580a4cf1af40e33b79771d13/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/17c568216b4544b7839dac2c7eaf312f/download"
+    ]
+  },
+  {
     "noticeId": "e4ad5d0dc5c2457487f8a2ba2433ec5f",
     "title": "PC Signal Annual Renewal",
     "solicitationNumber": "80NSSC26928986Q",
@@ -5892,6 +5960,83 @@
     ]
   },
   {
+    "noticeId": "5062c1e8f7a94f4a86f974275d8211ee",
+    "title": "Uninterruptible Power Systems (UPS) Maintenance and Repair",
+    "solicitationNumber": "W912KC26RA004",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO PA.USPFO PA PROCUREMENT.W7NX USPFO ACTIVITY PA ARNG",
+    "fullParentPathCode": "021.2100.NGB.JFHQ USPFO PA.USPFO PA PROC.W912KC",
+    "postedDate": "2026-04-06",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-05",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-20T17:00:00-04:00",
+    "naicsCode": "518210",
+    "naicsCodes": [
+      "518210"
+    ],
+    "classificationCode": "J061",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "michael.m.hancock.civ@army.mil",
+        "phone": "7178613949",
+        "title": null,
+        "fullName": "Michael Hancock"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "john.m.oboyle.civ@army.mil",
+        "phone": "7178618643",
+        "title": null,
+        "fullName": "John M O'Boyle"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5062c1e8f7a94f4a86f974275d8211ee",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "17003-5002",
+      "city": "ANNVILLE",
+      "countryCode": "USA",
+      "state": "PA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "2600",
+        "name": "Annville"
+      },
+      "state": {
+        "code": "PA",
+        "name": "Pennsylvania"
+      },
+      "zip": "17003",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/5062c1e8f7a94f4a86f974275d8211ee/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5062c1e8f7a94f4a86f974275d8211ee&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbbc297a7a8540fe8497c16beffa4132/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2dceafcc2c643c9a1dc82a5d5910d53/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f10d733eecdb49e6973df447012ee33b/download"
+    ]
+  },
+  {
     "noticeId": "4a962a63d536421abe3570617fb3aea3",
     "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Sciences",
     "solicitationNumber": "AP4050",
@@ -6085,68 +6230,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3da2b603ab84ea2a2e79c6f54f12fd4/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f774ee7ab75d439f8938b6143feb9fa1/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f8f5c4b69a3e49d38091b9a73ae89af0/download"
-    ]
-  },
-  {
-    "noticeId": "5ca6e7ae198443b698d595cca83e4003",
-    "title": "W--PERL VIRTUAL QUEUING SYSTEM",
-    "solicitationNumber": "140P8226Q0004",
-    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.PWR HONO MABO(82000)",
-    "fullParentPathCode": "014.1443.140P82",
-    "postedDate": "2026-03-16",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-06",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-22T23:59:00-10:00",
-    "naicsCode": "518210",
-    "naicsCodes": [
-      "518210"
-    ],
-    "classificationCode": "W074",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "lei_yang@nps.gov",
-        "phone": "6716880187",
-        "title": null,
-        "fullName": "Yang, Lei"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5ca6e7ae198443b698d595cca83e4003",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "96850",
-      "city": "HONOLULU",
-      "countryCode": "USA",
-      "state": "HI"
-    },
-    "placeOfPerformance": {
-      "city": {},
-      "state": {},
-      "country": {}
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5ca6e7ae198443b698d595cca83e4003/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5ca6e7ae198443b698d595cca83e4003&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/446d94cb63f748c0bcaada7282d1710c/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/594e15d48c534852878432a795ec7012/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9935c5f6c85042e994c4c9489aba2beb/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b74b0ab963254cd697956e62dec773c7/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ba92aad3c14d4b898b878161898ceee5/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c27da71c8e144898993ed3b2e083ca68/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d5160ba8d5364a6285e0f040b04eef75/download"
     ]
   },
   {

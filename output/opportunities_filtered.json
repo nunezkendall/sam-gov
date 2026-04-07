@@ -3460,6 +3460,110 @@
     "updatedDate": null
   },
   {
+    "noticeId": "5062c1e8f7a94f4a86f974275d8211ee",
+    "title": "Uninterruptible Power Systems (UPS) Maintenance and Repair",
+    "solicitationNumber": "W912KC26RA004",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "518210",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-06",
+    "responseDeadline": "2026-04-20T17:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO PA.USPFO PA PROCUREMENT.W7NX USPFO ACTIVITY PA ARNG",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Annville",
+      "state": "Pennsylvania",
+      "zip": "17003"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5062c1e8f7a94f4a86f974275d8211ee/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5062c1e8f7a94f4a86f974275d8211ee",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbbc297a7a8540fe8497c16beffa4132/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2dceafcc2c643c9a1dc82a5d5910d53/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f10d733eecdb49e6973df447012ee33b/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a blanket purchase agreement. The period of performance is 1 May 2026 through 30 April 2031.</p>\\n\\n<p>General: This is a service contract to provide all necessary support to perform UPS service, maintenance, repairs and replacement/upgrade of outdated parts or equipment for the MTC FTIG.</p>\\n\\n<p>The contractor shall provide 24/7/365 emergency repair services to address any unscheduled system failures.<br />\\n<br />\\nThe contractor shall provide a telephone response from a qualified technician within four (4) hours of receiving an emergency service call. If the issue cannot be resolved remotely, the contractor shall have a technician on-site within twenty-four (24) hours.<br />\\n<br />\\nThe contractor shall diagnose the system failure and provide the cost es...",
+    "descriptionFull": "{\"description\":\"<p>This is a blanket purchase agreement. The period of performance is 1 May 2026 through 30 April 2031.</p>\\n\\n<p>General: This is a service contract to provide all necessary support to perform UPS service, maintenance, repairs and replacement/upgrade of outdated parts or equipment for the MTC FTIG.</p>\\n\\n<p>The contractor shall provide 24/7/365 emergency repair services to address any unscheduled system failures.<br />\\n<br />\\nThe contractor shall provide a telephone response from a qualified technician within four (4) hours of receiving an emergency service call. If the issue cannot be resolved remotely, the contractor shall have a technician on-site within twenty-four (24) hours.<br />\\n<br />\\nThe contractor shall diagnose the system failure and provide the cost estimated to restore the UPS to full operational status. This includes all necessary labor and the replacement of failed parts.<br />\\n<br />\\nThe contractor shall respond to requests for corrective maintenance within 8 hours from the time the customer requests that service.<br />\\n<br />\\nThe contractor shall diagnose the system failure and provide the cost estimated to restore the UPS to full operational status. This includes all necessary labor and the replacement of failed parts.<br />\\n<br />\\nThe contractor is to furnish a detailed report to the COR in PDF format no later than 1 week after performing service. Any issues or deficiencies found during performance are to be immediately reported to the COR with proposed corrective action.<br />\\n<br />\\nThe contractor shall provide two preventative maintenance services annually to be scheduled at the convenience of the Government. Preventative maintenance includes but is not limited to the following:<br />\\n<br />\\nVisual Inspection: inspect the UPS and battery cabinets for any signs of damage, overheating, fluid leakage, or loose connections. Verify that all air inlets and outlets are clean and free of obstructions to ensure proper ventilation. Check for and clean any accumulation of dust or debris on internal and external components.<br />\\n<br />\\nMechanical and electrical checks: check all electrical connections, including internal wiring, breakers, and terminal blocks, to manufacturer-recommended specifications. Verify the integrity and functionality of all system components, including circuit breakers, fuses, and capacitors. Measure and record all critical AC and DC operational parameters (input/output voltage and current, frequency, battery voltage, and charge current).<br />\\n<br />\\nRectifier: Record input/output voltages and currents. Verify proper float and equalize settings for installed battery plant. Verify tolerance on the filtered DC bus. Verify system alignments are within factory specifications.<br />\\n<br />\\nInverter: Record input/output voltages and currents. Verify proper operation of inverter. Verify system alignments are within factory specifications. Verify DC currents on output of each inverter power stage.<br />\\n<br />\\nStatic Switch: Record Inverter input voltage and currents to Static Switch. Record Bypass input voltage and currents to Static Switch. Record Static Switch output voltages and currents. Verify proper operation of the static switch. Verify system alignments are within factory specifications.<br />\\n<br />\\nPower Supplies: Verify proper output voltage of each internal power supply. Check for proper filtering of power supply output voltage. Confirm power supply redundancy if applicable.<br />\\n<br />\\nGeneral: Check for proper fan operation. Inspect general overall condition of battery plant. Confirm acceptable environmental conditions exist for applicable parts coverage.<br />\\n<br />\\nNot all items are applicable to all systems.<br />\\n<br />\\nSystem functional tests: perform a full functional test of the UPS, including transferring the load from utility power to battery power and back to utility power to stimulate a power outage. Verify functionality of all system alarms, indicators, and communication interfaces. Calibrate the system as necessary to ensure all operational readings are within acceptable tolerances.<br />\\n<br />\\nThe contractor will provide annual battery maintenance to be scheduled at the convenience of the Government. Battery maintenance includes but is not limited to the following: Review Customer battery maintenance logs and make entries into customer logs.<br />\\n<br />\\nPerform semi-annual preventive maintenance inspection as follows:<br />\\n<br />\\nMeasure and record the voltage of each individual battery cell.<br />\\n<br />\\nMeasure and record total voltage per cabinet / rack<br />\\n<br />\\nMeasure and record ambient room temperature and humidity of the operating environment.<br />\\n<br />\\nConduct an impedance test on each battery to assess its internal condition and ability to hold a charge.<br />\\n<br />\\nPerform a load test to verify the battery system can support the critical load for the specified runtime.<br />\\n<br />\\nMeasure and record AC ripple current. Measure and record AC milli-volt per unit.<br />\\n<br />\\nVisual inspection: Check jar and cover for signs of leakage. Check for corrosion on terminal post or connector. Check for general appearance and cleanliness of battery room.<br />\\n<br />\\nClean all battery terminals and posts. Apply protective coating to all terminals to prevent corrosion. Re-torque all battery connections to manufacturer specifications.<br />\\n<br />\\nThe contractor shall provide a detailed report and quotation for the replacement of any battery that fails testing or shows signs of impending failure.<br />\\n<br />\\nWarning/hazard labels. Operational information and placards. Eye wash and deluge shower (if applicable). Goggles, gloves and aprons (if applicable).<br />\\n<br />\\nThe contractor shall contain, collect, and dispose of hazardous and non-hazardous wastes and residues generated as a result of this contract, and dispose of all wastes off Fort Indiantown Gap, PA at disposal sites authorized by federal, state, and local laws and regulations for no additional cost. Contractor shall conduct any sampling necessary to properly characterize any waste prior to disposal and shall properly document all such waste determinations. Work shall be performed in accordance with all federal, state, and local laws and regulations. The contractor shall take responsibility for the cleanup for spills that may occur from their supplies or equipment during the operation, at no cost to the Government.<br />\\n<br />\\nThe contractor will provide, in writing, to the POC the following information 15 days prior to the execution of this contract:<br />\\n<br />\\nLocal Contractor POC Details.<br />\\n<br />\\nName and location of the contractor.<br />\\n<br />\\nPOC and contact information of the contractor.<br />\\n<br />\\nHours of operation of the contractor.<br />\\n<br />\\nGovernment Responsibilities.<br />\\n<br />\\nThe government will provide POC information, in writing, to the contractor with the following information 15 days prior to the execution of this contract:<br />\\n<br />\\nName and location of the Government POC.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 497760,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbbc297a7a8540fe8497c16beffa4132/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 38971,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2dceafcc2c643c9a1dc82a5d5910d53/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 3280156,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f10d733eecdb49e6973df447012ee33b/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 47312,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "AWS",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "AWS",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "on-site"
+      ]
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "24/7"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Pennsylvania"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "4a962a63d536421abe3570617fb3aea3",
     "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Sciences",
     "solicitationNumber": "AP4050",

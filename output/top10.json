@@ -1,8 +1,8 @@
 [
   {
     "noticeId": "4a962a63d536421abe3570617fb3aea3",
-    "reason": "Direct AWS cloud hosting and system administration support aligned with DevOps skills.",
-    "overallScore": 80,
+    "reason": "Strong AWS cloud hosting and system administration alignment with manageable scope.",
+    "overallScore": 78,
     "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Sciences",
     "uiLink": "https://sam.gov/workspace/contract/opp/4a962a63d536421abe3570617fb3aea3/view",
     "descriptionSnippet": "{\"description\":\"<p>The Institute of Education Sciences (IES) plans to award a new task order for support of its web operations by providing cloud hosting, system administration, and website administration and critical feature development, and user, staff and developer support. IES currently maintains a virtual data center hosted in Amazon Web Services (AWS). The primary function of the data center is to host survey collection and dissemination websites in support of IES&rsquo; mission. This includes web servers, database servers, a vast array of websites and data driven web applications, a system management and web development environment, terminal servers housing analytical and statistical software, and other system support servers.</p>\\n\"}",
@@ -11,20 +11,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
-    "reason": "Container analysis under Platform One aligns with DevSecOps capabilities.",
-    "overallScore": 60,
-    "title": "Iron Bank Container Analysis Requirement",
-    "uiLink": "https://sam.gov/workspace/contract/opp/ec332587105e4fbb8ff0e0f16196cb40/view",
-    "descriptionSnippet": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
-    "responseDeadline": "",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "03bca6ce2bb54104a50f55d8ed32331e",
-    "reason": "Software O&M with potential development support fits IT services model.",
-    "overallScore": 58,
+    "reason": "Software O&M and development aligns with DevOps and automation capabilities.",
+    "overallScore": 66,
     "title": "HURREVAC and RtePM - Operations and Maintenance (O and M)",
     "uiLink": "https://sam.gov/workspace/contract/opp/03bca6ce2bb54104a50f55d8ed32331e/view",
     "descriptionSnippet": "{\"description\":\"This is an operations, maintenance, and development of HURREVAC (HURRicane EVACuation) program and its sub-component (i.e., Real Time Evacuation Planning Model RteP]). This will be a Firm Fixed Price Contract with a three (3) year period of performance. Solicitation will be posted to SAM.gov on or about 15 April 2026 at 1300 est. \"}",
@@ -33,31 +22,31 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
-    "reason": "API security and integration support aligns with automation and cloud engineering.",
-    "overallScore": 53,
-    "title": "USDA STRATUS GUS B2G Support Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view",
-    "descriptionSnippet": "{\"description\":\"<p>Rural Development Technology Office (RD TO) Cybersecurity Division (CSD) will have administrative, technical and operational oversight of the API SME to ensure mission and business objectives are achieved while keeping security in the forefront. The API SME will be responsible for the end-to-end lifecycle of API oversight, security, ensuring robust, scalable, and secure interfaces for residential mortgage-related applications.<em> </em>This acquisition is to provide the Cybersecurity Division (CSD) with administrative, technical and operational oversight of the API SME but not limited to:</p>\\n\\n<ul>\\n\\t<li>Reviewing and validating API architectures for residential mortgage-related applications.</li>\\n\\t<li>Implementing security best practices for API authentication, ...",
-    "responseDeadline": "2026-04-12T16:00:00-04:00",
+    "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
+    "reason": "Container analysis under Platform One aligns with DevSecOps and cloud-native expertise.",
+    "overallScore": 63,
+    "title": "Iron Bank Container Analysis Requirement",
+    "uiLink": "https://sam.gov/workspace/contract/opp/ec332587105e4fbb8ff0e0f16196cb40/view",
+    "descriptionSnippet": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
+    "responseDeadline": "",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
-    "noticeId": "450c5091865141f0a18cd5087795f69f",
-    "reason": "Automation operations with intelligence integration relevance.",
-    "overallScore": 51,
-    "title": "Intelligence and Automation Operations",
-    "uiLink": "https://sam.gov/workspace/contract/opp/450c5091865141f0a18cd5087795f69f/view",
-    "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
-    "responseDeadline": "2026-04-17T09:00:00-04:00",
+    "noticeId": "6675d6fb274346a6a950eeb1e52a4704",
+    "reason": "Enterprise data migration could leverage cloud and automation expertise.",
+    "overallScore": 55,
+    "title": "Data Migration RFI",
+    "uiLink": "https://sam.gov/workspace/contract/opp/6675d6fb274346a6a950eeb1e52a4704/view",
+    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "responseDeadline": "2026-04-26T16:00:00-04:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
-    "reason": "Data and intelligence engineering support potentially leveraging Python and automation.",
-    "overallScore": 50,
+    "reason": "Data and intelligence services likely involve data engineering and cloud support.",
+    "overallScore": 53,
     "title": "Sources Sought - Optimizing Data & Intelligence Services (ODIS)",
     "uiLink": "https://sam.gov/workspace/contract/opp/c4b2d4ccd7614a0ebd5052caace65370/view",
     "descriptionSnippet": "{\"description\":\"<p>The Department of Housing and Urban Development (HUD), Office of Enterprise Data and Technology Solutions OEDTS), Enterprise Data Solution (EDS) Division is issuing this sources sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support this requirement for Optimizing Data &amp; Intelligence Services (ODIS). The result of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 541330 Engineering Services.</p>\\n\\n<p>There is no solicitation at this time. This request for capability information does not constitute a request for proposals; submission of any information in resp...",
@@ -67,8 +56,8 @@
   },
   {
     "noticeId": "2cca7dc305a04cdfbea5934d261de4a3",
-    "reason": "Cyber and engineering MAC strongly aligned technically though large in scope.",
-    "overallScore": 49,
+    "reason": "Cyber and software engineering MAC closely matches DevOps and automation skills though large.",
+    "overallScore": 48,
     "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
     "uiLink": "https://sam.gov/workspace/contract/opp/2cca7dc305a04cdfbea5934d261de4a3/view",
     "descriptionSnippet": "{\"description\":\"<p>UPDATE 3-20-2026: Solicitation posted. <strong>Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).</strong> &nbsp;--------------------- UPDATE 3-19-2026: solicitation forthcoming. &nbsp;------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the solicitation related to the presolicitation notice and Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval I...",
@@ -77,8 +66,30 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
+    "reason": "API architecture and security oversight aligns with cloud and DevOps practices.",
+    "overallScore": 47,
+    "title": "USDA STRATUS GUS B2G Support Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view",
+    "descriptionSnippet": "{\"description\":\"<p>Rural Development Technology Office (RD TO) Cybersecurity Division (CSD) will have administrative, technical and operational oversight of the API SME to ensure mission and business objectives are achieved while keeping security in the forefront. The API SME will be responsible for the end-to-end lifecycle of API oversight, security, ensuring robust, scalable, and secure interfaces for residential mortgage-related applications.<em> </em>This acquisition is to provide the Cybersecurity Division (CSD) with administrative, technical and operational oversight of the API SME but not limited to:</p>\\n\\n<ul>\\n\\t<li>Reviewing and validating API architectures for residential mortgage-related applications.</li>\\n\\t<li>Implementing security best practices for API authentication, ...",
+    "responseDeadline": "2026-04-12T16:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "44aca020492f472aa4c2df915c3264f4",
+    "reason": "Software system management may allow DevOps and automation support role.",
+    "overallScore": 43,
+    "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers  AMENDMENT",
+    "uiLink": "https://sam.gov/workspace/contract/opp/44aca020492f472aa4c2df915c3264f4/view",
+    "descriptionSnippet": "{\"description\":\"VISN 5 has a need for continual as-built drawing update service through a Blanket Purchase Agreement (BPA). VISN 5 is a fully integrated network of eight (8) VA medical campuses and multiple VA Community Clinics.\\n\"}",
+    "responseDeadline": "2026-03-31T08:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "e55570576594442da264a129cb79a356",
-    "reason": "Web application and GIS update offers software development opportunity.",
+    "reason": "Web application update potentially suitable for Python/Linux cloud team.",
     "overallScore": 43,
     "title": "California Abandoned Mine Lands Agency Group (CAMLAG) Database Application Phase 3",
     "uiLink": "https://sam.gov/workspace/contract/opp/e55570576594442da264a129cb79a356/view",
@@ -88,24 +99,13 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "804ee46828fa4b97a178bc8cef7b66d5",
-    "reason": "Network engineering support partially aligned with infrastructure automation.",
-    "overallScore": 40,
-    "title": "Network Engineering Support Seaport",
-    "uiLink": "https://sam.gov/workspace/contract/opp/804ee46828fa4b97a178bc8cef7b66d5/view",
-    "descriptionSnippet": "{\"description\":\"This requirement is for NSWCPD Codes 542 and 543, which are responsible for Hull, Mechanical and Electrical (HM and E) and Navigation Networks. This requirement is for engineering support services. This effort shall provide engineering, technical and administrative services required for the design, development, integration, configuration, testing, troubleshooting, repair, maintenance and fleet sustainment of IC Data Networks and associated user systems. NOTE: Type of Contract: This will be a Cost-Plus-Fixed-Fee (CPFF) Task Order that will be competed under the SeaPort-NXG Multiple Award Contract (MAC) amongst all Small Business MAC holders. \"}",
-    "responseDeadline": "2026-05-05T12:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "9d889e1d4028465d8895c353efdfbdf8",
-    "reason": "Fiber networking support with some infrastructure relevance though onsite heavy.",
-    "overallScore": 35,
-    "title": "A30 FiberOptic Waterfront Cabling Support",
-    "uiLink": "https://sam.gov/workspace/contract/opp/9d889e1d4028465d8895c353efdfbdf8/view",
-    "descriptionSnippet": "{\"description\":\"<p>***THIS IS A SEAPORT-NXG REQUIREMENT. ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement for fiber optic networking support for the U.S. Navy. This includes Research and Development of new technical capabilities, Ship Construction support for all classes of Navy Warships, Operations and Maintenance of fielded fiber optic cable systems and plants.</p>\\n\"}",
-    "responseDeadline": "2026-04-27T12:00:00-04:00",
+    "noticeId": "8baecca2ad24485ca2659b7fbefe5482",
+    "reason": "Small SaaS-style subscription procurement with low complexity and manageable effort.",
+    "overallScore": 38,
+    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
+    "uiLink": "https://sam.gov/workspace/contract/opp/8baecca2ad24485ca2659b7fbefe5482/view",
+    "descriptionSnippet": "{\"description\":\"<p>Amendment 2 is being issued to extend the due date for quotes. The new due date is Monday, March 30, 2026 and the time they&#39;re due is 12:00 PM EDT. No other changes are being made to the solicitation.</p>\\n\\n<p></p>\\n\\n<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and inc...",
+    "responseDeadline": "2026-03-30T12:00:00-04:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   }
