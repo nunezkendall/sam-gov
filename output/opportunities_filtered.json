@@ -530,6 +530,88 @@
     "updatedDate": null
   },
   {
+    "noticeId": "8aad4f4ebedc4211aee46daa0410430d",
+    "title": "TrueView Go 132S mapping sensor",
+    "solicitationNumber": "80NSSC26928771Q",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541512",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-08",
+    "responseDeadline": "2026-04-13T16:00:00-05:00",
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Huntsville",
+      "state": "Alabama",
+      "zip": "35812"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/8aad4f4ebedc4211aee46daa0410430d/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8aad4f4ebedc4211aee46daa0410430d",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5dc3c406da214052b85539b0635e4a6e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a3587dd6b8e74b9886d7d7d5495096c9/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>NASA/NSSC has a requirement for TrueView Go 132S mapping sensor. See the attached SOW and request for capability statements.&nbsp;</p>\\n\\n<p>*Pleae note* This is NOT a request for quotes. Pricing offers will not be review/accepted at this time.</p>\\n\\n<p>Correspondence should reference ID&nbsp;80NSSC26928771Q in the subject line to ensure visibility.&nbsp;</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>NASA/NSSC has a requirement for TrueView Go 132S mapping sensor. See the attached SOW and request for capability statements.&nbsp;</p>\\n\\n<p>*Pleae note* This is NOT a request for quotes. Pricing offers will not be review/accepted at this time.</p>\\n\\n<p>Correspondence should reference ID&nbsp;80NSSC26928771Q in the subject line to ensure visibility.&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5dc3c406da214052b85539b0635e4a6e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 110813,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a3587dd6b8e74b9886d7d7d5495096c9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 90288,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Alabama"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "ecdebfa23838420b812c3a19e4f6edd1",
     "title": "400G Optical Network Upgrade Installation and Commissioning",
     "solicitationNumber": "FA480026SSJBLEON",
@@ -1432,32 +1514,304 @@
     "updatedDate": null
   },
   {
-    "noticeId": "166e62c656f84b138717b522d65f7d0d",
-    "title": "Former General Leonard Wood Army Community Hospital (FGLWACH) Pre-Demolition Environmental Survey",
-    "solicitationNumber": "W912DQ26RA082",
+    "noticeId": "fc4c43cf7bd54906860a2b47bddf0297",
+    "title": "110\u2019 WPB CRADLE AND SPREADER BAR RECERTIFICATION",
+    "solicitationNumber": "70Z04026Q60746Y00",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-09",
+    "responseDeadline": "2026-04-24T12:00:00-04:00",
+    "agency": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.SFLC PROCUREMENT BRANCH 3(00040)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Curtis Bay",
+      "state": "Maryland",
+      "zip": "21226"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/fc4c43cf7bd54906860a2b47bddf0297/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fc4c43cf7bd54906860a2b47bddf0297",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/34e13ee6bc844d3a808ea807a10b09c0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b129f04ac754a0f8b57d3a6c2b56061/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6125705001 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation,...",
+    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6125705001 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation, which if timely received, shall be considered by this agency.</p>\\n\\n<p>The U.S. Coast Guard, Surface Forces Logistics Center (SFLC) intends to award a Firm Fixed Price Purchase Order. No down payments or advanced payments will be made to the awarded vendor. Vendor shall ensure they can secure funding for this order until delivered and received by the US Coast Guard. Payment will be made by Government Purchase order (Net 30) and the vendor shall assume financial responsibility until the order is accepted and received by US Coast Guard. Payment of the work is authorized to be submitted as work is completed but must be approved by the Contracting Officer First.</p>\\n\\n<p><strong>Basis for Award:</strong>&nbsp;This&nbsp;solicitation is based on FAR 13 &ndash; Simplified Acquisition Procedures and quotes will be reviewed and awarded on a Best Value basis per the solicitation.&nbsp; Past performance will only be reviewed for &ldquo;responsibility&rdquo; basis per FAR 9.1.&nbsp;&nbsp;The evaluation criteria for the quote&rsquo;s will be who meets all the technical requirements, who meets our deadlines and price.</p>\\n\\n<p><strong><u>All quotes must include the drawings approved by a professional engineer that are stated in the Statement of Work in order to be considered. Drawings will then be reviewed by U. S. Coast Guard Yard Structural and Safety departments to ensure it meets our needs.</u></strong></p>\\n\\n<p><strong><u>All quotes shall be emailed to Shellby Hammond via Shellby.M.Hammond@uscg.mil and shall be received no later than April 24, 2026 at 1200 (Eastern). All emailed quotes shall have 2126406Y6125705001</u></strong><strong> </strong><strong><u>in</u></strong><strong><u> the subject of the email.</u></strong></p>\\n\\n<p><strong><u>If a Site Visit is required in order to bid, please email James Greenfield via James.H.Greenfield2@uscg.mil in order to schedule.</u></strong></p>\\n\\n<p><strong>Vendor Information:</strong></p>\\n\\n<p><strong>Entity Name</strong></p>\\n\\n<p><strong>Entity Unique Entity ID</strong></p>\\n\\n<p><strong>Entity Address</strong></p>\\n\\n<p><strong>Entity POC</strong></p>\\n\\n<p><strong>Entity Phone Number</strong></p>\\n\\n<p><strong>POC Email Address</strong></p>\\n\\n<p></p>\\n\\n<p><strong><u>Vendor shall provide</u></strong>:&nbsp;</p>\\n\\n<p><strong>Line 1: </strong>&nbsp;110&rsquo; WPB CRADLE AND SPREADER BAR RECERTIFICATION</p>\\n\\n<p><strong>DESCRIPTION: </strong>The Contractor shall provide services to certify 01 docking cradle and 01 spreader bar identified as 110-foot USCG Cutter Cradle No. 3(CGY-C110-3) and Spreader Bar No. 1 (CGY-S110-1). The slings are NOT part of this certification and are to be certified IAW standard CFR/OSHA requirements. Cradle and spreader has been proof loaded and no structural modifications have been made that would invalidate that proof load test. Failure to have the following may negate your ability to bid.</p>\\n\\n<p>- Surface Forces Logistics Center Standard Specification 8634 (SFLC Std Spec 8634), -2022 Drydocking</p>\\n\\n<p>- United States Coast Guard Drawing No. 87WPB 085-12, Rev A, 87 Ft Coastal Patrol Boat Lifting Cradle</p>\\n\\n<p>Available post-award upon request:</p>\\n\\n<p>- Previous certification reports</p>\\n\\n<p>- Docking history</p>\\n\\n<p>- Last Non-Destructive Inspection (NDI) Report</p>\\n\\n<p>- Last completed load test</p>\\n\\n<p>The Contractor shall conduct all necessary inspections required to certify 01 docking cradles, constructed in accordance with referenced drawings. Certification shall meet requirements stated within SFLC STD Spec 8634. Certifying Authority shall provide requirements for type of weld inspection and length of weld inspection required for certification. The cradle has been previously load tested; re-load testing is not required. All inspections shall be conducted at USCG Yard, Baltimore MD 21226. All work and applicable deliverables shall be provided between 5/1/26 - 5/31/26.</p>\\n\\n<p>Contractor shall provide a Certification Report, which shall include, at minimum, the following:</p>\\n\\n<p>- Appendix B-2 (of SFLC STD Spec 8634), signed and sealed by a Professional Engineer (State of Maryland)</p>\\n\\n<p>- Appendix B-23 and</p>\\n\\n<p>- Appendix B-24 of SFLC STD Spec 8634, completed.</p>\\n\\n<p>- Inspection Overview</p>\\n\\n<p>- Proof Testing, as applicable.</p>\\n\\n<p>- Inspection Findings with supporting documentation, as applicable.</p>\\n\\n<p>- Surveyor&#39;s Endorsement, annotated as &quot;SATISFACTORY&quot; or &quot;UNSATISFACTORY&quot;. Any contingencies to endorsement must be clearly noted.</p>\\n\\n<p>- NDT Weld Test Report</p>\\n\\n<p><strong>Unit of Issue: </strong>1 JB</p>\\n\\n<p><strong>Line Total:</strong></p>\\n\\n<p><strong>Estimated Performance Date:</strong></p>\\n\\n<p></p>\\n\\n<p>*All Work must be completed in accordance with the attached Statement of Work for the order.</p>\\n\\n<p>*Access to some drawings may be Export-Controlled and require any recipient to be registered in the Joint Certification Program (JCP) through DLA to receive the drawing. *</p>\\n\\n<p>*Services are Required on the following date(s): 5/1/26 &ndash; 5/31/26*</p>\\n\\n<p>Place of Performance:</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U.S. COAST GUARD YARD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2401 HAWKINS POINT ROAD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BALTIMORE, MD 21226</p>\\n\\n<p></p>\\n\\n<p><strong>Invoicing In IPP</strong></p>\\n\\n<p>It is a requirement that all invoicing for Purchase Orders will now be entered and processed through https://www.ipp.gov.</p>\\n\\n<p>All invoices must contain the following information: <strong>CG Purchase Order number, vendor&rsquo;s invoice number, cage number, PO item number, description of supplies or services, unit prices and extended totals (INVOICES FOR PURCHASE ORDERS AWARDED BY SURFACE FORCE LOGISTICS CENTER, BALTIMORE ARE TO BE SUMITTED AS NON PO IN IPP).</strong> Shipping costs will be indicated as a separate line item on the invoice (if applicable).<strong> Shipping cost $100 or more must be accompanied by a separate freight invoice when submitting an invoice(s) for payment (if applicable). </strong></p>\\n\\n<p>To submit an invoice, vendor must have access to www.ipp.gov. To gain access please indicate if you don&rsquo;t have an account So the issuing office can establish one for you.</p>\\n\\n<p></p>\\n\\n<p><strong>FAR Clauses</strong></p>\\n\\n<p><strong>This order is subject to but is not limited to the following Federal Acquisition Regulations:</strong></p>\\n\\n<p>52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.204-26 Covered Telecommunications Equipment or Services-Representation.</p>\\n\\n<p>52.212-1 Instructions to Offerors&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.212-3 Offeror Representations and Certifications&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities.</p>\\n\\n<p>52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders&mdash;Commercial Products and Commercial Services.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/34e13ee6bc844d3a808ea807a10b09c0/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 34914,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b129f04ac754a0f8b57d3a6c2b56061/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 18501,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "60b3760279344744a4c2141432240628",
+    "title": "3D Laser Scan needed on 154' PAUL CLARK",
+    "solicitationNumber": "70Z04026Q60747Y00",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-09",
+    "responseDeadline": "2026-04-24T12:00:00-04:00",
+    "agency": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.SFLC PROCUREMENT BRANCH 3(00040)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Curtis Bay",
+      "state": "Maryland",
+      "zip": "21226"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/60b3760279344744a4c2141432240628/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=60b3760279344744a4c2141432240628",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3da7d87fefb24d0d8ae846b368b011cb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6128bb4dcdc14f12a25104f2b577f38d/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6175K87013 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation,...",
+    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6175K87013 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation, which if timely received, shall be considered by this agency.</p>\\n\\n<p>The U.S. Coast Guard, Surface Forces Logistics Center (SFLC) intends to award a Firm Fixed Price Purchase Order. No down payments or advanced payments will be made to the awarded vendor. Vendor shall ensure they can secure funding for this order until delivered and received by the US Coast Guard. Payment will be made by Government Purchase order (Net 30) and the vendor shall assume financial responsibility until the order is accepted and received by US Coast Guard. Payment of the work is authorized to be submitted as work is completed but must be approved by the Contracting Officer First.</p>\\n\\n<p><strong>Basis for Award:</strong>&nbsp;This&nbsp;solicitation is based on FAR 13 &ndash; Simplified Acquisition Procedures and quotes will be reviewed and awarded on a Best Value basis per the solicitation.&nbsp; Past performance will only be reviewed for &ldquo;responsibility&rdquo; basis per FAR 9.1.&nbsp;&nbsp;The evaluation criteria for the quote&rsquo;s will be who meets all the technical requirements, who meets our deadlines and price.</p>\\n\\n<p><strong><u>All quotes must include the drawings approved by a professional engineer that are stated in the Statement of Work in order to be considered. Drawings will then be reviewed by U. S. Coast Guard Yard Structural and Safety departments to ensure it meets our needs.</u></strong></p>\\n\\n<p><strong><u>All quotes shall be emailed to Shellby Hammond via Shellby.M.Hammond@uscg.mil &nbsp;and shall be received no later than April 24, 2026 at 1200 (Eastern). All emailed quotes shall have </u></strong><u><strong>2126406Y6175K87013</strong> </u><strong><u>in</u></strong><strong><u> the subject of the email.</u></strong></p>\\n\\n<p><strong><u>If a Site Visit is required in order to bid, please email </u></strong><strong><u>Carl Weiland <strong>via </strong>Carl.H.Weiland@uscg.mil in order to schedule.</u></strong></p>\\n\\n<p></p>\\n\\n<p><strong>Vendor Information:</strong></p>\\n\\n<p><strong>Entity Name</strong></p>\\n\\n<p><strong>Entity Unique Entity ID</strong></p>\\n\\n<p><strong>Entity Address</strong></p>\\n\\n<p><strong>Entity POC</strong></p>\\n\\n<p><strong>Entity Phone Number</strong></p>\\n\\n<p><strong>POC Email Address</strong></p>\\n\\n<p></p>\\n\\n<p><strong><u>Vendor shall provide</u></strong>:&nbsp;</p>\\n\\n<p><strong>Line 1: </strong>3D Laser Scan needed on 154&#39; PAUL CLARK</p>\\n\\n<p><strong>DESCRIPTION: </strong>Provide 3D laser scan services IAW the provided SOW.<strong> </strong></p>\\n\\n<p><strong>Unit of Issue: </strong>1 JB</p>\\n\\n<p><strong>Line Total:</strong></p>\\n\\n<p><strong>Estimated Performance Date:</strong></p>\\n\\n<p></p>\\n\\n<p>*All Work must be completed in accordance with the attached Statement of Work for the order.</p>\\n\\n<p>*Access to some drawings may be Export-Controlled and require any recipient to be registered in the Joint Certification Program (JCP) through DLA to receive the drawing. *</p>\\n\\n<p>*Services are Required to be complete by an approximate start date of July 6 2026 and completed in one day. *</p>\\n\\n<p>Place of Performance:</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U.S. COAST GUARD YARD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2401 HAWKINS POINT ROAD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BALTIMORE, MD 21226</p>\\n\\n<p></p>\\n\\n<p><strong>Invoicing In IPP</strong></p>\\n\\n<p>It is a requirement that all invoicing for Purchase Orders will now be entered and processed through https://www.ipp.gov.</p>\\n\\n<p>All invoices must contain the following information: <strong>CG Purchase Order number, vendor&rsquo;s invoice number, cage number, PO item number, description of supplies or services, unit prices and extended totals (INVOICES FOR PURCHASE ORDERS AWARDED BY SURFACE FORCE LOGISTICS CENTER, BALTIMORE ARE TO BE SUMITTED AS NON PO IN IPP).</strong> Shipping costs will be indicated as a separate line item on the invoice (if applicable).<strong> Shipping cost $100 or more must be accompanied by a separate freight invoice when submitting an invoice(s) for payment (if applicable). </strong></p>\\n\\n<p>To submit an invoice, vendor must have access to www.ipp.gov. To gain access please indicate if you don&rsquo;t have an account So the issuing office can establish one for you.</p>\\n\\n<p></p>\\n\\n<p><strong>FAR Clauses</strong></p>\\n\\n<p><strong>This order is subject to but is not limited to the following Federal Acquisition Regulations:</strong></p>\\n\\n<p>52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.204-26 Covered Telecommunications Equipment or Services-Representation.</p>\\n\\n<p>52.212-1 Instructions to Offerors&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.212-3 Offeror Representations and Certifications&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities.</p>\\n\\n<p>52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3da7d87fefb24d0d8ae846b368b011cb/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 205768,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6128bb4dcdc14f12a25104f2b577f38d/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 18501,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "050c22e769ab411f9c50d67adda463a1",
+    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
+    "solicitationNumber": "RFP1798904",
     "type": "Special Notice",
     "baseType": "Special Notice",
     "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-04-08",
-    "responseDeadline": "",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTHWESTERN.ENDIST KANSAS CITY.W071 ENDIST KANSAS CITY",
+    "postedDate": "2026-04-09",
+    "responseDeadline": "2026-04-28T23:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
     "office": "",
     "placeOfPerformance": {
-      "city": "Fort Leonard Wood",
-      "state": "Missouri",
-      "zip": null
+      "city": "Wright Patterson AFB",
+      "state": "Ohio",
+      "zip": "45433"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/166e62c656f84b138717b522d65f7d0d/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=166e62c656f84b138717b522d65f7d0d",
+      "uiLink": "https://sam.gov/workspace/contract/opp/050c22e769ab411f9c50d67adda463a1/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=050c22e769ab411f9c50d67adda463a1",
       "additionalInfoLink": null,
       "resourceLinks": null
     },
-    "descriptionSnippet": "{\"description\":\"<p>Former General Leonard Wood Army Community Hospital</p>\\n\\n<p>(FGLWACH)</p>\\n\\n<p>Pre-Demolition Environmental SurveyFort Leonard Wood, MO</p>\\n\\n<p>W912DQ26RA082</p>\\n\\n<p>CONTRACT INFORMATION: The U.S. Army Corps of Engineers (USACE) Kansas City District (NWK) intends solicit, negotiate, and award a one-time Small Business Set Aside, Firm-Fixed-Price, Architect-Engineer (AE) contract to complete a thorough inspection of all identified buildings. The inspection is required to identify the presence, location, and quantities of potentially hazardous and other regulated materials that will require either abatement or special disposal requirements when the FGLWACH is demolished.</p>\\n\\n<p>The North American Industry Classification System (NAICS) Code is 541330 Engineerin...",
-    "descriptionFull": "{\"description\":\"<p>Former General Leonard Wood Army Community Hospital</p>\\n\\n<p>(FGLWACH)</p>\\n\\n<p>Pre-Demolition Environmental SurveyFort Leonard Wood, MO</p>\\n\\n<p>W912DQ26RA082</p>\\n\\n<p>CONTRACT INFORMATION: The U.S. Army Corps of Engineers (USACE) Kansas City District (NWK) intends solicit, negotiate, and award a one-time Small Business Set Aside, Firm-Fixed-Price, Architect-Engineer (AE) contract to complete a thorough inspection of all identified buildings. The inspection is required to identify the presence, location, and quantities of potentially hazardous and other regulated materials that will require either abatement or special disposal requirements when the FGLWACH is demolished.</p>\\n\\n<p>The North American Industry Classification System (NAICS) Code is 541330 Engineering Services</p>\\n\\n<p>The Product Service Code (PSC) is C219 Architect and Engineering-General: Other</p>\\n\\n<p>Small Business Size Standard is $25.5 million</p>\\n\\n<p>Estimated Magnitude of the Service: Between $1,000,000 and $5,000,000</p>\\n\\n<p>The requirement is being set-aside for Small Businesses.</p>\\n\\n<p>The actual solicitation will be posted and available on SAM.gov on or about 30 April 2026. Proposals will be due approximately 30 days later. The solicitation and any issued amendments will include the proposal submission and evaluation criteria, and shall establish the actual proposal due date.</p>\\n\\n<p>Viewing and download the solicitation requires registration at the SAM.gov website at https://sam.gov/. Downloads and instructions are available through this website. Any amendments will only be available from this website. Offerors are responsible for checking the website frequently for any update(s) to this Pre-Solicitation Announcement or amendments to the Solicitation.</p>\\n\\n<p>Synopsis of the Scope of Work:The FGLWACH is scheduled to be demolished. This demolition effort shall consist of the complete removal of the following buildings, Hospital and Clinic (B310), Central Utility Plant (B311), associated Infectious Waste Storage structure, Ambulance Garage, and Temporary Helipad. The tasks include verifying current information provided in the AE-0 Planning Study and updating information in the Pre-Demolition Inspection Report. Assess the Hospital and Clinic, Central Utility Plant, associated Infectious Waste Storage structure, and Ambulance Garage for additional asbestos and other regulated material through destructive testing as needed. Provide any information on types, quantities, and locations of any hazardous material in the Pre-Demolition Inspection Report. Identify any storage tank locations, contents, and if any leakage has occurred. Provide information in the Pre-Demolition Inspection Report.</p>\\n\\n<p>Prior to demolition activities, the Contractor must complete a thorough inspection of all identified buildings. This inspection is required to identify the presence, location, and quantities of potentially hazardous and other regulated materials that will require either abatement or special disposal requirements when those buildings are demolished. Following inspection, the Contractor shall be able to completely quantify the hazardous and regulated materials present and shall identify and describe the abatement methods required to remove and dispose of said materials, to include any special demolition procedures and worker safety measures. The inspection of the buildings must use destructive techniques typically required to access and inspect exterior/interior walls and hidden areas, where hazards may be present, such as behind wall coverings, wallboards, insulation, baseboards, etc. All sampling and testing shall be planned and performed in accordance with Federal and State regulations for that specific location; and destructive sampling is authorized to access hidden and covered areas.</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"<p><strong>UPDATE 1:&nbsp;</strong>The subject contract opportunity&#39;s open period for proposal has been extended by 2 weeks. The new due date is 28 April 2026.</p>\\n\\n<p></p>\\n\\n<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents ...",
+    "descriptionFull": "{\"description\":\"<p><strong>UPDATE 1:&nbsp;</strong>The subject contract opportunity&#39;s open period for proposal has been extended by 2 weeks. The new due date is 28 April 2026.</p>\\n\\n<p></p>\\n\\n<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
     "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "modernization"
+      ],
+      "description": [
+        "modernization"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Ohio"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "fbab53d56af9457c8f8e024b7d034afd",
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "solicitationNumber": "N6600126R0002",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-08",
+    "responseDeadline": "2026-04-24T11:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92152"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/fbab53d56af9457c8f8e024b7d034afd/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fbab53d56af9457c8f8e024b7d034afd",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/125d47a147014ddab6a37f19b80587f0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6248eeef6cf48de931d1685608193bc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faac8250dd2f4202bbc8a2841cabb491/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time). ---------------------UPDATE 3-19-2026: solicitation forthcoming. ------ Cybe...",
+    "descriptionFull": "{\"description\":\"UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 -  A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted.  ---------------------  SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).  ---------------------UPDATE 3-19-2026: solicitation forthcoming.  ------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluation (RDTE) and Acquisition Center for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) and Information Operations (IO) is responsible for functions that include: mission analysis, assessment and development of technology base, basic and applied research, demonstration of technology, engineering in support of production, support to operating forces; supporting doctrine, policy, and strategy development; and integration of numerous National and Tactical systems in the area of Cyberspace Operations. To meet these responsibilities, NIWC Pacific requires advice, assistance, coordination and products necessary to support operational planning, assessment, integration, execution and technology development to assure superiority for the warfighter in the cyberspace domain. The full scope of this requirement is anticipated to include: technology assessment, development and transition; systems engineering; operational and technical support; exercise and experimentation support; software development and prototyping; training support; security engineering/cybersecurity. This is a follow-on requirement to a Multiple Award Contract (MAC) of the same title: Cyberspace Science, Research, Engineering and Technology Integration. A Small Business Set-Aside Cyberspace Science, Research, Engineering and Technology MAC (SBSA MAC) that covered a portion of the requirement was competed among small businesses was only awarded in 2017. The incumbent contract numbers for the Small Business MAC are N66001-17-D-0114 through -0117 and the incumbent contractors are Avanti Technologies Inc., Millennium Corporation, Sentar Inc., and Vector Planning and Services Inc. The ordering period of the predecessor SBSA MAC ended 07 March 2022. This follow-on procurement will be satisfied through one solicitation (which is the subject of this pre-solicitation notice) that will be competed among small businesses only. N66001-26-R-0002 is strictly a follow-on for the Small Business MAC. The full scope of the requirement is described in the attached Draft SOW. Only small businesses can compete for the SBSA multiple award contract (MAC). The follow-on for the SBSA MAC will be solicited at a future date estimated in Q2 2026. NIWC Pacific does not intend to hold an industry day for this requirement. This proposed acquisition has security requirements at the Top Secret level with incidental Secure Compartmented Information (SCI) access. NIWC Pacific intends on awarding multiple Indefinite Delivery/Indefinite Quantity (IDIQ) Cost Plus Fixed Fee (CPFF) type contracts. The prospective contracts will have a five-year base period with a two-year period. The estimated level of effort for the total SBSA requirement is 305,981 hours. The NAICS code for this procurement is 541330 with a size standard of $47 million. A Bidders Mailing List will not be established and hard copies of documents will not be provided. The solicitation will only be available electronically within the Procurement Integrated Enterprise Environment (PIEE) website at https://piee.eb.mil, under Notice. Any amendments, when issued, will also be available only on this web site. Matters posted on the web site are not terms of the solicitation unless the solicitation is written or amended to include such matters. FIRMS ARE ENCOURAGED TO REVIEW THE WEB SITE REGULARLY FOR UPDATED INFORMATION.  PIEE\ufffdAssistance:\ufffdFor\ufffdPIEE\ufffdtechnical issues,\ufffdsee the Vendor Customer Support resources at https://cac.piee.eb.mil/xhtml/auth/web/homepage/vendorCustomerSupport.xhtml.\ufffd\ufffd\ufffd  \"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/125d47a147014ddab6a37f19b80587f0/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 364660,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 2418928,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 277889,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 36470,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 600807,
+        "textSnippet": ""
+      }
+    ],
     "attachmentsTextCombined": "",
     "amountEstimate": null,
     "amountSource": null,
@@ -1484,7 +1838,7 @@
     "brandNameLikely": false,
     "brandNameIndicators": [],
     "scopeIndicators": [
-      "soc"
+      "enterprise"
     ],
     "scopeRisk": false,
     "workModeNotes": {
@@ -1493,10 +1847,10 @@
         "AZ",
         "Arizona"
       ],
-      "placeOfPerformanceState": "Missouri"
+      "placeOfPerformanceState": "California"
     },
     "timeToDeadlineDays": null,
-    "bidEligible": false,
+    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -1958,74 +2312,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "1d62d2e38dd64c0a8dc852e211882903",
-    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
-    "solicitationNumber": "RFP1798904",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-02",
-    "responseDeadline": "2026-04-14T23:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Wright Patterson AFB",
-      "state": "Ohio",
-      "zip": "45433"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/1d62d2e38dd64c0a8dc852e211882903/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1d62d2e38dd64c0a8dc852e211882903",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD F...",
-    "descriptionFull": "{\"description\":\"<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "modernization"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "modernization"
-      ],
-      "description": [
-        "modernization"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Ohio"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -2514,72 +2800,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "c7afc9bc2214413d99778cb6945d29d4",
-    "title": "Systems Engineering and Technical Assistance (SETA) services",
-    "solicitationNumber": "N6600126R0003",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-26",
-    "responseDeadline": "2026-04-09T10:00:00-08:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "92152"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/c7afc9bc2214413d99778cb6945d29d4/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c7afc9bc2214413d99778cb6945d29d4",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a TOTAL SMALL BUSINESS SET-ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***. The Department of the Navy, Naval Information Warfare Center (NIWC) Pacific has requirement for Systems Engineering and Technical Assistance (SETA) services to provide on-going analytical, engineering, and programmatic support for Intelligence, Surveillance, and Reconnaissance (ISR) development, integration, and sustainment activities supporting GEOINT mission capabilities.The PIEE Solicitation (SOL) module does not currently support a formal Question and Answer (Q and A) feature. Accordingly, all questions regardin...",
-    "descriptionFull": "{\"description\":\"***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a TOTAL SMALL BUSINESS SET-ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***.  The Department of the Navy, Naval Information Warfare Center (NIWC) Pacific has requirement for Systems Engineering and Technical Assistance (SETA) services to provide on-going analytical, engineering, and programmatic support for Intelligence, Surveillance, and Reconnaissance (ISR) development, integration, and sustainment activities supporting GEOINT mission capabilities.The PIEE Solicitation (SOL) module does not currently support a formal Question and Answer (Q and A) feature. Accordingly, all questions regarding this solicitation shall be submitted in writing via email to the Contract Specialist and Contracting Officer identified herein no later than 01 April 2026 at 2:00 PM Pacific Time. Questions received after this deadline may not be considered. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "39825fd86b46449d8aaa9c20c2e29079",
     "title": "Navy Shore Sustainment Support (N3S)",
     "solicitationNumber": "N65236_MS_00010-0198",
@@ -2645,112 +2865,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "2cca7dc305a04cdfbea5934d261de4a3",
-    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-    "solicitationNumber": "N6600126R0002",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-23",
-    "responseDeadline": "2026-04-20T11:00:00-07:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "San Diego",
-      "state": "California",
-      "zip": "92152"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/2cca7dc305a04cdfbea5934d261de4a3/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2cca7dc305a04cdfbea5934d261de4a3",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3629617130dc482aa17a25343ec3e602/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b661b972c6fc4191a59ed655c80bf27a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb6e6b6353964442b2d1d8c36aa84031/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ef15ce0a18ca4a729d854db04da4069a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f22c42fb6a3a4ccbaae0daba199e70da/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f45192bbc2b544aebcd30700c38cb7e3/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>UPDATE 3-20-2026: Solicitation posted. <strong>Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).</strong> &nbsp;--------------------- UPDATE 3-19-2026: solicitation forthcoming. &nbsp;------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the solicitation related to the presolicitation notice and Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval I...",
-    "descriptionFull": "{\"description\":\"<p>UPDATE 3-20-2026: Solicitation posted. <strong>Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).</strong> &nbsp;--------------------- UPDATE 3-19-2026: solicitation forthcoming. &nbsp;------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the solicitation related to the presolicitation notice and Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluation (RDTE) and Acquisition Center for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) and Information Operations (IO) is responsible for functions that include: mission analysis, assessment and development of technology base, basic and applied research, demonstration of technology, engineering in support of production, support to operating forces; supporting doctrine, policy, and strategy development; and integration of numerous National and Tactical systems in the area of Cyberspace Operations. To meet these responsibilities, NIWC Pacific requires advice, assistance, coordination and products necessary to support operational planning, assessment, integration, execution and technology development to assure superiority for the warfighter in the cyberspace domain. The full scope of this requirement is anticipated to include: technology assessment, development and transition; systems engineering; operational and technical support; exercise and experimentation support; software development and prototyping; training support; security engineering/cybersecurity. This is a follow-on requirement to a Multiple Award Contract (MAC) of the same title: Cyberspace Science, Research, Engineering and Technology Integration. A Small Business Set-Aside Cyberspace Science, Research, Engineering and Technology MAC (SBSA MAC) that covered a portion of the requirement was competed among small businesses was only awarded in 2017. The incumbent contract numbers for the Small Business MAC are N66001-17-D-0114 through -0117 and the incumbent contractors are Avanti Technologies Inc., Millennium Corporation, Sentar Inc., and Vector Planning and Services Inc. The ordering period of the predecessor SBSA MAC ended 07 March 2022. This follow-on procurement will be satisfied through one solicitation (which is the subject of this pre-solicitation notice) that will be competed among small businesses only. N66001-26-R-0002 is strictly a follow-on for the Small Business MAC. The full scope of the requirement is described in the attached Draft SOW. Only small businesses can compete for the SBSA multiple award contract (MAC). The follow-on for the SBSA MAC will be solicited at a future date estimated in Q2 2026. NIWC Pacific does not intend to hold an industry day for this requirement. This proposed acquisition has security requirements at the Top Secret level with incidental Secure Compartmented Information (SCI) access. NIWC Pacific intends on awarding multiple Indefinite Delivery/Indefinite Quantity (IDIQ) Cost Plus Fixed Fee (CPFF) type contracts. The prospective contracts will have a five-year base period with a two-year period. The estimated level of effort for the total SBSA requirement is 305,981 hours. The NAICS code for this procurement is 541330 with a size standard of $47 million. A Bidders Mailing List will not be established and hard copies of documents will not be provided. The solicitation will only be available electronically within the Procurement Integrated Enterprise Environment (PIEE) website at https://piee.eb.mil, under Notice. Any amendments, when issued, will also be available only on this web site. Matters posted on the web site are not terms of the solicitation unless the solicitation is written or amended to include such matters. FIRMS ARE ENCOURAGED TO REVIEW THE WEB SITE REGULARLY FOR UPDATED INFORMATION. &nbsp;PIEE Assistance:For PIEE technical issues, see the Vendor Customer Support resources at Https://cac.piee.eb.mil/xhtml/auth/web/homepage/vendorCustomerSupport.xhtml.&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3629617130dc482aa17a25343ec3e602/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 2343017,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b661b972c6fc4191a59ed655c80bf27a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 2297751,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb6e6b6353964442b2d1d8c36aa84031/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 43006,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ef15ce0a18ca4a729d854db04da4069a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 277889,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f22c42fb6a3a4ccbaae0daba199e70da/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 33787,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "California"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {
