@@ -1,5 +1,200 @@
 [
   {
+    "noticeId": "c5a037227d104e43957c7e44eca4407c",
+    "title": "Continuous Monitoring Analytical Tool Set (CMATS) Development and Sustainment",
+    "solicitationNumber": "832674365",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-09",
+    "responseDeadline": "2026-04-23T14:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEFENSE INFORMATION SYSTEMS AGENCY (DISA).IT CONTRACTING DIVISION - PL83",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "St James",
+      "state": "Maryland",
+      "zip": "20755"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c5a037227d104e43957c7e44eca4407c/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c5a037227d104e43957c7e44eca4407c",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/01dae82bd38440cf8042df7600757228/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eccf14cfc36546b2962446e977f0077c/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>See attached Sources_Sought_CMATS and Draft_PWS_CMATS.&nbsp;&nbsp;</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>See attached Sources_Sought_CMATS and Draft_PWS_CMATS.&nbsp;&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/01dae82bd38440cf8042df7600757228/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 59129,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eccf14cfc36546b2962446e977f0077c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 225962,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "Monitoring"
+      ],
+      "description": []
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "56add1e18ba84049a39d408a46362aff",
+    "title": "Intelligence and Automation Operations",
+    "solicitationNumber": "W50NH9-26-R-A002",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-09",
+    "responseDeadline": "2026-04-24T09:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK INSCOM BELVOIR",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Fort Belvoir",
+      "state": "Virginia",
+      "zip": "22060"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/56add1e18ba84049a39d408a46362aff/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=56add1e18ba84049a39d408a46362aff",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f3c77664d0c4aa1b56abce5cdccb072/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1242446601614be9af3b7ae460c07553/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/286b6c4be05d45cc94c3406da2e0656c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2bb8bcfe0f1348d887276da8da57fe62/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4117e1329f3a4a6caef5c501388dc8e2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5691e38b2ec54360bfc63f10b943c868/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/76575a2559544b4aad620c8301215489/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/962090f1f41c4b67bad3439ae128fc66/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d01deea88bc4cb5b18704794d90998a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/abc9b3a3d0a140deaf53ffc2b336f2d2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d1219041afca4f77ab7786a32ce9f353/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
+    "descriptionFull": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested parties must be registered in System for Award Management (SAM) at www.sam.gov to be eligible for award. All questions regarding this solicitation shall be submitted in writing shall be emailed to Paul Horrell at paul.w.horrell.civ@army.mil and Christina Cano-Dickey at christina.l.cano-dickey.civ@army.mil no later than 9:00 AM EST 25 March 2026. Any responses to questions will be sent electronically to all Offerors and may result in an amendment to this solicitation. All requests for clarification shall identify the applicable RFP number in the subject line. In the body of the message, references shall identify the RFP section and paragraph number for each numbered question. If there are questions regarding the attachments, please specify the name of the attachment and the location of the area in question.</p>\\n\\n<p>All interested parties must be registered int System for Award Management (SAM) at www.sam.gov to be eligible for award. Offerors shall prepare their proposal in accordance with the instructions provided in Section L and M of the attached Solicitation document, W50NH9-26-R-A002. The deadline for response to this request is no later than 9:00 AM EST on 24 April 2026 to the following mailbox: Christina.l.cano-dickey.civ@army.mil&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f3c77664d0c4aa1b56abce5cdccb072/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 775590,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1242446601614be9af3b7ae460c07553/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 642239,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/286b6c4be05d45cc94c3406da2e0656c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 48959,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2bb8bcfe0f1348d887276da8da57fe62/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 4047216,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4117e1329f3a4a6caef5c501388dc8e2/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 5463292,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "automation"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "automation"
+      ],
+      "description": [
+        "automation"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "1bbdd73b40524c718932badd94ed619f",
     "title": "APRYSE ActivePDF software includes License and maintenance software",
     "solicitationNumber": "AIP3003887",
@@ -210,115 +405,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "450c5091865141f0a18cd5087795f69f",
-    "title": "Intelligence and Automation Operations",
-    "solicitationNumber": "W50NH9-26-R-A002",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-18",
-    "responseDeadline": "2026-04-17T09:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-DTA.W6QK INSCOM BELVOIR",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Fort Belvoir",
-      "state": "Virginia",
-      "zip": "22060"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/450c5091865141f0a18cd5087795f69f/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=450c5091865141f0a18cd5087795f69f",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1242446601614be9af3b7ae460c07553/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/286b6c4be05d45cc94c3406da2e0656c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5691e38b2ec54360bfc63f10b943c868/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/76575a2559544b4aad620c8301215489/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d01deea88bc4cb5b18704794d90998a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/abc9b3a3d0a140deaf53ffc2b336f2d2/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d1219041afca4f77ab7786a32ce9f353/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
-    "descriptionFull": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested parties must be registered in System for Award Management (SAM) at www.sam.gov to be eligible for award. All questions regarding this solicitation shall be submitted in writing shall be emailed to Paul Horrell at paul.w.horrell.civ@army.mil and Christina Cano-Dickey at christina.l.cano-dickey.civ@army.mil no later than 9:00 AM EST 25 March 2026. Any responses to questions will be sent electronically to all Offerors and may result in an amendment to this solicitation. All requests for clarification shall identify the applicable RFP number in the subject line. In the body of the message, references shall identify the RFP section and paragraph number for each numbered question. If there are questions regarding the attachments, please specify the name of the attachment and the location of the area in question.</p>\\n\\n<p>All interested parties must be registered int System for Award Management (SAM) at www.sam.gov to be eligible for award. Offerors shall prepare their proposal in accordance with the instructions provided in Section L and M of the attached Solicitation document, W50NH9-26-R-A002. The deadline for response to this request is no later than 9:00 AM EST on 17 April 2026 to the following mailbox: Christina.l.cano-dickey.civ@army.mil&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1242446601614be9af3b7ae460c07553/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 642239,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/286b6c4be05d45cc94c3406da2e0656c/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 48959,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5691e38b2ec54360bfc63f10b943c868/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1165216,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/76575a2559544b4aad620c8301215489/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 3986468,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d01deea88bc4cb5b18704794d90998a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 5458660,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "automation"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "automation"
-      ],
-      "description": [
-        "automation"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -609,94 +695,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "ecdebfa23838420b812c3a19e4f6edd1",
-    "title": "400G Optical Network Upgrade Installation and Commissioning",
-    "solicitationNumber": "FA480026SSJBLEON",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541512",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-19",
-    "responseDeadline": "2026-03-26T12:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4800  633 CONS PKP",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "GRASSY CREEK",
-      "state": "Virginia",
-      "zip": "23665"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/ecdebfa23838420b812c3a19e4f6edd1/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ecdebfa23838420b812c3a19e4f6edd1",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1f0de9b794e4411495b1f94f148dae88/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d54a1fb6b70c4efb95e648fa087973a8/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>THIS IS A SOURCES SOUGHT NOTICE FOR INFORMATION AND PLANNING PURPOSES ONLY.</strong>&nbsp; <strong><u>This announcement closes 12:00 p.m. Eastern Time on Monday, 26 March 2026.</u></strong>&nbsp; The applicable North American Industry Classification System (NAICS) for this requirement is 541512, Electrical Contractors and Other Wiring Installation Contractors, with a corresponding size standard of $34M.&nbsp; Interested parties must be registered under NAICS 541512 in the System for Award Management (SAM) at www.sam.gov. The Government plans to consider all information submitted in response to this Sources Sought Notice.</p>\\n\\n<p>The contractor shall provide all project management, personnel, labor, equipment, tools, and technical expertise necessary to perfo...",
-    "descriptionFull": "{\"description\":\"<p><strong>THIS IS A SOURCES SOUGHT NOTICE FOR INFORMATION AND PLANNING PURPOSES ONLY.</strong>&nbsp; <strong><u>This announcement closes 12:00 p.m. Eastern Time on Monday, 26 March 2026.</u></strong>&nbsp; The applicable North American Industry Classification System (NAICS) for this requirement is 541512, Electrical Contractors and Other Wiring Installation Contractors, with a corresponding size standard of $34M.&nbsp; Interested parties must be registered under NAICS 541512 in the System for Award Management (SAM) at www.sam.gov. The Government plans to consider all information submitted in response to this Sources Sought Notice.</p>\\n\\n<p>The contractor shall provide all project management, personnel, labor, equipment, tools, and technical expertise necessary to perform the installation, configuration, testing, and integration of government-furnished 400G optical networking equipment. The 633rd Communications Squadron (633 CS) at Langley Air Force Base, Virginia, has a need to upgrade its core optical transport network. This project requires professional services to install and commission Government-Furnished Equipment (GFE), specifically Cisco Network Convergence System 2006 Series (NCS2K) Dense Wavelength Division Multiplexing (DWDM) nodes and 400G Transponder Modules, into the existing network infrastructure to complete this critical modernization effort.</p>\\n\\n<p>Please see the attached notice for additional information.</p>\\n\\n<p></p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1f0de9b794e4411495b1f94f148dae88/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 152396,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d54a1fb6b70c4efb95e648fa087973a8/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 137503,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "network"
-      ],
-      "description": [
-        "modernization",
-        "network",
-        "networking",
-        "LAN",
-        "Cisco"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -1132,138 +1130,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "e55570576594442da264a129cb79a356",
-    "title": "California Abandoned Mine Lands Agency Group (CAMLAG) Database Application Phase 3",
-    "solicitationNumber": "",
-    "type": "Special Notice",
-    "baseType": "Sources Sought",
-    "naicsCode": "541511",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-10",
-    "responseDeadline": "",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH PACIFIC.ENDIST SACRAMENTO.W075 ENDIST SACRAMENTO",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Sacramento",
-      "state": "California",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/e55570576594442da264a129cb79a356/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e55570576594442da264a129cb79a356",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>Subject: <u>Update to Sources Sought Notice No. W9123826S0005 - AMLDB Web Application Update</u></strong></p>\\n\\n<p>This notice is to provide an update to the Sources Sought Notice No. W9123826S0005 for the project involving the update of the AMLDB Web Application and related AML GIS system components.</p>\\n\\n<p>Please be advised that the solicitation, originally anticipated for release in January 2025, has been delayed. The U.S. Army Corps of Engineers (USACE) is currently discussing the path forward for this requirement. There is no definitive date of solicitation in the near future.</p>\\n\\n<p>We appreciate the interest and responses received for this market research effort. Please continue to monitor SAM.gov for updates.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p><strong>Subject: <u>Update to Sources Sought Notice No. W9123826S0005 - AMLDB Web Application Update</u></strong></p>\\n\\n<p>This notice is to provide an update to the Sources Sought Notice No. W9123826S0005 for the project involving the update of the AMLDB Web Application and related AML GIS system components.</p>\\n\\n<p>Please be advised that the solicitation, originally anticipated for release in January 2025, has been delayed. The U.S. Army Corps of Engineers (USACE) is currently discussing the path forward for this requirement. There is no definitive date of solicitation in the near future.</p>\\n\\n<p>We appreciate the interest and responses received for this market research effort. Please continue to monitor SAM.gov for updates.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": []
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "California"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "ec332587105e4fbb8ff0e0f16196cb40",
-    "title": "Iron Bank Container Analysis Requirement",
-    "solicitationNumber": "IronBankCAT",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541511",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-11",
-    "responseDeadline": "",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMMAND, CONTROL, COMMUNICATIONS & BATTLE MANAGEMENT.FA8307  AFLCMC HNCK C3IN",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "San Antonio",
-      "state": "Texas",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/ec332587105e4fbb8ff0e0f16196cb40/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ec332587105e4fbb8ff0e0f16196cb40",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>The AFLCMC/HNCK Platform One (P1) contracting office plans to solicit an offer for the Iron Bank Container Analysis requirement.&nbsp; The contracting office has conducted market research that demonstrates the consolidation of three existing contract orders to be necessary, justified and in the best interest of the government.</p>\\n\\n<p>The government intends to solicit and negotiate with the vendor that provides the most technically capable solution under the current Commercial Solutions Opening (CSO) on Platform One Solutions Marketplace (P1SM) in accordance with 10 U.S.C. 3458 and DFARS 212.70. The resultant contract will consist of a one year base period and four (4) one-year ordering periods.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Texas"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "76f1e704605041079867fe3bd5fc572e",
     "title": "Implementation plan-ShakeAlert Earthquake EW.",
     "solicitationNumber": "140G0326Q0073",
@@ -1514,6 +1380,74 @@
     "updatedDate": null
   },
   {
+    "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
+    "title": "H20 Engineering Services",
+    "solicitationNumber": "N0017826R3102",
+    "type": "Solicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-10",
+    "responseDeadline": "2026-05-11T12:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Dahlgren",
+      "state": "Virginia",
+      "zip": "22448"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ecdef2f3b5ab4526bb208f9c119a6a9f/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ecdef2f3b5ab4526bb208f9c119a6a9f",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>***ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire C...",
+    "descriptionFull": "{\"description\":\"<p>***ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire Control; Autonomous and Unmanned Systems; Electromagnetic Maneuver Warfare (EMW); Information Warfare/Big Data; Machine Learning; and Artificial Intelligence (AI). The Contractor shall support technical and engineering stages of systems development, testing, integration, fielding, quality assurance (QA), certification, and maintenance. The Contractor shall participate in systems engineering activities including concept definition, system architecture development, system design, operational and system requirements development and management, external and internal interface management, security engineering, systems certification, communications and network engineering, hardware design and integration, system interoperability support, integrated logistics, training, fleet support, tactics and operations, mission engineering, metrics collection and analysis, modeling, and simulations. Other duties include providing business operational and financial support, technical writing, documentation, configuration management, database maintenance, information assurance (IA), and system administration.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "system administration",
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "system administration",
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "fc4c43cf7bd54906860a2b47bddf0297",
     "title": "110\u2019 WPB CRADLE AND SPREADER BAR RECERTIFICATION",
     "solicitationNumber": "70Z04026Q60746Y00",
@@ -1678,6 +1612,114 @@
     "updatedDate": null
   },
   {
+    "noticeId": "515f96d3a7a64f71afac097bfe8e0d59",
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "solicitationNumber": "N6600126R0002",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-09",
+    "responseDeadline": "2026-04-24T11:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92152"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/515f96d3a7a64f71afac097bfe8e0d59/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=515f96d3a7a64f71afac097bfe8e0d59",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6966d9edd6e43d9848fad0a0b11093d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6248eeef6cf48de931d1685608193bc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faac8250dd2f4202bbc8a2841cabb491/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-20...",
+    "descriptionFull": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 -  A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted.  ---------------------  SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).  ---------------------UPDATE 3-19-2026: solicitation forthcoming.  ------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluation (RDTE) and Acquisition Center for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) and Information Operations (IO) is responsible for functions that include: mission analysis, assessment and development of technology base, basic and applied research, demonstration of technology, engineering in support of production, support to operating forces; supporting doctrine, policy, and strategy development; and integration of numerous National and Tactical systems in the area of Cyberspace Operations. To meet these responsibilities, NIWC Pacific requires advice, assistance, coordination and products necessary to support operational planning, assessment, integration, execution and technology development to assure superiority for the warfighter in the cyberspace domain. The full scope of this requirement is anticipated to include: technology assessment, development and transition; systems engineering; operational and technical support; exercise and experimentation support; software development and prototyping; training support; security engineering/cybersecurity. This is a follow-on requirement to a Multiple Award Contract (MAC) of the same title: Cyberspace Science, Research, Engineering and Technology Integration. A Small Business Set-Aside Cyberspace Science, Research, Engineering and Technology MAC (SBSA MAC) that covered a portion of the requirement was competed among small businesses was only awarded in 2017. The incumbent contract numbers for the Small Business MAC are N66001-17-D-0114 through -0117 and the incumbent contractors are Avanti Technologies Inc., Millennium Corporation, Sentar Inc., and Vector Planning and Services Inc. The ordering period of the predecessor SBSA MAC ended 07 March 2022. This follow-on procurement will be satisfied through one solicitation (which is the subject of this pre-solicitation notice) that will be competed among small businesses only. N66001-26-R-0002 is strictly a follow-on for the Small Business MAC. The full scope of the requirement is described in the attached Draft SOW. Only small businesses can compete for the SBSA multiple award contract (MAC). The follow-on for the SBSA MAC will be solicited at a future date estimated in Q2 2026. NIWC Pacific does not intend to hold an industry day for this requirement. This proposed acquisition has security requirements at the Top Secret level with incidental Secure Compartmented Information (SCI) access. NIWC Pacific intends on awarding multiple Indefinite Delivery/Indefinite Quantity (IDIQ) Cost Plus Fixed Fee (CPFF) type contracts. The prospective contracts will have a five-year base period with a two-year period. The estimated level of effort for the total SBSA requirement is 305,981 hours. The NAICS code for this procurement is 541330 with a size standard of $47 million. A Bidders Mailing List will not be established and hard copies of documents will not be provided. The solicitation will only be available electronically within the Procurement Integrated Enterprise Environment (PIEE) website at https://piee.eb.mil, under Notice. Any amendments, when issued, will also be available only on this web site. Matters posted on the web site are not terms of the solicitation unless the solicitation is written or amended to include such matters. FIRMS ARE ENCOURAGED TO REVIEW THE WEB SITE REGULARLY FOR UPDATED INFORMATION.  PIEE\ufffdAssistance:\ufffdFor\ufffdPIEE\ufffdtechnical issues,\ufffdsee the Vendor Customer Support resources at https://cac.piee.eb.mil/xhtml/auth/web/homepage/vendorCustomerSupport.xhtml.\ufffd\ufffd\ufffd  \"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 2418928,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 277889,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 36470,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 600807,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 45689,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "California"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "050c22e769ab411f9c50d67adda463a1",
     "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
     "solicitationNumber": "RFP1798904",
@@ -1743,114 +1785,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "fbab53d56af9457c8f8e024b7d034afd",
-    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-    "solicitationNumber": "N6600126R0002",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-08",
-    "responseDeadline": "2026-04-24T11:00:00-08:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "San Diego",
-      "state": "California",
-      "zip": "92152"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/fbab53d56af9457c8f8e024b7d034afd/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fbab53d56af9457c8f8e024b7d034afd",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/125d47a147014ddab6a37f19b80587f0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6248eeef6cf48de931d1685608193bc/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faac8250dd2f4202bbc8a2841cabb491/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time). ---------------------UPDATE 3-19-2026: solicitation forthcoming. ------ Cybe...",
-    "descriptionFull": "{\"description\":\"UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 -  A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted.  ---------------------  SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).  ---------------------UPDATE 3-19-2026: solicitation forthcoming.  ------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluation (RDTE) and Acquisition Center for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) and Information Operations (IO) is responsible for functions that include: mission analysis, assessment and development of technology base, basic and applied research, demonstration of technology, engineering in support of production, support to operating forces; supporting doctrine, policy, and strategy development; and integration of numerous National and Tactical systems in the area of Cyberspace Operations. To meet these responsibilities, NIWC Pacific requires advice, assistance, coordination and products necessary to support operational planning, assessment, integration, execution and technology development to assure superiority for the warfighter in the cyberspace domain. The full scope of this requirement is anticipated to include: technology assessment, development and transition; systems engineering; operational and technical support; exercise and experimentation support; software development and prototyping; training support; security engineering/cybersecurity. This is a follow-on requirement to a Multiple Award Contract (MAC) of the same title: Cyberspace Science, Research, Engineering and Technology Integration. A Small Business Set-Aside Cyberspace Science, Research, Engineering and Technology MAC (SBSA MAC) that covered a portion of the requirement was competed among small businesses was only awarded in 2017. The incumbent contract numbers for the Small Business MAC are N66001-17-D-0114 through -0117 and the incumbent contractors are Avanti Technologies Inc., Millennium Corporation, Sentar Inc., and Vector Planning and Services Inc. The ordering period of the predecessor SBSA MAC ended 07 March 2022. This follow-on procurement will be satisfied through one solicitation (which is the subject of this pre-solicitation notice) that will be competed among small businesses only. N66001-26-R-0002 is strictly a follow-on for the Small Business MAC. The full scope of the requirement is described in the attached Draft SOW. Only small businesses can compete for the SBSA multiple award contract (MAC). The follow-on for the SBSA MAC will be solicited at a future date estimated in Q2 2026. NIWC Pacific does not intend to hold an industry day for this requirement. This proposed acquisition has security requirements at the Top Secret level with incidental Secure Compartmented Information (SCI) access. NIWC Pacific intends on awarding multiple Indefinite Delivery/Indefinite Quantity (IDIQ) Cost Plus Fixed Fee (CPFF) type contracts. The prospective contracts will have a five-year base period with a two-year period. The estimated level of effort for the total SBSA requirement is 305,981 hours. The NAICS code for this procurement is 541330 with a size standard of $47 million. A Bidders Mailing List will not be established and hard copies of documents will not be provided. The solicitation will only be available electronically within the Procurement Integrated Enterprise Environment (PIEE) website at https://piee.eb.mil, under Notice. Any amendments, when issued, will also be available only on this web site. Matters posted on the web site are not terms of the solicitation unless the solicitation is written or amended to include such matters. FIRMS ARE ENCOURAGED TO REVIEW THE WEB SITE REGULARLY FOR UPDATED INFORMATION.  PIEE\ufffdAssistance:\ufffdFor\ufffdPIEE\ufffdtechnical issues,\ufffdsee the Vendor Customer Support resources at https://cac.piee.eb.mil/xhtml/auth/web/homepage/vendorCustomerSupport.xhtml.\ufffd\ufffd\ufffd  \"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/125d47a147014ddab6a37f19b80587f0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 364660,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 2418928,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 277889,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 36470,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 600807,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "California"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -3137,83 +3071,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "c4b2d4ccd7614a0ebd5052caace65370",
-    "title": "Sources Sought - Optimizing Data & Intelligence Services (ODIS)",
-    "solicitationNumber": "86615526Q00008",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-19",
-    "responseDeadline": "2026-03-25T16:00:00-04:00",
-    "agency": "HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF.HOUSING AND URBAN DEVELOPMENT, DEPARTMENT OF.CPO : GNMA SUPPORT DIVISION",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/c4b2d4ccd7614a0ebd5052caace65370/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c4b2d4ccd7614a0ebd5052caace65370",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e678555d9a14be6ba62c2d9e988b985/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The Department of Housing and Urban Development (HUD), Office of Enterprise Data and Technology Solutions OEDTS), Enterprise Data Solution (EDS) Division is issuing this sources sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support this requirement for Optimizing Data &amp; Intelligence Services (ODIS). The result of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 541330 Engineering Services.</p>\\n\\n<p>There is no solicitation at this time. This request for capability information does not constitute a request for proposals; submission of any information in resp...",
-    "descriptionFull": "{\"description\":\"<p>The Department of Housing and Urban Development (HUD), Office of Enterprise Data and Technology Solutions OEDTS), Enterprise Data Solution (EDS) Division is issuing this sources sought synopsis as a means of conducting market research to identify parties having an interest in and the resources to support this requirement for Optimizing Data &amp; Intelligence Services (ODIS). The result of this market research will contribute to determining the method of procurement. The applicable North American Industry Classification System (NAICS) code assigned to this procurement is 541330 Engineering Services.</p>\\n\\n<p>There is no solicitation at this time. This request for capability information does not constitute a request for proposals; submission of any information in response to this market survey is purely voluntary; the government assumes no financial responsibility for any costs incurred.&nbsp;</p>\\n\\n<p>If your organization has the potential capacity to perform these contract services, please provide the following information: 1) organization name, address, email address, website address, telephone number, and size and type of ownership for the organization; 2) tailored capability statements addressing the particulars of this effort, with appropriate documentation supporting claims of organizational and staff capability; and 3) suggest SIN codes that would be suitable for this procurement. If significant subcontracting or teaming is anticipated in order to deliver technical capability, organizations should address the administrative and management structure of such arrangements.</p>\\n\\n<p>The government will evaluate market information to ascertain potential market capacity to 1) provide services consistent in scope and scale with those described in this notice and otherwise anticipated; 2) secure and apply the full range of corporate financial, human capital, and technical resources required to successfully perform similar requirements; 3) implement a successful project management plan that includes: compliance with program schedules; cost containment; meeting and tracking performance; hiring and retention of personnel and risk mitigation; and 4) provide services under a performance based service acquisition contract.</p>\\n\\n<p>Based on the responses to this source sought notice/market research, this requirement may be set-aside for small businesses or procured through full and open competition, and multiple awards may be made. Telephone inquiries will not be accepted or acknowledged, and no feedback or evaluations will be provided to companies regarding their submissions.</p>\\n\\n<p><strong>Submission Instructions: </strong>Interested parties who consider themselves qualified to perform the above-listed services are invited to submit a response to this Sources Sought Notice by March 25, 2026, at 4:00 PM EST. All responses under this Sources Sought Notice must be emailed to <strong>Tracey Dawley, Contract Specialist (</strong><strong>tracey.g.dawley@hud.gov</strong><strong>) and Tarita Leftwich, Contracting Officer (</strong><strong>tarita.l.leftwich@hud.gov</strong><strong>). </strong>Additional information on the required services is listed below. If you have any questions concerning this opportunity, please contact: Tracey Dawley at the above-mentioned email address. <strong>See attached Draft PWS for description of services.</strong></p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e678555d9a14be6ba62c2d9e988b985/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 60240,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "c9920ad6388542d793013ab8393cb4de",
     "title": "Regions 01 and 02 A&E Services",
     "solicitationNumber": "1165974",
@@ -3384,194 +3241,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "81115a2634b749898a5cd2ecb110a167",
-    "title": "A&E Industrial District Plan",
-    "solicitationNumber": "261200",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-11",
-    "responseDeadline": "2026-04-10T13:00:00-08:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.PACIFIC AIR FORCES.FA5004  354 CONS PK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Eielson AFB",
-      "state": "Alaska",
-      "zip": "99702"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/81115a2634b749898a5cd2ecb110a167/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=81115a2634b749898a5cd2ecb110a167",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ff93ba1c2ff41e5b6a9b395eeb3c4d1/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/320b0a183358499aa8c88ff13c9ac74b/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4863104ef6874c45bce051a8829866db/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/820f696ff1b94e928c86150a8d2dc517/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8527d124bc744d8f8dc2eeffa7a04e43/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a7e5e9e3bbc84c48a7e126afcb22c9fd/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aedac22267bd401d9ba144058295e0b2/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ece0f17478b54eeb8ed960e452c8f58c/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The 354th Eielson Contracting Squadron is seeking qualification packages for A&amp;E service for the project below:&nbsp;</p>\\n\\n<p>The Architect-Engineer (A-E) shall conduct master planning support to include services to develop the Industrial District Plan at Eielson Air Force Base (AFB), by collecting the most recent data and working with installation participants, mission partners, and stakeholders in a 4-day site visit and collaborative planning workshop to update the existing Installation Development Pan (IDP) recommendations as required to meet current and future mission requirements. This Statement of Work (SOW) defines the A-E services to provide a district plan, and required supporting documentation, for the Industrial District at Eielson (AFB), Alaska.</p>\\...",
-    "descriptionFull": "{\"description\":\"<p>The 354th Eielson Contracting Squadron is seeking qualification packages for A&amp;E service for the project below:&nbsp;</p>\\n\\n<p>The Architect-Engineer (A-E) shall conduct master planning support to include services to develop the Industrial District Plan at Eielson Air Force Base (AFB), by collecting the most recent data and working with installation participants, mission partners, and stakeholders in a 4-day site visit and collaborative planning workshop to update the existing Installation Development Pan (IDP) recommendations as required to meet current and future mission requirements. This Statement of Work (SOW) defines the A-E services to provide a district plan, and required supporting documentation, for the Industrial District at Eielson (AFB), Alaska.</p>\\n\\n<p>The A-E is responsible for providing all research, investigation, estimating, planning, and supporting information required to prepare the District Plan and related documents. All planning considerations and subsequent construction activities produced from the District Plan must follow all applicable codes and laws governing the repair of Air Force Real Property assets identified in Section 1.6. The current version of all applicable codes and laws at the time of contract award will apply. It is the responsibility of the A-E to confirm with 354 CES Programming (354 CEN/CENP) what versions are valid for the District Plan.<br />\\nThe District Plan to support the development of the requirements for the Industrial District will have at a minimum, the following items:<br />\\n&bull; Illustrative Plan<br />\\n&bull; Execution Plan<br />\\n&bull; Capacity Plan<br />\\n&bull; Regulating Plan<br />\\n&bull; Executive Summary</p>\\n\\n<p>The contract schedule set fourth in the statement of work requires a delivery within 365 calendar days.&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ff93ba1c2ff41e5b6a9b395eeb3c4d1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 815947,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/320b0a183358499aa8c88ff13c9ac74b/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 130312,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4863104ef6874c45bce051a8829866db/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 80384,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/820f696ff1b94e928c86150a8d2dc517/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 416895,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8527d124bc744d8f8dc2eeffa7a04e43/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 213965,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "AWS",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Alaska"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "d6abb9f0bfe9416ca983319ec7e1aff1",
-    "title": "Sources Sought Announcement for Construction Inspection Services",
-    "solicitationNumber": "693C73-26-SS-0007",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-10",
-    "responseDeadline": "2026-03-31T14:00:00-04:00",
-    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693C73 EASTERN FED LANDS DIVISION",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "3320",
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/d6abb9f0bfe9416ca983319ec7e1aff1/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d6abb9f0bfe9416ca983319ec7e1aff1",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/095d38d088864689b28d6cc6ce6c9c47/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This is a Sources Sought Announcement and is for information purposes only. THIS IS NOT A REQUEST FOR PROPOSALS, QUOTATIONS, OR BIDS. NO SOLICITATION IS CURRENTLY AVAILABLE. The purpose of this announcement is to determine the availability and capability of qualified SMALL BUSINESSES for potential Indefinite Delivery Indefinite Quantity Contracts (IDIQC) for providing Construction Inspection and related engineering and professional services under NAICS 541330 - Engineering Services.</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD), anticipates awarding one or more Indefinite Delivery Indefinite Quantity Contracts (IDIQC) for the provision of Construction Inspection services and related technical support services on be...",
-    "descriptionFull": "{\"description\":\"<p>This is a Sources Sought Announcement and is for information purposes only. THIS IS NOT A REQUEST FOR PROPOSALS, QUOTATIONS, OR BIDS. NO SOLICITATION IS CURRENTLY AVAILABLE. The purpose of this announcement is to determine the availability and capability of qualified SMALL BUSINESSES for potential Indefinite Delivery Indefinite Quantity Contracts (IDIQC) for providing Construction Inspection and related engineering and professional services under NAICS 541330 - Engineering Services.</p>\\n\\n<p>The Federal Highway Administration (FHWA), Eastern Federal Lands Highway Division (EFLHD), anticipates awarding one or more Indefinite Delivery Indefinite Quantity Contracts (IDIQC) for the provision of Construction Inspection services and related technical support services on behalf of Federal Land Management Agencies (FLMA) such as the National Park Service (NPS), the U.S. Forest Service (USFS), the U.S. Fish and Wildlife Service (FWS), the U.S. Army Corps of Engineers (USACE), the Bureau of Land Management (BLM), etc. for properties under FLMA management and administration that are LOCATED IN ALL FIFTY (50) UNITED STATES AND U.S. TERRITORIES.</p>\\n\\n<p>The anticipated services include Construction Inspection and other engineering and professional services for the administration, oversight, and support of construction contracts performed by Eastern Federal Lands (EFL) on behalf of Federal Land Management Agencies (FLMA). Work may include inspection and documentation of highway and bridge construction activities, monitoring contractor compliance with plans, specifications, and contract requirements, review of contractor submittals, materials inspection coordination, safety and environmental compliance monitoring, progress documentation, schedule monitoring, and other related construction inspection and contract administration services as required. Construction projects supported under these contracts may include highway and roadway construction and rehabilitation, pavement rehabilitation, bridge repair or replacement, drainage improvements, erosion and sediment control measures, traffic control, signage installation, safety improvements, and other transportation related infrastructure improvements.</p>\\n\\n<p>The resulting contract(s) are anticipated to include one base year with four one-year options and a six-month option extension with a maximum not-to-exceed amount of $60 million over this five-year period.</p>\\n\\n<p>The number of IDIQ contracts to be awarded is undetermined at this time, and any contract award will be made no earlier than April 2027.</p>\\n\\n<p>All work will be done under the supervision of a Licensed Professional Engineer.</p>\\n\\n<p>QUALIFIED PRIME CONTRACTORS shall submit the following information by e-mail to EFLHD.AE@dot.gov (Attn: Helson Roman ) no later than 2:00PM (EST) on March 31, 2026.:</p>\\n\\n<ol>\\n\\t<li>A positive statement of your intention to submit an offer in response to the solicitation as a Prime Contractor when it is issued.</li>\\n\\t<li>Provide your full business name, address, point of contact, phone number, e-mail address, and web site (if any). If a member of a joint venture (JV), include relevant information from both members of the JV.</li>\\n\\t<li>Provide your Unique Entity ID (UEI) and Commercial and Government Entity (CAGE) Code. If a member of a joint-venture (JV) or mentor prot&eacute;g&eacute; agreement with the SBA, please provide information on both members.</li>\\n\\t<li>Identify your firm&rsquo;s size standard under NAICS 541330 &ndash; Engineering Services ($25.5 Million). All firms shall be certified and registered under NAICS code 541330 in the System for Award Management (SAM) located at https://www.sam.gov at the time an offer is submitted in response to any solicitation.</li>\\n\\t<li>Identify <strong><em>all applicable classifications</em></strong> for your firm such as: large business; small business; woman-owned small business; 8(a) small business; small-disadvantaged business; HUBZone small business; service-disabled veteran-owned small business; etc. This information must be provided to determine whether the &quot;Rule of 2&quot; has been met for any socio-economic category for set-aside purposes. Please note that the size of a small business firm includes all parents, subsidiaries, affiliates, etc. Refer to the Code of Federal Regulations 13 CFR 121.103 for information on how the SBA determines affiliation and 13 CFR 121.108 regarding the penalties for misrepresentation of size status. If a member of a joint venture (JV), include relevant information from both members of the JV.</li>\\n\\t<li>Describe your firm&rsquo;s ability to perform at least 50% of the cost of contract performance effort with its own workforce as a small business prime contractor per FAR Clause 52.219-14 Limitations on Subcontracting.</li>\\n\\t<li>Does your firm have experience within the past 5 years in performing a contract of this magnitude and complexity consisting of Construction Inspection services for highway, bridge, or transportation infrastructure projects? Provide examples including a brief description of the project(s), customer name(s), timelines of performance, project location(s), customer satisfaction, and dollar value of the project(s). Clearly describe the role of your firm on each example project. If a member of a joint venture, the offeror should include relevant information from both members of the JV.</li>\\n</ol>\\n\\n<p><strong>RESPONSES TO THIS SOURCES SOUGHT ANNOUNCEMENT SHALL BE LIMITED TO NO MORE THAN 10 PAGES</strong>, single-spaced, with font size 12 or larger using Times New Roman or Arial. Page margins no smaller than 1&rdquo; and page size shall be no greater than 8.5&rdquo; x 11.&rdquo;</p>\\n\\n<p>Submissions shall be provided in electronic format readable and searchable by Adobe Acrobat or Microsoft Word.</p>\\n\\n<p>Do NOT submit resumes, marketing material, slide presentations, or technical papers.</p>\\n\\n<p><strong>Please reference &ldquo;Sources Sought Announcement No. 693C73-26-SS-0007&rdquo; Construction Inspection Services IDIQ&rdquo; in the subject line of your email.</strong></p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/095d38d088864689b28d6cc6ce6c9c47/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 162473,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "Monitoring",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "Monitoring",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "d2be083f09314c36a918aa90f5157e6c",
     "title": "Synopsis",
     "solicitationNumber": "FA890326R0011",
@@ -3631,76 +3300,6 @@
     "scopeRisk": false,
     "workModeNotes": {
       "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "88f77352de214b44b2750a5e1369bdfe",
-    "title": "Construction Inspection IDIQ",
-    "solicitationNumber": "6982AF25R000016",
-    "type": "Presolicitation",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-11",
-    "responseDeadline": "2026-03-25T14:00:00-06:00",
-    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/88f77352de214b44b2750a5e1369bdfe/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=88f77352de214b44b2750a5e1369bdfe",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The Federal Highway Administration, Central Federal Lands Highway Division (CFLHD), anticipates soliciting and awarding multiple Indefinite Delivery, Indefinite Quantity (IDIQ) contracts for non-personal construction project management, inspection and administrative support services for all phases of a construction project.</p>\\n\\n<p>CFLHD provides engineering and construction services on projects in the states of&nbsp;Arizona, California, Colorado, Hawaii, Kansas, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Utah, and Wyoming on behalf of&nbsp;Federal Land Management Agencies and other Agencies.&nbsp;These Agencies include: the National Park Service (NPS); USDA Forest Service (Forest Service); U.S. Fish and Wildlife Service (USFWS); Bure...",
-    "descriptionFull": "{\"description\":\"<p>The Federal Highway Administration, Central Federal Lands Highway Division (CFLHD), anticipates soliciting and awarding multiple Indefinite Delivery, Indefinite Quantity (IDIQ) contracts for non-personal construction project management, inspection and administrative support services for all phases of a construction project.</p>\\n\\n<p>CFLHD provides engineering and construction services on projects in the states of&nbsp;Arizona, California, Colorado, Hawaii, Kansas, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Utah, and Wyoming on behalf of&nbsp;Federal Land Management Agencies and other Agencies.&nbsp;These Agencies include: the National Park Service (NPS); USDA Forest Service (Forest Service); U.S. Fish and Wildlife Service (USFWS); Bureau of Indian Affairs (BIA) and Tribal Governments; Bureau of Land Management (BLM); Department of Defense (DOD); U.S. Army Corps of Engineers (USACE); and the Bureau of Reclamation (BOR). The shared capacity of the IDIQs will be $100 million.</p>\\n\\n<p>The acquisition will be solicited and awarded on a competitive basis and is being made under the North America Industry Classification Code 541330 and is open to all business concerns.&nbsp; CFLHD intends to award approximately five IDIQ contracts to include one award reserved for a small business concern, if qualified.&nbsp; The planned duration for the contracts is a total of five years.</p>\\n\\n<p>In support of onsite construction activities, the primary services work will predominantly consist of consultant onsite personnel, specifically, Contracting Officer&rsquo;s Technical Advisers, Construction Inspectors, and other related engineering and professional services.&nbsp; The projects include construction work on roadways, bridges, trails and encompass a wide range of work from new work to rehabilitation of existing remote environments.</p>\\n\\n<p>It is the Offerors&rsquo; responsibility to check SAM.gov as necessary for any posted changes to this notice and future solicitations or amendments.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": [
-        "remote"
-      ]
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": [
-        "onsite"
-      ]
-    },
-    "remotePossible": true,
-    "onsitePossible": false,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": true,
       "onsiteAllowedStates": [
         "AZ",
         "Arizona"
