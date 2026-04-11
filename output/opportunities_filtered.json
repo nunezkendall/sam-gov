@@ -408,90 +408,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "5b17357dc69943ef9e39e37b800b39a7",
-    "title": "DG10--RFI to SAM.gov -- Medialab Maint. Of Cert & Reg Compliance  Software.",
-    "solicitationNumber": "36C24126Q0329",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-11",
-    "responseDeadline": "2026-03-27T12:00:00-04:00",
-    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.241-NETWORK CONTRACT OFFICE 01 (36C241)",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "",
-      "state": "",
-      "zip": ""
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5b17357dc69943ef9e39e37b800b39a7/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5b17357dc69943ef9e39e37b800b39a7",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ecee49041c457fa617dddd2758321d/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61092b3e179a4670b35b7f74f7dd15f9/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"Sources Sought Notice 36C241-26-Q-0329\\nVISN 1 Laboratory/Pathology Department is seeking Software as a Service for Continuing Education, Competency Assessment, Document Control, Maintenance of Certification & Regulatory Compliance.\\n\\nTHIS IS A SOURCES SOUGHT NOTICE ONLY FOR VISN 1: This announcement is seeking information from the industry, which will be used for preliminary planning purposes for a One Year procurement with four (4) One Year Options. No proposals are being requested or accepted with this synopsis. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT SHALL BE AWARDED FROM THIS SYNOPSIS. THIS IS STRICTLY MARKET RESEARCH. \\n\\nThe purpose of this synopsis is to gain knowledge of interest, capabilities, and qualifications of various members of industry,...",
-    "descriptionFull": "{\"description\":\"Sources Sought Notice   36C241-26-Q-0329\\nVISN 1 Laboratory/Pathology Department is seeking Software as a Service for Continuing Education, Competency Assessment, Document Control, Maintenance of Certification & Regulatory Compliance.\\n\\nTHIS IS A SOURCES SOUGHT NOTICE ONLY FOR VISN 1: This announcement is seeking information from the industry, which will be used for preliminary planning purposes for a One Year procurement with four (4) One Year Options. No proposals are being requested or accepted with this synopsis. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT SHALL BE AWARDED FROM THIS SYNOPSIS.  THIS IS STRICTLY MARKET RESEARCH. \\n\\nThe purpose of this synopsis is to gain knowledge of interest, capabilities, and qualifications of various members of industry, who have the capability and are authorized to as a manufacturer and or distributor for this software, this is for a firm-fixed-price one (1) year contract with four (4) one-year options.    \\n\\nThe intent of this Sources Sought is to identify vendors in the open market or on contract who can fulfill the requirements as stated in the Performance Work Statement (PWS)included below. All items for the resulting contract shall be furnished by the selected vendor in accordance with the PWS. This notice is published to conduct market research to determine if there are a sufficient number of vendors in the open market or on contract who can supply this requirment in aggregate, while affording competition to the fullest extent possible.\\n\\nThis request is new and for a short duration. The turnaround time will be short to meet the need.   \\n\\nAll interested firms must be registered in SAM (System for Award Management) to be eligible for award of Government contracts. Interested parties responding to this Sources Sought request shall submit the following information at a minimum:\\n\\nCompany name and address point of contact with phone number, and DUNS number. \\n\\nDocumentation relating to capability of performance including the current point of contact and phone number. \\n\\nSocio-economic status to identify business class as being a large business, SDVOSB, VOSB, small business, Woman Owned, etc. \\n\\nAny other pertinent company documentation, prior to submission of offers to a solicitation. \\n\\n\\nAny SD/VOSB firms responding to this Sources Sought Notice must also provide proof of registration in the VA VetBiz or SBA Vet Cert, prior to submission of offers to a solicitation.\\n\\nThis market research is for informational and planning purposes. This is not a solicitation and does not obligate the Government to issue a solicitation. Please be advised the Government will not pay any costs for responses and information submitted.  All submissions are acceptable via julie.lemire1@va.gov.\\n    \\nRESULTS INFORMATION: Respondents will not be notified of the results, and it is at the discretion of the Government to utilize results. Firms responding to this Sources Sought announcement, who fail to meet all requirements as stated above, and who fail to provide ALL the required information requested, will not be used to help the Government make the acquisition decision, which is the intent of this source s sought announcement.\\n\\nPlease see attached - Performance Work Statement\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ecee49041c457fa617dddd2758321d/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 231709,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61092b3e179a4670b35b7f74f7dd15f9/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 19267,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "9b64938ee50c44d7a3ef21e2c58235bd",
     "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
     "solicitationNumber": "697DCK-25-R-00302",
@@ -887,90 +803,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "44aca020492f472aa4c2df915c3264f4",
-    "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers  AMENDMENT",
-    "solicitationNumber": "36C24526Q0376",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541511",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-24",
-    "responseDeadline": "2026-03-31T08:00:00-04:00",
-    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Linthicum Heights",
-      "state": "Maryland",
-      "zip": "21090"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/44aca020492f472aa4c2df915c3264f4/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=44aca020492f472aa4c2df915c3264f4",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7fe4032be3a34295b1d71342cb68a756/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c2cfffebb9fa401caf9ab8b25dfbd6b4/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"VISN 5 has a need for continual as-built drawing update service through a Blanket Purchase Agreement (BPA). VISN 5 is a fully integrated network of eight (8) VA medical campuses and multiple VA Community Clinics.\\n\"}",
-    "descriptionFull": "{\"description\":\"VISN 5 has a need for continual as-built drawing update service through a Blanket Purchase Agreement (BPA). VISN 5 is a fully integrated network of eight (8) VA medical campuses and multiple VA Community Clinics.\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7fe4032be3a34295b1d71342cb68a756/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 210656,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c2cfffebb9fa401caf9ab8b25dfbd6b4/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1136452,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "network",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "557c4bde13a245728eeb67e1a9268a3d",
     "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers",
     "solicitationNumber": "36C24526Q0376",
@@ -1049,81 +881,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "845608430c2848a6985fc6847ff9c59e",
-    "title": "ProSig Calibration Service",
-    "solicitationNumber": "N0017426Q1033",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541511",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-13",
-    "responseDeadline": "2026-03-27T10:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC INDIAN HEAD DIVISION",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Picatinny Arsenal",
-      "state": "New Jersey",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/845608430c2848a6985fc6847ff9c59e/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=845608430c2848a6985fc6847ff9c59e",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a738e3d846cd42258881aefcb3e72e70/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This is a<strong> </strong>combined synopsis/solicitation for commercial items prepared in accordance with Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in this notice. Naval Surface Warfare Center Indian Head Division (NSWC IHD), located in Indian Head, Maryland intends to award a firm fixed price (FFP) purchase order using Simplified Acquisition Procedures for<strong>:</strong><strong> </strong><strong>ProSig Calibration Service </strong>. This solicitation <strong>is small business set-aside</strong><strong>.</strong> This announcement constitutes the only solicitation. Quotes are being requested under Request for Quotation (RFQ) no. <strong>N0017426Q1033</strong><strong>. </strong>The NAICS code is <strong>...",
-    "descriptionFull": "{\"description\":\"<p>This is a<strong> </strong>combined synopsis/solicitation for commercial items prepared in accordance with Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in this notice. Naval Surface Warfare Center Indian Head Division (NSWC IHD), located in Indian Head, Maryland intends to award a firm fixed price (FFP) purchase order using Simplified Acquisition Procedures for<strong>:</strong><strong> </strong><strong>ProSig Calibration Service </strong>. This solicitation <strong>is small business set-aside</strong><strong>.</strong> This announcement constitutes the only solicitation. Quotes are being requested under Request for Quotation (RFQ) no. <strong>N0017426Q1033</strong><strong>. </strong>The NAICS code is <strong>541511</strong><strong>. </strong>The provisions and clauses included and/or incorporated in this solicitation<strong> </strong>document are those in effect through the Federal Acquisition Circular. This<strong> </strong>RFQ incorporates all provisions and clauses in effect through Federal Acquisition Circular FAC 2020-01 and the Defense Federal Acquisition Regulation Supplement (DFARS) DPN 20190531.</p>\\n\\n<p></p>\\n\\n<p>The Government will award a contract resulting from this solicitation to the responsible vendor whose quote, conforming to the solicitation that will be most advantageous to the Government, price and other factors considered. The Government intends to evaluate all timely quotes received from eligible vendors on a lowest price technically acceptable (LPTA) basis. The Government intends to evaluate quotations and award a contract without discussions with quoters. The Government intends to make an award based off this solicitation. &nbsp;The Government reserves the right to conduct discussions if the Contracting Officer later determines them to be necessary.</p>\\n\\n<p></p>\\n\\n<p>Evaluation Factors (in order of importance)</p>\\n\\n<ol>\\n\\t<li><strong>Technical &ndash; </strong>Quotes must reflect the required specifications included in the RFQ.</li>\\n\\t<li><strong>Price &ndash; </strong>Quotes must include all applicable costs.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p>Quote packages are due <strong>by 27th March 2026 10:00 AM EST</strong><strong>.&nbsp; </strong><strong>Late quotes will not be considered</strong>. <strong>Quote packages shall be sent to Jodi.l.fields.civ@us.navy.mil</strong> and contain a cover sheet that provides the following information:</p>\\n\\n<p></p>\\n\\n<p>1. Official Company Name;</p>\\n\\n<p>2. Point of contact including name and phone number; and</p>\\n\\n<p>3. DUNS number and Cage Code.</p>\\n\\n<p>The Points of Contact for this acquisition is</p>\\n\\n<ol>\\n\\t<li><strong>Jodi Fields, at Jodi.l.fields.civ@us.navy.mil </strong></li>\\n</ol>\\n\\n<p></p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a738e3d846cd42258881aefcb3e72e70/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1909605,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "New Jersey"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -1448,6 +1205,114 @@
     "updatedDate": null
   },
   {
+    "noticeId": "5a80794729fe4a94a012b104ece7a01a",
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "solicitationNumber": "N6600126R0002",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-10",
+    "responseDeadline": "2026-04-24T11:00:00-07:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "San Diego",
+      "state": "California",
+      "zip": "92152"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5a80794729fe4a94a012b104ece7a01a/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5a80794729fe4a94a012b104ece7a01a",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6966d9edd6e43d9848fad0a0b11093d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6248eeef6cf48de931d1685608193bc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faac8250dd2f4202bbc8a2841cabb491/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-20...",
+    "descriptionFull": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 -  A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted.  ---------------------  SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).  ---------------------UPDATE 3-19-2026: solicitation forthcoming.  ------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluation (RDTE) and Acquisition Center for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) and Information Operations (IO) is responsible for functions that include: mission analysis, assessment and development of technology base, basic and applied research, demonstration of technology, engineering in support of production, support to operating forces; supporting doctrine, policy, and strategy development; and integration of numerous National and Tactical systems in the area of Cyberspace Operations. To meet these responsibilities, NIWC Pacific requires advice, assistance, coordination and products necessary to support operational planning, assessment, integration, execution and technology development to assure superiority for the warfighter in the cyberspace domain. The full scope of this requirement is anticipated to include: technology assessment, development and transition; systems engineering; operational and technical support; exercise and experimentation support; software development and prototyping; training support; security engineering/cybersecurity. This is a follow-on requirement to a Multiple Award Contract (MAC) of the same title: Cyberspace Science, Research, Engineering and Technology Integration. A Small Business Set-Aside Cyberspace Science, Research, Engineering and Technology MAC (SBSA MAC) that covered a portion of the requirement was competed among small businesses was only awarded in 2017. The incumbent contract numbers for the Small Business MAC are N66001-17-D-0114 through -0117 and the incumbent contractors are Avanti Technologies Inc., Millennium Corporation, Sentar Inc., and Vector Planning and Services Inc. The ordering period of the predecessor SBSA MAC ended 07 March 2022. This follow-on procurement will be satisfied through one solicitation (which is the subject of this pre-solicitation notice) that will be competed among small businesses only. N66001-26-R-0002 is strictly a follow-on for the Small Business MAC. The full scope of the requirement is described in the attached Draft SOW. Only small businesses can compete for the SBSA multiple award contract (MAC). The follow-on for the SBSA MAC will be solicited at a future date estimated in Q2 2026. NIWC Pacific does not intend to hold an industry day for this requirement. This proposed acquisition has security requirements at the Top Secret level with incidental Secure Compartmented Information (SCI) access. NIWC Pacific intends on awarding multiple Indefinite Delivery/Indefinite Quantity (IDIQ) Cost Plus Fixed Fee (CPFF) type contracts. The prospective contracts will have a five-year base period with a two-year period. The estimated level of effort for the total SBSA requirement is 305,981 hours. The NAICS code for this procurement is 541330 with a size standard of $47 million. A Bidders Mailing List will not be established and hard copies of documents will not be provided. The solicitation will only be available electronically within the Procurement Integrated Enterprise Environment (PIEE) website at https://piee.eb.mil, under Notice. Any amendments, when issued, will also be available only on this web site. Matters posted on the web site are not terms of the solicitation unless the solicitation is written or amended to include such matters. FIRMS ARE ENCOURAGED TO REVIEW THE WEB SITE REGULARLY FOR UPDATED INFORMATION.  PIEE\ufffdAssistance:\ufffdFor\ufffdPIEE\ufffdtechnical issues,\ufffdsee the Vendor Customer Support resources at https://cac.piee.eb.mil/xhtml/auth/web/homepage/vendorCustomerSupport.xhtml.\ufffd\ufffd\ufffd  \"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 2418928,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 277889,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 36470,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 600807,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 45689,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "California"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "fc4c43cf7bd54906860a2b47bddf0297",
     "title": "110\u2019 WPB CRADLE AND SPREADER BAR RECERTIFICATION",
     "solicitationNumber": "70Z04026Q60746Y00",
@@ -1606,114 +1471,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "515f96d3a7a64f71afac097bfe8e0d59",
-    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-    "solicitationNumber": "N6600126R0002",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-09",
-    "responseDeadline": "2026-04-24T11:00:00-08:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "San Diego",
-      "state": "California",
-      "zip": "92152"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/515f96d3a7a64f71afac097bfe8e0d59/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=515f96d3a7a64f71afac097bfe8e0d59",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6966d9edd6e43d9848fad0a0b11093d/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6248eeef6cf48de931d1685608193bc/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faac8250dd2f4202bbc8a2841cabb491/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-20...",
-    "descriptionFull": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 -  A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted.  ---------------------  SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-2026 at 11:00 AM (Pacific Time).  ---------------------UPDATE 3-19-2026: solicitation forthcoming.  ------ Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC). This is the presolicitation notice relates to the Sources Sought notice https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view that was issued 23 April 2025. The Sources Sought notice (https://sam.gov/workspace/contract/opp/63ddc13959584ad19ec3578fe726e77c/view) is in an Inactive status when searching sam.gov. The Department of the Navy, Naval Information Warfare Center Pacific (NIWC Pacific) intends to issue solicitation No. N66001-26-R-0002 for professional and technical services to support Cyberspace Science, Research, Engineering, and Technology Integration. NIWC Pacific, as the principle Navy Research, Development, Test and Evaluation (RDTE) and Acquisition Center for Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance (C4ISR) and Information Operations (IO) is responsible for functions that include: mission analysis, assessment and development of technology base, basic and applied research, demonstration of technology, engineering in support of production, support to operating forces; supporting doctrine, policy, and strategy development; and integration of numerous National and Tactical systems in the area of Cyberspace Operations. To meet these responsibilities, NIWC Pacific requires advice, assistance, coordination and products necessary to support operational planning, assessment, integration, execution and technology development to assure superiority for the warfighter in the cyberspace domain. The full scope of this requirement is anticipated to include: technology assessment, development and transition; systems engineering; operational and technical support; exercise and experimentation support; software development and prototyping; training support; security engineering/cybersecurity. This is a follow-on requirement to a Multiple Award Contract (MAC) of the same title: Cyberspace Science, Research, Engineering and Technology Integration. A Small Business Set-Aside Cyberspace Science, Research, Engineering and Technology MAC (SBSA MAC) that covered a portion of the requirement was competed among small businesses was only awarded in 2017. The incumbent contract numbers for the Small Business MAC are N66001-17-D-0114 through -0117 and the incumbent contractors are Avanti Technologies Inc., Millennium Corporation, Sentar Inc., and Vector Planning and Services Inc. The ordering period of the predecessor SBSA MAC ended 07 March 2022. This follow-on procurement will be satisfied through one solicitation (which is the subject of this pre-solicitation notice) that will be competed among small businesses only. N66001-26-R-0002 is strictly a follow-on for the Small Business MAC. The full scope of the requirement is described in the attached Draft SOW. Only small businesses can compete for the SBSA multiple award contract (MAC). The follow-on for the SBSA MAC will be solicited at a future date estimated in Q2 2026. NIWC Pacific does not intend to hold an industry day for this requirement. This proposed acquisition has security requirements at the Top Secret level with incidental Secure Compartmented Information (SCI) access. NIWC Pacific intends on awarding multiple Indefinite Delivery/Indefinite Quantity (IDIQ) Cost Plus Fixed Fee (CPFF) type contracts. The prospective contracts will have a five-year base period with a two-year period. The estimated level of effort for the total SBSA requirement is 305,981 hours. The NAICS code for this procurement is 541330 with a size standard of $47 million. A Bidders Mailing List will not be established and hard copies of documents will not be provided. The solicitation will only be available electronically within the Procurement Integrated Enterprise Environment (PIEE) website at https://piee.eb.mil, under Notice. Any amendments, when issued, will also be available only on this web site. Matters posted on the web site are not terms of the solicitation unless the solicitation is written or amended to include such matters. FIRMS ARE ENCOURAGED TO REVIEW THE WEB SITE REGULARLY FOR UPDATED INFORMATION.  PIEE\ufffdAssistance:\ufffdFor\ufffdPIEE\ufffdtechnical issues,\ufffdsee the Vendor Customer Support resources at https://cac.piee.eb.mil/xhtml/auth/web/homepage/vendorCustomerSupport.xhtml.\ufffd\ufffd\ufffd  \"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 2418928,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 277889,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 36470,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 600807,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 45689,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "California"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -3235,6 +2992,83 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Florida"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "8d17eb88bebf4949a1978d5922d96417",
+    "title": "Construction Inspection IDIQ",
+    "solicitationNumber": "6982AF25R000016",
+    "type": "Solicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-10",
+    "responseDeadline": "2026-05-11T14:00:00-06:00",
+    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/8d17eb88bebf4949a1978d5922d96417/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8d17eb88bebf4949a1978d5922d96417",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/29a6828bf4cc49829654da1b2e66cd19/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Request for Qualifications (RFQ)</p>\\n\\n<p>The Federal Highway Administration, Central Federal Lands Highway Division (CFLHD), anticipates soliciting and awarding multiple Indefinite Delivery, Indefinite Quantity (IDIQ) contracts for A-E services with a single reserve for one (1) small business concern, if qualified.</p>\\n\\n<p>CFLHD provides engineering and construction services on projects in the states of Arizona, California, Colorado, Hawaii, Kansas, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Utah, and Wyoming on behalf of Federal Land Management Agencies and other Agencies.&nbsp; These Agencies include: the National Park Service (NPS); USDA Forest Service (Forest Service); U.S. Fish and Wildlife Service (USFWS); Bureau of Indian Aff...",
+    "descriptionFull": "{\"description\":\"<p>Request for Qualifications (RFQ)</p>\\n\\n<p>The Federal Highway Administration, Central Federal Lands Highway Division (CFLHD), anticipates soliciting and awarding multiple Indefinite Delivery, Indefinite Quantity (IDIQ) contracts for A-E services with a single reserve for one (1) small business concern, if qualified.</p>\\n\\n<p>CFLHD provides engineering and construction services on projects in the states of Arizona, California, Colorado, Hawaii, Kansas, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, South Dakota, Texas, Utah, and Wyoming on behalf of Federal Land Management Agencies and other Agencies.&nbsp; These Agencies include: the National Park Service (NPS); USDA Forest Service (Forest Service); U.S. Fish and Wildlife Service (USFWS); Bureau of Indian Affairs (BIA) and Tribal Governments; Bureau of Land Management (BLM); Department of Defense (DOD); U.S. Army Corps of Engineers (USACE); and the Bureau of Reclamation (BOR). The shared capacity of the IDIQs will be $100 million.&nbsp;</p>\\n\\n<p>The acquisition will be solicited and awarded on a competitive basis and is being made under the North America Industry Classification Code 541330 and is open to all business concerns.&nbsp; The planned duration for the contracts is a total of five years.</p>\\n\\n<p>Projects are typically located in remote and environmentally sensitive areas.&nbsp; Project topography type and climatic zones vary greatly including coastal, mountainous, desert and plains regions.&nbsp; Projects will primarily involve improvements to low-volume and low-speed roadways ranging from 3R (resurfacing, restoration and rehabilitation) to full reconstruction.</p>\\n\\n<p>NOTE:&nbsp; Information on the submission DUE DATE will be stated in the solicitation.&nbsp; Offerors MUST register in the System for Award Management (SAM) at https://sam.gov/.</p>\\n\\n<p>It is the Offerors&rsquo; responsibility to check the internet address provided as necessary for any posted changes to this notice and future solicitations or amendments.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/29a6828bf4cc49829654da1b2e66cd19/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1674223,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,

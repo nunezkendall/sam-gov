@@ -997,74 +997,6 @@
     ]
   },
   {
-    "noticeId": "5b17357dc69943ef9e39e37b800b39a7",
-    "title": "DG10--RFI to SAM.gov -- Medialab Maint. Of Cert & Reg Compliance  Software.",
-    "solicitationNumber": "36C24126Q0329",
-    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.241-NETWORK CONTRACT OFFICE 01 (36C241)",
-    "fullParentPathCode": "036.3600.36C241",
-    "postedDate": "2026-03-11",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-04-26",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-27T12:00:00-04:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "DG10",
-    "active": "Yes",
-    "award": {
-      "awardee": {}
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "Julie.Lemire1@va.gov",
-        "phone": "781-226-8882",
-        "title": "Contracting Specialist",
-        "fullName": "Julie Lemire"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5b17357dc69943ef9e39e37b800b39a7",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "04330",
-      "city": "TOGUS",
-      "countryCode": "USA",
-      "state": "ME"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "Department of Veteran Affairs VAMC - VISN 01",
-      "streetAddress2": "All Sites Per PWS",
-      "city": {
-        "name": ""
-      },
-      "state": {
-        "name": ""
-      },
-      "zip": "",
-      "country": {
-        "name": ""
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5b17357dc69943ef9e39e37b800b39a7/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5b17357dc69943ef9e39e37b800b39a7&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ecee49041c457fa617dddd2758321d/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61092b3e179a4670b35b7f74f7dd15f9/download"
-    ]
-  },
-  {
     "noticeId": "9b64938ee50c44d7a3ef21e2c58235bd",
     "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
     "solicitationNumber": "697DCK-25-R-00302",
@@ -1925,77 +1857,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "44aca020492f472aa4c2df915c3264f4",
-    "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers  AMENDMENT",
-    "solicitationNumber": "36C24526Q0376",
-    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
-    "fullParentPathCode": "036.3600.36C245",
-    "postedDate": "2026-03-24",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-05-30",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-31T08:00:00-04:00",
-    "naicsCode": "541511",
-    "naicsCodes": [
-      "541511"
-    ],
-    "classificationCode": "R425",
-    "active": "Yes",
-    "award": {
-      "awardee": {}
-    },
-    "pointOfContact": [
-      {
-        "fax": "NONE",
-        "type": "primary",
-        "email": "Keysha.Gorman74@va.gov",
-        "phone": "NONE",
-        "title": "CONTRACT SPECIALIST",
-        "fullName": "KEYSHA GORMAN"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=44aca020492f472aa4c2df915c3264f4",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "21090",
-      "city": "LINTHICUM",
-      "countryCode": "USA",
-      "state": "MD"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "Department of Veterans Affairs VISN 5 | NCO 5",
-      "streetAddress2": "SUITE 275 849 INTERNATIONAL DRIVE",
-      "city": {
-        "code": "47150",
-        "name": "Linthicum Heights"
-      },
-      "state": {
-        "code": "MD",
-        "name": "Maryland"
-      },
-      "zip": "21090",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/44aca020492f472aa4c2df915c3264f4/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=44aca020492f472aa4c2df915c3264f4&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7fe4032be3a34295b1d71342cb68a756/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c2cfffebb9fa401caf9ab8b25dfbd6b4/download"
-    ]
-  },
-  {
     "noticeId": "557c4bde13a245728eeb67e1a9268a3d",
     "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers",
     "solicitationNumber": "36C24526Q0376",
@@ -2064,79 +1925,6 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/376ac89a2f0e41a4aec04158a5fb917e/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd0cb70520df41439f1f91b0c4a99166/download"
-    ]
-  },
-  {
-    "noticeId": "845608430c2848a6985fc6847ff9c59e",
-    "title": "ProSig Calibration Service",
-    "solicitationNumber": "N0017426Q1033",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC INDIAN HEAD DIVISION",
-    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00174",
-    "postedDate": "2026-03-13",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-11",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-27T10:00:00-04:00",
-    "naicsCode": "541511",
-    "naicsCodes": [
-      "541511"
-    ],
-    "classificationCode": "J066",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "jodi.l.fields.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "JODI FIELDS"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "lawrence.j.connell.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Lawrence J. Connell"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=845608430c2848a6985fc6847ff9c59e",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20640-1533",
-      "city": "INDIAN HEAD",
-      "countryCode": "USA",
-      "state": "MD"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "58410",
-        "name": "Picatinny Arsenal"
-      },
-      "state": {
-        "code": "NJ",
-        "name": "New Jersey"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/845608430c2848a6985fc6847ff9c59e/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=845608430c2848a6985fc6847ff9c59e&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a738e3d846cd42258881aefcb3e72e70/download"
     ]
   },
   {
@@ -2818,60 +2606,6 @@
     ]
   },
   {
-    "noticeId": "6c8b1f81a4df46c69d6fcfa342828720",
-    "title": "R--PIAD IDIQ Support Services",
-    "solicitationNumber": "1305M226Q0026",
-    "fullParentPathName": "COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA",
-    "fullParentPathCode": "013.1330.1305M2",
-    "postedDate": "2026-03-18",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-11",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-27T10:00:00-04:00",
-    "naicsCode": "541690",
-    "naicsCodes": [
-      "541690"
-    ],
-    "classificationCode": "R425",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "JENNIFER.PETERS@NOAA.GOV",
-        "phone": "7574416475",
-        "title": null,
-        "fullName": "PETERS, JENNIFER"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6c8b1f81a4df46c69d6fcfa342828720",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "23510",
-      "city": "NORFOLK",
-      "countryCode": "USA",
-      "state": "VA"
-    },
-    "placeOfPerformance": {
-      "city": {},
-      "state": {},
-      "country": {}
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/6c8b1f81a4df46c69d6fcfa342828720/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=6c8b1f81a4df46c69d6fcfa342828720&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
     "noticeId": "bf17aa33b2f5402c88da46e66c8686ac",
     "title": "INDO-PACIFIC ENERGY AND CRITICAL MINERALS PROJECT SCOPING SERVICES",
     "solicitationNumber": "1131PL26R0015",
@@ -3020,6 +2754,88 @@
     "resourceLinks": null
   },
   {
+    "noticeId": "5a80794729fe4a94a012b104ece7a01a",
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "solicitationNumber": "N6600126R0002",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
+    "fullParentPathCode": "017.1700.SPAWAR.SPAWAR PACIFIC.N66001",
+    "postedDate": "2026-04-10",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-01",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-24T11:00:00-07:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "AC12",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "eric.r.pomroy.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Eric Pomroy"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "jacob.p.ward.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Jacob Ward"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5a80794729fe4a94a012b104ece7a01a",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "92152-5001",
+      "city": "SAN DIEGO",
+      "countryCode": "USA",
+      "state": "CA"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "53560 Hull Street, San Diego, California 92152-5001",
+      "city": {
+        "code": "66000",
+        "name": "San Diego"
+      },
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "92152",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/5a80794729fe4a94a012b104ece7a01a/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5a80794729fe4a94a012b104ece7a01a&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6966d9edd6e43d9848fad0a0b11093d/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6248eeef6cf48de931d1685608193bc/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faac8250dd2f4202bbc8a2841cabb491/download"
+    ]
+  },
+  {
     "noticeId": "fc4c43cf7bd54906860a2b47bddf0297",
     "title": "110\u2019 WPB CRADLE AND SPREADER BAR RECERTIFICATION",
     "solicitationNumber": "70Z04026Q60746Y00",
@@ -3151,88 +2967,6 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3da7d87fefb24d0d8ae846b368b011cb/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6128bb4dcdc14f12a25104f2b577f38d/download"
-    ]
-  },
-  {
-    "noticeId": "515f96d3a7a64f71afac097bfe8e0d59",
-    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-    "solicitationNumber": "N6600126R0002",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-    "fullParentPathCode": "017.1700.SPAWAR.SPAWAR PACIFIC.N66001",
-    "postedDate": "2026-04-09",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-05-01",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-24T11:00:00-08:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "AC12",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "eric.r.pomroy.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Eric Pomroy"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "jacob.p.ward.civ@us.navy.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Jacob Ward"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=515f96d3a7a64f71afac097bfe8e0d59",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "92152-5001",
-      "city": "SAN DIEGO",
-      "countryCode": "USA",
-      "state": "CA"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "53560 Hull Street, San Diego, California 92152-5001",
-      "city": {
-        "code": "66000",
-        "name": "San Diego"
-      },
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "92152",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/515f96d3a7a64f71afac097bfe8e0d59/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=515f96d3a7a64f71afac097bfe8e0d59&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/247b97a14ba747f08f7e11e3a753afc1/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/694496782194402ca9efdb3f2105d433/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79efdd7df05a4426b8dd10e3228e52b6/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f6a27f0f4ee4234b11d6fb4db8e1754/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/991d3fba651940c4857bbb26037456aa/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6966d9edd6e43d9848fad0a0b11093d/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6248eeef6cf48de931d1685608193bc/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/faac8250dd2f4202bbc8a2841cabb491/download"
     ]
   },
   {
@@ -5033,81 +4767,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "7bde55bbd8924ed3a98aba7a1e70d22c",
-    "title": "Bridge Inspection and Assessment - Prescott NF",
-    "solicitationNumber": "127EAX26Q0013",
-    "fullParentPathName": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA SOUTHWEST 7",
-    "fullParentPathCode": "012.12C2.127EAX",
-    "postedDate": "2026-03-23",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-11",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-27T13:00:00-07:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C213",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "blaine.greenwalt@usda.gov",
-        "phone": "",
-        "title": null,
-        "fullName": "Blaine Greenwalt"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7bde55bbd8924ed3a98aba7a1e70d22c",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "871023498",
-      "city": "Albuquerque",
-      "countryCode": "USA",
-      "state": "NM"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "17390",
-        "name": "Crown King"
-      },
-      "state": {
-        "code": "AZ",
-        "name": "Arizona"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/7bde55bbd8924ed3a98aba7a1e70d22c/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=7bde55bbd8924ed3a98aba7a1e70d22c&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ee4eb9326f24ba0bc5746b51636950f/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1bf1ccdee2e746b8b48cf6d59fd47cb0/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/791c77fe10b344109ebca5943b5ed042/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9199198aa4394bc8a768d3df1aed7533/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9318dd44889f4b2cb41a9351436389a1/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a09844139f2c487796dcb761a5f5cee8/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7f34166ec6d4eb0a0e6c9def207d689/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c255652fa52845188932d931a35b6f5b/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d8b9aff8327745b0acc83cc9b58dafce/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dfac16164a4446a986bf9f18c840fad1/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f2d5febf7be645a6903bd6e72c35afa8/download"
-    ]
-  },
-  {
     "noticeId": "9252a07649844bed80c9d602e9d079ce",
     "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
     "solicitationNumber": "N66001-26-R-3506",
@@ -5588,59 +5247,68 @@
     ]
   },
   {
-    "noticeId": "5f562c21f2cc42518b3ccb15ee6ea091",
-    "title": "C--WY BRIDGE INSPECTIONS",
-    "solicitationNumber": "140R6026Q0042",
-    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.BUREAU OF RECLAMATION.GREAT PLAINS REGIONAL OFFICE",
-    "fullParentPathCode": "014.1425.140R60",
-    "postedDate": "2026-03-11",
-    "type": "Presolicitation",
+    "noticeId": "8d17eb88bebf4949a1978d5922d96417",
+    "title": "Construction Inspection IDIQ",
+    "solicitationNumber": "6982AF25R000016",
+    "fullParentPathName": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
+    "fullParentPathCode": "069.6925.6982AF",
+    "postedDate": "2026-04-10",
+    "type": "Solicitation",
     "baseType": "Presolicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-04-30",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-26T11:00:00-05:00",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-26",
+    "typeOfSetAsideDescription": "Partial Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBP",
+    "responseDeadLine": "2026-05-11T14:00:00-06:00",
     "naicsCode": "541330",
     "naicsCodes": [
       "541330"
     ],
-    "classificationCode": "C213",
+    "classificationCode": "C219",
     "active": "Yes",
     "award": null,
     "pointOfContact": [
       {
-        "fax": null,
+        "fax": "",
         "type": "primary",
-        "email": "NOslund@usbr.gov",
-        "phone": "0000000000",
+        "email": "CflContracts@dot.gov",
+        "phone": "",
         "title": null,
-        "fullName": "Oslund, Natalie"
+        "fullName": "Douglas Whitcomb"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "CflContracts@dot.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Kelly Palmer"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5f562c21f2cc42518b3ccb15ee6ea091",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8d17eb88bebf4949a1978d5922d96417",
     "organizationType": "OFFICE",
     "officeAddress": {
-      "zipcode": "59101",
-      "city": "BILLINGS",
+      "zipcode": "80228",
+      "city": "LAKEWOOD",
       "countryCode": "USA",
-      "state": "MT"
+      "state": "CO"
     },
     "placeOfPerformance": {
-      "city": {},
-      "state": {},
-      "country": {}
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
     },
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5f562c21f2cc42518b3ccb15ee6ea091/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/8d17eb88bebf4949a1978d5922d96417/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5f562c21f2cc42518b3ccb15ee6ea091&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8d17eb88bebf4949a1978d5922d96417&limit=1"
       }
     ],
     "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ceacbd9144b34851b1a8a37bccb26ffb/download"
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/29a6828bf4cc49829654da1b2e66cd19/download"
     ]
   },
   {
