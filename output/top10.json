@@ -1,8 +1,8 @@
 [
   {
     "noticeId": "4a962a63d536421abe3570617fb3aea3",
-    "reason": "Direct AWS cloud hosting and system administration support aligned with DevOps and Linux expertise.",
-    "overallScore": 73,
+    "reason": "Direct AWS cloud hosting and system administration support aligned with DevOps capabilities.",
+    "overallScore": 78,
     "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Sciences",
     "uiLink": "https://sam.gov/workspace/contract/opp/4a962a63d536421abe3570617fb3aea3/view",
     "descriptionSnippet": "{\"description\":\"<p>The Institute of Education Sciences (IES) plans to award a new task order for support of its web operations by providing cloud hosting, system administration, and website administration and critical feature development, and user, staff and developer support. IES currently maintains a virtual data center hosted in Amazon Web Services (AWS). The primary function of the data center is to host survey collection and dissemination websites in support of IES&rsquo; mission. This includes web servers, database servers, a vast array of websites and data driven web applications, a system management and web development environment, terminal servers housing analytical and statistical software, and other system support servers.</p>\\n\"}",
@@ -12,8 +12,8 @@
   },
   {
     "noticeId": "1bbdd73b40524c718932badd94ed619f",
-    "reason": "Server-side automation and developer training; contained, automation-focused effort.",
-    "overallScore": 58,
+    "reason": "Software automation implementation and training; manageable professional services scope.",
+    "overallScore": 61,
     "title": "APRYSE ActivePDF software includes License and maintenance software",
     "uiLink": "https://sam.gov/workspace/contract/opp/1bbdd73b40524c718932badd94ed619f/view",
     "descriptionSnippet": "{\"description\":\"<p>**THIS IS A REQUEST FOR INFORMATION ONLY**</p>\\n\\n<p>Professional Services needed to support the implementation of APRYSE ActivePDF software includes License and maintenance software for is a suite of server-side automation tools and software development kits (SDKs) used primarily by developers to embed PDF creation, conversion, and manipulation capabilities into enterprise-grade applications. Following its acquisition by Apryse (formerly PDFTron), the brand continues to specialize in high-volume, automated document processing. High-Volume Document Generation: Automatically creating thousands or millions of documents like invoices, statements, and reports from dynamic data sources or database reports. Automated File Conversion: Converting anything &quot;printable&quot...",
@@ -22,19 +22,8 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "f26c561962ea438ba50148bbdb0d00d4",
-    "reason": "API security, monitoring, and integration align with Python and DevOps capabilities.",
-    "overallScore": 57,
-    "title": "USDA STRATUS GUS B2G Support Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/f26c561962ea438ba50148bbdb0d00d4/view",
-    "descriptionSnippet": "{\"description\":\"<p>Rural Development Technology Office (RD TO) Cybersecurity Division (CSD) will have administrative, technical and operational oversight of the API SME to ensure mission and business objectives are achieved while keeping security in the forefront. The API SME will be responsible for the end-to-end lifecycle of API oversight, security, ensuring robust, scalable, and secure interfaces for residential mortgage-related applications.<em> </em>This acquisition is to provide the Cybersecurity Division (CSD) with administrative, technical and operational oversight of the API SME but not limited to:</p>\\n\\n<ul>\\n\\t<li>Reviewing and validating API architectures for residential mortgage-related applications.</li>\\n\\t<li>Implementing security best practices for API authentication, ...",
-    "responseDeadline": "2026-04-12T16:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "6675d6fb274346a6a950eeb1e52a4704",
-    "reason": "Data migration and platform integration suitable for small DevOps team.",
+    "reason": "Data migration and platform integration aligns with cloud and DevOps skills.",
     "overallScore": 56,
     "title": "Data Migration RFI",
     "uiLink": "https://sam.gov/workspace/contract/opp/6675d6fb274346a6a950eeb1e52a4704/view",
@@ -44,20 +33,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "5a80794729fe4a94a012b104ece7a01a",
-    "reason": "Cyber and software development MAC highly relevant though more complex.",
-    "overallScore": 48,
-    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/5a80794729fe4a94a012b104ece7a01a/view",
-    "descriptionSnippet": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-20...",
-    "responseDeadline": "2026-04-24T11:00:00-07:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "56add1e18ba84049a39d408a46362aff",
-    "reason": "Automation operations support with data-centric focus.",
-    "overallScore": 43,
+    "reason": "Automation and data-centric operations support with partial DevOps relevance.",
+    "overallScore": 49,
     "title": "Intelligence and Automation Operations",
     "uiLink": "https://sam.gov/workspace/contract/opp/56add1e18ba84049a39d408a46362aff/view",
     "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
@@ -66,31 +44,20 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "39825fd86b46449d8aaa9c20c2e29079",
-    "reason": "IT lifecycle sustainment relevant to DevOps though enterprise scale.",
-    "overallScore": 42,
-    "title": "Navy Shore Sustainment Support (N3S)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/39825fd86b46449d8aaa9c20c2e29079/view",
-    "descriptionSnippet": "{\"description\":\"*** This Sources Sought Notice is for SEAPORT NxG SMALL BUSINESS MAC HOLDERS ONLY. No other offers will be considered. SEAPORT Small Business MAC holders will need to register for PIEE accounts in order to receive market survey requests, solicitations and submit proposals/offers.*** Naval Information Warfare Center Atlantic (NIWC Atlantic) is issuing this Market Survey for determining Small Business capabilities and is soliciting information from potential sources to provide systems lifecycle sustainment support for the Information Technology (IT) and Operational Technology (OT) systems and management support services to NIWC Atlantic in support of Commander Navy Installations Command (CNIC) N6 Regions, Continental United States (CONUS) and Outside the Continental United...",
-    "responseDeadline": "2026-04-10T12:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "8baecca2ad24485ca2659b7fbefe5482",
-    "reason": "Digital platform subscription with remote usability testing; moderate complexity.",
-    "overallScore": 42,
-    "title": "Digital Content Evaluation and Analysis Platform License Subscription for CDC Office of Communication",
-    "uiLink": "https://sam.gov/workspace/contract/opp/8baecca2ad24485ca2659b7fbefe5482/view",
-    "descriptionSnippet": "{\"description\":\"<p>Amendment 2 is being issued to extend the due date for quotes. The new due date is Monday, March 30, 2026 and the time they&#39;re due is 12:00 PM EDT. No other changes are being made to the solicitation.</p>\\n\\n<p></p>\\n\\n<p>Amendment 1 is being issued to upload the Q&amp;A document and an amended copy of the solicitation. The due date has been moved to March 26, 2026 at 12:00 PM EDT.</p>\\n\\n<p></p>\\n\\n<p>The purpose of this acquisition is to procure license subscription access for a digital evaluation and analysis platform for CDC digital content. The license subscription shall provide an online solution that offers a digital usability testing platform designed to conduct several types of rapid online user tests remotely on both desktop and mobile platforms, and inc...",
-    "responseDeadline": "2026-03-30T12:00:00-04:00",
+    "noticeId": "03bca6ce2bb54104a50f55d8ed32331e",
+    "reason": "Application operations and maintenance with potential DevOps alignment.",
+    "overallScore": 46,
+    "title": "HURREVAC and RtePM - Operations and Maintenance (O and M)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/03bca6ce2bb54104a50f55d8ed32331e/view",
+    "descriptionSnippet": "{\"description\":\"This is an operations, maintenance, and development of HURREVAC (HURRicane EVACuation) program and its sub-component (i.e., Real Time Evacuation Planning Model RteP]). This will be a Firm Fixed Price Contract with a three (3) year period of performance. Solicitation will be posted to SAM.gov on or about 15 April 2026 at 1300 est. \"}",
+    "responseDeadline": "2026-04-15T13:00:00-05:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "804ee46828fa4b97a178bc8cef7b66d5",
-    "reason": "Network engineering support aligned with Linux/network skills.",
-    "overallScore": 41,
+    "reason": "Network engineering support relevant to Linux and infrastructure expertise.",
+    "overallScore": 45,
     "title": "Network Engineering Support Seaport",
     "uiLink": "https://sam.gov/workspace/contract/opp/804ee46828fa4b97a178bc8cef7b66d5/view",
     "descriptionSnippet": "{\"description\":\"This requirement is for NSWCPD Codes 542 and 543, which are responsible for Hull, Mechanical and Electrical (HM and E) and Navigation Networks. This requirement is for engineering support services. This effort shall provide engineering, technical and administrative services required for the design, development, integration, configuration, testing, troubleshooting, repair, maintenance and fleet sustainment of IC Data Networks and associated user systems. NOTE: Type of Contract: This will be a Cost-Plus-Fixed-Fee (CPFF) Task Order that will be competed under the SeaPort-NXG Multiple Award Contract (MAC) amongst all Small Business MAC holders. \"}",
@@ -99,13 +66,46 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "9252a07649844bed80c9d602e9d079ce",
+    "reason": "Network engineering and integration support aligned with infrastructure background.",
+    "overallScore": 40,
+    "title": "Naval Enterprise Networks (NEN) and Integrated Product Team (IPT) Engineering, Integration, and Program Management",
+    "uiLink": "https://sam.gov/workspace/contract/opp/9252a07649844bed80c9d602e9d079ce/view",
+    "descriptionSnippet": "{\"description\":\"Update Number 0001: The purpose of this amendment is to assist interested offerors in preparing their responses offline, a PDF copy of the full market survey questionnaire has been added to the attachments/links section of this notice. The Contractor shall provide program engineering and IPT management services directly to the NIWC Pacific NEN program office and its procurement and installation efforts. The Contractor shall perform program planning, engineering and integration, project management (PM), and technical analysis. Attached to this notice are the official Market Survey document and a consolidated Question and Answer (QA) document. The QA provides responses to all timely questions received from interested parties regarding this requirement. \"}",
+    "responseDeadline": "2026-03-24T15:00:00-07:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "5a80794729fe4a94a012b104ece7a01a",
+    "reason": "Cyber and software development MAC highly relevant technically though complex.",
+    "overallScore": 37,
+    "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/5a80794729fe4a94a012b104ece7a01a/view",
+    "descriptionSnippet": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-20...",
+    "responseDeadline": "2026-04-24T11:00:00-07:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "9d889e1d4028465d8895c353efdfbdf8",
-    "reason": "Fiber optic networking support with technical IT components.",
-    "overallScore": 38,
+    "reason": "Fiber optic networking support aligned with infrastructure experience.",
+    "overallScore": 36,
     "title": "A30 FiberOptic Waterfront Cabling Support",
     "uiLink": "https://sam.gov/workspace/contract/opp/9d889e1d4028465d8895c353efdfbdf8/view",
     "descriptionSnippet": "{\"description\":\"<p>***THIS IS A SEAPORT-NXG REQUIREMENT. ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement for fiber optic networking support for the U.S. Navy. This includes Research and Development of new technical capabilities, Ship Construction support for all classes of Navy Warships, Operations and Maintenance of fielded fiber optic cable systems and plants.</p>\\n\"}",
     "responseDeadline": "2026-04-27T12:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "39825fd86b46449d8aaa9c20c2e29079",
+    "reason": "IT lifecycle sustainment support relevant to infrastructure and automation.",
+    "overallScore": 35,
+    "title": "Navy Shore Sustainment Support (N3S)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/39825fd86b46449d8aaa9c20c2e29079/view",
+    "descriptionSnippet": "{\"description\":\"*** This Sources Sought Notice is for SEAPORT NxG SMALL BUSINESS MAC HOLDERS ONLY. No other offers will be considered. SEAPORT Small Business MAC holders will need to register for PIEE accounts in order to receive market survey requests, solicitations and submit proposals/offers.*** Naval Information Warfare Center Atlantic (NIWC Atlantic) is issuing this Market Survey for determining Small Business capabilities and is soliciting information from potential sources to provide systems lifecycle sustainment support for the Information Technology (IT) and Operational Technology (OT) systems and management support services to NIWC Atlantic in support of Commander Navy Installations Command (CNIC) N6 Regions, Continental United States (CONUS) and Outside the Continental United...",
+    "responseDeadline": "2026-04-10T12:00:00-05:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   }
