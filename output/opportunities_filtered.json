@@ -2918,77 +2918,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "d2be083f09314c36a918aa90f5157e6c",
-    "title": "Synopsis",
-    "solicitationNumber": "FA890326R0011",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-01",
-    "responseDeadline": "2026-04-14T14:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8903  772 ESS PK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": ""
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/d2be083f09314c36a918aa90f5157e6c/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d2be083f09314c36a918aa90f5157e6c",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"This is a formal synopsis requesting SF 330 submissions, FA890326R0011, for a Multiple Award Task Order Contract for Resilient Architect-Engineering Services for the United States and Outlying Areas, issued by the Air Force Installation Contracting Center, 772nd Enterprise Sourcing Squadron at JBSA-Lackland, TX. The Air Force intends to award an Indefinite Delivery Indefinite Quantity contract with a total shared ceiling of 3.4 Billion dollars to support Facility Sustainment, Restoration and Modernization and Military Construction Title I and Title II projects. This solicitation is being issued as an Unrestricted Pool and a Partial Small Business Set-Aside Pool. This notice constitutes the formal request for interested and qualified firms to submit their qualifications v...",
-    "descriptionFull": "{\"description\":\"This is a formal synopsis requesting SF 330 submissions, FA890326R0011, for a Multiple Award Task Order Contract for Resilient Architect-Engineering Services for the United States and Outlying Areas, issued by the Air Force Installation Contracting Center, 772nd Enterprise Sourcing Squadron at JBSA-Lackland, TX. The Air Force intends to award an Indefinite Delivery Indefinite Quantity contract with a total shared ceiling of 3.4 Billion dollars to support Facility Sustainment, Restoration and Modernization and Military Construction Title I and Title II projects. This solicitation is being issued as an Unrestricted Pool and a Partial Small Business Set-Aside Pool. This notice constitutes the formal request for interested and qualified firms to submit their qualifications via the Standard Form 330, Architect-Engineer Qualifications. All SF330 submissions must be received electronically through the Procurement Integrated Enterprise Environment Solicitation Module by 14 April 2026, no later than 2:00 PM Central Daylight Time. Submissions received after this date and time will be considered late and may not be evaluated. Emailed or hard copy submissions will not be accepted. It is the offerors responsibility to be registered in PIEE and to ensure their submission is fully uploaded and received by the Government by the specified deadline. Full details regarding submission requirements, evaluation criteria, and project scope are contained within the official solicitation documents attached to this notice in PIEE. The question and answer period for this solicitation is closed and no further questions will be accepted. The points of contact are Samuel L Mendez II, Contracting Officer, at samuel.mendez at us.af.mil, and Monica Gallegos, Contract Specialist, at monica.gallegos at us.af.mil. For general inquiries, please use the workflow email at aficc.raes.workflow at us.af.mil.The synopsis has been revised to incorporate the final Questions and Answers. All parties are advised to review the updated synopsis thoroughly. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "modernization",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "modernization",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "5062c1e8f7a94f4a86f974275d8211ee",
+    "noticeId": "e0270f6bf610448faef3a4398de14692",
     "title": "Uninterruptible Power Systems (UPS) Maintenance and Repair",
     "solicitationNumber": "W912KC26RA004",
     "type": "Combined Synopsis/Solicitation",
@@ -2996,7 +2926,7 @@
     "naicsCode": "518210",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-04-06",
+    "postedDate": "2026-04-13",
     "responseDeadline": "2026-04-20T17:00:00-04:00",
     "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO PA.USPFO PA PROCUREMENT.W7NX USPFO ACTIVITY PA ARNG",
     "office": "",
@@ -3006,11 +2936,12 @@
       "zip": "17003"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5062c1e8f7a94f4a86f974275d8211ee/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5062c1e8f7a94f4a86f974275d8211ee",
+      "uiLink": "https://sam.gov/workspace/contract/opp/e0270f6bf610448faef3a4398de14692/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e0270f6bf610448faef3a4398de14692",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e27af717fb4489a9e851ddd442c120a/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbbc297a7a8540fe8497c16beffa4132/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2dceafcc2c643c9a1dc82a5d5910d53/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f10d733eecdb49e6973df447012ee33b/download"
@@ -3023,6 +2954,12 @@
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
         "contentType": "application/octet-stream",
         "byteSize": 497760,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e27af717fb4489a9e851ddd442c120a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 88593,
         "textSnippet": ""
       },
       {

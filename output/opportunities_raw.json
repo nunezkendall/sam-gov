@@ -1094,19 +1094,19 @@
     ]
   },
   {
-    "noticeId": "dcce1d0931ac4257b999fcb4d88c3a0a",
+    "noticeId": "beaf16c01e034d65895883b9fa95aca7",
     "title": "VTC Equipment and Installation for Secure Conference Room",
     "solicitationNumber": "F4FDBM6057A001",
     "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.FA8604  AFLCMC PZI",
     "fullParentPathCode": "057.5700.AFMC.AFLCMC.FA8604",
-    "postedDate": "2026-04-08",
+    "postedDate": "2026-04-13",
     "type": "Combined Synopsis/Solicitation",
     "baseType": "Combined Synopsis/Solicitation",
     "archiveType": "auto15",
-    "archiveDate": "2026-04-29",
+    "archiveDate": "2026-05-05",
     "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
     "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-14T11:00:00-04:00",
+    "responseDeadLine": "2026-04-20T11:00:00-04:00",
     "naicsCode": "541512",
     "naicsCodes": [
       "541512"
@@ -1124,7 +1124,7 @@
         "fullName": "tyler fruhwirth"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=dcce1d0931ac4257b999fcb4d88c3a0a",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=beaf16c01e034d65895883b9fa95aca7",
     "organizationType": "OFFICE",
     "officeAddress": {
       "zipcode": "45433-7228",
@@ -1148,16 +1148,17 @@
       }
     },
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/dcce1d0931ac4257b999fcb4d88c3a0a/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/beaf16c01e034d65895883b9fa95aca7/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=dcce1d0931ac4257b999fcb4d88c3a0a&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=beaf16c01e034d65895883b9fa95aca7&limit=1"
       }
     ],
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5da76e00cbb44563a2b4651e889209a5/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/77c97ecaceb841d9b0d9e5ff0af02b74/download"
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/77c97ecaceb841d9b0d9e5ff0af02b74/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c919da3047a24961b3ce02b4de8c3271/download"
     ]
   },
   {
@@ -1863,6 +1864,102 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/376ac89a2f0e41a4aec04158a5fb917e/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd0cb70520df41439f1f91b0c4a99166/download"
     ]
+  },
+  {
+    "noticeId": "a38679f92d474f3b82980e6d693adfeb",
+    "title": "FDA Nationwide Ergonomic Services",
+    "solicitationNumber": "75F40126P00020",
+    "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.FOOD AND DRUG ADMINISTRATION.FDA OFFICE OF ACQ  GRANT SVCS",
+    "fullParentPathCode": "075.7524.75F401",
+    "postedDate": "2026-04-13",
+    "type": "Award Notice",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-04-25",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "541690",
+    "naicsCodes": [
+      "541690"
+    ],
+    "classificationCode": "R499",
+    "active": "Yes",
+    "award": {
+      "date": "2026-04-10",
+      "number": "75F40126P00020",
+      "amount": "2411028.96",
+      "awardee": {
+        "name": "ES SQUARED, LLC",
+        "location": {
+          "city": {
+            "code": "30464",
+            "name": "Grand Prairie"
+          },
+          "state": {
+            "code": "TX",
+            "name": "Texas"
+          },
+          "zip": "75051",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "J5FXQUCBKTH6",
+        "cageCode": "51Y26"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "Melinda.Kim@fda.hhs.gov",
+        "phone": "",
+        "title": null,
+        "fullName": "Melinda Kim"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "james.whitt@fda.hhs.gov",
+        "phone": "2404027627",
+        "title": null,
+        "fullName": "James G. Whitt"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a38679f92d474f3b82980e6d693adfeb",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20852",
+      "city": "Rockville",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "72450",
+        "name": "Silver Spring"
+      },
+      "state": {
+        "code": "MD",
+        "name": "Maryland"
+      },
+      "zip": "20993",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/a38679f92d474f3b82980e6d693adfeb/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=a38679f92d474f3b82980e6d693adfeb&limit=1"
+      }
+    ],
+    "resourceLinks": null
   },
   {
     "noticeId": "2f15f6b2e720440bba21d56e4836dbbd",
@@ -5445,12 +5542,12 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "5062c1e8f7a94f4a86f974275d8211ee",
+    "noticeId": "e0270f6bf610448faef3a4398de14692",
     "title": "Uninterruptible Power Systems (UPS) Maintenance and Repair",
     "solicitationNumber": "W912KC26RA004",
     "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO PA.USPFO PA PROCUREMENT.W7NX USPFO ACTIVITY PA ARNG",
     "fullParentPathCode": "021.2100.NGB.JFHQ USPFO PA.USPFO PA PROC.W912KC",
-    "postedDate": "2026-04-06",
+    "postedDate": "2026-04-13",
     "type": "Combined Synopsis/Solicitation",
     "baseType": "Combined Synopsis/Solicitation",
     "archiveType": "auto15",
@@ -5483,7 +5580,7 @@
         "fullName": "John M O'Boyle"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5062c1e8f7a94f4a86f974275d8211ee",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e0270f6bf610448faef3a4398de14692",
     "organizationType": "OFFICE",
     "officeAddress": {
       "zipcode": "17003-5002",
@@ -5507,15 +5604,16 @@
       }
     },
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5062c1e8f7a94f4a86f974275d8211ee/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/e0270f6bf610448faef3a4398de14692/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5062c1e8f7a94f4a86f974275d8211ee&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e0270f6bf610448faef3a4398de14692&limit=1"
       }
     ],
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e27af717fb4489a9e851ddd442c120a/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbbc297a7a8540fe8497c16beffa4132/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2dceafcc2c643c9a1dc82a5d5910d53/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f10d733eecdb49e6973df447012ee33b/download"
