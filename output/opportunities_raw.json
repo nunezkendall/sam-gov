@@ -887,74 +887,6 @@
     ]
   },
   {
-    "noticeId": "8bc93f531802470e84b502b5d0d9e24b",
-    "title": "6515--EQUIPMENT - Philips Laser System - Ann Arbor",
-    "solicitationNumber": "36C25026Q0419",
-    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.250-NETWORK CONTRACT OFFICE 10 (36C250)",
-    "fullParentPathCode": "036.3600.36C250",
-    "postedDate": "2026-04-07",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-04-19",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-14T16:00:00-04:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "6515",
-    "active": "Yes",
-    "award": {
-      "awardee": {}
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "brooke.hansen@va.gov",
-        "phone": "No phoned inquiries will be accepted.",
-        "title": "Contract Specialist",
-        "fullName": "Brooke Hansen"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8bc93f531802470e84b502b5d0d9e24b",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "45428",
-      "city": "DAYTON",
-      "countryCode": "USA",
-      "state": "OH"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "VA Ann Arbor Healthcare System",
-      "streetAddress2": " 2215 Fuller Rd",
-      "city": {
-        "name": "Ann Arbor"
-      },
-      "state": {
-        "name": "MI"
-      },
-      "zip": "48105",
-      "country": {
-        "name": ""
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/8bc93f531802470e84b502b5d0d9e24b/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8bc93f531802470e84b502b5d0d9e24b&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ca795ab580a4cf1af40e33b79771d13/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/17c568216b4544b7839dac2c7eaf312f/download"
-    ]
-  },
-  {
     "noticeId": "e4ad5d0dc5c2457487f8a2ba2433ec5f",
     "title": "PC Signal Annual Renewal",
     "solicitationNumber": "80NSSC26928986Q",
@@ -2325,77 +2257,6 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "557c4bde13a245728eeb67e1a9268a3d",
-    "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers",
-    "solicitationNumber": "36C24526Q0376",
-    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
-    "fullParentPathCode": "036.3600.36C245",
-    "postedDate": "2026-03-20",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-05-30",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-03-31T08:00:00-04:00",
-    "naicsCode": "541511",
-    "naicsCodes": [
-      "541511"
-    ],
-    "classificationCode": "R425",
-    "active": "Yes",
-    "award": {
-      "awardee": {}
-    },
-    "pointOfContact": [
-      {
-        "fax": "NONE",
-        "type": "primary",
-        "email": "Keysha.Gorman74@va.gov",
-        "phone": "NONE",
-        "title": "CONTRACT SPECIALIST",
-        "fullName": "KEYSHA GORMAN"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=557c4bde13a245728eeb67e1a9268a3d",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "21090",
-      "city": "LINTHICUM",
-      "countryCode": "USA",
-      "state": "MD"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "Department of Veterans Affairs VISN 5 | NCO 5",
-      "streetAddress2": "SUITE 275 849 INTERNATIONAL DRIVE",
-      "city": {
-        "code": "47150",
-        "name": "Linthicum Heights"
-      },
-      "state": {
-        "code": "MD",
-        "name": "Maryland"
-      },
-      "zip": "21090",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/557c4bde13a245728eeb67e1a9268a3d/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=557c4bde13a245728eeb67e1a9268a3d&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/376ac89a2f0e41a4aec04158a5fb917e/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd0cb70520df41439f1f91b0c4a99166/download"
-    ]
-  },
-  {
     "noticeId": "f80eaa063bfa41d4bcb559e2051dc409",
     "title": "BIOLOGICAL TECHNICAL SUPPORT AND PUBLIC SAFETY CON",
     "solicitationNumber": "140FS326Q0047",
@@ -2997,6 +2858,200 @@
     ]
   },
   {
+    "noticeId": "e4029833dda14220be6aa980bdc94b93",
+    "title": "F--R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedi",
+    "solicitationNumber": "68HE0726R0001",
+    "fullParentPathName": "ENVIRONMENTAL PROTECTION AGENCY.ENVIRONMENTAL PROTECTION AGENCY.REGION 7 CONTRACTING OFFICE",
+    "fullParentPathCode": "068.6800.68HE07",
+    "postedDate": "2026-04-20",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-06-30",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-04T12:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "F108",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "Dandy.Scott@epa.gov",
+        "phone": "913-551-7949",
+        "title": null,
+        "fullName": "Dandy, Scott"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e4029833dda14220be6aa980bdc94b93",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "66219",
+      "city": "LENEXA",
+      "countryCode": "USA",
+      "state": "KS"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "63000",
+        "name": "Seattle"
+      },
+      "state": {
+        "code": "WA",
+        "name": "Washington"
+      },
+      "zip": "98108",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/e4029833dda14220be6aa980bdc94b93/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e4029833dda14220be6aa980bdc94b93&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
+    "noticeId": "48385bdc7341469190ad6ce12e7a5f71",
+    "title": "Amendment 0002- Combined synopsis/solicitation for Architect-Engineer (A-E) services",
+    "solicitationNumber": "W912C326RA007",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FORT BUCHANAN (RC)",
+    "fullParentPathCode": "021.2100.AMC.ACC.MICC.419TH CSB.W912C3",
+    "postedDate": "2026-04-20",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2027-04-20",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-04T08:00:00-05:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "aheisha.m.crooks.civ@army.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "AHEISHA CROOKS "
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "harvey.odom.civ@army.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "HARVEY ODOM"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=48385bdc7341469190ad6ce12e7a5f71",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "00934-4572",
+      "city": "FORT BUCHANAN",
+      "countryCode": "USA",
+      "state": "PR"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "Rodriguez Army Health Clinic, Building 21, 21 Patriot Blvd., Fort Buchanan, PR 00934. ",
+      "zip": "00934"
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/48385bdc7341469190ad6ce12e7a5f71/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=48385bdc7341469190ad6ce12e7a5f71&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ad5fbdb6a90d4e0894eeed48311ef00f/download"
+    ]
+  },
+  {
+    "noticeId": "05d1bfa249ce4dc6a9566e77807022e0",
+    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
+    "solicitationNumber": "RFP1798904",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
+    "fullParentPathCode": "057.5700",
+    "postedDate": "2026-04-20",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-13",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-28T23:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "1510",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "lauren.vanhook@us.af.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Lauren VanHook"
+      },
+      {
+        "fax": null,
+        "type": "secondary",
+        "email": "michael.west.57@us.af.mil",
+        "phone": null,
+        "title": null,
+        "fullName": "Michael West"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=05d1bfa249ce4dc6a9566e77807022e0",
+    "organizationType": "AGENCY",
+    "officeAddress": null,
+    "placeOfPerformance": {
+      "city": {
+        "code": "OH-05",
+        "name": "Wright Patterson AFB"
+      },
+      "state": {
+        "code": "OH",
+        "name": "Ohio"
+      },
+      "zip": "45433",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/05d1bfa249ce4dc6a9566e77807022e0/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=05d1bfa249ce4dc6a9566e77807022e0&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
     "noticeId": "d53179a5b66a4861a2332f9532f5dd89",
     "title": "Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services",
     "solicitationNumber": "693C7326R000029",
@@ -3069,70 +3124,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/703b703544394787b67ad18cdc4d6af9/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/793af832045d408f8156ec88d44180cc/download"
     ]
-  },
-  {
-    "noticeId": "b5b8b2ffaaba4b9c85041099674a9d35",
-    "title": "F--R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedi",
-    "solicitationNumber": "68HE0726R0001",
-    "fullParentPathName": "ENVIRONMENTAL PROTECTION AGENCY.ENVIRONMENTAL PROTECTION AGENCY.REGION 7 CONTRACTING OFFICE",
-    "fullParentPathCode": "068.6800.68HE07",
-    "postedDate": "2026-04-17",
-    "type": "Sources Sought",
-    "baseType": "Presolicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-06-15",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-28T12:00:00-04:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "F108",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "Dandy.Scott@epa.gov",
-        "phone": "913-551-7949",
-        "title": null,
-        "fullName": "Dandy, Scott"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b5b8b2ffaaba4b9c85041099674a9d35",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "66219",
-      "city": "LENEXA",
-      "countryCode": "USA",
-      "state": "KS"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "63000",
-        "name": "Seattle"
-      },
-      "state": {
-        "code": "WA",
-        "name": "Washington"
-      },
-      "zip": "98108",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/b5b8b2ffaaba4b9c85041099674a9d35/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b5b8b2ffaaba4b9c85041099674a9d35&limit=1"
-      }
-    ],
-    "resourceLinks": null
   },
   {
     "noticeId": "997267b312d54305959d7d2cbba34705",
@@ -3267,69 +3258,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c1135b5fbf2c47b3a02b677c0dbd13ac/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d52e12581cb541cf8f02db588eb30136/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f9aec7d3025648cca9ca2980791e9aee/download"
-    ]
-  },
-  {
-    "noticeId": "43d08f4b1e9a4977aa0a14e8299adc53",
-    "title": "Amendment 0001- Combined synopsis/solicitation for Architect-Engineer (A-E) services",
-    "solicitationNumber": "W912C326RA007",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FORT BUCHANAN (RC)",
-    "fullParentPathCode": "021.2100.AMC.ACC.MICC.419TH CSB.W912C3",
-    "postedDate": "2026-04-16",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2027-04-16",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-30T08:00:00-05:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "aheisha.m.crooks.civ@army.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "AHEISHA CROOKS "
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "harvey.odom.civ@army.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "HARVEY ODOM"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=43d08f4b1e9a4977aa0a14e8299adc53",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "00934-4572",
-      "city": "FORT BUCHANAN",
-      "countryCode": "USA",
-      "state": "PR"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "Rodriguez Army Health Clinic, Building 21, 21 Patriot Blvd., Fort Buchanan, PR 00934. ",
-      "zip": "00934"
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/43d08f4b1e9a4977aa0a14e8299adc53/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=43d08f4b1e9a4977aa0a14e8299adc53&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ad5fbdb6a90d4e0894eeed48311ef00f/download"
     ]
   },
   {
@@ -4194,73 +4122,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3da7d87fefb24d0d8ae846b368b011cb/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6128bb4dcdc14f12a25104f2b577f38d/download"
     ]
-  },
-  {
-    "noticeId": "050c22e769ab411f9c50d67adda463a1",
-    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
-    "solicitationNumber": "RFP1798904",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
-    "fullParentPathCode": "057.5700",
-    "postedDate": "2026-04-09",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "archiveType": "auto15",
-    "archiveDate": "2026-05-13",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-28T23:00:00-04:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "1510",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "lauren.vanhook@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Lauren VanHook"
-      },
-      {
-        "fax": null,
-        "type": "secondary",
-        "email": "michael.west.57@us.af.mil",
-        "phone": null,
-        "title": null,
-        "fullName": "Michael West"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=050c22e769ab411f9c50d67adda463a1",
-    "organizationType": "AGENCY",
-    "officeAddress": null,
-    "placeOfPerformance": {
-      "city": {
-        "code": "OH-05",
-        "name": "Wright Patterson AFB"
-      },
-      "state": {
-        "code": "OH",
-        "name": "Ohio"
-      },
-      "zip": "45433",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/050c22e769ab411f9c50d67adda463a1/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=050c22e769ab411f9c50d67adda463a1&limit=1"
-      }
-    ],
-    "resourceLinks": null
   },
   {
     "noticeId": "5ae6fe16d1b4430ca1545163cf9c3970",
@@ -5872,19 +5733,19 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "e0270f6bf610448faef3a4398de14692",
+    "noticeId": "5c517562b57247d98bc1a584ce0918bb",
     "title": "Uninterruptible Power Systems (UPS) Maintenance and Repair",
     "solicitationNumber": "W912KC26RA004",
     "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO PA.USPFO PA PROCUREMENT.W7NX USPFO ACTIVITY PA ARNG",
     "fullParentPathCode": "021.2100.NGB.JFHQ USPFO PA.USPFO PA PROC.W912KC",
-    "postedDate": "2026-04-13",
+    "postedDate": "2026-04-20",
     "type": "Combined Synopsis/Solicitation",
     "baseType": "Combined Synopsis/Solicitation",
     "archiveType": "auto15",
-    "archiveDate": "2026-05-05",
+    "archiveDate": "2026-05-08",
     "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
     "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-20T17:00:00-04:00",
+    "responseDeadLine": "2026-04-23T17:00:00-04:00",
     "naicsCode": "518210",
     "naicsCodes": [
       "518210"
@@ -5910,7 +5771,7 @@
         "fullName": "John M O'Boyle"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e0270f6bf610448faef3a4398de14692",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5c517562b57247d98bc1a584ce0918bb",
     "organizationType": "OFFICE",
     "officeAddress": {
       "zipcode": "17003-5002",
@@ -5934,11 +5795,11 @@
       }
     },
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/e0270f6bf610448faef3a4398de14692/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/5c517562b57247d98bc1a584ce0918bb/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e0270f6bf610448faef3a4398de14692&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5c517562b57247d98bc1a584ce0918bb&limit=1"
       }
     ],
     "resourceLinks": [

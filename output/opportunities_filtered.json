@@ -623,90 +623,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "557c4bde13a245728eeb67e1a9268a3d",
-    "title": "R425--Electronic Drawing Development and Management System for One  BASE Year Plus Four Option Years | Estimated Date of Award  is April 15, 2026 | VISN 5 Medical Centers",
-    "solicitationNumber": "36C24526Q0376",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541511",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-20",
-    "responseDeadline": "2026-03-31T08:00:00-04:00",
-    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Linthicum Heights",
-      "state": "Maryland",
-      "zip": "21090"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/557c4bde13a245728eeb67e1a9268a3d/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=557c4bde13a245728eeb67e1a9268a3d",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/376ac89a2f0e41a4aec04158a5fb917e/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd0cb70520df41439f1f91b0c4a99166/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"VISN 5 has a need for continual as-built drawing update service through a Blanket Purchase Agreement (BPA). VISN 5 is a fully integrated network of eight (8) VA medical campuses and multiple VA Community Clinics.\\n\"}",
-    "descriptionFull": "{\"description\":\"VISN 5 has a need for continual as-built drawing update service through a Blanket Purchase Agreement (BPA). VISN 5 is a fully integrated network of eight (8) VA medical campuses and multiple VA Community Clinics.\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/376ac89a2f0e41a4aec04158a5fb917e/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 607251,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd0cb70520df41439f1f91b0c4a99166/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 230098,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "network",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "4e3614c8357d47e89f6c1bfb0c32a2cb",
     "title": "B--Implementation plan-ShakeAlert Earthquake EW.",
     "solicitationNumber": "140G0326Q0073",
@@ -894,6 +810,142 @@
     "updatedDate": null
   },
   {
+    "noticeId": "e4029833dda14220be6aa980bdc94b93",
+    "title": "F--R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedi",
+    "solicitationNumber": "68HE0726R0001",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-20",
+    "responseDeadline": "2026-05-04T12:00:00-04:00",
+    "agency": "ENVIRONMENTAL PROTECTION AGENCY.ENVIRONMENTAL PROTECTION AGENCY.REGION 7 CONTRACTING OFFICE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Seattle",
+      "state": "Washington",
+      "zip": "98108"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/e4029833dda14220be6aa980bdc94b93/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e4029833dda14220be6aa980bdc94b93",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"***AMENDMENT 002 OFFICIAL REQUEST FOR STANDARD FORM 330***<br/>R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedial Design (RD) Oversight Support<br/><br/>The purpose of the amendment is to provide clarification to the change in NAICS code.\"}",
+    "descriptionFull": "{\"description\":\"***AMENDMENT 002 OFFICIAL REQUEST FOR STANDARD FORM 330***<br/>R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedial Design (RD) Oversight Support<br/><br/>The purpose of the amendment is to provide clarification to the change in NAICS code.\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Washington"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "05d1bfa249ce4dc6a9566e77807022e0",
+    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
+    "solicitationNumber": "RFP1798904",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-20",
+    "responseDeadline": "2026-04-28T23:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Wright Patterson AFB",
+      "state": "Ohio",
+      "zip": "45433"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/05d1bfa249ce4dc6a9566e77807022e0/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=05d1bfa249ce4dc6a9566e77807022e0",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>UPDATE 2:</strong>&nbsp;Tab 3a - B-52 Router Solution FOPR Atch 1_Cost-Price Worksheet has been updated to the latest version 17 Apr 2026. New Question and Answers sheet has been updated.&nbsp;</p>\\n\\n<p><strong>UPDATE 1:&nbsp;</strong>The subject contract opportunity&#39;s open period for proposal has been extended by 2 weeks. The new due date is 28 April 2026.</p>\\n\\n<p></p>\\n\\n<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please...",
+    "descriptionFull": "{\"description\":\"<p><strong>UPDATE 2:</strong>&nbsp;Tab 3a - B-52 Router Solution FOPR Atch 1_Cost-Price Worksheet has been updated to the latest version 17 Apr 2026. New Question and Answers sheet has been updated.&nbsp;</p>\\n\\n<p><strong>UPDATE 1:&nbsp;</strong>The subject contract opportunity&#39;s open period for proposal has been extended by 2 weeks. The new due date is 28 April 2026.</p>\\n\\n<p></p>\\n\\n<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "modernization"
+      ],
+      "description": [
+        "modernization"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Ohio"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "d53179a5b66a4861a2332f9532f5dd89",
     "title": "Highway and/or Bridge Design and Engineering Services, other Engineering, Planning, and Architectural Services",
     "solicitationNumber": "693C7326R000029",
@@ -993,74 +1045,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "b5b8b2ffaaba4b9c85041099674a9d35",
-    "title": "F--R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedi",
-    "solicitationNumber": "68HE0726R0001",
-    "type": "Sources Sought",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-17",
-    "responseDeadline": "2026-04-28T12:00:00-04:00",
-    "agency": "ENVIRONMENTAL PROTECTION AGENCY.ENVIRONMENTAL PROTECTION AGENCY.REGION 7 CONTRACTING OFFICE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Seattle",
-      "state": "Washington",
-      "zip": "98108"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/b5b8b2ffaaba4b9c85041099674a9d35/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b5b8b2ffaaba4b9c85041099674a9d35",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"***AMENDMENT 001 OFFICIAL REQUEST FOR STANDARD FORM 330***<br/>R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedial Design (RD) Oversight Support<br/><br/>The purpose of the amendment is to provide responses to timely submitted questions and a Revised 'Official Request for Standard Form 330'.\"}",
-    "descriptionFull": "{\"description\":\"***AMENDMENT 001 OFFICIAL REQUEST FOR STANDARD FORM 330***<br/>R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedial Design (RD) Oversight Support<br/><br/>The purpose of the amendment is to provide responses to timely submitted questions and a Revised 'Official Request for Standard Form 330'.\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Washington"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -2022,74 +2006,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "050c22e769ab411f9c50d67adda463a1",
-    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
-    "solicitationNumber": "RFP1798904",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-09",
-    "responseDeadline": "2026-04-28T23:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Wright Patterson AFB",
-      "state": "Ohio",
-      "zip": "45433"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/050c22e769ab411f9c50d67adda463a1/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=050c22e769ab411f9c50d67adda463a1",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>UPDATE 1:&nbsp;</strong>The subject contract opportunity&#39;s open period for proposal has been extended by 2 weeks. The new due date is 28 April 2026.</p>\\n\\n<p></p>\\n\\n<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents ...",
-    "descriptionFull": "{\"description\":\"<p><strong>UPDATE 1:&nbsp;</strong>The subject contract opportunity&#39;s open period for proposal has been extended by 2 weeks. The new due date is 28 April 2026.</p>\\n\\n<p></p>\\n\\n<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "modernization"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "modernization"
-      ],
-      "description": [
-        "modernization"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Ohio"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -3073,7 +2989,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "e0270f6bf610448faef3a4398de14692",
+    "noticeId": "5c517562b57247d98bc1a584ce0918bb",
     "title": "Uninterruptible Power Systems (UPS) Maintenance and Repair",
     "solicitationNumber": "W912KC26RA004",
     "type": "Combined Synopsis/Solicitation",
@@ -3081,8 +2997,8 @@
     "naicsCode": "518210",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-04-13",
-    "responseDeadline": "2026-04-20T17:00:00-04:00",
+    "postedDate": "2026-04-20",
+    "responseDeadline": "2026-04-23T17:00:00-04:00",
     "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO PA.USPFO PA PROCUREMENT.W7NX USPFO ACTIVITY PA ARNG",
     "office": "",
     "placeOfPerformance": {
@@ -3091,8 +3007,8 @@
       "zip": "17003"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/e0270f6bf610448faef3a4398de14692/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e0270f6bf610448faef3a4398de14692",
+      "uiLink": "https://sam.gov/workspace/contract/opp/5c517562b57247d98bc1a584ce0918bb/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5c517562b57247d98bc1a584ce0918bb",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
