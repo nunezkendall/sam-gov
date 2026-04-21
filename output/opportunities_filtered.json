@@ -1,5 +1,241 @@
 [
   {
+    "noticeId": "ab3dcf25dc2b4e46a673117c32778a51",
+    "title": "DH01--Vocera Communication Support Services- Northern Arizona  VA Healthcare System",
+    "solicitationNumber": "36C26226Q0468",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-21",
+    "responseDeadline": "2026-04-23T10:00:00-07:00",
+    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.262-NETWORK CONTRACT OFFICE 22 (36C262)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Prescott",
+      "state": "AZ",
+      "zip": "86313"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ab3dcf25dc2b4e46a673117c32778a51/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ab3dcf25dc2b4e46a673117c32778a51",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f64903845a04c2c897511701b2ecbd9/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"Presolicitation Notice\\n\\nPresolicitation Notice\\n\\nPage 3 of 3\\nPresolicitation Notice\\n*=Required Field\\nPresolicitation Notice\\n\\nPage 1 of 3\\nThis is not a solicitation announcement. This is a pre-solicitation notice only. The purpose of this notice is to announce that the Department of Veterans Affairs, Veterans Integrated Service Network (VISN 22), Network Contracting Office (NCO) 22 is seeking contractors interested in providing a quote for the Vocera Communications System Support Services and Supplies at the Northern Arizona VA Healthcare System, 500 North Highway 89, Prescott AZ, 86313. Solicitation shall be issued on or about April 23rd, 2026. The following NAICS code: 541519 / Size Standard =150 Employees and PSC code: DH01 apply to this requirement. \\n\\nThis ...",
+    "descriptionFull": "{\"description\":\"Presolicitation Notice\\n\\nPresolicitation Notice\\n\\nPage 3 of 3\\nPresolicitation Notice\\n*=Required Field\\nPresolicitation Notice\\n\\nPage 1 of 3\\nThis is not a solicitation announcement. This is a pre-solicitation notice only. The purpose of this notice is to announce that the Department of Veterans Affairs, Veterans Integrated Service Network (VISN 22), Network Contracting Office (NCO) 22 is seeking contractors interested in providing a quote for the Vocera Communications System Support Services and Supplies at the Northern Arizona VA Healthcare System, 500 North Highway 89, Prescott AZ, 86313. Solicitation shall be issued on or about April 23rd, 2026. The following NAICS code: 541519 / Size Standard =150 Employees and PSC code: DH01 apply to this requirement. \\n\\nThis is a 100% SMALL BUSINESS set-aside. This will be a firm-fixed price contract. \\n\\nALL SMALL BUSINESSES MUST BE CERTIFIED WITH THE GOVERNMENT. All interested parties must respond to the solicitation announcement. A response to this notice is not a request to be added to a prospective bidders list or to receive a copy of the solicitation. Telephone responses will not be accepted. \\n\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7f64903845a04c2c897511701b2ecbd9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 29007,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "AZ"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "4db2145bc9e94e5da7599846662c3714",
+    "title": "Data Migration RFI",
+    "solicitationNumber": "FA283426Q0001",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-21",
+    "responseDeadline": "2026-05-10T16:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.PRESIDENTIAL AND EXECUTIVE AIRLIFT.FA2834  AFLCMC WV",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Hanscom AFB",
+      "state": "Massachusetts",
+      "zip": "01731"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/4db2145bc9e94e5da7599846662c3714/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4db2145bc9e94e5da7599846662c3714",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 41050,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "migration"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "migration"
+      ],
+      "description": [
+        "migration"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Massachusetts"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
+    "title": "TRANSCOM Reference Data Management (TRDM)",
+    "solicitationNumber": "TRANSCOM26D003",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-20",
+    "responseDeadline": "2026-05-04T10:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.US TRANSPORTATION COMMAND (USTRANSCOM).USTRANSCOM-AQ",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Mt Zion",
+      "state": "Illinois",
+      "zip": "62225"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/9b298d4de6bf400781b119b1e03d4f79/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9b298d4de6bf400781b119b1e03d4f79",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b25b1d2b07114310972054ba1ad8ae0b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7aa5fac4a544e698599f74aec0bf609/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>TRDM provides a single distribution source of enterprise reference data for enhancing C2, transportation, logistics, deployment, and financial systems&rsquo; reference data management and functional data collection. The scope of TRDM requires the contractor to perform current technical &amp; Cybersecurity operations, maintenance, and distribution of the TRDM system and data while modernizing the architecture. These tasks include but are not limited to requirement analysis, data collection, data management, interface and architecture validation, and data distribution. Requests and requirements fielded by TRDM require contractor expertise on implementation, fielding, planning, scheduling, interoperability testing, documentation, and other key tasks defined in the softwa...",
+    "descriptionFull": "{\"description\":\"<p>TRDM provides a single distribution source of enterprise reference data for enhancing C2, transportation, logistics, deployment, and financial systems&rsquo; reference data management and functional data collection. The scope of TRDM requires the contractor to perform current technical &amp; Cybersecurity operations, maintenance, and distribution of the TRDM system and data while modernizing the architecture. These tasks include but are not limited to requirement analysis, data collection, data management, interface and architecture validation, and data distribution. Requests and requirements fielded by TRDM require contractor expertise on implementation, fielding, planning, scheduling, interoperability testing, documentation, and other key tasks defined in the software development lifecycle.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b25b1d2b07114310972054ba1ad8ae0b/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 208491,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7aa5fac4a544e698599f74aec0bf609/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 219297,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Illinois"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "63d6121739d04cb493776268e84fa383",
     "title": "6515--Mobile Medical Carts/Workstations on Wheels",
     "solicitationNumber": "36C24426Q0507",
@@ -343,83 +579,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "6675d6fb274346a6a950eeb1e52a4704",
-    "title": "Data Migration RFI",
-    "solicitationNumber": "FA283426Q0001",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-27",
-    "responseDeadline": "2026-04-26T16:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.PRESIDENTIAL AND EXECUTIVE AIRLIFT.FA2834  AFLCMC WV",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Hanscom AFB",
-      "state": "Massachusetts",
-      "zip": "01731"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/6675d6fb274346a6a950eeb1e52a4704/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6675d6fb274346a6a950eeb1e52a4704",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 41050,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "migration"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "migration"
-      ],
-      "description": [
-        "migration"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Massachusetts"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "8aad4f4ebedc4211aee46daa0410430d",
     "title": "TrueView Go 132S mapping sensor",
     "solicitationNumber": "80NSSC26928771Q",
@@ -496,6 +655,72 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Alabama"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "a52fa89820b94b7aaef9685bfa927d62",
+    "title": "Logistics IT Integration and Support (LIIS) Capability Modernization, Deployment, and Support (CMDS) Multiple Award Contract (MAC)",
+    "solicitationNumber": "",
+    "type": "Special Notice",
+    "baseType": "Solicitation",
+    "naicsCode": "541512",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-20",
+    "responseDeadline": "2026-04-16T16:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.FLEET READINESS CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "St James",
+      "state": "Maryland",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/a52fa89820b94b7aaef9685bfa927d62/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a52fa89820b94b7aaef9685bfa927d62",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This Notification is to provide an update to the anticipated award date for Solicitation N68520-24-R-0020.&nbsp; The Government has received requests for updates from Offerors regarding the status of the evaluation and anticipated award date.&nbsp; The Government currently anticipates an award date by end of May 2026.&nbsp; Please continue to monitor SAM.gov for additional updates.&nbsp;</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>This Notification is to provide an update to the anticipated award date for Solicitation N68520-24-R-0020.&nbsp; The Government has received requests for updates from Offerors regarding the status of the evaluation and anticipated award date.&nbsp; The Government currently anticipates an award date by end of May 2026.&nbsp; Please continue to monitor SAM.gov for additional updates.&nbsp;</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "modernization"
+      ],
+      "description": []
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -810,6 +1035,99 @@
     "updatedDate": null
   },
   {
+    "noticeId": "780a0f5a49514994ad3eba24ca638f9e",
+    "title": "Landover Warehouse Slab On Grade (SOG) Evaluation",
+    "solicitationNumber": "2031ZA26Q00069",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-21",
+    "responseDeadline": "2026-04-27T14:00:00-04:00",
+    "agency": "TREASURY, DEPARTMENT OF THE.BUREAU OF ENGRAVING AND PRINTING.OFFICE OF THE CHIEF PROCUREMENT OFFICER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Landover",
+      "state": "Maryland",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/780a0f5a49514994ad3eba24ca638f9e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=780a0f5a49514994ad3eba24ca638f9e",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d720a99d8334d78a5c993199ddcac57/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e3f540bf6aa486db6810e455bed8026/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/897be6cc8184413ab7f08579c8d5a470/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Amendement 1: Questions and Answers have been added to this solcitation as an attachment.&nbsp;&nbsp;</p>\\n\\n<p>This solicitation is a Request for Quotation, number 2031ZA26Q00069. The contractor shall provide all personnel, equipment, supplies, transportation, tools, materials, supervision, and other items and non-personal services necessary to perform a Slab On Grade (SOG) Evaluation at the Bureau of Engraving (BEP) Landover Warehouse.&nbsp;</p>\\n\\n<p>Please see the attached solicitation and associated documents.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>Amendement 1: Questions and Answers have been added to this solcitation as an attachment.&nbsp;&nbsp;</p>\\n\\n<p>This solicitation is a Request for Quotation, number 2031ZA26Q00069. The contractor shall provide all personnel, equipment, supplies, transportation, tools, materials, supervision, and other items and non-personal services necessary to perform a Slab On Grade (SOG) Evaluation at the Bureau of Engraving (BEP) Landover Warehouse.&nbsp;</p>\\n\\n<p>Please see the attached solicitation and associated documents.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d720a99d8334d78a5c993199ddcac57/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 94148,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5e3f540bf6aa486db6810e455bed8026/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 18857,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/897be6cc8184413ab7f08579c8d5a470/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 371941,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "e4029833dda14220be6aa980bdc94b93",
     "title": "F--R10 SSP: East Waterway Operable Unit at the Harbor Island Superfund Site Remedi",
     "solicitationNumber": "68HE0726R0001",
@@ -872,6 +1190,89 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Washington"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "85844112608c47d69a9526fbacaf2ae9",
+    "title": "INDEFINITE DELIVERY ARCHITECT-ENGINEER SERVICES MULTIPLE AWARD TASK ORDER CONTRACT (MATOC) FOR MECHINICAL-ELECTRICAL DESIGN AND RELATED PROJECTS, PRIMARILY VARIOUS LOCATIONS, ALASKA - W911KB27RA006",
+    "solicitationNumber": "W911KB27RA006",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-20",
+    "responseDeadline": "2026-05-04T14:00:00-08:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION PACIFIC OCEAN.ENDIST ALASKA.W2SN ENDIST ALASKA",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Alaska",
+      "zip": "99503"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/85844112608c47d69a9526fbacaf2ae9/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=85844112608c47d69a9526fbacaf2ae9",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/745fa8fbffb14bcf860ec07dd29b205d/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>INDEFINITE DELIVERY ARCHITECT-ENGINEER SERVICES MULTIPLE AWARD TASK ORDER CONTRACT (MATOC) FOR MECHINICAL-ELECTRICAL DESIGN AND RELATED PROJECTS, PRIMARILY VARIOUS LOCATIONS, ALASKA - W911KB27RA006</strong></p>\\n\\n<p></p>\\n\\n<p>THIS IS A SOURCES SOUGHT ANNOUNCEMENT FOR PLANNING PURPOSES ONLY. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT WILL BE AWARDED FROM THIS SOURCES SOUGHT ANNOUNCEMENT.</p>\\n\\n<p>The U.S. Army Corps of Engineers Alaska District is conducting market research to facilitate determination of acquisition strategy. The determination of acquisition strategy for this acquisition lies solely with the government and will be based on this market research and information available to the government from other sources. This market research ...",
+    "descriptionFull": "{\"description\":\"<p><strong>INDEFINITE DELIVERY ARCHITECT-ENGINEER SERVICES MULTIPLE AWARD TASK ORDER CONTRACT (MATOC) FOR MECHINICAL-ELECTRICAL DESIGN AND RELATED PROJECTS, PRIMARILY VARIOUS LOCATIONS, ALASKA - W911KB27RA006</strong></p>\\n\\n<p></p>\\n\\n<p>THIS IS A SOURCES SOUGHT ANNOUNCEMENT FOR PLANNING PURPOSES ONLY. THIS IS NOT A SOLICITATION FOR PROPOSALS AND NO CONTRACT WILL BE AWARDED FROM THIS SOURCES SOUGHT ANNOUNCEMENT.</p>\\n\\n<p>The U.S. Army Corps of Engineers Alaska District is conducting market research to facilitate determination of acquisition strategy. The determination of acquisition strategy for this acquisition lies solely with the government and will be based on this market research and information available to the government from other sources. This market research is being conducted in order to identify A-E Services Contractors with the capabilities to perform the following requirement:</p>\\n\\n<p>The Alaska District is contemplating an Indefinite Delivery multi-discipline contract(s) to be procured in accordance with the Brooks A-E Act as implemented in FAR Part 36 and the supplements thereto.&nbsp; Anticipate award of three (3) to (5) multiple award task order contracts with a shared capacity of $40 million.&nbsp; The contract type shall be indefinite delivery, firm fixed price over a term of 5 years. &nbsp;Anticipated average task order range will be from $150K - $2M.&nbsp; The maximum task order limit will be $20M.&nbsp; When the conditions in Revolutionary FAR Overhaul (RFO) 19.104-1 are met at the time of order set-aside, and the specific program eligibility requirements, as appliable are also met, Task order set-asides for small businesses (totally or partially) will be discretionary.</p>\\n\\n<p>The anticipated NAICS is 541330, Engineering Services, PSC is C219 A-E: General &ndash; Other and Size Standard is $25.5M.</p>\\n\\n<p><strong>PROJECT INFORMATION</strong>:<strong> </strong>The AEs selected would be required to have sufficient staff, flexibility, and capability to be available on an as-needed basis.&nbsp; Typical types of services to be provided are related to the study and design of new, renovations, repair, and modernization of mechanical and electrical systems to include: studies and designs of electrical power, communication, grounding, lighting and control systems; study and design of heating, ventilation, air conditioning and refrigeration with DDC controls, utilidors and enclosed utility systems; performance of commissioning services (LEED both Fundamental and Enhanced); study and design of fire protection and detection systems (including aircraft hangar aqueous film forming foam (AFFF) fire suppression systems as well as standard wet, dry, and pre-action sprinkler systems); general building designs; the design of POL<strong> </strong>systems is incidental to facility design.&nbsp; The AE may also perform construction phase services, inspection and investigations or may development Design/Build RFPs. The AE and their subcontractors must have experience in cold regions design. Cold regions design is not considered to be a separate discipline that can be subcontracted. Rather, knowledge and experience in the design, construction and operation of facilities in arctic, subarctic, and cold region environments must be integral to all design disciplines.&nbsp; The AE may be required to participate in programming, value engineering studies, design Charrettes and project review conferences; participation may include facilitation, VE Study team, etc.&nbsp; The Government may require that designs be in metric and/or English systems of units. The firm must demonstrate the ability to; provide drawings in AutoCAD (version as required by the project); Have the capability to provide designs using building information modeling (BIM) software; use the latest version of M2 (cost estimating software furnished by the Government); provide a cost estimate in work breakdown structure (WBS); provide draft DD Form 1354, Transfer and Acceptance of Military Real Property; provide electronic bid set (EBS) documents; use SPECSINTACT, for all projects unless otherwise directed in the Task Order. The AE will be required to use Dr. Check&rsquo;s programs (permissions and passwords will be distributed on a project-by-project basis).&nbsp; Systems information required for Dr. Checks: Internet Explorer (Microsoft); the web site is: http:\\\\\\\\www.buildersnet.org\\\\drchecks.&nbsp; The Government may require the AE provide engineering, testing, and design services during construction.<strong>&nbsp; </strong>The Government may require<strong> </strong>the AE to provide the Government Construction Management and Design Staff with Fundamental and Enhanced Commissioning Services for various projects. The Commissioning Services shall include individuals to serve as the Commissioning Authority on the project as described in the USGBC LEED Reference Guide 2025 Edition, Energy and Atmosphere Prerequsite 1 and Credit 3. These persons will support the Government in verifying contract compliance regarding the design, construction and initial post-occupancy phase of the project delivery as it relates to enhanced commissioning.&nbsp;&nbsp; The Government may require the AE to prepare and review energy models prepared by others using DOE approved modeling software in accordance ASHRAE 90.1 Appendix G and UFC 3-400-01.</p>\\n\\n<p><strong>LOCATION</strong>:<strong> </strong>Primarily Various Locations, Alaska, but may be utilized outside Alaska on an exception basis. &nbsp;Facilities will generally be located in arctic or subarctic environments. &nbsp;</p>\\n\\n<p>All interested contractors are encouraged to respond to this announcement no later than 04 May 2026, 2:00PM AST, by submitting all requested documentation listed below by email to: Danielle Sprague at Danielle.sprague@usace.army.mil.</p>\\n\\n<p>Interested firms should submit a capabilities package (not exceeding 5 pages) demonstrating the ability to perform work listed above. Packages should include the following information:</p>\\n\\n<p>1. Business overview to include business name, CAGE, UEI, address, email point of contact.</p>\\n\\n<p>2. Statement of specialized experience and technical competence in:</p>\\n\\n<p>a) Design and studies conducted for electrical power and communications internal and external distribution.&nbsp;</p>\\n\\n<p>b) Designs and studies conducted for medium voltage systems including overhead/underground distribution, power plants and substations.&nbsp; Designs and studies conducted for low voltage systems including interior power, generators, uninterruptible power supplies and lighting systems.&nbsp; Designs and studies conducted for information management systems including exterior distribution, interior local area network and telephone systems.&nbsp; Designs and studies conducted for airfield lighting, hazardous areas, and lightning protection.&nbsp;</p>\\n\\n<p>c) Heating, piping including utility systems, ventilation, air conditioning and refrigeration systems.&nbsp; Utilidor and enclosed utility systems.&nbsp;</p>\\n\\n<p>d) Experience in BIM modeling and LEED energy consumption modeling.</p>\\n\\n<p>e) AFFF and high expansion foam (HEF) fire suppression systems, and fire detection systems.&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</p>\\n\\n<p>3. Demonstration of the business&rsquo;s experience as a prime contractor on projects of similar size, type and complexity within the past five years with a brief description and dollar amount of the project that was self-performed, description of cost control, quality of work and schedule compliance</p>\\n\\n<p>4. The business&rsquo;s intent to submit a proposal on the subject acquisition.</p>\\n\\n<p>Responsible sources demonstrating relevant experience and the capabilities to perform the work will be considered. Prospective contractors must be registered in the System for Award Management (SAM) to be eligible for a contract award. Information on SAM can be obtained via the Internet at http://www.sam.gov.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/745fa8fbffb14bcf860ec07dd29b205d/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 201485,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "ECS",
+      "modernization",
+      "network",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "ECS",
+        "modernization",
+        "network",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "distributed"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Alaska"
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
@@ -1422,92 +1823,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "8a66aebaa5194b0eb9711cf75a632878",
-    "title": "Landover Warehouse Slab On Grade (SOG) Evaluation",
-    "solicitationNumber": "2031ZA26Q00069",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-15",
-    "responseDeadline": "2026-04-27T14:00:00-04:00",
-    "agency": "TREASURY, DEPARTMENT OF THE.BUREAU OF ENGRAVING AND PRINTING.OFFICE OF THE CHIEF PROCUREMENT OFFICER",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Landover",
-      "state": "Maryland",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/8a66aebaa5194b0eb9711cf75a632878/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8a66aebaa5194b0eb9711cf75a632878",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d720a99d8334d78a5c993199ddcac57/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/897be6cc8184413ab7f08579c8d5a470/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This solicitation is a Request for Quotation, number 2031ZA26Q00069. The contractor shall provide all personnel, equipment, supplies, transportation, tools, materials, supervision, and other items and non-personal services necessary to perform a Slab On Grade (SOG) Evaluation at the Bureau of Engraving (BEP) Landover Warehouse.&nbsp;</p>\\n\\n<p>Please see the attached solicitation and associated documents.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>This solicitation is a Request for Quotation, number 2031ZA26Q00069. The contractor shall provide all personnel, equipment, supplies, transportation, tools, materials, supervision, and other items and non-personal services necessary to perform a Slab On Grade (SOG) Evaluation at the Bureau of Engraving (BEP) Landover Warehouse.&nbsp;</p>\\n\\n<p>Please see the attached solicitation and associated documents.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d720a99d8334d78a5c993199ddcac57/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 94148,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/897be6cc8184413ab7f08579c8d5a470/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 371941,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -2287,81 +2602,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "8eb503c1e6d944a59d9011c9fb40c898",
-    "title": "Declassification Support Services",
-    "solicitationNumber": "H91269627909",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-01",
-    "responseDeadline": "2026-04-15T09:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Washington",
-      "state": "District of Columbia",
-      "zip": "20301"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/8eb503c1e6d944a59d9011c9fb40c898/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8eb503c1e6d944a59d9011c9fb40c898",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/06d130c880fc439eaf4d297206c84b7a/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>SOURCES SOUGHT NOTICE</p>\\n\\n<p><strong>Note: Despite this source sought notice being posted to SAM.gov, it is anticipated that this follow-on requirement will again be solicited under the SeaPort contracts. As such, it is requested for vendors responding to the SAM.gov posting to indicate if the firm is currently awarded, or intends to pursue an award of, a SeaPort-NxG contract.</strong></p>\\n\\n<p>This announcement constitutes a Sources Sought Synopsis for market research information and planning purposes to identify the availability of potential sources capable of providing technical and administrative support services for declassification review, action processing, and tracking of record material for the Joint Staff Declassification Branch. Refer to the attached dr...",
-    "descriptionFull": "{\"description\":\"<p>SOURCES SOUGHT NOTICE</p>\\n\\n<p><strong>Note: Despite this source sought notice being posted to SAM.gov, it is anticipated that this follow-on requirement will again be solicited under the SeaPort contracts. As such, it is requested for vendors responding to the SAM.gov posting to indicate if the firm is currently awarded, or intends to pursue an award of, a SeaPort-NxG contract.</strong></p>\\n\\n<p>This announcement constitutes a Sources Sought Synopsis for market research information and planning purposes to identify the availability of potential sources capable of providing technical and administrative support services for declassification review, action processing, and tracking of record material for the Joint Staff Declassification Branch. Refer to the attached draft Performance Work Statement (PWS) file, which provides details on all the requirements. All aspects of the requirement, to include the estimated level of effort and periods of performance, are subject to future revisions.</p>\\n\\n<p>This requirement is a follow-on to existing Task Order, N0018923F3022, performed by QualX Corporation and was previously solicited and awarded under Seaport-NxG. The results of this market research will contribute to determining the method of procurement for the follow-on acquisition. Award of the resultant task order is anticipated to occur prior to May 2026, with services tentatively scheduled to commence by&nbsp;25 May 2026. The applicable NAICS code and size standard are&nbsp;541330 for Engineering Services and $25.5 million respectively.</p>\\n\\n<p>Prospective quoters possessing the requisite skills, resources, and capabilities necessary to perform the stated requirements are invited to respond to this market research survey/sources sought synopsis via the submission of a tailored executive summary, no more than five (5) pages in length. The submission should include the following information:</p>\\n\\n<ol>\\n\\t<li>Company Information:&nbsp;Company name; address; email address; web site address/URL; point of contact name; and phone number. Please also indicate if the identified prospective quoter would be performing in the capacity of a prime or subcontractor. If significant subcontracting or teaming is anticipated, prospective quoters should address the administrative and management structure of such arrangements.</li>\\n\\t<li>CAGE Codes:&nbsp;Contractor and Government Entity (CAGE) Codes for all prime and subcontractor prospective quoters.</li>\\n\\t<li>Business Size:&nbsp;Size of business for all prime and subcontractor prospective quoters - Large Business, Small Business, Small Disadvantaged Business, 8(a), Hubzone, Woman-owned, Veteran-Owned, Service Disabled Veteran-owned, etc.</li>\\n\\t<li>Capability and Past Performance:&nbsp;A tailored capability statement displaying the prospective quoter&rsquo;s ability to perform the PWS requirements. When providing past performance information, please include only relevant past performance on the same or similar work within the last five (5) years. This information should identify the applicable contract number, total contract dollar amount, period of performance, description of the services provided, and a customer point of contact with a corresponding telephone number and e-mail address. If subcontractor past performance is provided, clearly detail the aspects of the requirement the subcontractor supported.</li>\\n</ol>\\n\\n<p>All submissions are required to be submitted via e-mail to&nbsp;david.m.benham.civ@us.navy.mil&nbsp;no later than&nbsp;5:00 PM ET on 16 April 2026. Please direct any questions concerning this sources sought synopsis to David Benham via email.</p>\\n\\n<p>This announcement constitutes a sources sought synopsis for written information only and is not to be construed in any way as a commitment by the Government. This is not a solicitation announcement for proposals or quotes, and a contract will not be awarded from this announcement. The Government will not pay for the information received in response to this announcement. Respondents will not be notified of the results. The information contained within this notice may be updated or changed prior to the issuance of an official solicitation.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/06d130c880fc439eaf4d297206c84b7a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 4324063,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "District of Columbia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
