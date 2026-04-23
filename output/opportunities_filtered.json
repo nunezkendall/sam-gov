@@ -236,85 +236,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "63d6121739d04cb493776268e84fa383",
-    "title": "6515--Mobile Medical Carts/Workstations on Wheels",
-    "solicitationNumber": "36C24426Q0507",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-17",
-    "responseDeadline": "",
-    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.244-NETWORK CONTRACT OFFICE 4 (36C244)",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Philadelphia",
-      "state": "PA",
-      "zip": "19104"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/63d6121739d04cb493776268e84fa383/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=63d6121739d04cb493776268e84fa383",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5a25a2ea83f14cf3ab3bbcd86d735c14/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"THIS IS NOT A REQUEST FOR COMPETITIVE OFFERS\u00c2 \\nPhiladelphia VA Medical Center\u00c2 \\nThis is a Pre-Solicitation Notice for the Department of Veterans Affairs, Network Contracting Office (NCO) 4, to provide\u00c2 mobile medical carts/workstations on wheels. This equipment requirement is for the\u00c2 Philadelphia VA Medical Center\u00c2 located\u00c2 in\u00c2 Philadelphia, PA\u00c2 16602. The full solicitation will be released to NASA SEWP on or around\u00c2 April 18, 2026.\u00c2 \\nThe full solicitation will be a Small Business set-aside.\u00c2 \u00c2 The North American Industry Classification System (NAICS) for this procurement is 541519 Other Computer Related Services; the size standard is\u00c2 $34M.\u00c2 \\nPotential offerors\u00c2 are responsible for\u00c2 monitoring\u00c2 this site for the release of the solicitation package and any other per...",
-    "descriptionFull": "{\"description\":\"THIS IS NOT A REQUEST FOR COMPETITIVE OFFERS\u00c2\u00a0\\nPhiladelphia VA Medical Center\u00c2\u00a0\\nThis is a Pre-Solicitation Notice for the Department of Veterans Affairs, Network Contracting Office (NCO) 4, to provide\u00c2\u00a0mobile medical carts/workstations on wheels. This equipment requirement is for the\u00c2\u00a0Philadelphia VA Medical Center\u00c2\u00a0located\u00c2\u00a0in\u00c2\u00a0Philadelphia, PA\u00c2\u00a016602. The full solicitation will be released to NASA SEWP on or around\u00c2\u00a0April 18, 2026.\u00c2\u00a0\\nThe full solicitation will be a Small Business set-aside.\u00c2\u00a0\u00c2\u00a0The North American Industry Classification System (NAICS) for this procurement is 541519 Other Computer Related Services; the size standard is\u00c2\u00a0$34M.\u00c2\u00a0\\nPotential offerors\u00c2\u00a0are responsible for\u00c2\u00a0monitoring\u00c2\u00a0this site for the release of the solicitation package and any other pertinent information and for downloading their own copy of the solicitation package. Any amendments issued to this solicitation will ONLY be available on this site.\u00c2\u00a0\u00c2\u00a0Offerors are advised that they\u00c2\u00a0are responsible for\u00c2\u00a0obtaining all amendments.\u00c2\u00a0\u00c2\u00a0All questions must be\u00c2\u00a0submitted\u00c2\u00a0in writing to the Contract Specialist at joanne.skaff@va.gov. No telephone inquiries will be accepted.\u00c2\u00a0\\n\u00c2\u00a0\\nThis notice does not\u00c2\u00a0obligate\u00c2\u00a0the Government to award a contract neither does it\u00c2\u00a0obligate\u00c2\u00a0the Government to pay for any quotes or proposal preparation costs. The Government is not\u00c2\u00a0obligated\u00c2\u00a0to issue a solicitation because of this notice. No other information is available until issuance of the solicitation. All interested parties must be registered in System for Award Management (SAM)\u00c2\u00a0pursuant to\u00c2\u00a0applicable regulations and guidelines prior to award. Registration information can be found at www.sam.gov.\u00c2\u00a0\\nThe point of contact is Contract Specialist, Joanne Skaff, email:\u00c2\u00a0joanne.skaff@va.gov.  \\n\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5a25a2ea83f14cf3ab3bbcd86d735c14/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 24034,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "Monitoring",
-      "network",
-      "ASA"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "Monitoring",
-        "network",
-        "ASA"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "PA"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
     "title": "Intelligence and Automation Operations",
     "solicitationNumber": "W50NH9-26-R-A002",
@@ -573,6 +494,130 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "301410e46cdb4cdd8964ed9bdbf27eff",
+    "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
+    "solicitationNumber": "697DCK-25-R-00302",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-22",
+    "responseDeadline": "2026-01-16T17:00:00-05:00",
+    "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL AVIATION ADMINISTRATION.697DCK REGIONAL ACQUISITIONS SVCS",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "College Park",
+      "state": "Georgia",
+      "zip": "30337"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/301410e46cdb4cdd8964ed9bdbf27eff/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=301410e46cdb4cdd8964ed9bdbf27eff",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0617945c548a4a8d8aa0719de39ed0ad/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ad9c2c9746b47fc91052ff049431aed/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22cba0e8ec0c4deaaf3cbf8253882f5f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/271cb682e7964cea93dca79583d42b44/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3280a26128124b42bb97dcdb6e421768/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/479b4e3142694f078326f619cc938d11/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4c5454b11a5f499e9985b339b6978d79/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5832ec19d5f9485ab16c9ff1939399f0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5893427b5ac24fa4bbf697c67cb232cf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5edb5513618e482d89df54cbc677da97/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67ab4891245e4a988f70c4daf1e1efcf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6f7dd1176f13482c8e53149f772af695/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/76cd5432868349a6b85fa4a0b00d85c2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7b7b8d5d109d4f50aece5431711278dd/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/83a24462aa07483c8f42a814e2ec75fc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8a5022be97374d41b975a41067082cb9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9c6265b6b2ea40239d2ecb828cb56fef/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d846cf054b24cce813542a0a2501639/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a2b28d15fe9d495ca4e5ed9238f40426/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/baa79439207a4826824a008e792405f8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbc1fd3643514a9fbd75a657f931f8d8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dad081c5852a41339764a7297ada986e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f20a7527a3144b6c8ff4c82bf10b99e4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f6d4da743a9e4e7b8dfd858fc7ed163d/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>Amendment Notice:&nbsp;</strong></p>\\n\\n<p><strong>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n...",
+    "descriptionFull": "{\"description\":\"<p><strong>Amendment Notice:&nbsp;</strong></p>\\n\\n<p><strong>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0004 is issued to update the solicitation with the conformed copy, provide the Questions and Answers and extend the proposal due date to January 16, 2026, at 1700 ET.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0003&nbsp;is issued to extend the proposal due date to January 12, 2026, at 1700 ET. A subsequent amendment will be issued to address the questions that were received from Amendment 0002.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment-Due to the Government shutdown the SIR close date has been extended from Tuesday 10/21/2025 to Friday 11/21/2025.&nbsp; A formal amendment and Q&amp;As will be posted following the end of the Government shutdown. Continue to monitor this posting for any updates.</p>\\n\\n<p>Amendment 0002 is issued to update the solicitation with the conformed copy, provide the Questions and Answers, set a new submission deadline for additional Questions on amended items only, and extend the proposal due date to October 21, 2025, at 1700 Eastern Time.</p>\\n\\n<p>All questions on amended items only must be submitted by October 7, 2025, at 1000 Eastern Time.&nbsp;Questions will only be permitted for the revisions identified in red from this amendment.</p>\\n\\n<p>*********************************************************************************</p>\\n\\n<p>Amendment 0001 is issued to extend the proposal due date to September 30, 2025, at 1700 ET. A subsequent amendment will be issued to address the questions received and provide updated attachments.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>This is the updated Screening Information Request (SIR) 697DCK-25-R-00302 for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES) Procurement.&nbsp;&nbsp; This procurement is in support of the Federal Aviation Administration (FAA), Office of Finance and Management (AFN), Information and Technology Services (AIT), Contract Strategy and Support Division (ASP-400).</p>\\n\\n<p>This SIR is for Commercial Products (Hardware (HW) and Software (SW)) and is a DOT-wide strategic sourcing contract administered and managed by the FAA Offices of Acquisition and Business Services (ACQ) and Information and Technology Services (AIT).&nbsp; The products and services which include, but are not limited to, software, network infrastructure components (servers, switches, storage arrays, and network devices), personal computing devices (workstations, laptops, tablets, thin clients, notebooks, and similar items), computer peripherals and accessories, audio/visual equipment, and miscellaneous equipment (large screens, touch screens, scanners, projectors, desktop printers, multi-functional devices (MFD)), software to support the above mentioned hardware, and cloud based services by various Original Equipment Manufacturers (OEM) that meet the FAA IT community&rsquo;s requirements.&nbsp; The contract also includes product-based services that enable the full lifecycle management of IT assets; and these services must be directly related to the range of products offered under the Contract and must be performed as requested by the Contracting Officer on individual delivery orders.&nbsp; The Contractor must facilitate the acquisition, deployment and maintenance of IT assets under this contract by providing services including, but not limited to, asset recovery/disposition and warehousing. See SIR attached below for further details.&nbsp;</p>\\n\\n<p>The FAA intends to competitively award approximately eight (8) multiple-award Indefinite Delivery Indefinite Quantity (IDIQ)contracts under this SIR.&nbsp; The Government will make awards using a Lowest Price Technically Acceptable (LPTA) approach with a two-pool evaluation process; Up to six (6) awards to Offerors reserved for Small Businesses under the Small Business Pool, and up to two (2) awards to Offerors Unrestricted in Size under the Unrestricted Pool.</p>\\n\\n<p>The North American Industry Classification System (NAICS) code is 541519e Information Technology Value Added Resellers (Exception) and the size standard is 150 Employees.&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>To be considered for award of this requirement, the Offeror must have a current/valid registration in the Systems for Award Management (SAM) database website: www.sam.gov. Registration must be active by the offer due date.&nbsp;</p>\\n\\n<p>Proposals are due by EMAIL ONLY no later than 1700 ET on September 18, 2025.&nbsp; Please see attached SIR for proposal submission requirements.&nbsp; Questions are to be submitted, in writing only, as specified in the SIR.&nbsp; Questions will be answered in an Amendment to the SIR if deemed necessary and posted to SAM.GOV for all interested parties to consider.&nbsp; Prospective Offerors are encouraged to frequently visit SAM.GOV for any updates to this requirement.&nbsp;</p>\\n\\n<p>Any questions regarding this announcement should be directed to Dawn Bloome at <u>Dawn.A.Bloome@faa.gov </u>and Kristin Frantz at&nbsp;<u>Kristin.T.Frantz@faa.go</u>v.&nbsp; All questions must be received no later than 1700 ET on August 21, 2025.&nbsp; All questions and comments must be in writing, please no telephone calls.&nbsp; <strong>Offerors are requested to utilize the attached Q&amp;A Template attached.</strong></p>\\n\\n<p>Any responses received after <strong>the closing date and time</strong>, may not be considered in accordance with AMS provision 3.2.2.3-14, Late Submissions, Modifications, and Withdrawals of Submittals.&nbsp;</p>\\n\\n<p>This SIR is not to be construed as a contract or a commitment of any kind.&nbsp; The Government will not be liable for payment of any costs attributed to the preparation and submission of requested proposal documentation.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0617945c548a4a8d8aa0719de39ed0ad/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 39285,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ad9c2c9746b47fc91052ff049431aed/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 161119,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22cba0e8ec0c4deaaf3cbf8253882f5f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 38665,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/271cb682e7964cea93dca79583d42b44/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 9734,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3280a26128124b42bb97dcdb6e421768/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 380239,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Georgia"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -848,6 +893,83 @@
     "updatedDate": null
   },
   {
+    "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
+    "title": "ANC OCIO CEAS Support Services",
+    "solicitationNumber": "PANMCC26P0000042657",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541511",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-22",
+    "responseDeadline": "2026-06-22T16:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.FDO SAM HOUSTON.W6QM MICC-FT BELVOIR",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Fort Myer",
+      "state": "Virginia",
+      "zip": "22211"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ea37ba4fa6bc4d5499c1dcbbbe4a4b0e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dcee79e47a464906af52cd41c8ec8a6d/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>THIS IS A Sources Sought Notice ONLY. The U.S. Government desires to identify parties having an interest in and the resources to support the requirement for Arlington National Cemetery (ANC) Office of the Chief Information Officer (OCIO) Cemetery Enterprise Application Support (CEAS) Services Fiscal Year 2027 (FY27). This is a Sources Sought Notice and should not be construed as a solicitation announcement. The submission of this information is for planning purposes only. It is not to be construed as a commitment by the Government to procure any services, nor is it the intent of the Mission and Installation Contracting Command (MICC) &ndash; Fort Belvoir, Virginia to award a contract based on this Request for Information (RFI) or otherwise pay for the information soug...",
+    "descriptionFull": "{\"description\":\"<p>THIS IS A Sources Sought Notice ONLY. The U.S. Government desires to identify parties having an interest in and the resources to support the requirement for Arlington National Cemetery (ANC) Office of the Chief Information Officer (OCIO) Cemetery Enterprise Application Support (CEAS) Services Fiscal Year 2027 (FY27). This is a Sources Sought Notice and should not be construed as a solicitation announcement. The submission of this information is for planning purposes only. It is not to be construed as a commitment by the Government to procure any services, nor is it the intent of the Mission and Installation Contracting Command (MICC) &ndash; Fort Belvoir, Virginia to award a contract based on this Request for Information (RFI) or otherwise pay for the information sought. The Government is seeking responses to this Sources Sought Notice from all interested businesses capable of providing the requirement. This sources sought is seeking responses from 8(a), Service-Disabled Veteran Owned Small Businesses (SDVOSB), Women Owned Small Business (WOSB), and Historically Underutilized Business Zone (HUBZone). All of these small business categories are highly encouraged to identify capabilities in meeting the requirements.</p>\\n\\n<p>MICC &ndash; Fort Belvoir is seeking preliminary market research information from capable and reliable sources to gain knowledge of potential qualified small business sources capable of providing program management support, defining and establishing business processes, developing, implementing and sustaining plans for operations and maintenance for Arlington National Cemetery (ANC) Office of Army Cemeteries (OAC) business systems which contain Department of War (DOW) Cemetery data. Additionally, the contractor shall provide enterprise architecture support in accordance with the DOW Architecture Framework. The objective of this effort is to provide program management support across the evolving Cemetery Management suite of cloud applications. The contractor shall enable the Project Management Office to manage the development and operations of Information Technology (IT) based systems to conduct cemetery operations and oversee the Change Control Board (CCB) and the Enterprise Architecture Governance Board (EAGB). The basic services include but are not limited to, non-personal services to provide management of OCIO CEAS Services as defined in the attached Performance Work Statement (PWS). The Government shall not exercise any supervision or control over the contract service providers performing the services herein. Such contract service providers shall be accountable solely to the Contractor who, in turn is responsible to the Government.</p>\\n\\n<p>This notice is issued solely for information and planning purposes &ndash; it does not constitute a Request for Quote (RFQ)/Invitation for Bid (IFB)/Request for Proposal (RFP) or a promise to issue an RFQ, IFB or RFP in the future. This notice does not commit the U.S. Government to contract for any supply or service. Further, the U.S. Government is not seeking quotes, bids or proposals at this time and will not accept unsolicited proposals in response to this sources sought notice. The U.S. Government will not pay for any information or administrative costs incurred in response to this notice. Submittals will not be returned to the responder. Not responding to this notice does not preclude participation in any future RFQ or IFB or RFP, if any is issued. If a solicitation is released, it will be synopsized on the System Award Management (SAM) database at https://www.sam.gov or sam.gov, potential offerors are encouraged to monitor for additional information pertaining to this requirement. The anticipated NAICS code(s) is: 541511, &ldquo;Custom Computer Programming Services,&rdquo; with a size standard of $34.0M.</p>\\n\\n<p>Attached are the draft Performance Work Statement (PWS) and Performance Requirements Summary (PRS).</p>\\n\\n<p>Responses to this Sources Sought Notice shall be e-mailed to the Contract Specialists, Amber Peeples, at amber.k.peeples.civ@army.mil with a courtesy copy (cc) to, Contracting Officer David Gecewicz, at david.l.gecewicz.civ@army.mil, no later than 05 May 2026 at 12:00 p.m. Eastern Standard Time.</p>\\n\\n<p>In response to this source sought, please provide:</p>\\n\\n<p>1) Name of the firm, point of contact, phone number, email address, Unique Entity Identifier (UEI) number, CAGE code, a statement confirming small business status and the corresponding NAICS code.</p>\\n\\n<p></p>\\n\\n<p>2) Identify whether your firm is interested in competing for this requirement as a prime contractor or not. Identify subcontracting, joint ventures or teaming arrangement that will be pursued, if any.</p>\\n\\n<p></p>\\n\\n<p>3) Information in sufficient detail regarding previous experience (indicate whether as a prime contractor or subcontractor) on similar requirements (include size, scope, complexity, timeframe, government or commercial), pertinent certifications, etc., that will facilitate making a capability determination.</p>\\n\\n<p></p>\\n\\n<p>a. Offerors must meet requirements outlined in FAR 52.219-14 Limitation of Subcontracting. Specifically, &ldquo;(1) Services it will not pay more than 50 percent of the amount paid by the Government for contract performance to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor&#39;s 50 percent subcontract amount that cannot be exceeded. When a contract includes both services and supplies, the 50 percent limitation shall apply only to the service portion of the contract.&rdquo;</p>\\n\\n<p></p>\\n\\n<p>4) Information to help determine if the requirement is commercially available, including pricing information, basis for the pricing information (e.g., market pricing, catalog pricing), delivery schedules, customary terms and conditions, warranties, etc.</p>\\n\\n<p></p>\\n\\n<p>5) Identify how the Army can best structure these contract requirements to facilitate competition, including competition among small business concerns.</p>\\n\\n<p></p>\\n\\n<p>6) Identify any condition or action that may be having the effect of unnecessarily restricting competition with respect to this acquisition. Please contact the MICC Advocate for Competition, Scott Kukes, at scott.d.kukes.civ@army.mil or 520-944-7373, if you believe that this action is unreasonably restricting competition. Include the subject of the acquisition, this announcement, and the MICC POC information from the notice. Provide the specific aspects that unreasonably restrict competition and the rationale for such conclusion.</p>\\n\\n<p></p>\\n\\n<p>7) Recommendations to improve the approach/specifications/draft PWS/PRS to acquiring the identified items/services.</p>\\n\\n<p></p>\\n\\n<p><strong>The capability packages for this sources sought are not a proposal, but rather statements regarding the company&rsquo;s existing experience in relation to the areas specified above. </strong></p>\\n\\n<p><strong>No solicitation mailing list will be compiled</strong>. <strong>No phone calls will be accepted. Capability packages shall not exceed five (5) pages.</strong></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dcee79e47a464906af52cd41c8ec8a6d/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 319114,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "4e3614c8357d47e89f6c1bfb0c32a2cb",
     "title": "B--Implementation plan-ShakeAlert Earthquake EW.",
     "solicitationNumber": "140G0326Q0073",
@@ -1029,6 +1151,119 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "8f3d5512a10142ff96d9f978cb98daea",
+    "title": "NCTAMS LANT Telecommunication Support Services- Only Seeking RFP Responses from current Seaport NxG Contract Holders",
+    "solicitationNumber": "N0018926R3103",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-23",
+    "responseDeadline": "2026-05-26T10:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Norfolk",
+      "state": "Virginia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/8f3d5512a10142ff96d9f978cb98daea/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8f3d5512a10142ff96d9f978cb98daea",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/256b2bf685c049058b5f8eb15d72b2e3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3a473e164d0c46a2ac4fb7f275a0f6bf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/40808051926b44ac847e4ae7c7b49844/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5ffe48f10435492199c0e7c14fd521e9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9ed0ea52d92f47e98d035f95dc7f4580/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/add688dd4473448ab410bfbf74fa9a12/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b20771509e4743169a783c2b3cf505e4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bdd1a78f8be24cfebc27677d2dc903f0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d9750e1f1b1c4af9a04fc0962c5f2455/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/de6f50dc4c834ebf804499d876038671/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>Note: Only seeking RFP Responses from current Seaport NxG Contract Holders.&nbsp;</strong></p>\\n\\n<p>Naval Computer and Telecommunications Area Master Station Atlantic (NCTAMS LANT) requires telecommunications corrective and preventive maintenance for Navy-owned Avaya and Nortel telephone switching platforms, switch remote units, and adjunct equipment (inclusive of Voice Mail and the Administrative Switch Maintenance Terminal) to NCTAMS LANT and DET Cutler Base Communication Office (BCO) locations during peacetime, exercise, natural disaster, and conflict.</p>\\n\\n<p>This is a follow-on requirement to Seaport Task order N0018921F3024.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p><strong>Note: Only seeking RFP Responses from current Seaport NxG Contract Holders.&nbsp;</strong></p>\\n\\n<p>Naval Computer and Telecommunications Area Master Station Atlantic (NCTAMS LANT) requires telecommunications corrective and preventive maintenance for Navy-owned Avaya and Nortel telephone switching platforms, switch remote units, and adjunct equipment (inclusive of Voice Mail and the Administrative Switch Maintenance Terminal) to NCTAMS LANT and DET Cutler Base Communication Office (BCO) locations during peacetime, exercise, natural disaster, and conflict.</p>\\n\\n<p>This is a follow-on requirement to Seaport Task order N0018921F3024.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/256b2bf685c049058b5f8eb15d72b2e3/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 303371,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3a473e164d0c46a2ac4fb7f275a0f6bf/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 15745,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/40808051926b44ac847e4ae7c7b49844/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 13977,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5ffe48f10435492199c0e7c14fd521e9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 187604,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9ed0ea52d92f47e98d035f95dc7f4580/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 131836,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "switching",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "remote"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -3283,97 +3518,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "4a962a63d536421abe3570617fb3aea3",
-    "title": "Cloud Hosting, System Administration, and Website Support and Development for the Institute of Education Sciences",
-    "solicitationNumber": "AP4050",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "518210",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-27",
-    "responseDeadline": "2026-04-07T12:00:00-04:00",
-    "agency": "EDUCATION, DEPARTMENT OF.EDUCATION, DEPARTMENT OF.CONTRACTS AND ACQUISTIONS MANAGEMEN",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Washington",
-      "state": "District of Columbia",
-      "zip": "20202"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/4a962a63d536421abe3570617fb3aea3/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4a962a63d536421abe3570617fb3aea3",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/895f12fc034946749c05a94b03c367e0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf55cef97d8e4153a2fc1a60fa469ef7/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The Institute of Education Sciences (IES) plans to award a new task order for support of its web operations by providing cloud hosting, system administration, and website administration and critical feature development, and user, staff and developer support. IES currently maintains a virtual data center hosted in Amazon Web Services (AWS). The primary function of the data center is to host survey collection and dissemination websites in support of IES&rsquo; mission. This includes web servers, database servers, a vast array of websites and data driven web applications, a system management and web development environment, terminal servers housing analytical and statistical software, and other system support servers.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>The Institute of Education Sciences (IES) plans to award a new task order for support of its web operations by providing cloud hosting, system administration, and website administration and critical feature development, and user, staff and developer support. IES currently maintains a virtual data center hosted in Amazon Web Services (AWS). The primary function of the data center is to host survey collection and dissemination websites in support of IES&rsquo; mission. This includes web servers, database servers, a vast array of websites and data driven web applications, a system management and web development environment, terminal servers housing analytical and statistical software, and other system support servers.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/895f12fc034946749c05a94b03c367e0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 72387,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf55cef97d8e4153a2fc1a60fa469ef7/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 107155,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "system administration",
-      "cloud hosting"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "system administration",
-        "cloud hosting"
-      ],
-      "description": [
-        "AWS",
-        "system administration",
-        "cloud hosting",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": [
-        "virtual"
-      ]
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": true,
-    "onsitePossible": false,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "District of Columbia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   }
 ]
