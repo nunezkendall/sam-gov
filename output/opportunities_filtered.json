@@ -1,5 +1,82 @@
 [
   {
+    "noticeId": "7d1bb83839404cd4acd26fa45b279ad9",
+    "title": "Data Migration RFI",
+    "solicitationNumber": "FA283426Q0001",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-24",
+    "responseDeadline": "2026-05-10T16:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.PRESIDENTIAL AND EXECUTIVE AIRLIFT.FA2834  AFLCMC WV",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Hanscom AFB",
+      "state": "Massachusetts",
+      "zip": "01731"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/7d1bb83839404cd4acd26fa45b279ad9/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7d1bb83839404cd4acd26fa45b279ad9",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8ca4eab57f754bcfa211a5bb03006d9b/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8ca4eab57f754bcfa211a5bb03006d9b/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 41112,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "migration"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "migration"
+      ],
+      "description": [
+        "migration"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Massachusetts"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "ab3dcf25dc2b4e46a673117c32778a51",
     "title": "DH01--Vocera Communication Support Services- Northern Arizona  VA Healthcare System",
     "solicitationNumber": "36C26226Q0468",
@@ -72,83 +149,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "4db2145bc9e94e5da7599846662c3714",
-    "title": "Data Migration RFI",
-    "solicitationNumber": "FA283426Q0001",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-21",
-    "responseDeadline": "2026-05-10T16:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.PRESIDENTIAL AND EXECUTIVE AIRLIFT.FA2834  AFLCMC WV",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Hanscom AFB",
-      "state": "Massachusetts",
-      "zip": "01731"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/4db2145bc9e94e5da7599846662c3714/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4db2145bc9e94e5da7599846662c3714",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c0da0402338441408d909ff429909ff8/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 41050,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "migration"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "migration"
-      ],
-      "description": [
-        "migration"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Massachusetts"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -349,88 +349,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "c5a037227d104e43957c7e44eca4407c",
-    "title": "Continuous Monitoring Analytical Tool Set (CMATS) Development and Sustainment",
-    "solicitationNumber": "832674365",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-09",
-    "responseDeadline": "2026-04-23T14:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEFENSE INFORMATION SYSTEMS AGENCY (DISA).IT CONTRACTING DIVISION - PL83",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "St James",
-      "state": "Maryland",
-      "zip": "20755"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/c5a037227d104e43957c7e44eca4407c/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c5a037227d104e43957c7e44eca4407c",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/01dae82bd38440cf8042df7600757228/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eccf14cfc36546b2962446e977f0077c/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>See attached Sources_Sought_CMATS and Draft_PWS_CMATS.&nbsp;&nbsp;</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>See attached Sources_Sought_CMATS and Draft_PWS_CMATS.&nbsp;&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/01dae82bd38440cf8042df7600757228/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 59129,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eccf14cfc36546b2962446e977f0077c/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 225962,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "Monitoring"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "Monitoring"
-      ],
-      "description": []
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -887,6 +805,78 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Arizona"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "2ecbf6e29d294762b92d691d96e399c3",
+    "title": "Sage Business Care Gold: 12 Month License and Maintenance",
+    "solicitationNumber": "103026EH316881",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541511",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-24",
+    "responseDeadline": "2026-04-27T11:00:00-04:00",
+    "agency": "STATE, DEPARTMENT OF.STATE, DEPARTMENT OF.ACQUISITIONS - AQM MOMENTUM",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Arlington",
+      "state": "Virginia",
+      "zip": "22209"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/2ecbf6e29d294762b92d691d96e399c3/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2ecbf6e29d294762b92d691d96e399c3",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;U.S. DEPARTMENT OF STATE-&nbsp;OBO/IRM</strong></p>\\n\\n<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sage Business Care Gold: 12- Month License and Maintenance Renewal</strong></p>\\n\\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &...",
+    "descriptionFull": "{\"description\":\"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;U.S. DEPARTMENT OF STATE-&nbsp;OBO/IRM</strong></p>\\n\\n<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sage Business Care Gold: 12- Month License and Maintenance Renewal</strong></p>\\n\\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;April 24, 2026</strong></p>\\n\\n<p></p>\\n\\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SOURCES SOUGHT NOTICE</strong></p>\\n\\n<p></p>\\n\\n<p>This is a Sources Sought Notice Only. This is NOT a solicitation for proposals, proposal abstracts, or quotations. This Sources Sought Notice is issued for information and planning purposes only as part of U.S. Department of State (DOS) market research and does not constitute a solicitation. This requirement is covered under <strong>NAICS code: 541511&nbsp; Custom Computer Programming Services (Description) </strong>- The purpose of this notice is to obtain information regarding the availability and capability of qualified Small Business firms to provide Sage Business Care Gold. Sage is cloud accounting software designed to streamline financial management for growing organizations (typically 20+ employees) and mid-sized companies. It provides automation and trusted insights across financials, planning, HR, and payroll. It&rsquo;s built on a flexible, scalable, and compliance-based platform and digital network that will grow with your business.&nbsp; Sage Business Care Gold will be needed at the Department of State to enhance the presentation of diplomatic artifacts and stories as outlined in the description below.</p>\\n\\n<p></p>\\n\\n<p><strong>Product Description: </strong>Sage Business Care Gold: Maintenance for 22 users.</p>\\n\\n<p><strong>V. Place of Performance: </strong>1701 N. FORT MYER DRIVE, ARLINGTON, VA 22209 United States</p>\\n\\n<p><strong>VI. Period of Performance</strong>:&nbsp;12-month period of performance to commence on the date of award.</p>\\n\\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></p>\\n\\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SOURCES SOUGHT INSTRUCTIONS:</strong></p>\\n\\n<p></p>\\n\\n<ul>\\n\\t<li>Small Business Firms with the capability to provide the services outlined in the SOW of the recommended product description/specifications with the DOS requirements.</li>\\n</ul>\\n\\n<p></p>\\n\\n<ul>\\n\\t<li>Provide applicable information that will benefit the acquisition (Ex. Capability Statements)</li>\\n</ul>\\n\\n<p></p>\\n\\n<ul>\\n\\t<li>Cost or price information is not solicited and will not be reviewed.</li>\\n</ul>\\n\\n<p></p>\\n\\n<ul>\\n\\t<li>All interested Small Business Firms shall provide their current NAICS code, and Socio-Economic Business Size (small businesses; HUBZone small businesses; service-disabled veteran owned small businesses; 8(a) small businesses; veteran owned small businesses; woman owned small businesses; and small disadvantaged businesses, and GSA Federal Supply Schedule Number if applicable).</li>\\n</ul>\\n\\n<p></p>\\n\\n<p>Interested firms shall submit an electronic copy of their submission via email to Ryan Peterson at petersonrk@state.gov</p>\\n\\n<p></p>\\n\\n<p>The due date and time for submission of responses is 11:00AM Eastern Standard Time (EST) [April 27, 2026].</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>No phone calls related to this Sources Sought will be accepted. All correspondence shall be via email.</li>\\n\\t<li>Firms responding to this Sources Sought shall be registered in the System for Award Management under&nbsp;<strong>NAICS code: 541511: Custom Computer Programming Services</strong></li>\\n</ol>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All responses must include the following information:</p>\\n\\n<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Company name.</p>\\n\\n<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Company address.</p>\\n\\n<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Company business size (Respond: &ldquo;Small&rdquo; or &ldquo;Other Than Small&rdquo;).</p>\\n\\n<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unique Entity Identifier.</p>\\n\\n<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Point-of-contact name, telephone number, and email address.</p>\\n\\n<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GSA Federal Supply Schedule Number (if applicable)</p>\\n\\n<p><strong>&nbsp;</strong></p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "automation",
+      "network",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "automation",
+        "network",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
@@ -2709,81 +2699,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "e4a5e58a5f1841babc75d68218752f84",
-    "title": "Personnel Administration Services",
-    "solicitationNumber": "N4658126PRFA038",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-02",
-    "responseDeadline": "2026-04-09T12:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Norfolk",
-      "state": "Virginia",
-      "zip": "23511"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/e4a5e58a5f1841babc75d68218752f84/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e4a5e58a5f1841babc75d68218752f84",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7d19b09d799345888180c4560d4b5b0a/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***Note: This opportunity will be restricted to SeaPort NxG Mac Holders only***</p>\\n\\n<p>****&nbsp; This NOT a solicitation.&nbsp; This is a request for information only and it is requested that all interested vendors submit capability statement(s), Rough Order of Magnitude (ROM), and evidence of related past performance in response to this notice by email to: lateasha.e.cunningham.civ@us.navy.mil ****</p>\\n\\n<p>Please refer to the attached PWS for complete details for this requirement.</p>\\n\\n<p><u>1. General</u>: This is a non-personal services contract to provide Personnel Administration Services for Commander, Naval Surface Forces, Atlantic Fleet&nbsp;(CNSL) Directorate N01F (Comptroller)...",
-    "descriptionFull": "{\"description\":\"<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;***Note: This opportunity will be restricted to SeaPort NxG Mac Holders only***</p>\\n\\n<p>****&nbsp; This NOT a solicitation.&nbsp; This is a request for information only and it is requested that all interested vendors submit capability statement(s), Rough Order of Magnitude (ROM), and evidence of related past performance in response to this notice by email to: lateasha.e.cunningham.civ@us.navy.mil ****</p>\\n\\n<p>Please refer to the attached PWS for complete details for this requirement.</p>\\n\\n<p><u>1. General</u>: This is a non-personal services contract to provide Personnel Administration Services for Commander, Naval Surface Forces, Atlantic Fleet&nbsp;(CNSL) Directorate N01F (Comptroller) Norfolk and Mayport offices. The Contractor shall provide technical, analytical, training, and travel program support. The Government shall not exercise any supervision or control over the contract service providers performing the services herein. Such contract service providers shall be accountable solely to the Contractor who, in turn is responsible to the Government.</p>\\n\\n<p><u>1.1 Description of Services:</u> The contractor shall provide&nbsp;customer service to all CNSL fleet ships, employees and customers involving the execution of Defense Travel Program Authorizations and Vouchers. The contractor shall be&nbsp;responsible for ensuring that travelers complete their travel authorization documentation in accordance with defense travel regulations. Contractor must be familiar with Defense Travel System (DTS) the Joint Travel Regulations (JTR) procedures, the Defense Table of Official Distance and Defense Travel Management Office (DTMO) instructions. Contractor shall have cradle-to-grave overall responsibility, upon receipt of a Passenger Reservation Request (PRR), to ensure that the travel authorization is properly completed and that the travelers&rsquo; requirements will be met. The contractor shall make all necessary travel arrangements to include, identifying proper flights, hotels, and rental car &ndash; and reserving those for the traveler. The contractor shall monitor and track both approved and unapproved travel. The contractor shall ensure that arrangements have been properly reserved and/or funded to ensure that the travelers can accomplish the mission. The contractor shall support CNSL in preparation and review of travel authorization and vouchers as defined in the Performance Work Statement except for those items specified as government furnished items and services.</p>\\n\\n<p><u>1.2 Period of Performance: </u>The period of performance shall be for one (1) Base Year of 12 months, four (4) 12-month option years, and one (1) 6-month optional period starting July 1, 2026.</p>\\n\\n<p>Please reference the attached PWS for more detailed information.</p>\\n\\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ***Note: This opportunity will be restricted to SeaPort NxG Mac Holders only***</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7d19b09d799345888180c4560d4b5b0a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 64874,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
     "noticeId": "804ee46828fa4b97a178bc8cef7b66d5",
     "title": "Network Engineering Support Seaport",
     "solicitationNumber": "N6449826R3103",
@@ -3171,74 +3086,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "39825fd86b46449d8aaa9c20c2e29079",
-    "title": "Navy Shore Sustainment Support (N3S)",
-    "solicitationNumber": "N65236_MS_00010-0198",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-24",
-    "responseDeadline": "2026-04-10T12:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR LANT.NIWC ATLANTIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": ""
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/39825fd86b46449d8aaa9c20c2e29079/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=39825fd86b46449d8aaa9c20c2e29079",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"*** This Sources Sought Notice is for SEAPORT NxG SMALL BUSINESS MAC HOLDERS ONLY. No other offers will be considered. SEAPORT Small Business MAC holders will need to register for PIEE accounts in order to receive market survey requests, solicitations and submit proposals/offers.*** Naval Information Warfare Center Atlantic (NIWC Atlantic) is issuing this Market Survey for determining Small Business capabilities and is soliciting information from potential sources to provide systems lifecycle sustainment support for the Information Technology (IT) and Operational Technology (OT) systems and management support services to NIWC Atlantic in support of Commander Navy Installations Command (CNIC) N6 Regions, Continental United States (CONUS) and Outside the Continental United...",
-    "descriptionFull": "{\"description\":\"*** This Sources Sought Notice is for SEAPORT NxG SMALL BUSINESS MAC HOLDERS ONLY. No other offers will be considered. SEAPORT Small Business MAC holders will need to register for PIEE accounts in order to receive market survey requests, solicitations and submit proposals/offers.***  Naval Information Warfare Center Atlantic (NIWC Atlantic) is issuing this Market Survey for determining Small Business capabilities and is soliciting information from potential sources to provide systems lifecycle sustainment support for the Information Technology (IT) and Operational Technology (OT) systems and management support services to NIWC Atlantic in support of Commander Navy Installations Command (CNIC) N6 Regions, Continental United States (CONUS) and Outside the Continental United States (OCONUS). This support encompasses lifecycle sustainment support for systems within Navy installations worldwide. The contractors will be tasked to accomplish the work as specified in the DRAFT performance work statement (PWS) Section 3.0. The period of performance includes a base year and four (4) one-year option periods. Note: This requirement has not been vetted through the review process for approval and attached are only DRAFT documents. The PWS includes Controlled Unclassified Information (CUI) and will not be made publicly available. In order to obtain access to the PWS, the Offeror shall download, complete, and submit a signed Non-Disclosure Agreement (NDA) for each individual requiring access to the non-public documents to Melissa D. Kuskie, melissa.d.kuskie.civ@us.navy.mil.**THIS IS NOT AN RFP** \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "worldwide"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
