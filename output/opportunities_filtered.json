@@ -1,5 +1,75 @@
 [
   {
+    "noticeId": "c8a2b26722e64018b73289dc45a05b97",
+    "title": "HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD",
+    "solicitationNumber": "W912DR26QA027",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-27",
+    "responseDeadline": "2026-05-27T13:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": "21201"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c8a2b26722e64018b73289dc45a05b97/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c8a2b26722e64018b73289dc45a05b97",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD. This Request for Quote (RFQ) solicits for the HURREVAC and Real Time Evacuation Planning Model (RtePM) - Operations and Maintenance (O and M) contract, in support of U.S. Army Corps of Engineers, Baltimore District, Planning Division. This award will be advertised as 100% Total Small Business Set Aside. Request for Information (RFIs) concerning this solicitation must be submitted by email no later than Tuesday, 12 May 2026, 1:00 PM EST via email to Sharon Alexander, Contract Specialist, at Sharon.L.Alexander@usace.army.mil and Angela Padua, Contracting Officer, at Angela.S.Padua@usace.army.mil. Proposals are due no later than the time and date specified in block 8.Pl...",
+    "descriptionFull": "{\"description\":\"HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD. This Request for Quote (RFQ) solicits for the HURREVAC and Real Time Evacuation Planning Model (RtePM) - Operations and Maintenance (O and M) contract, in support of U.S. Army Corps of Engineers, Baltimore District, Planning Division. This award will be advertised as 100% Total Small Business Set Aside. Request for Information (RFIs) concerning this solicitation must be submitted by email no later than Tuesday, 12 May 2026, 1:00 PM EST via email to Sharon Alexander, Contract Specialist, at Sharon.L.Alexander@usace.army.mil and Angela Padua, Contracting Officer, at Angela.S.Padua@usace.army.mil. Proposals are due no later than the time and date specified in block 8.Please submit proposals via the Procurement Integrated Enterprise Environment (PIEE) as stated in the solicitation. \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "7d1bb83839404cd4acd26fa45b279ad9",
     "title": "Data Migration RFI",
     "solicitationNumber": "FA283426Q0001",
@@ -1026,6 +1096,219 @@
     "updatedDate": null
   },
   {
+    "noticeId": "bee9da334b0147afbabed9dd7330d423",
+    "title": "Landover Warehouse Slab On Grade (SOG) Evaluation",
+    "solicitationNumber": "2031ZA26Q00069",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-27",
+    "responseDeadline": "2026-04-29T17:00:00-04:00",
+    "agency": "TREASURY, DEPARTMENT OF THE.BUREAU OF ENGRAVING AND PRINTING.OFFICE OF THE CHIEF PROCUREMENT OFFICER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Landover",
+      "state": "Maryland",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/bee9da334b0147afbabed9dd7330d423/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bee9da334b0147afbabed9dd7330d423",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d720a99d8334d78a5c993199ddcac57/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3b21bad41bf04d6a925fbb80cc776459/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/565edc8a77194ccd81d7fb3e3b521df9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d04c263b3ac48bc86999a12e73d1d22/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9db8790998d24403874c40264975cde6/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Amendment 4: The offer due date is extended to April 29th, 2026 at 5:00pm EST.&nbsp;</p>\\n\\n<p>Amendment 3:&nbsp;Questions and Answers have been updated to provide an additional Government response. The RFQ is updated to include Attachment 2 - ALTA NSPS LAND TITLE SURVEY and Attachment 3 - ASSIGNMENT PLAN_LANDOVER WAREHOUSE.&nbsp;</p>\\n\\n<p>Amendment 2:&nbsp;Questions and Answers have been updated to provide an additional Government response.&nbsp;</p>\\n\\n<p>Amendment 1: Questions and Answers have been added to this solcitation as an attachment.&nbsp;&nbsp;</p>\\n\\n<p>This solicitation is a Request for Quotation, number 2031ZA26Q00069. The contractor shall provide all personnel, equipment, supplies, transportation, tools, materials, supervision, and other items and non...",
+    "descriptionFull": "{\"description\":\"<p>Amendment 4: The offer due date is extended to April 29th, 2026 at 5:00pm EST.&nbsp;</p>\\n\\n<p>Amendment 3:&nbsp;Questions and Answers have been updated to provide an additional Government response. The RFQ is updated to include Attachment 2 - ALTA NSPS LAND TITLE SURVEY and Attachment 3 - ASSIGNMENT PLAN_LANDOVER WAREHOUSE.&nbsp;</p>\\n\\n<p>Amendment 2:&nbsp;Questions and Answers have been updated to provide an additional Government response.&nbsp;</p>\\n\\n<p>Amendment 1: Questions and Answers have been added to this solcitation as an attachment.&nbsp;&nbsp;</p>\\n\\n<p>This solicitation is a Request for Quotation, number 2031ZA26Q00069. The contractor shall provide all personnel, equipment, supplies, transportation, tools, materials, supervision, and other items and non-personal services necessary to perform a Slab On Grade (SOG) Evaluation at the Bureau of Engraving (BEP) Landover Warehouse.&nbsp;</p>\\n\\n<p>Please see the attached solicitation and associated documents.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d720a99d8334d78a5c993199ddcac57/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 94148,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3b21bad41bf04d6a925fbb80cc776459/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 2128370,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/565edc8a77194ccd81d7fb3e3b521df9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 192139,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d04c263b3ac48bc86999a12e73d1d22/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1090563,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9db8790998d24403874c40264975cde6/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 19055,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "22fde05b04a4491ebdab02947c708250",
+    "title": "Architect-Engineer (A-E) Services IDIQ for Offutt AFB",
+    "solicitationNumber": "FA4600R0004",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-27",
+    "responseDeadline": "2026-05-27T15:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "St Columbans",
+      "state": "Nebraska",
+      "zip": "68113"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/22fde05b04a4491ebdab02947c708250/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=22fde05b04a4491ebdab02947c708250",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0d79f6e878bf409fa4a3d85e7d389e45/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ce4324d77b4c5c8f9566baf6b0718c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/756b0149878e403bb15215b2384a59aa/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/960bd779296d42e3a1ec970aeeb48663/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ac235ba298414848aca6b221b8314c9a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f528bb7da01f43f6b5ac1e72088ef805/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The 55th Contracting Squadron at Offutt Air Force Base, Nebraska, is issuing a Combined Synopsis/Solicitation for Architect-Engineer (A-E) services in accordance with the Brooks Act (FAR Subpart 36.6).</p>\\n\\n<p>The Government intends to award up to four (4) single-award, Firm-Fixed-Price (FFP) Indefinite-Delivery/Indefinite-Quantity (IDIQ) contracts to provide a full range of multi-disciplinary Title I, Title II, and other specialized engineering services. These services will support sustainment, restoration, modernization, and new construction projects primarily at Offutt AFB and its associated off-site facilities in eastern Nebraska.</p>\\n\\n<p><strong>Acquisition Strategy &amp; Contract Structure:</strong></p>\\n\\n<ul>\\n\\t<li><strong>Set-Aside</strong>: This acquisi...",
+    "descriptionFull": "{\"description\":\"<p>The 55th Contracting Squadron at Offutt Air Force Base, Nebraska, is issuing a Combined Synopsis/Solicitation for Architect-Engineer (A-E) services in accordance with the Brooks Act (FAR Subpart 36.6).</p>\\n\\n<p>The Government intends to award up to four (4) single-award, Firm-Fixed-Price (FFP) Indefinite-Delivery/Indefinite-Quantity (IDIQ) contracts to provide a full range of multi-disciplinary Title I, Title II, and other specialized engineering services. These services will support sustainment, restoration, modernization, and new construction projects primarily at Offutt AFB and its associated off-site facilities in eastern Nebraska.</p>\\n\\n<p><strong>Acquisition Strategy &amp; Contract Structure:</strong></p>\\n\\n<ul>\\n\\t<li><strong>Set-Aside</strong>: This acquisition is a 100% Total Small Business Set-Aside.</li>\\n\\t<li><strong>NAICS Code:</strong> 541330 (Engineering Services), with a Small Business Size Standard of $25.5 Million.</li>\\n\\t<li><strong>Period of Performance:</strong> Each contract will consist of a five (5) year base period and one (1) five (5) year option period.</li>\\n\\t<li><strong>Contract Ceiling:</strong> The maximum capacity for each IDIQ contract is $49,000,000.</li>\\n</ul>\\n\\n<p><strong>Pool Structure:</strong></p>\\n\\n<p>To ensure the Government has access to highly specialized expertise, the contracts will be awarded across four (4) distinct pools of work. A firm may submit qualifications for one or more pools; however, a firm will only be awarded a maximum of one (1) contract.</p>\\n\\n<p>The pools are:</p>\\n\\n<ul>\\n\\t<li>Pool 1: Specialized Engineering &amp; Consulting (e.g., Blast, RF Shielding, SCIF/SAPF, Acoustics)</li>\\n\\t<li>Pool 2: Mechanical &amp; Electrical Engineering</li>\\n\\t<li>Pool 3: Civil &amp; Structural Engineering</li>\\n\\t<li>Pool 4: Architecture &amp; Renovation</li>\\n</ul>\\n\\n<p><strong>Key Requirements:</strong></p>\\n\\n<p>Offerors are advised that this solicitation includes stringent mandatory pass/fail requirements that must be met at the time of submission, including:</p>\\n\\n<ol>\\n\\t<li>A geographic requirement for a design office located within a 200-mile radius of Offutt AFB.</li>\\n\\t<li>A requirement to possess a current Cybersecurity Maturity Model Certification (CMMC) Level 2 self (or higher) in the Supplier Performance Risk System (SPRS).</li>\\n</ol>\\n\\n<p><strong>Submission Instructions:</strong></p>\\n\\n<p>This is NOT a Request for Proposal (RFP). Interested firms must submit a Statement of Qualifications using Standard Form (SF) 330.</p>\\n\\n<p>For complete details on the scope of work, mandatory requirements, evaluation criteria, and specific instructions for submitting an SF330, please download and carefully review the attached document titled &quot;<strong>Combo Synopsis-Solicitation_Offutt AE IDIQ</strong>.&quot;</p>\\n\\n<p><strong>Submission Deadlines:</strong></p>\\n\\n<p>Questions regarding this solicitation shall be received no later than <strong>08 May 2026</strong> at <strong>3:00 PM Central Time</strong>. Questions received after this deadline may not be answered.</p>\\n\\n<p>SF330&#39;s shall be receieved no later than <strong>27 May 2026 at 3:00 PM Central Time.</strong>&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0d79f6e878bf409fa4a3d85e7d389e45/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 165880,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ce4324d77b4c5c8f9566baf6b0718c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 165669,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/756b0149878e403bb15215b2384a59aa/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 165262,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/960bd779296d42e3a1ec970aeeb48663/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 245088,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ac235ba298414848aca6b221b8314c9a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1073371,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "modernization"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Nebraska"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "8f3d5512a10142ff96d9f978cb98daea",
     "title": "NCTAMS LANT Telecommunication Support Services- Only Seeking RFP Responses from current Seaport NxG Contract Holders",
     "solicitationNumber": "N0018926R3103",
@@ -1133,113 +1416,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "a7200625c681437e9fc7f49e5b6ac726",
-    "title": "Landover Warehouse Slab On Grade (SOG) Evaluation",
-    "solicitationNumber": "2031ZA26Q00069",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-22",
-    "responseDeadline": "2026-04-27T14:00:00-04:00",
-    "agency": "TREASURY, DEPARTMENT OF THE.BUREAU OF ENGRAVING AND PRINTING.OFFICE OF THE CHIEF PROCUREMENT OFFICER",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Landover",
-      "state": "Maryland",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/a7200625c681437e9fc7f49e5b6ac726/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a7200625c681437e9fc7f49e5b6ac726",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d720a99d8334d78a5c993199ddcac57/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3b21bad41bf04d6a925fbb80cc776459/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/565edc8a77194ccd81d7fb3e3b521df9/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9db8790998d24403874c40264975cde6/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a11932283ab14820ae93b003beac5b43/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>Amendment 3:&nbsp;Questions and Answers have been updated to provide an additional Government response. The RFQ is updated to include Attachment 2 - ALTA NSPS LAND TITLE SURVEY and Attachment 3 - ASSIGNMENT PLAN_LANDOVER WAREHOUSE.&nbsp;</p>\\n\\n<p>Amendment 2:&nbsp;Questions and Answers have been updated to provide an additional Government response.&nbsp;</p>\\n\\n<p>Amendment 1: Questions and Answers have been added to this solcitation as an attachment.&nbsp;&nbsp;</p>\\n\\n<p>This solicitation is a Request for Quotation, number 2031ZA26Q00069. The contractor shall provide all personnel, equipment, supplies, transportation, tools, materials, supervision, and other items and non-personal services necessary to perform a Slab On Grade (SOG) Evaluation at the Bureau of Engra...",
-    "descriptionFull": "{\"description\":\"<p>Amendment 3:&nbsp;Questions and Answers have been updated to provide an additional Government response. The RFQ is updated to include Attachment 2 - ALTA NSPS LAND TITLE SURVEY and Attachment 3 - ASSIGNMENT PLAN_LANDOVER WAREHOUSE.&nbsp;</p>\\n\\n<p>Amendment 2:&nbsp;Questions and Answers have been updated to provide an additional Government response.&nbsp;</p>\\n\\n<p>Amendment 1: Questions and Answers have been added to this solcitation as an attachment.&nbsp;&nbsp;</p>\\n\\n<p>This solicitation is a Request for Quotation, number 2031ZA26Q00069. The contractor shall provide all personnel, equipment, supplies, transportation, tools, materials, supervision, and other items and non-personal services necessary to perform a Slab On Grade (SOG) Evaluation at the Bureau of Engraving (BEP) Landover Warehouse.&nbsp;</p>\\n\\n<p>Please see the attached solicitation and associated documents.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1d720a99d8334d78a5c993199ddcac57/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 94148,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3b21bad41bf04d6a925fbb80cc776459/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 2128370,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/565edc8a77194ccd81d7fb3e3b521df9/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 192139,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9db8790998d24403874c40264975cde6/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 19055,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a11932283ab14820ae93b003beac5b43/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1007274,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -2884,76 +3060,6 @@
     "scopeIndicators": [
       "enterprise"
     ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "9d889e1d4028465d8895c353efdfbdf8",
-    "title": "A30 FiberOptic Waterfront Cabling Support",
-    "solicitationNumber": "N0017826R3009",
-    "type": "Solicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-27",
-    "responseDeadline": "2026-04-27T12:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": "Virginia",
-      "zip": "22448"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/9d889e1d4028465d8895c353efdfbdf8/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9d889e1d4028465d8895c353efdfbdf8",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>***THIS IS A SEAPORT-NXG REQUIREMENT. ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement for fiber optic networking support for the U.S. Navy. This includes Research and Development of new technical capabilities, Ship Construction support for all classes of Navy Warships, Operations and Maintenance of fielded fiber optic cable systems and plants.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>***THIS IS A SEAPORT-NXG REQUIREMENT. ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement for fiber optic networking support for the U.S. Navy. This includes Research and Development of new technical capabilities, Ship Construction support for all classes of Navy Warships, Operations and Maintenance of fielded fiber optic cable systems and plants.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network",
-      "networking",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "network",
-        "networking",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
     "scopeRisk": false,
     "workModeNotes": {
       "onsiteRequired": false,
