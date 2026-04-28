@@ -1,5 +1,150 @@
 [
   {
+    "noticeId": "f688eebfdecc47289549b85a55dc31b9",
+    "title": "7A21--New AWARD | 36C10B26Q0130 | ID.me Software Subscriptions and  Support | VA-26-00012041",
+    "solicitationNumber": "36C10B26Q0130",
+    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
+    "fullParentPathCode": "036.3600.36C10B",
+    "postedDate": "2026-04-28",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-13",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-28T18:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "7A21",
+    "active": "Yes",
+    "award": {
+      "awardee": {}
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "William.Waterhouse@va.gov",
+        "phone": "848-377-5097",
+        "title": "Contract Specialist",
+        "fullName": "William Waterhouse"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f688eebfdecc47289549b85a55dc31b9",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "07724",
+      "city": "EATONTOWN",
+      "countryCode": "USA",
+      "state": "NJ"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "",
+      "streetAddress2": "",
+      "city": {
+        "name": ""
+      },
+      "state": {
+        "name": ""
+      },
+      "zip": "",
+      "country": {
+        "name": ""
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/f688eebfdecc47289549b85a55dc31b9/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f688eebfdecc47289549b85a55dc31b9&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/131d21bb53df4445b8134eeb5f4422b4/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7630da697ab4dca92da19ab2684d636/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d0eebc1f67b847c1944a2b2e852bdeb7/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e49d5a21634940409787c57236fb4bd9/download"
+    ]
+  },
+  {
+    "noticeId": "cf2e57dc4fea4392aeec1679b41ec566",
+    "title": "Vehicle Forensics Collection: Commercial vehicle",
+    "solicitationNumber": "DJA-26-ASOD-PR-0088",
+    "fullParentPathName": "JUSTICE, DEPARTMENT OF.ATF ACQUISITION AND PROPERTY MGMT DIV.ATF",
+    "fullParentPathCode": "015.1560.15A000",
+    "postedDate": "2026-04-28",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-19",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-04T17:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "7E21",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "2026489654",
+        "type": "primary",
+        "email": "Brian.Wilkins@atf.gov",
+        "phone": "2026489120",
+        "title": null,
+        "fullName": "Brian Wilkins"
+      },
+      {
+        "fax": null,
+        "type": "secondary",
+        "email": "Courtney.Wiggins@atf.gov",
+        "phone": null,
+        "title": null,
+        "fullName": "Courtney Wiggins"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=cf2e57dc4fea4392aeec1679b41ec566",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20226",
+      "city": "WASHINGTON",
+      "countryCode": "USA",
+      "state": "DC"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "75376",
+        "name": "Sterling"
+      },
+      "state": {
+        "code": "VA",
+        "name": "Virginia"
+      },
+      "zip": "20166",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/cf2e57dc4fea4392aeec1679b41ec566/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=cf2e57dc4fea4392aeec1679b41ec566&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/10deafecaaec4db7a8c9d86ba23098d7/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a9593d26e2ef4fe496758deba49278a8/download"
+    ]
+  },
+  {
     "noticeId": "c8a2b26722e64018b73289dc45a05b97",
     "title": "HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD",
     "solicitationNumber": "W912DR26QA027",
@@ -59,80 +204,6 @@
       }
     ],
     "resourceLinks": null
-  },
-  {
-    "noticeId": "26ba9d06cdde464e86a545753f2c038d",
-    "title": "Vehicle Forensics Collection: Commercial vehicle",
-    "solicitationNumber": "DJA-26-ASOD-PR-0088",
-    "fullParentPathName": "JUSTICE, DEPARTMENT OF.ATF ACQUISITION AND PROPERTY MGMT DIV.ATF",
-    "fullParentPathCode": "015.1560.15A000",
-    "postedDate": "2026-04-27",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-05-19",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-05-04T17:00:00-04:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "7E21",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "2026489654",
-        "type": "primary",
-        "email": "Brian.Wilkins@atf.gov",
-        "phone": "2026489120",
-        "title": null,
-        "fullName": "Brian Wilkins"
-      },
-      {
-        "fax": null,
-        "type": "secondary",
-        "email": "Courtney.Wiggins@atf.gov",
-        "phone": null,
-        "title": null,
-        "fullName": "Courtney Wiggins"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=26ba9d06cdde464e86a545753f2c038d",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20226",
-      "city": "WASHINGTON",
-      "countryCode": "USA",
-      "state": "DC"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "75376",
-        "name": "Sterling"
-      },
-      "state": {
-        "code": "VA",
-        "name": "Virginia"
-      },
-      "zip": "20166",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/26ba9d06cdde464e86a545753f2c038d/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=26ba9d06cdde464e86a545753f2c038d&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/10deafecaaec4db7a8c9d86ba23098d7/download"
-    ]
   },
   {
     "noticeId": "903df9ab336c4275ba619137e9eda40e",
@@ -548,75 +619,6 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/92c6f81b970d410e99a7b25558c2b851/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f2eaa8f815e842d8a61747a91107d5df/download"
-    ]
-  },
-  {
-    "noticeId": "5ce013231b7a4b28b81c9e421a467a7f",
-    "title": "7A21--New AWARD | 36C10B26Q0130 | ID.me Software Subscriptions and  Support | VA-26-00012041",
-    "solicitationNumber": "36C10B26Q0130",
-    "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
-    "fullParentPathCode": "036.3600.36C10B",
-    "postedDate": "2026-04-22",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-05-28",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-28T10:00:00-04:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "7A21",
-    "active": "Yes",
-    "award": {
-      "awardee": {}
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "William.Waterhouse@va.gov",
-        "phone": "848-377-5097",
-        "title": "Contract Specialist",
-        "fullName": "WILLIAM WATERHOUSE"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5ce013231b7a4b28b81c9e421a467a7f",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "07724",
-      "city": "EATONTOWN",
-      "countryCode": "USA",
-      "state": "NJ"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "",
-      "streetAddress2": "",
-      "city": {
-        "name": ""
-      },
-      "state": {
-        "name": ""
-      },
-      "zip": "",
-      "country": {
-        "name": ""
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/5ce013231b7a4b28b81c9e421a467a7f/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5ce013231b7a4b28b81c9e421a467a7f&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b7630da697ab4dca92da19ab2684d636/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d0eebc1f67b847c1944a2b2e852bdeb7/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e49d5a21634940409787c57236fb4bd9/download"
     ]
   },
   {
@@ -1912,102 +1914,6 @@
       {
         "rel": "self",
         "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ff222502bd7d4bc890d406e561c4667b&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
-    "noticeId": "e6a4b65f4f9842f49ac64394e5cfb5ee",
-    "title": "Airfield Data Management Server - BPA",
-    "solicitationNumber": "FA813926A0003",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE SUSTAINMENT CENTER.FA8126  AFSC PZIMB",
-    "fullParentPathCode": "057.5700.AFMC.AFSC.FA8126",
-    "postedDate": "2026-04-16",
-    "type": "Award Notice",
-    "baseType": "Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-04-27",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": null,
-    "naicsCode": "541512",
-    "naicsCodes": [
-      "541512"
-    ],
-    "classificationCode": "7B22",
-    "active": "Yes",
-    "award": {
-      "date": "2026-04-12",
-      "number": "FA813926A0003",
-      "amount": "5494500.00",
-      "awardee": {
-        "name": "TECH TEN SOLUTIONS LLC",
-        "location": {
-          "city": {
-            "code": "7940",
-            "name": "Buckeye"
-          },
-          "state": {
-            "code": "AZ",
-            "name": "Arizona"
-          },
-          "zip": "85326",
-          "country": {
-            "code": "USA",
-            "name": "UNITED STATES"
-          }
-        },
-        "ueiSAM": "C549T8L258Y7",
-        "cageCode": "19LN1"
-      }
-    },
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "shanita.manuel@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Shanita Manuel"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "anthony.dollard@us.af.mil",
-        "phone": "",
-        "title": null,
-        "fullName": "Anthony Dollard"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e6a4b65f4f9842f49ac64394e5cfb5ee",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "73145-3305",
-      "city": "TINKER AFB",
-      "countryCode": "USA",
-      "state": "OK"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "0",
-        "name": "S Coffeyville"
-      },
-      "state": {
-        "code": "OK",
-        "name": "Oklahoma"
-      },
-      "zip": "73145",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/e6a4b65f4f9842f49ac64394e5cfb5ee/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e6a4b65f4f9842f49ac64394e5cfb5ee&limit=1"
       }
     ],
     "resourceLinks": null
@@ -3389,6 +3295,147 @@
     ]
   },
   {
+    "noticeId": "862e65cfbadd4a5ab7b90484f52b8fc9",
+    "title": "Cathodic Protection System Service - Beale AFB",
+    "solicitationNumber": "FA468626Q0004",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4686 9 CONS PK",
+    "fullParentPathCode": "057.5700.ACC.FA4686",
+    "postedDate": "2026-04-27",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-04-28",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-28T10:00:00-07:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "H399",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "teresa.romig@us.af.mil",
+        "phone": "5306343405",
+        "title": null,
+        "fullName": "Teresa Romig"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "jacob.duderstadt@us.af.mil",
+        "phone": "5306342485",
+        "title": null,
+        "fullName": "SSgt JACOB DUDERSTADT"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=862e65cfbadd4a5ab7b90484f52b8fc9",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "95903-1702",
+      "city": "BEALE AFB",
+      "countryCode": "USA",
+      "state": "CA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "0",
+        "name": "LINDA"
+      },
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "95903",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/862e65cfbadd4a5ab7b90484f52b8fc9/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=862e65cfbadd4a5ab7b90484f52b8fc9&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4ca82ad2da7b46c9b37d28c2cf80ce88/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/581f8808d5ea46bfa3fab95ed2238748/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a37e45cd3c3e4f66b71c1264c6b0bf5c/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3b2aee4182b4a37b1140d785df4bed1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fde63a89852549ed9b801fb7f64c868d/download"
+    ]
+  },
+  {
+    "noticeId": "329ef63f18194e64adcc2bb6d6d19cc0",
+    "title": "INDEFINITE DELIVERY/INDEFINITE QUANTITY CONTRACT FOR ARCHITECT-ENGINEER SERVICES FOR ENVIRONMENTAL INVESTIGATIONS, PERMIT APPLICATIONS AND RELATED STUDIES AT VARIOUS NAVY AND MARINE CORPS ACTIVITIES, PACIFIC BASIN AND INDIAN OCEAN AREAS",
+    "solicitationNumber": "N6274222R1803",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFACSYSCOM PACIFIC",
+    "fullParentPathCode": "017.1700.NAVFAC.NAVFAC PACIFIC CMD.N62742",
+    "postedDate": "2026-04-27",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-22",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-07T14:00:00-10:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "kylee.k.chun.civ@us.navy.mil",
+        "phone": "808-602-2898",
+        "title": null,
+        "fullName": "Kylee Chun"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "danika.m.kamikawa.civ@us.navy.mil",
+        "phone": "808-602-7601",
+        "title": null,
+        "fullName": "Danika Kamikawa"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=329ef63f18194e64adcc2bb6d6d19cc0",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "96860-3134",
+      "city": "JBPHH",
+      "countryCode": "USA",
+      "state": "HI"
+    },
+    "placeOfPerformance": {},
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/329ef63f18194e64adcc2bb6d6d19cc0/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=329ef63f18194e64adcc2bb6d6d19cc0&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11dd396d2c004d87a1bf08742cda5dd6/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2c0ecfbfb6a948049987e6c073802680/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d9c4f8430544493aa1d6a5a73920ca0/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c46a1ce5f1c848418ea441719d1a0f36/download"
+    ]
+  },
+  {
     "noticeId": "22fde05b04a4491ebdab02947c708250",
     "title": "Architect-Engineer (A-E) Services IDIQ for Offutt AFB",
     "solicitationNumber": "FA4600R0004",
@@ -4652,145 +4699,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2e76639fab48c6ad9fca43de1cb7c2/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aaa34e5f08214edca5882a22fc73e854/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e7a31cad54fa4b2cb33309ebe3e062a5/download"
-    ]
-  },
-  {
-    "noticeId": "e3d068b7c13149ab9b0514cc80b6e637",
-    "title": "Cathodic Protection System Service - Beale AFB",
-    "solicitationNumber": "FA468626Q0004",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4686 9 CONS PK",
-    "fullParentPathCode": "057.5700.ACC.FA4686",
-    "postedDate": "2026-04-15",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-04-28",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-28T10:00:00-07:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "H399",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "teresa.romig@us.af.mil",
-        "phone": "5306343405",
-        "title": null,
-        "fullName": "Teresa Romig"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "jacob.duderstadt@us.af.mil",
-        "phone": "5306342485",
-        "title": null,
-        "fullName": "SSgt JACOB DUDERSTADT"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e3d068b7c13149ab9b0514cc80b6e637",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "95903-1702",
-      "city": "BEALE AFB",
-      "countryCode": "USA",
-      "state": "CA"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "0",
-        "name": "LINDA"
-      },
-      "state": {
-        "code": "CA",
-        "name": "California"
-      },
-      "zip": "95903",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/e3d068b7c13149ab9b0514cc80b6e637/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e3d068b7c13149ab9b0514cc80b6e637&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4ca82ad2da7b46c9b37d28c2cf80ce88/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/581f8808d5ea46bfa3fab95ed2238748/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a37e45cd3c3e4f66b71c1264c6b0bf5c/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3b2aee4182b4a37b1140d785df4bed1/download"
-    ]
-  },
-  {
-    "noticeId": "c3b997f906544f478173ded47146bd8e",
-    "title": "INDEFINITE DELIVERY/INDEFINITE QUANTITY CONTRACT FOR ARCHITECT-ENGINEER SERVICES FOR ENVIRONMENTAL INVESTIGATIONS, PERMIT APPLICATIONS AND RELATED STUDIES AT VARIOUS NAVY AND MARINE CORPS ACTIVITIES, PACIFIC BASIN AND INDIAN OCEAN AREAS",
-    "solicitationNumber": "N6274222R1803",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFACSYSCOM PACIFIC",
-    "fullParentPathCode": "017.1700.NAVFAC.NAVFAC PACIFIC CMD.N62742",
-    "postedDate": "2026-04-15",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-05-22",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-05-07T14:00:00-10:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "C219",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "kylee.k.chun.civ@us.navy.mil",
-        "phone": "808-602-2898",
-        "title": null,
-        "fullName": "Kylee Chun"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "danika.m.kamikawa.civ@us.navy.mil",
-        "phone": "808-602-7601",
-        "title": null,
-        "fullName": "Danika Kamikawa"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c3b997f906544f478173ded47146bd8e",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "96860-3134",
-      "city": "JBPHH",
-      "countryCode": "USA",
-      "state": "HI"
-    },
-    "placeOfPerformance": {},
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/c3b997f906544f478173ded47146bd8e/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=c3b997f906544f478173ded47146bd8e&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2c0ecfbfb6a948049987e6c073802680/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d9c4f8430544493aa1d6a5a73920ca0/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c46a1ce5f1c848418ea441719d1a0f36/download"
     ]
   },
   {

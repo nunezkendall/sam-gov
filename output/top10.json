@@ -1,7 +1,29 @@
 [
   {
+    "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
+    "reason": "Enterprise cloud application support with architecture and O&M components.",
+    "overallScore": 66,
+    "title": "ANC OCIO CEAS Support Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/ea37ba4fa6bc4d5499c1dcbbbe4a4b0e/view",
+    "descriptionSnippet": "{\"description\":\"<p>THIS IS A Sources Sought Notice ONLY. The U.S. Government desires to identify parties having an interest in and the resources to support the requirement for Arlington National Cemetery (ANC) Office of the Chief Information Officer (OCIO) Cemetery Enterprise Application Support (CEAS) Services Fiscal Year 2027 (FY27). This is a Sources Sought Notice and should not be construed as a solicitation announcement. The submission of this information is for planning purposes only. It is not to be construed as a commitment by the Government to procure any services, nor is it the intent of the Mission and Installation Contracting Command (MICC) &ndash; Fort Belvoir, Virginia to award a contract based on this Request for Information (RFI) or otherwise pay for the information soug...",
+    "responseDeadline": "2026-06-22T16:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "c8a2b26722e64018b73289dc45a05b97",
+    "reason": "Small business set-aside for software O&M and model support.",
+    "overallScore": 63,
+    "title": "HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD",
+    "uiLink": "https://sam.gov/workspace/contract/opp/c8a2b26722e64018b73289dc45a05b97/view",
+    "descriptionSnippet": "{\"description\":\"HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD. This Request for Quote (RFQ) solicits for the HURREVAC and Real Time Evacuation Planning Model (RtePM) - Operations and Maintenance (O and M) contract, in support of U.S. Army Corps of Engineers, Baltimore District, Planning Division. This award will be advertised as 100% Total Small Business Set Aside. Request for Information (RFIs) concerning this solicitation must be submitted by email no later than Tuesday, 12 May 2026, 1:00 PM EST via email to Sharon Alexander, Contract Specialist, at Sharon.L.Alexander@usace.army.mil and Angela Padua, Contracting Officer, at Angela.S.Padua@usace.army.mil. Proposals are due no later than the time and date specified in block 8.Pl...",
+    "responseDeadline": "2026-05-27T13:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "03bca6ce2bb54104a50f55d8ed32331e",
-    "reason": "O&M and development of application aligns with IT support and manageable scope.",
+    "reason": "Application O&M and development with manageable scope.",
     "overallScore": 62,
     "title": "HURREVAC and RtePM - Operations and Maintenance (O and M)",
     "uiLink": "https://sam.gov/workspace/contract/opp/03bca6ce2bb54104a50f55d8ed32331e/view",
@@ -11,31 +33,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "c8a2b26722e64018b73289dc45a05b97",
-    "reason": "Software O&M support for USACE; small business set-aside with IT focus.",
-    "overallScore": 61,
-    "title": "HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD",
-    "uiLink": "https://sam.gov/workspace/contract/opp/c8a2b26722e64018b73289dc45a05b97/view",
-    "descriptionSnippet": "{\"description\":\"HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD. This Request for Quote (RFQ) solicits for the HURREVAC and Real Time Evacuation Planning Model (RtePM) - Operations and Maintenance (O and M) contract, in support of U.S. Army Corps of Engineers, Baltimore District, Planning Division. This award will be advertised as 100% Total Small Business Set Aside. Request for Information (RFIs) concerning this solicitation must be submitted by email no later than Tuesday, 12 May 2026, 1:00 PM EST via email to Sharon Alexander, Contract Specialist, at Sharon.L.Alexander@usace.army.mil and Angela Padua, Contracting Officer, at Angela.S.Padua@usace.army.mil. Proposals are due no later than the time and date specified in block 8.Pl...",
-    "responseDeadline": "2026-05-27T13:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
-    "reason": "Enterprise application and cloud suite support relevant to DevOps skills.",
-    "overallScore": 53,
-    "title": "ANC OCIO CEAS Support Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/ea37ba4fa6bc4d5499c1dcbbbe4a4b0e/view",
-    "descriptionSnippet": "{\"description\":\"<p>THIS IS A Sources Sought Notice ONLY. The U.S. Government desires to identify parties having an interest in and the resources to support the requirement for Arlington National Cemetery (ANC) Office of the Chief Information Officer (OCIO) Cemetery Enterprise Application Support (CEAS) Services Fiscal Year 2027 (FY27). This is a Sources Sought Notice and should not be construed as a solicitation announcement. The submission of this information is for planning purposes only. It is not to be construed as a commitment by the Government to procure any services, nor is it the intent of the Mission and Installation Contracting Command (MICC) &ndash; Fort Belvoir, Virginia to award a contract based on this Request for Information (RFI) or otherwise pay for the information soug...",
-    "responseDeadline": "2026-06-22T16:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "5a80794729fe4a94a012b104ece7a01a",
-    "reason": "Cyberspace R&D and software engineering strongly aligned with DevOps/cloud.",
-    "overallScore": 53,
+    "reason": "Cybersecurity and software engineering MAC strongly aligned to DevOps skills.",
+    "overallScore": 61,
     "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
     "uiLink": "https://sam.gov/workspace/contract/opp/5a80794729fe4a94a012b104ece7a01a/view",
     "descriptionSnippet": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-20...",
@@ -44,9 +44,20 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "804ee46828fa4b97a178bc8cef7b66d5",
+    "reason": "Network engineering sustainment relevant to Linux/network automation.",
+    "overallScore": 59,
+    "title": "Network Engineering Support Seaport",
+    "uiLink": "https://sam.gov/workspace/contract/opp/804ee46828fa4b97a178bc8cef7b66d5/view",
+    "descriptionSnippet": "{\"description\":\"This requirement is for NSWCPD Codes 542 and 543, which are responsible for Hull, Mechanical and Electrical (HM and E) and Navigation Networks. This requirement is for engineering support services. This effort shall provide engineering, technical and administrative services required for the design, development, integration, configuration, testing, troubleshooting, repair, maintenance and fleet sustainment of IC Data Networks and associated user systems. NOTE: Type of Contract: This will be a Cost-Plus-Fixed-Fee (CPFF) Task Order that will be competed under the SeaPort-NXG Multiple Award Contract (MAC) amongst all Small Business MAC holders. \"}",
+    "responseDeadline": "2026-05-05T12:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
-    "reason": "Automation and data-centric intelligence support fits Python/Linux skills.",
-    "overallScore": 52,
+    "reason": "Automation and data-centric operations support.",
+    "overallScore": 59,
     "title": "Intelligence and Automation Operations",
     "uiLink": "https://sam.gov/workspace/contract/opp/12339a6b49a048b7b81a5b89b0013f8d/view",
     "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
@@ -56,8 +67,8 @@
   },
   {
     "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
-    "reason": "Enterprise data management modernization with cybersecurity elements.",
-    "overallScore": 51,
+    "reason": "Enterprise data management modernization with cybersecurity focus.",
+    "overallScore": 58,
     "title": "TRANSCOM Reference Data Management (TRDM)",
     "uiLink": "https://sam.gov/workspace/contract/opp/9b298d4de6bf400781b119b1e03d4f79/view",
     "descriptionSnippet": "{\"description\":\"<p>TRDM provides a single distribution source of enterprise reference data for enhancing C2, transportation, logistics, deployment, and financial systems&rsquo; reference data management and functional data collection. The scope of TRDM requires the contractor to perform current technical &amp; Cybersecurity operations, maintenance, and distribution of the TRDM system and data while modernizing the architecture. These tasks include but are not limited to requirement analysis, data collection, data management, interface and architecture validation, and data distribution. Requests and requirements fielded by TRDM require contractor expertise on implementation, fielding, planning, scheduling, interoperability testing, documentation, and other key tasks defined in the softwa...",
@@ -66,20 +77,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "804ee46828fa4b97a178bc8cef7b66d5",
-    "reason": "Network engineering support relevant to Linux and infrastructure expertise.",
-    "overallScore": 46,
-    "title": "Network Engineering Support Seaport",
-    "uiLink": "https://sam.gov/workspace/contract/opp/804ee46828fa4b97a178bc8cef7b66d5/view",
-    "descriptionSnippet": "{\"description\":\"This requirement is for NSWCPD Codes 542 and 543, which are responsible for Hull, Mechanical and Electrical (HM and E) and Navigation Networks. This requirement is for engineering support services. This effort shall provide engineering, technical and administrative services required for the design, development, integration, configuration, testing, troubleshooting, repair, maintenance and fleet sustainment of IC Data Networks and associated user systems. NOTE: Type of Contract: This will be a Cost-Plus-Fixed-Fee (CPFF) Task Order that will be competed under the SeaPort-NXG Multiple Award Contract (MAC) amongst all Small Business MAC holders. \"}",
-    "responseDeadline": "2026-05-05T12:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
-    "reason": "Engineering support for C2 systems including AI and system administration.",
-    "overallScore": 41,
+    "reason": "Systems engineering including AI and software development.",
+    "overallScore": 54,
     "title": "H20 Engineering Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/ecdef2f3b5ab4526bb208f9c119a6a9f/view",
     "descriptionSnippet": "{\"description\":\"<p>***ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire C...",
@@ -88,24 +88,24 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "1680aa0b6045438b938f4c19e77c7dca",
-    "reason": "Electronics test and engineering services with some IT/network overlap.",
-    "overallScore": 38,
-    "title": "NUWC Division Keyport 2MMTR Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/1680aa0b6045438b938f4c19e77c7dca/view",
-    "descriptionSnippet": "{\"description\":\"<p><strong>Naval Undersea Warfare Center (NUWC) Keyport </strong></p>\\n\\n<p><strong>Miniature Microminiature/Module Test &amp; Repair ISEA Services </strong></p>\\n\\n<p><strong>N6572626R3101</strong></p>\\n\\n<p><strong>***This advance notice is for SEAPORT NXG MAC HOLDERS ONLY and is a SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***.</strong></p>\\n\\n<p>Naval Sea Logistics Center (NAVSEALOGCEN) intends to solicit a SeaPort-NxG task order to provide engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Governmen...",
-    "responseDeadline": "2026-04-14T15:30:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "6ce6db8ab8174a2abdfd00445bc90c34",
-    "reason": "C4ISR sustainment with systems/software engineering components.",
-    "overallScore": 36,
+    "reason": "C4ISR sustainment with software and systems engineering elements.",
+    "overallScore": 53,
     "title": "RFP N6523626R3007",
     "uiLink": "https://sam.gov/workspace/contract/opp/6ce6db8ab8174a2abdfd00445bc90c34/view",
     "descriptionSnippet": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Amendment 0004 revises Attachment 12 Prime Pricing Model to correct an error on the Section B tab that was causing the 6- month option (Option 5 on the pricing model) to not display; 2) revises Section H INVITED CONTRACTOR OR TECHNICAL REPRESENTATIVE STATUS UNDER U.S. - REPUBLIC OF KOREA (ROK) clause; 3) revises Section L clause L-349 to change the subcontractor and prime alternate proposal su...",
     "responseDeadline": "2026-04-22T12:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "1680aa0b6045438b938f4c19e77c7dca",
+    "reason": "Electronic systems engineering support with technical services component.",
+    "overallScore": 50,
+    "title": "NUWC Division Keyport 2MMTR Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/1680aa0b6045438b938f4c19e77c7dca/view",
+    "descriptionSnippet": "{\"description\":\"<p><strong>Naval Undersea Warfare Center (NUWC) Keyport </strong></p>\\n\\n<p><strong>Miniature Microminiature/Module Test &amp; Repair ISEA Services </strong></p>\\n\\n<p><strong>N6572626R3101</strong></p>\\n\\n<p><strong>***This advance notice is for SEAPORT NXG MAC HOLDERS ONLY and is a SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***.</strong></p>\\n\\n<p>Naval Sea Logistics Center (NAVSEALOGCEN) intends to solicit a SeaPort-NxG task order to provide engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Governmen...",
+    "responseDeadline": "2026-04-14T15:30:00-04:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   }
