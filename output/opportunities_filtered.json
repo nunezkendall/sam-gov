@@ -612,88 +612,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "8aad4f4ebedc4211aee46daa0410430d",
-    "title": "TrueView Go 132S mapping sensor",
-    "solicitationNumber": "80NSSC26928771Q",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541512",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-08",
-    "responseDeadline": "2026-04-13T16:00:00-05:00",
-    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Huntsville",
-      "state": "Alabama",
-      "zip": "35812"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/8aad4f4ebedc4211aee46daa0410430d/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8aad4f4ebedc4211aee46daa0410430d",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5dc3c406da214052b85539b0635e4a6e/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a3587dd6b8e74b9886d7d7d5495096c9/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>NASA/NSSC has a requirement for TrueView Go 132S mapping sensor. See the attached SOW and request for capability statements.&nbsp;</p>\\n\\n<p>*Pleae note* This is NOT a request for quotes. Pricing offers will not be review/accepted at this time.</p>\\n\\n<p>Correspondence should reference ID&nbsp;80NSSC26928771Q in the subject line to ensure visibility.&nbsp;</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>NASA/NSSC has a requirement for TrueView Go 132S mapping sensor. See the attached SOW and request for capability statements.&nbsp;</p>\\n\\n<p>*Pleae note* This is NOT a request for quotes. Pricing offers will not be review/accepted at this time.</p>\\n\\n<p>Correspondence should reference ID&nbsp;80NSSC26928771Q in the subject line to ensure visibility.&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5dc3c406da214052b85539b0635e4a6e/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 110813,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a3587dd6b8e74b9886d7d7d5495096c9/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 90288,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "ASA"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "ASA"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Alabama"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "a52fa89820b94b7aaef9685bfa927d62",
     "title": "Logistics IT Integration and Support (LIIS) Capability Modernization, Deployment, and Support (CMDS) Multiple Award Contract (MAC)",
     "solicitationNumber": "",
@@ -906,6 +824,90 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "4ef4707fbbfa4068b3c9893e9630d4b1",
+    "title": "Total Small Business Set-Aside, Firm Fixed-Priced, Non-Personal, Commercial Service Contract for Medical Physicist for the Cheyenne River Health Center located in Eagle Butte, SD.",
+    "solicitationNumber": "75H70626Q00081",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-29",
+    "responseDeadline": "2026-05-13T12:00:00-06:00",
+    "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.INDIAN HEALTH SERVICE.GREAT PLAINS AREA INDIAN HEALTH SVC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Eagle Butte",
+      "state": "South Dakota",
+      "zip": "57625"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/4ef4707fbbfa4068b3c9893e9630d4b1/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4ef4707fbbfa4068b3c9893e9630d4b1",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0d9b89abc8f944b5981598890ad8fab8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b8a71666ef38467b8b1fcf7fe03ba5f9/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<ol>\\n\\t<li>This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in this notice, FAR Part 12, Acquisition of Commercial Items (Title VIII of the Federal Acquisition Streamlining Act of 1994) (Public Law 103-355). This announcement constitutes the only solicitation; quotes are being requested and a written solicitation will not be issued.</li>\\n\\t<li>The Great Plains Area Indian Health Service (IHS) intends to award a Firm-Fixed Price, Non- Personal, commercial service contract in response to Request for Quote (RFQ) 75H70626Q00081.</li>\\n\\t<li>This solicitation document and incorporated provisions and clauses are those ...",
+    "descriptionFull": "{\"description\":\"<ol>\\n\\t<li>This is a combined synopsis/solicitation for commercial items prepared in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6, as supplemented with additional information included in this notice, FAR Part 12, Acquisition of Commercial Items (Title VIII of the Federal Acquisition Streamlining Act of 1994) (Public Law 103-355). This announcement constitutes the only solicitation; quotes are being requested and a written solicitation will not be issued.</li>\\n\\t<li>The Great Plains Area Indian Health Service (IHS) intends to award a Firm-Fixed Price, Non- Personal, commercial service contract in response to Request for Quote (RFQ) 75H70626Q00081.</li>\\n\\t<li>This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular 2026-01 on March 13, 2026.</li>\\n\\t<li>This RFQ is issued as 100% Small Business Set-Aside, and the associated NAICS Code is #541690, which has a small business standard size $19.5</li>\\n\\t<li>The quoted unit pricing must be all inclusive (to include but not be limited to travel, lodging, per diem, fringe benefits, federal, state and local taxes) plus all other costs pertinent to the performance of this contract. Utilize your most competitive and reasonable rates.</li>\\n</ol>\\n\\n<p>Complete the attached Request for Quote #75H70626Q00081 for Medical Physicist.</p>\\n\\n<ol>\\n\\t<li>Medical Physicist to be provided for the Cheyenne River Health Center Indian Health Service, 24276 166th St. Airport RD, Eagle Butte, South Dakota 57625. See Statement of Work (SOW) attached. The period of performance will be one year from date of award</li>\\n</ol>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>FAR 52.212-1 Instructions to Offerors-Commercial Products and Commercial Services (Oct, 2025).</li>\\n</ol>\\n\\n<p>Quotes shall be submitted on company letterhead stationery, signed, dated and it shall include:</p>\\n\\n<ol>\\n\\t<li>\\n\\t<ol>\\n\\t\\t<li>Solicitation number: <strong>75H70626Q00081</strong></li>\\n\\t\\t<li>Closing Date: <strong>May 13, 2026 at 12:00 pm MT</strong>.</li>\\n\\t\\t<li>Name, address and telephone number of company and email address of contact person.</li>\\n\\t\\t<li>Technical description of the item/service being offered in sufficient detail to evaluate compliance with the requirements of the solicitation. This may include product literature, or other documents, if necessary.</li>\\n\\t\\t<li>Terms of any express warranty.</li>\\n\\t\\t<li>Price and any discount terms.</li>\\n\\t\\t<li>&ldquo;Remit to&rdquo; address, if different than mailing address.</li>\\n\\t\\t<li>Acknowledgment of Solicitation Amendments (if any issued)</li>\\n\\t</ol>\\n\\t</li>\\n</ol>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>\\n\\t<ol>\\n\\t\\t<li>Past performance information, when included as an evaluation factor, to include recent and relevant contracts for the same or similar items and other references (including contract numbers, points of contact with telephone numbers and other relevant information).</li>\\n\\t\\t<li>A statement specifying the extent of agreement with all terms, conditions, and provisions included in the solicitation. Offerors that fail to furnish required representations or information, or reject the terms and conditions of the solicitation may be excluded from consideration.</li>\\n\\t</ol>\\n\\t</li>\\n\\t<li>FAR 52.212-2 Evaluation &ndash; Commercial Products and Commercial Services (Oct, 2025) &ndash; See attachment for full text. Basis of award is Lowest Price, Technically Acceptable &ldquo;LPTA&rdquo; factors determining the successful contractor. The Government will not use the formal source selection procedures described in FAR part 15.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>The Government will evaluate quotations utilizing the procedures of FAR 13.106-2 Evaluation of quotations or offers. Offers will be evaluated for acceptability, but not ranked using the non- price factors/sub-factors. All non-price factors and sub-factors will be rated as either &ldquo;acceptable&rdquo; or &ldquo;unacceptable&rdquo;. The Government intends to evaluate and make award without discussion with the offerors other than minor clarifications, unless discussions are determined to be necessary. A decision on the technical acceptability of each offeror&rsquo;s quotations will be made. For those offeror&rsquo;s which are determined to be technically acceptable, award will be made to that vendor with the lowest overall prices.</p>\\n\\n<p></p>\\n\\n<p>The LPTA evaluation process will be accomplished as follows - Technical Acceptability will be comprised of three subfactors:</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>\\n\\t<ol>\\n\\t\\t<li>Meeting all areas under the Statement of Work (SOW) which are consistent in the scope and complexity with Medical Physicist.</li>\\n\\t\\t<li>Price: The Pricing Schedule must be completed for all the line items and will be evaluated as to completeness and reasonableness. The offeror with the lowest technically acceptable prices represents the best value to the Government.</li>\\n\\t\\t<li>Past Performance: The offeror&rsquo;s performance on contracts completed during the past three (3) years and all contracts are currently in progress for Medical Physicists.</li>\\n\\t</ol>\\n\\t</li>\\n</ol>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>FAR 52.212-4 Terms and Conditions-Commercial Products and Commercial Services (Oct, 2025). Applied to this acquisition and it&rsquo;s by reference.</li>\\n</ol>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>Attached are the Federal Acquisition Regulations (FAR) &amp; Health &amp; Human Services Acquisition Regulation (HHSAR) clauses that are applicable, including below.</li>\\n\\t<li>Offers will be accepted electronically, Submit via e-mail to the following: Great Plains Area Indian Health Service</li>\\n</ol>\\n\\n<p>Attn: Jordyn Brown, Purchasing Agent</p>\\n\\n<p>Email: Jordyn.Brown@ihs.gov</p>\\n\\n<p>Any questions, please submit by email to: Jordyn.Brown@ihs.gov; before May 5, 2026 by 12:00 pm MT. Contractors will need a Unique Entity ID (UEI) number, TIN number, and be registered with www.sam.gov.</p>\\n\\n<p>Invoice Processing Platform (IPP)</p>\\n\\n<p>The Indian Health Service (IHS) is in the process of implementing an electronic invoicing system. In compliance with the Office of Management and Budget (OMB) M-15-19 memorandum &ldquo;Improving Government Efficiency and Saving Taxpayer Dollars Through Electronic Invoicing&rdquo; directing Federal agencies to adopt electronic invoicing as the primary means to disburse payment to vendors. Invoices submitted under any award will be required to utilize the Invoice Processing Platform (IPP) in accordance with HHSAR 352.232-71, Electronic Submission and Processing of Payment Requests&rdquo;.</p>\\n\\n<p>IPP is a secure, web-based electronic invoicing system provided by the U.S. Department of the Treasury&rsquo;s Bureau of the Fiscal Service, in partnership with the Federal Reserve Bank of St. Louis (FRSTL). Respondents to this solicitation are encouraged to register an account with IPP if they have not already done so. If your organization is already registered to use IPP, you will not be required to re-register- however, we encourage you make sure your organization and designated IPP user accounts are valid and up to date.</p>\\n\\n<p>The IPP website address is: https://www.ipp.gov.</p>\\n\\n<p>If you require assistance registering or IPP account access, please contact the IPP Helpdesk at (866) 973- 3131 (M-F 8AM to 6PM ET), or IPPCustomerSupport@fiscal.treasury.gov Should the contractor feel that use of the IPP would be unduly burdensome, their response to this solicitation should include an explanation of this position for a determination by the contracting officer.</p>\\n\\n<p></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0d9b89abc8f944b5981598890ad8fab8/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 756859,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b8a71666ef38467b8b1fcf7fe03ba5f9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 123723,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "South Dakota"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -1197,109 +1199,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "862e65cfbadd4a5ab7b90484f52b8fc9",
-    "title": "Cathodic Protection System Service - Beale AFB",
-    "solicitationNumber": "FA468626Q0004",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-27",
-    "responseDeadline": "2026-04-28T10:00:00-07:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4686 9 CONS PK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "LINDA",
-      "state": "California",
-      "zip": "95903"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/862e65cfbadd4a5ab7b90484f52b8fc9/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=862e65cfbadd4a5ab7b90484f52b8fc9",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4ca82ad2da7b46c9b37d28c2cf80ce88/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/581f8808d5ea46bfa3fab95ed2238748/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a37e45cd3c3e4f66b71c1264c6b0bf5c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3b2aee4182b4a37b1140d785df4bed1/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fde63a89852549ed9b801fb7f64c868d/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number FA468626Q0004 is issued as an RFQ.</p>\\n\\n<p>This acquisition 100% set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov.</p>\\n\\n<p>(ii). A list of line item number(s) and items, quantities, and units of measure is identified in Attachment 1 - Solicitation, Under Supplies or Services &amp; Prices or Costs. Offerors shall return completed ...",
-    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial products or commercial services prepared in accordance with part 12. This announcement constitutes the only solicitation. Offers are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number FA468626Q0004 is issued as an RFQ.</p>\\n\\n<p>This acquisition 100% set-aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov.</p>\\n\\n<p>(ii). A list of line item number(s) and items, quantities, and units of measure is identified in Attachment 1 - Solicitation, Under Supplies or Services &amp; Prices or Costs. Offerors shall return completed as part of quote submission.</p>\\n\\n<p>(iii). This requirement is for the 9th Civil Engineer Squadron (CES) at Beale Air Force Base (BAFB) requires regularly scheduled inspection, maintenance, and repair services for cathodic protection systems installed on nine (9) water storage tanks across the installation. This preventative service is essential to mitigate corrosion, thereby preventing leaks, water contamination, and structural failures that could cause significant damage to mission-essential infrastructure. Properly maintained cathodic protection systems are critical for preserving the structural integrity of the base&rsquo;s water supply and distribution network. Neglecting this required maintenance can lead to accelerated corrosion, resulting in unexpected tank failures, costly emergency repairs, and potential disruptions to the water supply that could impact mission-critical activities.</p>\\n\\n<p>(iv). Date(s) and place(s) of delivery and acceptance and FOB point is identified in Attachment 1 - Solicitation, Under Deliveries or Performance Schedules. Place of Contract Performance: Beale AFB, CA; Period of Performance: 01 August 2026 to 31 July 2027.</p>\\n\\n<p>(v). The provision at 52.212-1, Instructions to Offerors-Commercial Products and Commercial Services, applies to this acquisition. The provision at 52.212-2, Evaluation-Commercial Products and Commercial Services, applies to this acquisition and the specific evaluation criteria to be included is identified in Attachment 1.</p>\\n\\n<p>(vi). Offerors shall include a completed copy of the provision at 52.212-3, Offeror Representations and Certifications-Commercial Products and Commercial Services, with its offer. The clause at 52.212-4, Contract Terms and Conditions-Commercial Products and Commercial Services, applies to this acquisition.</p>\\n\\n<p>(vii). There are no additional contract requirement(s) or terms and conditions (such as contract financing arrangements or warranty requirements) necessary for this acquisition.</p>\\n\\n<p>(2).Response Times:</p>\\n\\n<p>&nbsp; &nbsp; &nbsp;Q&amp;A&#39;s are due Monday, 20 April 2026 @ 10:00AM PST to the POCs listed below.</p>\\n\\n<p>&nbsp; &nbsp; &nbsp;Offers are due Tuesday, 28 April 2026 @ 10:00AM PST to the POCs listed below.</p>\\n\\n<p>The name and telephone number of the individual(s) to contact for information regarding the solicitation is Contracting Officer - Teresa Romig, teresa.romig@us.af.mil and Contract Specialist, SSgt Jacob Duderstadt, jacob.duderstadt@us.af.mil.</p>\\n\\n<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>\\n\\n<p>Q&amp;A questions 1 through 2 uploaded as of 15 April 2026 and is titled &quot;Solicitation - Questions and Answers - Cathodic Protection - 15APR2026&quot;</p>\\n\\n<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>\\n\\n<p>Q&amp;A questions 3 through 7 uploaded as of 27 April 2026 and is titled &quot;Solicitation - Questions and Answers - Cathodic Protection - 27APR2026&quot;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4ca82ad2da7b46c9b37d28c2cf80ce88/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 51997,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/581f8808d5ea46bfa3fab95ed2238748/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 609698,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a37e45cd3c3e4f66b71c1264c6b0bf5c/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 108873,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3b2aee4182b4a37b1140d785df4bed1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 678623,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fde63a89852549ed9b801fb7f64c868d/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 114796,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "network"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "California"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -2832,111 +2731,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "d625b9cbdff349f8872b9b2ffd42986a",
-    "title": "MAHG181094CR Repair Runway Charrette, Keesler AFB, MS",
-    "solicitationNumber": "FA301026R0002",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-31",
-    "responseDeadline": "2026-04-13T11:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR EDUCATION AND TRAINING COMMAND.FA3010  81 CONS CC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Biloxi",
-      "state": "Mississippi",
-      "zip": "39534"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/d625b9cbdff349f8872b9b2ffd42986a/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d625b9cbdff349f8872b9b2ffd42986a",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1eed0a670ce947bfb39bd990ed0628e5/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/38d11bf33cf244a9a5cc39af8fea3bb1/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b57ec1688c2445d974f7a0dcc1f1267/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af2f8eee77b84eeda5f531533fbdcff0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cba753553b574611af6f6dcc34997529/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f366f5f4b13f4451881356a8d7795dc3/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa64a7943e99415dae5dd0737da56c21/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>Keesler AFB has a requirement to provide a Planning Charrette Report (PCR) for the Repair Runway, Project # MAHG181094CR in accordance with the attached statement of objectives.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>Keesler AFB has a requirement to provide a Planning Charrette Report (PCR) for the Repair Runway, Project # MAHG181094CR in accordance with the attached statement of objectives.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1eed0a670ce947bfb39bd990ed0628e5/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1073371,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/38d11bf33cf244a9a5cc39af8fea3bb1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 11581,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b57ec1688c2445d974f7a0dcc1f1267/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 374865,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af2f8eee77b84eeda5f531533fbdcff0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 39179,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cba753553b574611af6f6dcc34997529/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 586804,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Mississippi"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
