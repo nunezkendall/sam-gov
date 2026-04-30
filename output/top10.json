@@ -1,8 +1,19 @@
 [
   {
+    "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
+    "reason": "Enterprise application and cloud systems support aligns well with DevOps and automation skills.",
+    "overallScore": 58,
+    "title": "ANC OCIO CEAS Support Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/ea37ba4fa6bc4d5499c1dcbbbe4a4b0e/view",
+    "descriptionSnippet": "{\"description\":\"<p>THIS IS A Sources Sought Notice ONLY. The U.S. Government desires to identify parties having an interest in and the resources to support the requirement for Arlington National Cemetery (ANC) Office of the Chief Information Officer (OCIO) Cemetery Enterprise Application Support (CEAS) Services Fiscal Year 2027 (FY27). This is a Sources Sought Notice and should not be construed as a solicitation announcement. The submission of this information is for planning purposes only. It is not to be construed as a commitment by the Government to procure any services, nor is it the intent of the Mission and Installation Contracting Command (MICC) &ndash; Fort Belvoir, Virginia to award a contract based on this Request for Information (RFI) or otherwise pay for the information soug...",
+    "responseDeadline": "2026-06-22T16:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "c8a2b26722e64018b73289dc45a05b97",
-    "reason": "Software O&M small business set-aside aligned to DevOps support.",
-    "overallScore": 66,
+    "reason": "O&M support for planning systems; moderate complexity and small business set-aside.",
+    "overallScore": 57,
     "title": "HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD",
     "uiLink": "https://sam.gov/workspace/contract/opp/c8a2b26722e64018b73289dc45a05b97/view",
     "descriptionSnippet": "{\"description\":\"HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD. This Request for Quote (RFQ) solicits for the HURREVAC and Real Time Evacuation Planning Model (RtePM) - Operations and Maintenance (O and M) contract, in support of U.S. Army Corps of Engineers, Baltimore District, Planning Division. This award will be advertised as 100% Total Small Business Set Aside. Request for Information (RFIs) concerning this solicitation must be submitted by email no later than Tuesday, 12 May 2026, 1:00 PM EST via email to Sharon Alexander, Contract Specialist, at Sharon.L.Alexander@usace.army.mil and Angela Padua, Contracting Officer, at Angela.S.Padua@usace.army.mil. Proposals are due no later than the time and date specified in block 8.Pl...",
@@ -11,20 +22,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "03bca6ce2bb54104a50f55d8ed32331e",
-    "reason": "Application O&M and development with manageable scope.",
-    "overallScore": 61,
-    "title": "HURREVAC and RtePM - Operations and Maintenance (O and M)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/03bca6ce2bb54104a50f55d8ed32331e/view",
-    "descriptionSnippet": "{\"description\":\"This is an operations, maintenance, and development of HURREVAC (HURRicane EVACuation) program and its sub-component (i.e., Real Time Evacuation Planning Model RteP]). This will be a Firm Fixed Price Contract with a three (3) year period of performance. Solicitation will be posted to SAM.gov on or about 15 April 2026 at 1300 est. \"}",
-    "responseDeadline": "2026-04-15T13:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "5a80794729fe4a94a012b104ece7a01a",
-    "reason": "Strong fit to cybersecurity, software engineering, and R&D.",
-    "overallScore": 61,
+    "reason": "Software development, cybersecurity, and R&D strongly align with DevOps/AWS capabilities.",
+    "overallScore": 53,
     "title": "N6600126R0002 - Cyberspace Science, Research, Engineering and Technology Integration Small Business Multiple Award Contract (MAC)",
     "uiLink": "https://sam.gov/workspace/contract/opp/5a80794729fe4a94a012b104ece7a01a/view",
     "descriptionSnippet": "{\"description\":\"Update 4-9-2026 - Updated Q and A to reflect proper due date in line with SAM.Gov posting ---------------- UPDATE 4-8-2026 - Amendment N66001-26-R-0002-0001 - A) extends the proposal due date to 11:00AM PT, 24 April, 2026; B) Provides the consolidated Q and A attachment (Att_6_QandA) based on questions received by the suspense date; C) Updates the NIWC POC on the PPQ (Att 5); D) corrects language in the solicitation where noted in the Q and A Attachment; and E) adds applicable clause and provision 252.204-7021 and 252.204-7025, respectively.----------------------UPDATE 3-20-2026: Solicitation posted. --------------------- SECOND UPDATE 3-19-2026: Solicitation posted. Deadline for submitting questions is 4-6-2026 at 11:00 AM (Pacific Time). Solicitation closing on 4-20-20...",
@@ -34,8 +34,8 @@
   },
   {
     "noticeId": "804ee46828fa4b97a178bc8cef7b66d5",
-    "reason": "Network engineering support aligns with Linux and automation skills.",
-    "overallScore": 60,
+    "reason": "Network engineering and sustainment aligns with Linux/network automation skills.",
+    "overallScore": 52,
     "title": "Network Engineering Support Seaport",
     "uiLink": "https://sam.gov/workspace/contract/opp/804ee46828fa4b97a178bc8cef7b66d5/view",
     "descriptionSnippet": "{\"description\":\"This requirement is for NSWCPD Codes 542 and 543, which are responsible for Hull, Mechanical and Electrical (HM and E) and Navigation Networks. This requirement is for engineering support services. This effort shall provide engineering, technical and administrative services required for the design, development, integration, configuration, testing, troubleshooting, repair, maintenance and fleet sustainment of IC Data Networks and associated user systems. NOTE: Type of Contract: This will be a Cost-Plus-Fixed-Fee (CPFF) Task Order that will be competed under the SeaPort-NXG Multiple Award Contract (MAC) amongst all Small Business MAC holders. \"}",
@@ -44,30 +44,8 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
-    "reason": "Enterprise data management modernization with cybersecurity.",
-    "overallScore": 59,
-    "title": "TRANSCOM Reference Data Management (TRDM)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/9b298d4de6bf400781b119b1e03d4f79/view",
-    "descriptionSnippet": "{\"description\":\"<p>TRDM provides a single distribution source of enterprise reference data for enhancing C2, transportation, logistics, deployment, and financial systems&rsquo; reference data management and functional data collection. The scope of TRDM requires the contractor to perform current technical &amp; Cybersecurity operations, maintenance, and distribution of the TRDM system and data while modernizing the architecture. These tasks include but are not limited to requirement analysis, data collection, data management, interface and architecture validation, and data distribution. Requests and requirements fielded by TRDM require contractor expertise on implementation, fielding, planning, scheduling, interoperability testing, documentation, and other key tasks defined in the softwa...",
-    "responseDeadline": "2026-05-04T10:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
-    "reason": "Enterprise application O&M and cloud support services.",
-    "overallScore": 52,
-    "title": "ANC OCIO CEAS Support Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/ea37ba4fa6bc4d5499c1dcbbbe4a4b0e/view",
-    "descriptionSnippet": "{\"description\":\"<p>THIS IS A Sources Sought Notice ONLY. The U.S. Government desires to identify parties having an interest in and the resources to support the requirement for Arlington National Cemetery (ANC) Office of the Chief Information Officer (OCIO) Cemetery Enterprise Application Support (CEAS) Services Fiscal Year 2027 (FY27). This is a Sources Sought Notice and should not be construed as a solicitation announcement. The submission of this information is for planning purposes only. It is not to be construed as a commitment by the Government to procure any services, nor is it the intent of the Mission and Installation Contracting Command (MICC) &ndash; Fort Belvoir, Virginia to award a contract based on this Request for Information (RFI) or otherwise pay for the information soug...",
-    "responseDeadline": "2026-06-22T16:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
-    "reason": "Automation and data-centric intelligence support.",
+    "reason": "Automation and data-centric support relevant to scripting and DevOps practices.",
     "overallScore": 51,
     "title": "Intelligence and Automation Operations",
     "uiLink": "https://sam.gov/workspace/contract/opp/12339a6b49a048b7b81a5b89b0013f8d/view",
@@ -77,35 +55,57 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "1680aa0b6045438b938f4c19e77c7dca",
-    "reason": "Engineering and technical support for electronic systems.",
-    "overallScore": 49,
-    "title": "NUWC Division Keyport 2MMTR Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/1680aa0b6045438b938f4c19e77c7dca/view",
-    "descriptionSnippet": "{\"description\":\"<p><strong>Naval Undersea Warfare Center (NUWC) Keyport </strong></p>\\n\\n<p><strong>Miniature Microminiature/Module Test &amp; Repair ISEA Services </strong></p>\\n\\n<p><strong>N6572626R3101</strong></p>\\n\\n<p><strong>***This advance notice is for SEAPORT NXG MAC HOLDERS ONLY and is a SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***.</strong></p>\\n\\n<p>Naval Sea Logistics Center (NAVSEALOGCEN) intends to solicit a SeaPort-NxG task order to provide engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Governmen...",
-    "responseDeadline": "2026-04-14T15:30:00-04:00",
+    "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
+    "reason": "Enterprise data management modernization offers architecture and automation opportunities.",
+    "overallScore": 50,
+    "title": "TRANSCOM Reference Data Management (TRDM)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/9b298d4de6bf400781b119b1e03d4f79/view",
+    "descriptionSnippet": "{\"description\":\"<p>TRDM provides a single distribution source of enterprise reference data for enhancing C2, transportation, logistics, deployment, and financial systems&rsquo; reference data management and functional data collection. The scope of TRDM requires the contractor to perform current technical &amp; Cybersecurity operations, maintenance, and distribution of the TRDM system and data while modernizing the architecture. These tasks include but are not limited to requirement analysis, data collection, data management, interface and architecture validation, and data distribution. Requests and requirements fielded by TRDM require contractor expertise on implementation, fielding, planning, scheduling, interoperability testing, documentation, and other key tasks defined in the softwa...",
+    "responseDeadline": "2026-05-04T10:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "5325838bec914456a6c36b27e4b87ccf",
+    "reason": "Data migration effort may involve scripting and integration skills.",
+    "overallScore": 44,
+    "title": "Data Migration RFI",
+    "uiLink": "https://sam.gov/workspace/contract/opp/5325838bec914456a6c36b27e4b87ccf/view",
+    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "responseDeadline": "2026-05-10T16:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "2ecbf6e29d294762b92d691d96e399c3",
+    "reason": "Simple software license support; low complexity entry opportunity.",
+    "overallScore": 44,
+    "title": "Sage Business Care Gold: 12 Month License and Maintenance",
+    "uiLink": "https://sam.gov/workspace/contract/opp/2ecbf6e29d294762b92d691d96e399c3/view",
+    "descriptionSnippet": "{\"description\":\"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;U.S. DEPARTMENT OF STATE-&nbsp;OBO/IRM</strong></p>\\n\\n<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sage Business Care Gold: 12- Month License and Maintenance Renewal</strong></p>\\n\\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &...",
+    "responseDeadline": "2026-04-27T11:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "ab3dcf25dc2b4e46a673117c32778a51",
+    "reason": "Communications system support within small business set-aside.",
+    "overallScore": 44,
+    "title": "DH01--Vocera Communication Support Services- Northern Arizona  VA Healthcare System",
+    "uiLink": "https://sam.gov/workspace/contract/opp/ab3dcf25dc2b4e46a673117c32778a51/view",
+    "descriptionSnippet": "{\"description\":\"Presolicitation Notice\\n\\nPresolicitation Notice\\n\\nPage 3 of 3\\nPresolicitation Notice\\n*=Required Field\\nPresolicitation Notice\\n\\nPage 1 of 3\\nThis is not a solicitation announcement. This is a pre-solicitation notice only. The purpose of this notice is to announce that the Department of Veterans Affairs, Veterans Integrated Service Network (VISN 22), Network Contracting Office (NCO) 22 is seeking contractors interested in providing a quote for the Vocera Communications System Support Services and Supplies at the Northern Arizona VA Healthcare System, 500 North Highway 89, Prescott AZ, 86313. Solicitation shall be issued on or about April 23rd, 2026. The following NAICS code: 541519 / Size Standard =150 Employees and PSC code: DH01 apply to this requirement. \\n\\nThis ...",
+    "responseDeadline": "2026-04-23T10:00:00-07:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "5c517562b57247d98bc1a584ce0918bb",
-    "reason": "Ongoing technical maintenance contract with moderate complexity.",
-    "overallScore": 43,
+    "reason": "Infrastructure maintenance with potential monitoring/automation overlap.",
+    "overallScore": 36,
     "title": "Uninterruptible Power Systems (UPS) Maintenance and Repair",
     "uiLink": "https://sam.gov/workspace/contract/opp/5c517562b57247d98bc1a584ce0918bb/view",
     "descriptionSnippet": "{\"description\":\"<p>This is a blanket purchase agreement. The period of performance is 1 May 2026 through 30 April 2031.</p>\\n\\n<p>General: This is a service contract to provide all necessary support to perform UPS service, maintenance, repairs and replacement/upgrade of outdated parts or equipment for the MTC FTIG.</p>\\n\\n<p>The contractor shall provide 24/7/365 emergency repair services to address any unscheduled system failures.<br />\\n<br />\\nThe contractor shall provide a telephone response from a qualified technician within four (4) hours of receiving an emergency service call. If the issue cannot be resolved remotely, the contractor shall have a technician on-site within twenty-four (24) hours.<br />\\n<br />\\nThe contractor shall diagnose the system failure and provide the cost es...",
     "responseDeadline": "2026-04-23T17:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "bf7aaa6f12f4424186b571ce9bf623de",
-    "reason": "Upcoming small business software engineering set-aside.",
-    "overallScore": 41,
-    "title": "Market Survey Results - N65236-26-RFPREQ-LSUBP00095-0008 MFOM Systems and Software Engineering Support",
-    "uiLink": "https://sam.gov/workspace/contract/opp/bf7aaa6f12f4424186b571ce9bf623de/view",
-    "descriptionSnippet": "{\"description\":\"This notice is regarding Market Survey ? N65236-26-RFPREQ-LSUBP00095-0008 which was released from 04 February 2026 through 20 February 2026. As a result of the analysis of the responses submitted for the aforementioned Market Survey, Naval Information Warfare Center Atlantic has determined the requirement for Maintenance Figure of Merit (MFOM) System and Software Engineering Support will be solicited as 100% Small Business Set-Aside. The Request for Proposal is anticipated to be released 4th Quarter 2026 via PIEE and will be open to SEAPORT NXG MAC HOLDERS ONLY. \"}",
-    "responseDeadline": "",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   }

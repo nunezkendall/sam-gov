@@ -1,5 +1,89 @@
 [
   {
+    "noticeId": "5325838bec914456a6c36b27e4b87ccf",
+    "title": "Data Migration RFI",
+    "solicitationNumber": "FA283426Q0001",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-04-30",
+    "responseDeadline": "2026-05-10T16:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.PRESIDENTIAL AND EXECUTIVE AIRLIFT.FA2834  AFLCMC WV",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Hanscom AFB",
+      "state": "Massachusetts",
+      "zip": "01731"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/5325838bec914456a6c36b27e4b87ccf/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5325838bec914456a6c36b27e4b87ccf",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8ca4eab57f754bcfa211a5bb03006d9b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/94e3ccdc9eb3434bbf1b63dd31249a9c/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8ca4eab57f754bcfa211a5bb03006d9b/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 41112,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/94e3ccdc9eb3434bbf1b63dd31249a9c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 26030,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "migration"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "migration"
+      ],
+      "description": [
+        "migration"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Massachusetts"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
     "noticeId": "c8a2b26722e64018b73289dc45a05b97",
     "title": "HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD",
     "solicitationNumber": "W912DR26QA027",
@@ -67,83 +151,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "7d1bb83839404cd4acd26fa45b279ad9",
-    "title": "Data Migration RFI",
-    "solicitationNumber": "FA283426Q0001",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-24",
-    "responseDeadline": "2026-05-10T16:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.PRESIDENTIAL AND EXECUTIVE AIRLIFT.FA2834  AFLCMC WV",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Hanscom AFB",
-      "state": "Massachusetts",
-      "zip": "01731"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/7d1bb83839404cd4acd26fa45b279ad9/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7d1bb83839404cd4acd26fa45b279ad9",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8ca4eab57f754bcfa211a5bb03006d9b/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8ca4eab57f754bcfa211a5bb03006d9b/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 41112,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "migration"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "migration"
-      ],
-      "description": [
-        "migration"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Massachusetts"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -416,72 +423,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "03bca6ce2bb54104a50f55d8ed32331e",
-    "title": "HURREVAC and RtePM - Operations and Maintenance (O and M)",
-    "solicitationNumber": "W912DR26RA029",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-30",
-    "responseDeadline": "2026-04-15T13:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST BALTIMORE.W2SD ENDIST BALTIMORE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "21201"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/03bca6ce2bb54104a50f55d8ed32331e/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=03bca6ce2bb54104a50f55d8ed32331e",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"This is an operations, maintenance, and development of HURREVAC (HURRicane EVACuation) program and its sub-component (i.e., Real Time Evacuation Planning Model RteP]). This will be a Firm Fixed Price Contract with a three (3) year period of performance. Solicitation will be posted to SAM.gov on or about 15 April 2026 at 1300 est. \"}",
-    "descriptionFull": "{\"description\":\"This is an operations, maintenance, and development of HURREVAC (HURRicane EVACuation) program and its sub-component (i.e., Real Time Evacuation Planning Model RteP]). This will be a Firm Fixed Price Contract with a three (3) year period of performance. Solicitation will be posted to SAM.gov on or about 15 April 2026 at 1300 est.  \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -2805,84 +2746,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "1680aa0b6045438b938f4c19e77c7dca",
-    "title": "NUWC Division Keyport 2MMTR Services",
-    "solicitationNumber": "N6572626R3101",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-03-30",
-    "responseDeadline": "2026-04-14T15:30:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVSEALOGCENKYPTDIVNUWC  MECH PA",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Norfolk",
-      "state": "Virginia",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/1680aa0b6045438b938f4c19e77c7dca/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1680aa0b6045438b938f4c19e77c7dca",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8571dfdcf50c49e29dc6e9176424bc27/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>Naval Undersea Warfare Center (NUWC) Keyport </strong></p>\\n\\n<p><strong>Miniature Microminiature/Module Test &amp; Repair ISEA Services </strong></p>\\n\\n<p><strong>N6572626R3101</strong></p>\\n\\n<p><strong>***This advance notice is for SEAPORT NXG MAC HOLDERS ONLY and is a SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***.</strong></p>\\n\\n<p>Naval Sea Logistics Center (NAVSEALOGCEN) intends to solicit a SeaPort-NxG task order to provide engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Governmen...",
-    "descriptionFull": "{\"description\":\"<p><strong>Naval Undersea Warfare Center (NUWC) Keyport </strong></p>\\n\\n<p><strong>Miniature Microminiature/Module Test &amp; Repair ISEA Services </strong></p>\\n\\n<p><strong>N6572626R3101</strong></p>\\n\\n<p><strong>***This advance notice is for SEAPORT NXG MAC HOLDERS ONLY and is a SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***.</strong></p>\\n\\n<p>Naval Sea Logistics Center (NAVSEALOGCEN) intends to solicit a SeaPort-NxG task order to provide engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Government electronic and electrical systems. The solicitation for this requirement will be posted in the Procurement Integrated Enterprise Environment (PIEE) Solicitation Module and publicized via SAM.gov.</p>\\n\\n<p>A SeaPort-NxG Sources Sought notice was issued in the SeaPort portal on 26 January 2026 for this requirement entitled, &ldquo;2MMTR FOLLOW ON.&rdquo; Based on the responses received, NAVSEALOGCEN intends to issue this solicitation as a SeaPort NxG Small Business set-aside.&nbsp;</p>\\n\\n<p><em><u>NOTE</u></em><em>:&nbsp; To be eligible as a SeaPort-NxG Small Business during the competitive ordering process, the Prime&rsquo;s basic SeaPort NxG contract must reflect a Small Business </em><em>wi</em><em>thin the System for Award Management (SAM)</em><em> at the time of proposal submission.</em></p>\\n\\n<p>This notice also provides a draft Performance Work Statement (PWS) for the upcoming task order solicitation. The draft PWS is being released to solicit comments and questions from interested parties.&nbsp;</p>\\n\\n<p>Interested parties/potential offerors are encouraged to respond to this Advance Notice with questions and comments as soon as possible in order to allow for review prior to release of the solicitation.&nbsp; Questions and answers shall be submitted by email to marisa.n.wirfel.civ@us.navy.mil and cody.d.hutchinson.civ@us.navy.mil.&nbsp; Note that questions/comments submitted in response to this draft PWS may not receive a response; however, all questions and comments will be reviewed by the Government to assist in identifying revisions that may be incorporated in the PWS.</p>\\n\\n<p>The resulting task order is anticipated to be a level of effort task order issued on a Cost-Plus-Fixed-Fee (CPFF) basis.&nbsp; It is anticipated that award of the task order will be made on a best value basis to the Government, and a trade-off analysis will be performed taking into consideration technical capability, past performance, and evaluated cost / price.&nbsp; The solicitation is anticipated to include a one-year Base Period and four (4) one-year Option Periods.</p>\\n\\n<p>The incumbent contractor currently providing the support services for this requirement is Engineering Services Network under SeaPort-NxG task order N00178-19-D-7599/N6660422F3006.</p>\\n\\n<p>NAVSEALOGCEN anticipates procurement milestones to occur on or around the following dates:</p>\\n\\n<p>Solicitation Issued: April 2026</p>\\n\\n<p>Proposals Due: May 2026</p>\\n\\n<p>Task Order Award: August 2026</p>\\n\\n<p>Task Order Start: October 2026</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8571dfdcf50c49e29dc6e9176424bc27/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 115712,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "network"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "enterprise"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "9bc2d357860c492eb1ad2090fe79c4b3",
+    "noticeId": "4f0787df5e7e4896b397ef0f6b244ded",
     "title": "Construction Inspection IDIQ",
     "solicitationNumber": "6982AF25R000016",
     "type": "Solicitation",
@@ -2890,7 +2754,7 @@
     "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-04-24",
+    "postedDate": "2026-04-30",
     "responseDeadline": "2026-05-11T14:00:00-06:00",
     "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
     "office": "",
@@ -2900,14 +2764,16 @@
       "zip": null
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/9bc2d357860c492eb1ad2090fe79c4b3/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9bc2d357860c492eb1ad2090fe79c4b3",
+      "uiLink": "https://sam.gov/workspace/contract/opp/4f0787df5e7e4896b397ef0f6b244ded/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4f0787df5e7e4896b397ef0f6b244ded",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04b2d60e4d5d43a3b7b2c929e3081e64/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/233bbdb184cd4b4e99d83c18d6f50154/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/29a6828bf4cc49829654da1b2e66cd19/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56f1bac3e7e5436993894e3943f6eaf8/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6781d5d844204e45aabf5471e50ac8e9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/75688db67f884980b251cf249a23a95e/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/efebc87539a94d39a59f2febda7748a3/download"
       ]
     },
@@ -2933,15 +2799,15 @@
         "textSnippet": ""
       },
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6781d5d844204e45aabf5471e50ac8e9/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56f1bac3e7e5436993894e3943f6eaf8/download",
         "contentType": "application/octet-stream",
-        "byteSize": 190854,
+        "byteSize": 260214,
         "textSnippet": ""
       },
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/efebc87539a94d39a59f2febda7748a3/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6781d5d844204e45aabf5471e50ac8e9/download",
         "contentType": "application/octet-stream",
-        "byteSize": 255399,
+        "byteSize": 190854,
         "textSnippet": ""
       }
     ],
