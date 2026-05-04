@@ -1,96 +1,5 @@
 [
   {
-    "noticeId": "f4dafe03bcd747d38505971fa613f4a2",
-    "title": "NIPR Network Drops and Multi-Mode (MM) Cable Installation Bldg 15177",
-    "solicitationNumber": "FA282326Q0030",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-01",
-    "responseDeadline": "2026-05-07T10:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA2823  AFTC PZIO",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "GOULDS",
-      "state": "Florida",
-      "zip": "32542"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/f4dafe03bcd747d38505971fa613f4a2/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f4dafe03bcd747d38505971fa613f4a2",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3067b456d6124cef8839a0893ee45bf0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/88f693412c6c40dda1636d7a8fff75b3/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/92dd712715e9487badad8acb41dd73a1/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>CAT6A NIPR Network Drops and 24-Strand Multi-Mode (MM) Cable Installation Bldg 15177 on Eglin AFB</p>\\n\\n<p>Please see attached PWS&nbsp;</p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>CAT6A NIPR Network Drops and 24-Strand Multi-Mode (MM) Cable Installation Bldg 15177 on Eglin AFB</p>\\n\\n<p>Please see attached PWS&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3067b456d6124cef8839a0893ee45bf0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 567743,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/88f693412c6c40dda1636d7a8fff75b3/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 9365780,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/92dd712715e9487badad8acb41dd73a1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 475739,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "network"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "network"
-      ],
-      "description": [
-        "network"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Florida"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "6a596f4bd3f14ff9b93225edccd7cae9",
     "title": "7A21--Web-Based VISTA/CPRS Integrated Solution for Oncology  Brand Name for Reference: DSS Order Tracking Manager for  Oncology",
     "solicitationNumber": "36C24426Q0511",
@@ -717,6 +626,88 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Georgia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "eab94181669b4421b3ac220fc092f115",
+    "title": "CIS Secure TSG Cisco 8851 Fiber VOIPs",
+    "solicitationNumber": "80NSSC26932047Q",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541512",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-04",
+    "responseDeadline": "2026-05-08T15:00:00-05:00",
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/eab94181669b4421b3ac220fc092f115/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=eab94181669b4421b3ac220fc092f115",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0cff5b779d204154b1e2bd86faa680c8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b5b8ec7cfd044a5bbc984f82ffe79589/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>See attached RFQ and SOW</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>See attached RFQ and SOW</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0cff5b779d204154b1e2bd86faa680c8/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 113488,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b5b8ec7cfd044a5bbc984f82ffe79589/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 321499,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Cisco"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "Cisco"
+      ],
+      "description": []
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,

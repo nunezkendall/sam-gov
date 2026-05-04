@@ -1,19 +1,8 @@
 [
   {
-    "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
-    "reason": "Strong alignment with automation and data-centric systems support.",
-    "overallScore": 47,
-    "title": "Intelligence and Automation Operations",
-    "uiLink": "https://sam.gov/workspace/contract/opp/12339a6b49a048b7b81a5b89b0013f8d/view",
-    "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
-    "responseDeadline": "2026-05-01T09:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
-    "reason": "Enterprise cloud application O&M and architecture support.",
-    "overallScore": 46,
+    "reason": "Enterprise cloud application and IT support services closely align with DevOps capabilities.",
+    "overallScore": 60,
     "title": "ANC OCIO CEAS Support Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/ea37ba4fa6bc4d5499c1dcbbbe4a4b0e/view",
     "descriptionSnippet": "{\"description\":\"<p>THIS IS A Sources Sought Notice ONLY. The U.S. Government desires to identify parties having an interest in and the resources to support the requirement for Arlington National Cemetery (ANC) Office of the Chief Information Officer (OCIO) Cemetery Enterprise Application Support (CEAS) Services Fiscal Year 2027 (FY27). This is a Sources Sought Notice and should not be construed as a solicitation announcement. The submission of this information is for planning purposes only. It is not to be construed as a commitment by the Government to procure any services, nor is it the intent of the Mission and Installation Contracting Command (MICC) &ndash; Fort Belvoir, Virginia to award a contract based on this Request for Information (RFI) or otherwise pay for the information soug...",
@@ -22,9 +11,20 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
+    "reason": "Automation and data-centric intelligence operations strongly match Python/Linux skills.",
+    "overallScore": 59,
+    "title": "Intelligence and Automation Operations",
+    "uiLink": "https://sam.gov/workspace/contract/opp/12339a6b49a048b7b81a5b89b0013f8d/view",
+    "descriptionSnippet": "{\"description\":\"<p>Agency/Office: The U.S. Army Contracting Command-Detroit Arsenal (ACC-DTA), U.S. Army Intelligence and Security Command (INSCOM)</p>\\n\\n<p>Solicitation Number: W50NH9-26-R-A002</p>\\n\\n<p>Requirement: Intelligence and Automation Operations</p>\\n\\n<p>Requirement Description: The contractor shall provide all personnel, supervision, and non-personal services necessary to provide comprehensive operational intelligence integration and data-centric support to the Data Capabilities Division and its diverse customer base as defined in the Performance Work Statement (PWS).</p>\\n\\n<p>NAICS Code 541519. The size standard associated with this NAICS code is $34,000,000.</p>\\n\\n<p>The Product Service Code is R423 &ndash; Support-Professional: Intelligence.</p>\\n\\n<p>All interested p...",
+    "responseDeadline": "2026-05-01T09:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "c8a2b26722e64018b73289dc45a05b97",
-    "reason": "IT operations and maintenance support for planning systems.",
-    "overallScore": 41,
+    "reason": "Software O&M contract suitable for small business DevOps support team.",
+    "overallScore": 58,
     "title": "HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD",
     "uiLink": "https://sam.gov/workspace/contract/opp/c8a2b26722e64018b73289dc45a05b97/view",
     "descriptionSnippet": "{\"description\":\"HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD. This Request for Quote (RFQ) solicits for the HURREVAC and Real Time Evacuation Planning Model (RtePM) - Operations and Maintenance (O and M) contract, in support of U.S. Army Corps of Engineers, Baltimore District, Planning Division. This award will be advertised as 100% Total Small Business Set Aside. Request for Information (RFIs) concerning this solicitation must be submitted by email no later than Tuesday, 12 May 2026, 1:00 PM EST via email to Sharon Alexander, Contract Specialist, at Sharon.L.Alexander@usace.army.mil and Angela Padua, Contracting Officer, at Angela.S.Padua@usace.army.mil. Proposals are due no later than the time and date specified in block 8.Pl...",
@@ -34,8 +34,8 @@
   },
   {
     "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
-    "reason": "Systems engineering including AI, networking, and system administration.",
-    "overallScore": 40,
+    "reason": "Systems engineering with network and system administration components fits core skills.",
+    "overallScore": 55,
     "title": "H20 Engineering Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/ecdef2f3b5ab4526bb208f9c119a6a9f/view",
     "descriptionSnippet": "{\"description\":\"<p>***ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire C...",
@@ -45,8 +45,8 @@
   },
   {
     "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
-    "reason": "Enterprise data management and modernization scope.",
-    "overallScore": 39,
+    "reason": "Enterprise data modernization and cybersecurity work aligns with cloud automation expertise.",
+    "overallScore": 54,
     "title": "TRANSCOM Reference Data Management (TRDM)",
     "uiLink": "https://sam.gov/workspace/contract/opp/9b298d4de6bf400781b119b1e03d4f79/view",
     "descriptionSnippet": "{\"description\":\"<p>TRDM provides a single distribution source of enterprise reference data for enhancing C2, transportation, logistics, deployment, and financial systems&rsquo; reference data management and functional data collection. The scope of TRDM requires the contractor to perform current technical &amp; Cybersecurity operations, maintenance, and distribution of the TRDM system and data while modernizing the architecture. These tasks include but are not limited to requirement analysis, data collection, data management, interface and architecture validation, and data distribution. Requests and requirements fielded by TRDM require contractor expertise on implementation, fielding, planning, scheduling, interoperability testing, documentation, and other key tasks defined in the softwa...",
@@ -55,20 +55,20 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "5325838bec914456a6c36b27e4b87ccf",
-    "reason": "Data migration effort aligns with automation and scripting capabilities.",
-    "overallScore": 38,
-    "title": "Data Migration RFI",
-    "uiLink": "https://sam.gov/workspace/contract/opp/5325838bec914456a6c36b27e4b87ccf/view",
-    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
-    "responseDeadline": "2026-05-10T16:00:00-04:00",
+    "noticeId": "bf7aaa6f12f4424186b571ce9bf623de",
+    "reason": "Software engineering support opportunity aligned with automation and system support.",
+    "overallScore": 51,
+    "title": "Market Survey Results - N65236-26-RFPREQ-LSUBP00095-0008 MFOM Systems and Software Engineering Support",
+    "uiLink": "https://sam.gov/workspace/contract/opp/bf7aaa6f12f4424186b571ce9bf623de/view",
+    "descriptionSnippet": "{\"description\":\"This notice is regarding Market Survey ? N65236-26-RFPREQ-LSUBP00095-0008 which was released from 04 February 2026 through 20 February 2026. As a result of the analysis of the responses submitted for the aforementioned Market Survey, Naval Information Warfare Center Atlantic has determined the requirement for Maintenance Figure of Merit (MFOM) System and Software Engineering Support will be solicited as 100% Small Business Set-Aside. The Request for Proposal is anticipated to be released 4th Quarter 2026 via PIEE and will be open to SEAPORT NXG MAC HOLDERS ONLY. \"}",
+    "responseDeadline": "",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   },
   {
     "noticeId": "6ce6db8ab8174a2abdfd00445bc90c34",
-    "reason": "C4ISR sustainment and systems engineering support.",
-    "overallScore": 37,
+    "reason": "C4ISR sustainment involves software and systems engineering aligned to DevOps/Linux.",
+    "overallScore": 50,
     "title": "RFP N6523626R3007",
     "uiLink": "https://sam.gov/workspace/contract/opp/6ce6db8ab8174a2abdfd00445bc90c34/view",
     "descriptionSnippet": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Amendment 0004 revises Attachment 12 Prime Pricing Model to correct an error on the Section B tab that was causing the 6- month option (Option 5 on the pricing model) to not display; 2) revises Section H INVITED CONTRACTOR OR TECHNICAL REPRESENTATIVE STATUS UNDER U.S. - REPUBLIC OF KOREA (ROK) clause; 3) revises Section L clause L-349 to change the subcontractor and prime alternate proposal su...",
@@ -77,20 +77,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "2ecbf6e29d294762b92d691d96e399c3",
-    "reason": "Straightforward SaaS license maintenance opportunity.",
-    "overallScore": 37,
-    "title": "Sage Business Care Gold: 12 Month License and Maintenance",
-    "uiLink": "https://sam.gov/workspace/contract/opp/2ecbf6e29d294762b92d691d96e399c3/view",
-    "descriptionSnippet": "{\"description\":\"<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;U.S. DEPARTMENT OF STATE-&nbsp;OBO/IRM</strong></p>\\n\\n<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sage Business Care Gold: 12- Month License and Maintenance Renewal</strong></p>\\n\\n<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &...",
-    "responseDeadline": "2026-04-27T11:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "7e13ab0d7b3c4e19867362141011853d",
-    "reason": "Network engineering support relevant to infrastructure expertise.",
-    "overallScore": 34,
+    "reason": "Network engineering support leverages Linux and infrastructure experience.",
+    "overallScore": 49,
     "title": "Network Engineering Support Seaport",
     "uiLink": "https://sam.gov/workspace/contract/opp/7e13ab0d7b3c4e19867362141011853d/view",
     "descriptionSnippet": "{\"description\":\"This requirement is for NSWCPD Codes 542 and 543, which are responsible for Hull, Mechanical and Electrical (HM and E) and Navigation Networks. This requirement is for engineering support services. This effort shall provide engineering, technical and administrative services required for the design, development, integration, configuration, testing, troubleshooting, repair, maintenance and fleet sustainment of IC Data Networks and associated user systems. NOTE: Type of Contract: This will be a Cost-Plus-Fixed-Fee (CPFF) Task Order that will be competed under the SeaPort-NXG Multiple Award Contract (MAC) amongst all Small Business MAC holders. \"}",
@@ -99,9 +88,20 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "5325838bec914456a6c36b27e4b87ccf",
+    "reason": "Data migration effort offers automation and scripting opportunities.",
+    "overallScore": 41,
+    "title": "Data Migration RFI",
+    "uiLink": "https://sam.gov/workspace/contract/opp/5325838bec914456a6c36b27e4b87ccf/view",
+    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "responseDeadline": "2026-05-10T16:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "6a596f4bd3f14ff9b93225edccd7cae9",
-    "reason": "Web-based integrated healthcare solution with potential DevOps components.",
-    "overallScore": 33,
+    "reason": "Web-based integration solution may allow cloud and DevOps implementation work.",
+    "overallScore": 37,
     "title": "7A21--Web-Based VISTA/CPRS Integrated Solution for Oncology  Brand Name for Reference: DSS Order Tracking Manager for  Oncology",
     "uiLink": "https://sam.gov/workspace/contract/opp/6a596f4bd3f14ff9b93225edccd7cae9/view",
     "descriptionSnippet": "{\"description\":\"THIS IS NOT A REQUEST FOR COMPETITIVE OFFERS\u00c2 \\n\u00c2 Lebanon VA Medical Center\u00c2 \\nThis is a Pre-Solicitation Notice for the Department of Veterans Affairs, Network Contracting Office (NCO) 4, to provide\u00c2 a Web-Based VISTA/CPRS Integrated Solution for Oncology. This equipment requirement is for the Lebanon VA Medical Center in support of their multiple clinics, located in Lebanon, PA 17042. The full solicitation may be posted to the NASA SEWP at www.sewp.nasa.gov on or about\u00c2 May 8th, 2026.\u00c2 \\n\\nThe full solicitation will be a Small Business set-aside.\u00c2 \u00c2 The North American Industry Classification System (NAICS) for this procurement is 541519 Other Computer Related Services; the size standard is\u00c2 $34.0M.\u00c2 \\nPotential offerors\u00c2 are responsible for\u00c2 monitoring\u00c2 for the release...",
