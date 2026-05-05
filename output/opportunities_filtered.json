@@ -632,6 +632,97 @@
     "updatedDate": null
   },
   {
+    "noticeId": "ed14aac54f6d4a3f9998804829af2a58",
+    "title": "Wireless Network Deployment at Peterson Space Force Base",
+    "solicitationNumber": "H9229526QB001",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541512",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-04",
+    "responseDeadline": "2026-05-21T12:00:00-06:00",
+    "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).SOCNORTH PB",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "zip": "80914"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ed14aac54f6d4a3f9998804829af2a58/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ed14aac54f6d4a3f9998804829af2a58",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/00e585414de9443fa3f254bcaf89b6eb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1596f1fdc7744736adca0818b32a0c0e/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless netw...",
+    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless network. The contractor shall ensure compliance with&nbsp;<strong>NSA CSfC Capabilities Package (CP)</strong>,&nbsp;<strong>DoD Security Technical Implementation Guide (STIG)</strong>, and other applicable federal security standards.</p>\\n\\n<p>This acquisition is&nbsp;<strong>set aside for small business concerns</strong>&nbsp;under&nbsp;<strong>NAICS Code 541512 &ndash; Computer Systems Design Services</strong>, with a small business size standard of&nbsp;<strong>$34M</strong>.</p>\\n\\n<p>This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at&nbsp;<strong>https://www.acquisition.gov/far-overhaul/far-part-deviation-guide</strong>.</p>\\n\\n<p><strong>DESCRIPTION OF REQUIREMENTS</strong></p>\\n\\n<p>The contractor shall perform all work in accordance with the attached&nbsp;<strong>Performance Work Statement (PWS)</strong>. Deliverables and performance milestones are as follows:</p>\\n\\n<p><strong>DATE(S) AND PLACE(S) OF DELIVERY AND ACCEPTANCE</strong></p>\\n\\n<ul>\\n\\t<li><strong>Delivery Location</strong>: Peterson Space Force Base, Colorado</li>\\n\\t<li><strong>FOB Point</strong>: Destination</li>\\n\\t<li><strong>Acceptance</strong>: Deliverables will be reviewed and accepted by the designated Government POC upon validation that all requirements are met.</li>\\n</ul>\\n\\n<p><strong>INSTRUCTIONS TO OFFERORS</strong></p>\\n\\n<p>Offerors shall prepare and submit proposals that include the following:</p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide a detailed narrative describing the approach to executing each phase of the requirement, including:\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Pre-onsite assessment</strong>: Identify methods for assessing infrastructure readiness (e.g., tools, processes).</li>\\n\\t\\t\\t<li><strong>Wireless site surveys</strong>: Include details on the tools and methodologies to be used (e.g., heatmaps, signal strength analysis, channel planning).</li>\\n\\t\\t\\t<li><strong>Compliance</strong>: Describe how the proposed solution will meet&nbsp;<strong>NSA CSfC Capabilities Package</strong>&nbsp;requirements,&nbsp;<strong>DoD STIGs</strong>, and&nbsp;<strong>NSA Common Criteria</strong>.</li>\\n\\t\\t\\t<li><strong>Security and Risk Management</strong>: Outline strategies for ensuring cybersecurity compliance and mitigating risks.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Proposed Schedule</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Submit a detailed&nbsp;<strong>project schedule</strong>&nbsp;(e.g., Gantt chart or similar format) showing how all tasks and deliverables will be completed within&nbsp;<strong>60 calendar days of contract award</strong>.</li>\\n\\t\\t<li>Include key milestones, task durations, dependencies, and any concurrent work planned to meet the timeline.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pricing Information</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide firm-fixed pricing for&nbsp;<strong>CLIN 0001</strong>.</li>\\n\\t\\t<li>Acknowledge that pricing for&nbsp;<strong>CLINs 0002 and 0003</strong>&nbsp;will be submitted as part of the deliverables for CLIN 0001.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Representation and Certifications</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Ensure the offeror&rsquo;s&nbsp;<strong>System for Award Management (SAM)</strong>&nbsp;registration is active and up to date.</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>EVALUATION</strong></p>\\n\\n<p>The Government will evaluate offers in accordance with&nbsp;<strong>FAR 52.212-2, Evaluation&mdash;Commercial Products and Commercial Services (Deviation Date)</strong>, as follows:</p>\\n\\n<p><strong>Evaluation Factors (in descending order of importance):</strong></p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s technical approach for its ability to meet the requirements outlined in the PWS.</li>\\n\\t\\t<li>The evaluation will consider the proposed methodologies, tools, and processes for completing the study, design, installation, and testing phases.</li>\\n\\t\\t<li>Emphasis will be placed on the offeror&rsquo;s understanding of CSfC, NSA compliance, DoD STIG standards, and their ability to deliver a fully compliant solution.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Schedule Feasibility</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s proposed schedule for its ability to meet the requirement to complete all phases of work within&nbsp;<strong>60 calendar days of contract award</strong>.</li>\\n\\t\\t<li>The evaluation will consider the realism of the schedule, the logical sequencing of tasks, and the ability to perform concurrent work where applicable.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Price</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Price will be evaluated for&nbsp;<strong>reasonableness</strong>,&nbsp;<strong>realism</strong>, and&nbsp;<strong>balance</strong>:\\n\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Reasonableness</strong>: The proposed price will be compared to historical data, market research, and other offers to ensure it is fair.</li>\\n\\t\\t\\t<li><strong>Realism</strong>: The price will be analyzed to ensure it reflects a sound understanding of the work and is not unrealistically low.</li>\\n\\t\\t\\t<li><strong>Balance</strong>: The price will be reviewed to ensure it is appropriately distributed across all CLINs and does not indicate front-loading or disproportionate allocation.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>Basis for Award:</strong><br />\\nThe Government intends to make an award to the offeror whose proposal represents the&nbsp;<strong>best value</strong>&nbsp;to the Government.&nbsp;<strong>Technical Approach</strong>&nbsp;is significantly more important than&nbsp;<strong>Schedule Feasibility</strong>, which is slightly more important than&nbsp;<strong>Price</strong>. However, as proposals become more equal in their technical merit and schedule feasibility, the evaluated price will become more important in determining the overall best value.</p>\\n\\n<p>(End of Evaluation Section)</p>\\n\\n<p><strong>SUBMISSION DEADLINES</strong></p>\\n\\n<ul>\\n\\t<li><strong>Site Visit</strong>: 11 May 2026, 12:00 PM Mountain Time. Please submit names to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta no later than close of business 7 May 2026.</li>\\n\\t<li><strong>Questions Due</strong>: 15 May 2026, 12:00 PM Mountain Time. Questions must be submitted via email to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n\\t<li><strong>Proposals Due</strong>: 21 May 2026, 12:00 PM Mountain Time. Proposals must be submitted electronically to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n</ul>\\n\\n<p><strong>SOLICITATION PROVISIONS AND CONTRACT CLAUSES</strong></p>\\n\\n<p>The provisions and clauses applicable to this solicitation are those listed in&nbsp;<strong>RFO 12.205 Solicitation provisions and contract clauses</strong>.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/00e585414de9443fa3f254bcaf89b6eb/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 25746,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1596f1fdc7744736adca0818b32a0c0e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 11299,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "network",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "distributed"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "onsite"
+      ]
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Colorado"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "eab94181669b4421b3ac220fc092f115",
     "title": "CIS Secure TSG Cisco 8851 Fiber VOIPs",
     "solicitationNumber": "80NSSC26932047Q",
@@ -860,6 +951,172 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "51b8677c48714400be83efd9cf597ab4",
+    "title": "Latin America and the Caribbean: Transportation Infrastructure Project Scoping Services",
+    "solicitationNumber": "1131PL26R0035",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-05",
+    "responseDeadline": "2026-05-11T13:00:00-04:00",
+    "agency": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/51b8677c48714400be83efd9cf597ab4/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=51b8677c48714400be83efd9cf597ab4",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb772e6d116345b9a9eaf0f19465cf24/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f11183860c104c2395f0180d7049c3fa/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fe0d95fed4734e33bc024eac0676598f/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>LATIN AMERICA AND THE CARIBBEAN: TRANSPORTATION INFRASTRUCTURE PROJECT SCOPING SERVICES&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1131PL26R0035</p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 13, 2026</p>\\n\\n<p><strong>CLOSING DATE:&nbsp; </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 11, 2026, 1:00 PM, Arlington, VA Time</p>\\n\\n<p></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulat...",
+    "descriptionFull": "{\"description\":\"<p>LATIN AMERICA AND THE CARIBBEAN: TRANSPORTATION INFRASTRUCTURE PROJECT SCOPING SERVICES&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1131PL26R0035</p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 13, 2026</p>\\n\\n<p><strong>CLOSING DATE:&nbsp; </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 11, 2026, 1:00 PM, Arlington, VA Time</p>\\n\\n<p></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6 and procedures in Subpart 15.3 as supplemented with additional information included in this notice. This announcement constitutes the only RFP; offer/requested and a written solicitation will not be issued.</p>\\n\\n<p></p>\\n\\n<p>This solicitation is being issued IAW FAR Part 12. The Government will offer one award resulting from this solicitation to the offeror who is deemed responsible and is determined, based on the evaluation factors and sub factors, to represent the best value to the Government.</p>\\n\\n<p></p>\\n\\n<p>This procurement is <strong>RESTRICTED</strong> to small businesses under <strong>NAICS Code 541690</strong>, Other Scientific and Technical Consulting Services. Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p></p>\\n\\n<p>Contractor use of subcontractors is limited to less than fifty percent of the proposed price.</p>\\n\\n<p></p>\\n\\n<p>THE FOLLOWING ITEMS REPRESENT THE &quot;PROPOSAL PACKAGE&quot; THAT SHOULD BE RETURNED IN RESPONSE TO THIS SOLICITATION (Addendum to FAR 52.212-1, Instructions to Offerors &ndash; Commercial Items (SEP 2023).</p>\\n\\n<p>According to FAR 52-204-7 (b)&nbsp;(1)&nbsp;An&nbsp;Offeror&nbsp;is required to be registered in SAM when submitting an&nbsp;offer&nbsp;or quotation and&nbsp;shall&nbsp;continue to be registered until time of award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this&nbsp;solicitation.&nbsp;&nbsp; All Offerors must be registered and have an active status within SAM database (www.SAM.gov) in order to be eligible for contract award. Offerors are reminded that failure to properly enroll in the SAM database and provide accurate information shall make an offeror ineligible for award as described in FAR 52.204-7.&nbsp;</p>\\n\\n<p>Should you have any questions, please send them to this office not later than <strong>1:00 p.m., Eastern Time (ET) Monday, April 20, 2026. </strong>Send your questions by email to contractproposals@ustda.gov and vpringle@ustda.gov <strong>. </strong>Questions submitted by facsimile or to alternate email addresses will NOT be accepted. No phone calls will be accepted.</p>\\n\\n<p>Any contract awarded to a Contractor who at the time of award was suspended, debarred, and ineligible for receipt of contract with Government Agencies or is in receipt of a notice of proposed debarment from any Government Agency, is voidable at the option of the Government.</p>\\n\\n<p>Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Enclosed are the following sections, which contain all information necessary to respond to this RFP:</p>\\n\\n<p></p>\\n\\n<p>1. Section B &ndash; Continuation of SF 1449,</p>\\n\\n<p>2. Section C &ndash; Contract Clauses,</p>\\n\\n<p>3. Section D &ndash; Performance of Work Statement, Exhibits and Attachment, and</p>\\n\\n<p>4. Section E &ndash; Instructions to Offerors.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb772e6d116345b9a9eaf0f19465cf24/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 239438,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f11183860c104c2395f0180d7049c3fa/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 261897,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fe0d95fed4734e33bc024eac0676598f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1010392,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "0c4e881019604e62b48c8ec303f21f77",
+    "title": "International Institute of Tropical Forestry (IITF) Technical Support Services",
+    "solicitationNumber": "127EAV26Q0014",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-04",
+    "responseDeadline": "2026-05-18T13:00:00-04:00",
+    "agency": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.Southwestern Regional Office, Region 3",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Puerto Rico",
+      "zip": "00926"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/0c4e881019604e62b48c8ec303f21f77/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0c4e881019604e62b48c8ec303f21f77",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/178fc239b2bc415db93e93192fe80d04/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The International Institute of Tropical Forestry (IITF) is seeking technical support services to strengthen forest health<br />\\nmonitoring and stakeholder engagement in Puerto Rico and US Virgin Islands. The goals and objectives of this project<br />\\nwill be to increase forest monitoring and provide technical support to FHP program staff, federal, state and private<br />\\nstakeholders. The contractor will work under the guidance of Forest Health and Protection Program (FHP) staff in forest<br />\\nhealth monitoring activities, planning, coordination, and reporting, including workshops, symposium organization,<br />\\nstakeholder engagement and training.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The International Institute of Tropical Forestry (IITF) is seeking technical support services to strengthen forest health<br />\\nmonitoring and stakeholder engagement in Puerto Rico and US Virgin Islands. The goals and objectives of this project<br />\\nwill be to increase forest monitoring and provide technical support to FHP program staff, federal, state and private<br />\\nstakeholders. The contractor will work under the guidance of Forest Health and Protection Program (FHP) staff in forest<br />\\nhealth monitoring activities, planning, coordination, and reporting, including workshops, symposium organization,<br />\\nstakeholder engagement and training.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/178fc239b2bc415db93e93192fe80d04/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 880568,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Puerto Rico"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -1143,48 +1400,32 @@
     "updatedDate": null
   },
   {
-    "noticeId": "0da061b6fa014270a5ccb1e7a9889945",
-    "title": "Latin America and the Caribbean: Transportation Infrastructure Project Scoping Services",
-    "solicitationNumber": "1131PL26R0035",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541690",
+    "noticeId": "422a712f198f4bda9d0fb565d58746eb",
+    "title": "Former Nebraska Ordnance Plant (FNOP) near Mead, NE, SATOC Synopsis",
+    "solicitationNumber": "W912DQ-MEADSATOC",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-04-13",
-    "responseDeadline": "2026-05-11T13:00:00-04:00",
-    "agency": "UNITED STATES TRADE AND DEVELOPMENT AGENCY.UNITED STATES TRADE AND DEVELOPMENT AGENCY.US TRADE AND DEVELOPMENT AGENCY",
+    "postedDate": "2026-05-04",
+    "responseDeadline": "2026-05-14T10:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTHWESTERN.ENDIST KANSAS CITY.W071 ENDIST KANSAS CITY",
     "office": "",
     "placeOfPerformance": {
       "city": null,
       "state": null,
-      "zip": null
+      "zip": ""
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/0da061b6fa014270a5ccb1e7a9889945/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0da061b6fa014270a5ccb1e7a9889945",
+      "uiLink": "https://sam.gov/workspace/contract/opp/422a712f198f4bda9d0fb565d58746eb/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=422a712f198f4bda9d0fb565d58746eb",
       "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a26390df663b4e888e3ebda06f43b6dd/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fe0d95fed4734e33bc024eac0676598f/download"
-      ]
+      "resourceLinks": null
     },
-    "descriptionSnippet": "{\"description\":\"<p>LATIN AMERICA AND THE CARIBBEAN: TRANSPORTATION INFRASTRUCTURE PROJECT SCOPING SERVICES&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1131PL26R0035</p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 13, 2026</p>\\n\\n<p><strong>CLOSING DATE:&nbsp; </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 11, 2026, 1:00 PM, Arlington, VA Time</p>\\n\\n<p></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulat...",
-    "descriptionFull": "{\"description\":\"<p>LATIN AMERICA AND THE CARIBBEAN: TRANSPORTATION INFRASTRUCTURE PROJECT SCOPING SERVICES&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>SOLICITATION NUMBER:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1131PL26R0035</p>\\n\\n<p><strong>ISSUANCE DATE:</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; April 13, 2026</p>\\n\\n<p><strong>CLOSING DATE:&nbsp; </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 11, 2026, 1:00 PM, Arlington, VA Time</p>\\n\\n<p></p>\\n\\n<p>This Request for Proposal was prepared in accordance with the format in Federal Acquisition Regulation (FAR) Subpart 12.6 and procedures in Subpart 15.3 as supplemented with additional information included in this notice. This announcement constitutes the only RFP; offer/requested and a written solicitation will not be issued.</p>\\n\\n<p></p>\\n\\n<p>This solicitation is being issued IAW FAR Part 12. The Government will offer one award resulting from this solicitation to the offeror who is deemed responsible and is determined, based on the evaluation factors and sub factors, to represent the best value to the Government.</p>\\n\\n<p></p>\\n\\n<p>This procurement is <strong>RESTRICTED</strong> to small businesses under <strong>NAICS Code 541690</strong>, Other Scientific and Technical Consulting Services. Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p></p>\\n\\n<p>Contractor use of subcontractors is limited to less than fifty percent of the proposed price.</p>\\n\\n<p></p>\\n\\n<p>THE FOLLOWING ITEMS REPRESENT THE &quot;PROPOSAL PACKAGE&quot; THAT SHOULD BE RETURNED IN RESPONSE TO THIS SOLICITATION (Addendum to FAR 52.212-1, Instructions to Offerors &ndash; Commercial Items (SEP 2023).</p>\\n\\n<p>According to FAR 52-204-7 (b)&nbsp;(1)&nbsp;An&nbsp;Offeror&nbsp;is required to be registered in SAM when submitting an&nbsp;offer&nbsp;or quotation and&nbsp;shall&nbsp;continue to be registered until time of award, during performance, and through final payment of any contract, basic agreement, basic ordering agreement, or blanket purchasing agreement resulting from this&nbsp;solicitation.&nbsp;&nbsp; All Offerors must be registered and have an active status within SAM database (www.SAM.gov) in order to be eligible for contract award. Offerors are reminded that failure to properly enroll in the SAM database and provide accurate information shall make an offeror ineligible for award as described in FAR 52.204-7.&nbsp;</p>\\n\\n<p>Should you have any questions, please send them to this office not later than <strong>1:00 p.m., Eastern Time (ET) Monday, April 20, 2026. </strong>Send your questions by email to contractproposals@ustda.gov and vpringle@ustda.gov <strong>. </strong>Questions submitted by facsimile or to alternate email addresses will NOT be accepted. No phone calls will be accepted.</p>\\n\\n<p>Any contract awarded to a Contractor who at the time of award was suspended, debarred, and ineligible for receipt of contract with Government Agencies or is in receipt of a notice of proposed debarment from any Government Agency, is voidable at the option of the Government.</p>\\n\\n<p>Award is limited to U.S. Firms or U.S. individuals. Contractor and U.S. subcontractor employees used shall be either U.S. citizens or non-U.S. citizens lawfully admitted for permanent residence in the United States.</p>\\n\\n<p>Enclosed are the following sections, which contain all information necessary to respond to this RFP:</p>\\n\\n<p></p>\\n\\n<p>1. Section B &ndash; Continuation of SF 1449,</p>\\n\\n<p>2. Section C &ndash; Contract Clauses,</p>\\n\\n<p>3. Section D &ndash; Performance of Work Statement, Exhibits and Attachment, and</p>\\n\\n<p>4. Section E &ndash; Instructions to Offerors.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a26390df663b4e888e3ebda06f43b6dd/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 242083,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fe0d95fed4734e33bc024eac0676598f/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1010392,
-        "textSnippet": ""
-      }
-    ],
+    "descriptionSnippet": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a res...",
+    "descriptionFull": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a result in replying to this notice. This notice should not be construed as a commitment by the Government for any purpose. Firms are required to submit their qualifications by 10:00am CT, 14 May 2026.  \"}",
+    "attachments": [],
     "attachmentsTextCombined": "",
     "amountEstimate": null,
     "amountSource": null,
@@ -1193,7 +1434,9 @@
       "LAN"
     ],
     "keywordsMatchedIn": {
-      "title": [],
+      "title": [
+        "LAN"
+      ],
       "description": [
         "LAN"
       ]
@@ -1221,7 +1464,82 @@
       "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
-    "bidEligible": true,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "17f2311a308a439a8dc5420f38001e52",
+    "title": "Shipboard Automated Maintenance Management (SAMM)",
+    "solicitationNumber": "N3220526R4056",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-04",
+    "responseDeadline": "2026-05-08T13:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.MSC.MSC HQS.MSCHQ NORFOLK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Norfolk",
+      "state": "Virginia",
+      "zip": "23511"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/17f2311a308a439a8dc5420f38001e52/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=17f2311a308a439a8dc5420f38001e52",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/44ae6dbf987c4e30beb4727f0aa97468/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Engineering Directorate of Military Sea lift Command (MSC) requires non-personal engineering services to administer its Engineering Maintenance Management Systems in order to continue support to the fleet in a cost effective manner. The Contractor shall provide non-personal engineering, technical, and system implementation and improvement services in the performance of investigative and design efforts relating to material readiness, preventive and predictive maintenance, and condition monitoring programs. The Government requires engineering and technical services to perform the following: Maintenance engineering services; condition based monitoring technology support services; and shipboard testing and inspection services.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The Engineering Directorate of Military Sea lift Command (MSC) requires non-personal engineering services to administer its Engineering Maintenance Management Systems in order to continue support to the fleet in a cost effective manner. The Contractor shall provide non-personal engineering, technical, and system implementation and improvement services in the performance of investigative and design efforts relating to material readiness, preventive and predictive maintenance, and condition monitoring programs. The Government requires engineering and technical services to perform the following: Maintenance engineering services; condition based monitoring technology support services; and shipboard testing and inspection services.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/44ae6dbf987c4e30beb4727f0aa97468/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 141527,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -2538,74 +2856,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "5ae6fe16d1b4430ca1545163cf9c3970",
-    "title": "Former Nebraska Ordnance Plant (FNOP) near Mead, NE, SATOC Synopsis",
-    "solicitationNumber": "W912DQ-MEADSATOC",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-07",
-    "responseDeadline": "2026-05-07T14:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTHWESTERN.ENDIST KANSAS CITY.W071 ENDIST KANSAS CITY",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": ""
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5ae6fe16d1b4430ca1545163cf9c3970/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5ae6fe16d1b4430ca1545163cf9c3970",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a res...",
-    "descriptionFull": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a result in replying to this notice. This notice should not be construed as a commitment by the Government for any purpose. Firms are required to submit their qualifications by 2:00pm CT, 7 May 2026.  \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
