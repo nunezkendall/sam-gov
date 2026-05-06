@@ -632,7 +632,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "ed14aac54f6d4a3f9998804829af2a58",
+    "noticeId": "e4ef8ea2a5ec4405a9313c8ef6ac2920",
     "title": "Wireless Network Deployment at Peterson Space Force Base",
     "solicitationNumber": "H9229526QB001",
     "type": "Combined Synopsis/Solicitation",
@@ -640,7 +640,7 @@
     "naicsCode": "541512",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-04",
+    "postedDate": "2026-05-05",
     "responseDeadline": "2026-05-21T12:00:00-06:00",
     "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).SOCNORTH PB",
     "office": "",
@@ -650,27 +650,49 @@
       "zip": "80914"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/ed14aac54f6d4a3f9998804829af2a58/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ed14aac54f6d4a3f9998804829af2a58",
+      "uiLink": "https://sam.gov/workspace/contract/opp/e4ef8ea2a5ec4405a9313c8ef6ac2920/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e4ef8ea2a5ec4405a9313c8ef6ac2920",
       "additionalInfoLink": null,
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/00e585414de9443fa3f254bcaf89b6eb/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1596f1fdc7744736adca0818b32a0c0e/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0af6dc00a0a24124bb39b7bac7c62f5b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1596f1fdc7744736adca0818b32a0c0e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d7afa57fe3a4717bd203315fd563dc4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c8a43b26eea4a1cbd54dc43587b86b4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d93065b2a524a528c7ba42a18eba779/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e692aadedf574e5eacd743bd4ce40ad1/download"
       ]
     },
     "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless netw...",
     "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless network. The contractor shall ensure compliance with&nbsp;<strong>NSA CSfC Capabilities Package (CP)</strong>,&nbsp;<strong>DoD Security Technical Implementation Guide (STIG)</strong>, and other applicable federal security standards.</p>\\n\\n<p>This acquisition is&nbsp;<strong>set aside for small business concerns</strong>&nbsp;under&nbsp;<strong>NAICS Code 541512 &ndash; Computer Systems Design Services</strong>, with a small business size standard of&nbsp;<strong>$34M</strong>.</p>\\n\\n<p>This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at&nbsp;<strong>https://www.acquisition.gov/far-overhaul/far-part-deviation-guide</strong>.</p>\\n\\n<p><strong>DESCRIPTION OF REQUIREMENTS</strong></p>\\n\\n<p>The contractor shall perform all work in accordance with the attached&nbsp;<strong>Performance Work Statement (PWS)</strong>. Deliverables and performance milestones are as follows:</p>\\n\\n<p><strong>DATE(S) AND PLACE(S) OF DELIVERY AND ACCEPTANCE</strong></p>\\n\\n<ul>\\n\\t<li><strong>Delivery Location</strong>: Peterson Space Force Base, Colorado</li>\\n\\t<li><strong>FOB Point</strong>: Destination</li>\\n\\t<li><strong>Acceptance</strong>: Deliverables will be reviewed and accepted by the designated Government POC upon validation that all requirements are met.</li>\\n</ul>\\n\\n<p><strong>INSTRUCTIONS TO OFFERORS</strong></p>\\n\\n<p>Offerors shall prepare and submit proposals that include the following:</p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide a detailed narrative describing the approach to executing each phase of the requirement, including:\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Pre-onsite assessment</strong>: Identify methods for assessing infrastructure readiness (e.g., tools, processes).</li>\\n\\t\\t\\t<li><strong>Wireless site surveys</strong>: Include details on the tools and methodologies to be used (e.g., heatmaps, signal strength analysis, channel planning).</li>\\n\\t\\t\\t<li><strong>Compliance</strong>: Describe how the proposed solution will meet&nbsp;<strong>NSA CSfC Capabilities Package</strong>&nbsp;requirements,&nbsp;<strong>DoD STIGs</strong>, and&nbsp;<strong>NSA Common Criteria</strong>.</li>\\n\\t\\t\\t<li><strong>Security and Risk Management</strong>: Outline strategies for ensuring cybersecurity compliance and mitigating risks.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Proposed Schedule</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Submit a detailed&nbsp;<strong>project schedule</strong>&nbsp;(e.g., Gantt chart or similar format) showing how all tasks and deliverables will be completed within&nbsp;<strong>60 calendar days of contract award</strong>.</li>\\n\\t\\t<li>Include key milestones, task durations, dependencies, and any concurrent work planned to meet the timeline.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pricing Information</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide firm-fixed pricing for&nbsp;<strong>CLIN 0001</strong>.</li>\\n\\t\\t<li>Acknowledge that pricing for&nbsp;<strong>CLINs 0002 and 0003</strong>&nbsp;will be submitted as part of the deliverables for CLIN 0001.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Representation and Certifications</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Ensure the offeror&rsquo;s&nbsp;<strong>System for Award Management (SAM)</strong>&nbsp;registration is active and up to date.</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>EVALUATION</strong></p>\\n\\n<p>The Government will evaluate offers in accordance with&nbsp;<strong>FAR 52.212-2, Evaluation&mdash;Commercial Products and Commercial Services (Deviation Date)</strong>, as follows:</p>\\n\\n<p><strong>Evaluation Factors (in descending order of importance):</strong></p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s technical approach for its ability to meet the requirements outlined in the PWS.</li>\\n\\t\\t<li>The evaluation will consider the proposed methodologies, tools, and processes for completing the study, design, installation, and testing phases.</li>\\n\\t\\t<li>Emphasis will be placed on the offeror&rsquo;s understanding of CSfC, NSA compliance, DoD STIG standards, and their ability to deliver a fully compliant solution.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Schedule Feasibility</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s proposed schedule for its ability to meet the requirement to complete all phases of work within&nbsp;<strong>60 calendar days of contract award</strong>.</li>\\n\\t\\t<li>The evaluation will consider the realism of the schedule, the logical sequencing of tasks, and the ability to perform concurrent work where applicable.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Price</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Price will be evaluated for&nbsp;<strong>reasonableness</strong>,&nbsp;<strong>realism</strong>, and&nbsp;<strong>balance</strong>:\\n\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Reasonableness</strong>: The proposed price will be compared to historical data, market research, and other offers to ensure it is fair.</li>\\n\\t\\t\\t<li><strong>Realism</strong>: The price will be analyzed to ensure it reflects a sound understanding of the work and is not unrealistically low.</li>\\n\\t\\t\\t<li><strong>Balance</strong>: The price will be reviewed to ensure it is appropriately distributed across all CLINs and does not indicate front-loading or disproportionate allocation.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>Basis for Award:</strong><br />\\nThe Government intends to make an award to the offeror whose proposal represents the&nbsp;<strong>best value</strong>&nbsp;to the Government.&nbsp;<strong>Technical Approach</strong>&nbsp;is significantly more important than&nbsp;<strong>Schedule Feasibility</strong>, which is slightly more important than&nbsp;<strong>Price</strong>. However, as proposals become more equal in their technical merit and schedule feasibility, the evaluated price will become more important in determining the overall best value.</p>\\n\\n<p>(End of Evaluation Section)</p>\\n\\n<p><strong>SUBMISSION DEADLINES</strong></p>\\n\\n<ul>\\n\\t<li><strong>Site Visit</strong>: 11 May 2026, 12:00 PM Mountain Time. Please submit names to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta no later than close of business 7 May 2026.</li>\\n\\t<li><strong>Questions Due</strong>: 15 May 2026, 12:00 PM Mountain Time. Questions must be submitted via email to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n\\t<li><strong>Proposals Due</strong>: 21 May 2026, 12:00 PM Mountain Time. Proposals must be submitted electronically to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n</ul>\\n\\n<p><strong>SOLICITATION PROVISIONS AND CONTRACT CLAUSES</strong></p>\\n\\n<p>The provisions and clauses applicable to this solicitation are those listed in&nbsp;<strong>RFO 12.205 Solicitation provisions and contract clauses</strong>.</p>\\n\"}",
     "attachments": [
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/00e585414de9443fa3f254bcaf89b6eb/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0af6dc00a0a24124bb39b7bac7c62f5b/download",
         "contentType": "application/octet-stream",
-        "byteSize": 25746,
+        "byteSize": 26549,
         "textSnippet": ""
       },
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1596f1fdc7744736adca0818b32a0c0e/download",
         "contentType": "application/octet-stream",
         "byteSize": 11299,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d7afa57fe3a4717bd203315fd563dc4/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 4994129,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c8a43b26eea4a1cbd54dc43587b86b4/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 459241,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d93065b2a524a528c7ba42a18eba779/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 3118364,
         "textSnippet": ""
       }
     ],
@@ -1400,6 +1422,369 @@
     "updatedDate": null
   },
   {
+    "noticeId": "df06ed9118a947c889313614db6feb8e",
+    "title": "INDEFINITE DELIVERY/INDEFINITE QUANTITY CONTRACT FOR ARCHITECT-ENGINEER SERVICES FOR ENVIRONMENTAL INVESTIGATIONS, PERMIT APPLICATIONS AND RELATED STUDIES AT VARIOUS NAVY AND MARINE CORPS ACTIVITIES, PACIFIC BASIN AND INDIAN OCEAN AREAS",
+    "solicitationNumber": "N6274222R1803",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-05",
+    "responseDeadline": "2026-05-07T14:00:00-10:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFACSYSCOM PACIFIC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/df06ed9118a947c889313614db6feb8e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=df06ed9118a947c889313614db6feb8e",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11dd396d2c004d87a1bf08742cda5dd6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2c0ecfbfb6a948049987e6c073802680/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d9c4f8430544493aa1d6a5a73920ca0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c46a1ce5f1c848418ea441719d1a0f36/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>ALL INFORMATION NEEDED FOR INTERESTED PARTIES TO SUBMIT A STANDARD FORM SF 330, ARCHITECT ENGINEER QUALIFICATIONS IS CONTAINED HEREIN. THERE IS NO SEPARATE REQUEST FOR PROPOSALS (RFP) PACKAGE TO DOWNLOAD.</p>\\n\\n<p></p>\\n\\n<p>This procurement will result in one Indefinite Delivery/Indefinite Quantity (IDIQ) contract for multi-discipline Architect-Engineer (AE) services for Environmental Investigations, Permit Applications and Related Studies at Various Navy and Marine Corps Activities, Pacific Basin and Indian Ocean Areas, and at various locations under the cognizance of the Naval Facilities Engineering Systems Command (NAVFAC), Pacific.&nbsp; These services will be procured in accordance with 40 USC Chapter 11, Selection of Architects and Engineers, as implemented by...",
+    "descriptionFull": "{\"description\":\"<p>ALL INFORMATION NEEDED FOR INTERESTED PARTIES TO SUBMIT A STANDARD FORM SF 330, ARCHITECT ENGINEER QUALIFICATIONS IS CONTAINED HEREIN. THERE IS NO SEPARATE REQUEST FOR PROPOSALS (RFP) PACKAGE TO DOWNLOAD.</p>\\n\\n<p></p>\\n\\n<p>This procurement will result in one Indefinite Delivery/Indefinite Quantity (IDIQ) contract for multi-discipline Architect-Engineer (AE) services for Environmental Investigations, Permit Applications and Related Studies at Various Navy and Marine Corps Activities, Pacific Basin and Indian Ocean Areas, and at various locations under the cognizance of the Naval Facilities Engineering Systems Command (NAVFAC), Pacific.&nbsp; These services will be procured in accordance with 40 USC Chapter 11, Selection of Architects and Engineers, as implemented by FAR 36.102. The IDIQ contract will be for a base period of one (1) year, four (4) one (1) year option periods (if exercised), and one (1) six (6) month extension of services period (if exercised). The total fee for the contract term shall not exceed $30,000,000. The guaranteed minimum for the contract term (including option years) is $5,000. Firm-fixed price task orders will be negotiated for this contract. There will be no dollar limit per task order and no dollar limit per year. Estimated start date is January 2027.</p>\\n\\n<p></p>\\n\\n<p>This proposed contract is being solicited as a Total Small Business Set-Aside. The Small Business size standard classification is North American Industrial Classification System (NAICS) Code 541330, Engineering Services, with a small business size standard of $25.5M. The Government seeks the most highly qualified firm to perform the required services, based on the demonstrated competence and qualifications, in accordance with the selection criteria.</p>\\n\\n<p></p>\\n\\n<p>The market research study (Sources Sought Number: N6274226R1803) conducted by NAVFAC Pacific included an assessment of relevant qualifications and capabilities of potentially qualified firms.&nbsp; As a result of the market research analysis, a determination was made to set aside this procurement for participation amongst Small Business firms.&nbsp; The NAVFAC Pacific small business office concurs with this decision.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>Architect/Engineering (AE) services are expected to be performed under this contract. The engineering services are for environmental investigations, permit applications and related studies of water, wastewater, storm water, hazardous waste, solid waste and pollution prevention, in accordance with the following laws and applicable regulations: 1) Clean Water Act (CWA); 2) Safe Drinking Water Act (SDWA); 3) Toxic Substances Control Act (TSCA); 4) Resource Conservation and Recovery Act (RCRA); 5) Clean Air Act (CAA); and 6) Oil Pollution Act of 1990 (OPA90), and applicable Executive Orders, Department of Defense (DoD), Navy/Marine Corps policies and instructions, industry standards as adopted by DoD, and applicable environmental governing standards in foreign countries, and other applicable standards. The services may include the preparation of analytical studies, reports, management plans, technical evaluations, training material, permit applications, preliminary engineering designs, cost estimates and supporting documents for corrective projects, and performing monitoring/testing/training/survey actions. The A-E must have or be able to obtain microbiology, toxicology and chemistry laboratory services. Work shall be performed in accordance with the requirements and statements of work submitted with each project.</p>\\n\\n<p></p>\\n\\n<p>Many military areas of work anticipated under this contract will not allow the entry of aliens. The field crew of the AE shall be composed of U.S. Citizens who can qualify for access to these areas. The AE shall also be able to provide personnel who have the capability to obtain Secret Clearance and facilities and equipment to manage classified documents.</p>\\n\\n<p></p>\\n\\n<p>Interested firms are advised to ensure System of Award Management (SAM) registration is current at time of offer submission and at time of award. To be eligible for award, your firm(s) must be registered in the SAM database. For instructions on registering with SAM, see the SAM website at https://sam.gov/. The following certifications and registrations are also mandatory prior to award of a contract: Wide Area Workflow (WAWF) at https://piee.eb.mil/piee-landing/</p>\\n\\n<p></p>\\n\\n<p>The awarded contract will be subject to specific provisions addressing the avoidance of organizational conflicts of interest. The prime firm for this contract will be required to perform throughout the contract term.</p>\\n\\n<p></p>\\n\\n<p>Interviews may be scheduled with firms slated as the most highly qualified. It is anticipated that interviews for slated firms will be conducted at Joint Base Pearl Harbor-Hickam, Hawaii. Firms slated for interviews may be asked to clarify information contained in the SF330 submittal. Elaborate presentations are not desired.</p>\\n\\n<p></p>\\n\\n<p><strong>SELECTION CRITERIA</strong></p>\\n\\n<p></p>\\n\\n<p>Firms responding to this synopsis will be evaluated to determine the most highly qualified firms to perform the required services in accordance with the selection criteria contained in this synopsis.&nbsp; Failure to comply with instructions, or provide complete information may affect the firm&rsquo;s evaluation or disqualify the firm from further consideration.</p>\\n\\n<p></p>\\n\\n<p>The following selection criteria, listed in descending order of importance, will be used to evaluate the qualification of the AE firms:</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>Professional Qualifications of the Key Personnel</li>\\n\\t<li>Specialized Experience/Technical Competence</li>\\n\\t<li>Past Performance</li>\\n\\t<li>Capability and Capacity to Accomplish Work&nbsp;</li>\\n\\t<li>Quality Control</li>\\n\\t<li>Firm&rsquo;s Location</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong>Criterion 1 - Professional Qualifications of the Key Personnel (SF330, Part I, Sections E &amp; G):</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>: Firms will be evaluated on the professional licensing, education, qualifications, and experience of the proposed key personnel in providing services to accomplish the tasks required under this contract, including participation in example projects as outlined in the SF330, Part 1, Section G.</p>\\n\\n<p></p>\\n\\n<p>The following Key Personnel must be included:</p>\\n\\n<ul>\\n\\t<li>Principal Architect / Engineer</li>\\n\\t<li>Project Manager</li>\\n\\t<li>Registered Engineer / Geologist / Architect proficient in:\\n\\t<ul>\\n\\t\\t<li>Environmental engineering</li>\\n\\t\\t<li>Sanitary engineering</li>\\n\\t\\t<li>Chemical engineering</li>\\n\\t\\t<li>Geology/hydrogeology</li>\\n\\t\\t<li>Geotechnical engineering</li>\\n\\t\\t<li>Electrical engineering</li>\\n\\t\\t<li>Mechanical engineering</li>\\n\\t\\t<li>Structural engineering</li>\\n\\t\\t<li>Architecture</li>\\n\\t</ul>\\n\\t</li>\\n</ul>\\n\\n<p></p>\\n\\n<p>A limit of 24 resumes will be considered to collectively demonstrate all of the professional qualifications.&nbsp; The professional qualifications of the prime contractor&rsquo;s key personnel will be weighted more heavily than that of the team sub-contractors. The qualifications of the offeror&rsquo;s staff proposed key personnel shall include the environmental engineering fields of potable water; industrial and domestic wastewater; and storm water.</p>\\n\\n<p></p>\\n\\n<p>More favorable consideration may be given to any of the following, which are NOT listed in any order of precedence:&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\\n<ul>\\n\\t<li>Types and complexity of the work performed in the projects</li>\\n\\t<li>Logistical challenges and site conditions</li>\\n\\t<li>Experience working for the Navy/Marine Corps</li>\\n\\t<li>Experience working in the NAVFAC Pacific AOR</li>\\n\\t<li>Experience working on CWA, SDWA, TSCA, RCRA, CAA, and OPA90 projects</li>\\n\\t<li>Relevance of educational degree</li>\\n\\t<li>Active professional registration(s)/licenses</li>\\n</ul>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements</u>:&nbsp; SF330, Part I, Sections E.&nbsp; Complete Section E for each Key Personnel person being proposed that will demonstrate their professional qualifications and experience for the resultant contract. Resumes are limited to two (2) single sided or one (1) double sided page and should indicate: professional registration, certification, licensure and/or accreditation in appropriate disciplines; cite recent (within the past 5 years) project-specific experience in work relevant to the services required under this contract; and indicate proposed role in this contract. For Section E, Block 13, specify the proposed role of the person being proposed for the resultant contract. Provide a maximum of five (5) projects for each resume. Experience that is not related to the work described in this synopsis should not be included. Key Personnel experience may include experience gained while not employed by the prime/subconsultant firm.</p>\\n\\n<p></p>\\n\\n<p><strong>Criterion 2- Specialized Experience/Technical Competence (SF330, Part I, Section F):</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on specialized experience in performance of services similar to those anticipated under this contract and technical competence of the firm or its particular staff members addressing federal, state, territory and local regulatory requirements, and overseas environmental governing standards, and Navy and other applicable DoD instructions of the Naval Facilities Engineering Systems Command, Pacific (NAVFAC PAC) area of responsibility (AOR) in the following environmental services:</p>\\n\\n<ol>\\n\\t<li>Potable water master plans and utility assessments;</li>\\n\\t<li>Potable water quality and treatment studies;</li>\\n\\t<li>Wastewater utility assessments;</li>\\n\\t<li>Potable water sanitary surveys;</li>\\n\\t<li>Cross connection control and backflow prevention surveys and program plans;</li>\\n\\t<li>Sludge handling and disposal management;</li>\\n\\t<li>Wastewater slug prevention plans</li>\\n\\t<li>Industrial wastewater management plans</li>\\n\\t<li>Storm water investigations, permit and management, including low impact development (LID) planning;</li>\\n\\t<li>Oily waste, treatment, recycling and disposal;</li>\\n\\t<li>Spill prevention and response planning;</li>\\n\\t<li>Potable water system vulnerability assessments and emergency response/contingency planning;</li>\\n\\t<li>Hydro-geological modeling;</li>\\n\\t<li>Air/ozone-depleting substances (ODS) inventory, permit, modeling and management plan;</li>\\n\\t<li>Pollution prevention (P2);</li>\\n\\t<li>Solid waste utility system assessment and management plans;</li>\\n\\t<li>Hazardous waste management;</li>\\n\\t<li>Dredged material management plans, and</li>\\n\\t<li>Surveying and cadastral, including hydrographic surveying</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>Firm&rsquo;s specialized experience in relevant projects that include ALL of the following four (4) features listed below may be evaluated more favorably. All features do not have to be within a single project scope. Offerors that do not demonstrate experience in ALL four (4) individual features may be evaluated less favorably.</p>\\n\\n<p></p>\\n\\n<p><u>Features</u>:&nbsp;</p>\\n\\n<ol>\\n\\t<li>Projects performed in the NAVFAC Pacific AOR, with more favorable consideration for firms demonstrating four (4) or more such projects.</li>\\n\\t<li>Projects for potable water source, treatment, and distribution assessments, with more favorable consideration for firms demonstrating two (2) or more such projects.</li>\\n\\t<li>Projects for sewage/wastewater and industrial waste collection, treatment, and disposal systems investigations and assessments, with more favorable consideration for firms demonstrating two (2) or more such projects.</li>\\n\\t<li>Projects for storm water (including LID) systems investigations, assessment and management and NPDES permits, with more favorable consideration for firms demonstrating two (2) or more such projects.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>More favorable consideration may be given by demonstrating any of the following, which are NOT listed in any order of precedence:&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\\n<ul>\\n\\t<li>Complex level of work performed in the projects</li>\\n\\t<li>Logistical challenges and site conditions</li>\\n\\t<li>Level of effort performed by the prime firm</li>\\n\\t<li>Experience working for the Navy/Marine Corps</li>\\n\\t<li>Experience working on CWA, SDWA, TSCA, RCRA, CAA, and OPA90 projects</li>\\n\\t<li>Experience working on projects within the NAVFAC Pacific AOR</li>\\n</ul>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements</u>:&nbsp; Provide a maximum of seven (7) projects that best demonstrates the offeror&rsquo;s experience on recent, relevant projects completed or substantially completed (at least 85%) within the past five (5) years of the issuance of this synopsis. Sufficient information to determine the percent complete of the project must be included in the project description or the project will not be considered. If more than the maximum number of projects are submitted, the Government will only evaluate projects up to the maximum number authorized in the order submitted.</p>\\n\\n<p></p>\\n\\n<p>All projects provided in the SF330 must be completed by the actual office/branch/regional office/individual team member proposed to manage and perform work under this contract. Projects not meeting this requirement will be excluded from consideration in the evaluation. To enable verification, firms should include the Unique Entity Identifier number along with each firm name in the SF330 Part 1, Section F, block 25, &ldquo;Firm Name&rdquo; Include a contract number or project identification number in block 21. Include an e-mail address and phone number for the point of contact in block 23(c). In block 24, include in the project description the contract period of performance, award contract value, current contract value, and a summary of the work performed that demonstrates relevance to specialized experience as outlined above. For projects performed as a subcontractor or a joint venture involving different partners, specifically indicate the value of the work (percentage) performed as a subcontractor or by those firms proposed for this contract, and identify the specific roles and responsibilities performed as a subcontractor or by those firms on the project rather than the work performed on the project as a whole.&nbsp; If the project description does not clearly delineate the work performed by the entity/entities offering/teaming on this contract, the project could be eliminated from consideration.</p>\\n\\n<p></p>\\n\\n<p>Projects shall be submitted on the SF330, Part I, Section F and shall be completed or substantially completed projects. Projects not substantially completed will be excluded from evaluation consideration. For submittal purposes, a task order on an IDIQ contract is considered a project, as is a stand-alone contract award.<strong> Do not submit an IDIQ contract as an example project.</strong> Instead, list relevant task orders or stand-alone contract awards that fit within the definition above. The Government will not evaluate information provided for an IDIQ contract. Examples of project work submitted that do not conform to this requirement will not be evaluated.</p>\\n\\n<p></p>\\n\\n<p>The SF330, Section F, shall submit no more than one (1) double-sided page per recent, relevant project. If more than one (1) double sided page is submitted, the Government will not consider the information on the additional pages.</p>\\n\\n<p></p>\\n\\n<p><strong>All information for Criterion 2 should be submitted in the SF330, Part I, Section F. The Government WILL NOT consider information submitted in addition to Part 1, Section F in evaluation of Criterion 2.</strong></p>\\n\\n<p></p>\\n\\n<p>NOTES: If the firm is a joint venture, projects performed by the joint venture should be submitted; however, if there are no projects performed by the joint venture, projects may be submitted for either joint venture partner. If a firm is utilizing or relying on experience or past performance information from affiliates/subsidiaries/parent companies/LLC/LTD member companies (where the name of the entity is not exactly as stated on the SF330), the proposal shall clearly demonstrate that the affiliate/subsidiary/parent firm/LLC/LTD member companies will have meaningful involvement in the performance of the contract in order for the experience,&nbsp; past performance, and/or key personnel information of the affiliate/subsidiary/parent firm/LLC/LTD member companies to be considered.&nbsp; The proposal shall state the specific resources (e.g., workforce, management, facilities, or other resources) that the affiliate/subsidiary/parent/LLC/LTD member companies will commit toward the performance of the contract.&nbsp; If meaningful involvement is not demonstrated in the proposal, the affiliate, subsidiary or parent company&rsquo;s experience or past performance and/or key personnel information will not be considered.</p>\\n\\n<p></p>\\n\\n<p>A subcontractor&rsquo;s experience and past performance will not be given the same level of consideration as that of either a prime contractor or a joint venture partner/LLC member because there is no direct legal relationship between the Government and a subcontractor.&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>Criterion 3 - Past Performance (SF330, Part I, Section H):</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on past performance with Government agencies and private industry in terms of work quality, compliance with schedules, and stakeholder/customer satisfaction of DoD contracts. Evaluating past performance and experience will include information provided in Past Performance Questionnaires (PPQs) or CPARS for Criterion 2 projects and may include customer inquiries, Government databases, and other information available to the Government including contacts with points of contact in other criteria. NOTE: Past performance information for projects listed under Criterion 2 may be given greater weight. Preference will be on past performance on contracts with Government agencies.</p>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements</u>:&nbsp; SUBMIT A COMPLETED CPARS EVALUATION FOR EACH PROJECT UNDER CRITERION 2, as an attachment. IF A COMPLETED CPARS EVALUATION IS NOT AVAILABLE, the Past Performance Questionnaire (PPQ) (Attachment (A)) included in this notice is provided for the firm or its team members to submit to the client for each project included under Criterion 2, Specialized Experience/Technical Competence. DO NOT SUBMIT A PPQ WHEN A COMPLETED CPARS IS AVAILABLE.</p>\\n\\n<p></p>\\n\\n<p>IF A CPARS EVALUATION IS NOT AVAILABLE, ensure correct phone numbers and email addresses are provided for the client point of contact. Completed PPQs should be submitted with your SF330. If the firm is unable to obtain a completed PPQ from a client for a project(s) before the response date set forth in this notice, firms should complete and submit with their responses the first page of the PPQ (Attachment (A)), which will provide contract and client information for the respective project(s). Firms may submit a PPQ previously submitted under a different Notice/RFP (legible copies are acceptable) as long as it is on the same form as posted with this Synopsis. Firms should follow up with clients/references to ensure timely submittal of questionnaires. If requested by the client, questionnaires may be submitted directly to the Government&#39;s point of contact, NAVFAC Pacific, Code CON75, Attn: Kylee Chun via email at kylee.k.chun.civ@us.navy.mil, prior to the response date. Firms shall not incorporate by reference into their response PPQs or CPARS previously submitted in response to other A/E services procurements. However, this does not preclude the Government from utilizing previously submitted PPQ information in the past performance evaluation. PPQs shall not be from a prime contractor to a subconsultant or a subconsultant to a prime contractor.&nbsp; PPQs shall be from the customer or the owner of the project.</p>\\n\\n<p></p>\\n\\n<p>Firms may provide any information on problems encountered and the corrective actions taken on projects submitted under Criterion 2, Specialized Experience/Technical Competence.&nbsp; Firms may also address any adverse past performance issues.&nbsp; Information shall not exceed two (2) double-sided pages (or four (4) single-sided pages) in total.</p>\\n\\n<p></p>\\n\\n<p>In addition to the above, the Government may review any other sources of relevant information in the evaluation of past performance.&nbsp; Other sources may include, but are not limited to, past performance information retrieved through the CPARS using all CAGE/Unique Entity Identifier (UEI) numbers of team members (partnership, joint venture, teaming partners, former firms, or parent company/subsidiary/affiliate) identified in the SF330, inquiries of owner representatives, Federal Awardee Performance and Integrity Information System (FAPIIS), SAM.gov, and any other known sources not provided by the firm. While the Government may elect to consider data from other sources, the burden of providing detailed, current, accurate and complete past performance information rests with the firm.</p>\\n\\n<p></p>\\n\\n<p>Awards, letters of commendation, certificates of appreciation, etc. shall not be submitted and will not be considered in the evaluation.</p>\\n\\n<p></p>\\n\\n<p><strong>Criterion 4 &ndash; Capability and Capacity to Accomplish Work (SF330, Part I, Section H and D)</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on the firm&rsquo;s ability to deliver on-schedule tasks/products similar to the type described in this synopsis assuming a workload of 10 projects totaling a minimum of $1 million at multiple locations within the solicitation area of responsibility occurring concurrently.&nbsp; Firms who demonstrate substantial overlapping projects or overlapping projects significantly in excess of $1 million in value may be considered more favorably.&nbsp; Firms may be evaluated more favorably if they are able to demonstrate experience working in the NAVFAC Pacific AOR simultaneously.</p>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements</u>:&nbsp; SF330, Part I, Section H.&nbsp; Describe the firm&rsquo;s ability to complete multiple large and small task orders concurrently using the criteria above. The SF330 shall also describe the proposed location of the program management office and how this organization will be advantageous to the Government and a detailed description of the organizational structure and how it will function. Please provide an organizational chart (SF330, Part I, Section D). The organizational chart may be one page single sided 11 by 17 foldout, using 11 point font or larger (font limitations do not apply to graphics, captions or tables). &nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>Criterion 5 &ndash; Quality Control (SF330, Part I, Section H):</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on the strength of the quality control program proposed by the firm to ensure quality products and services under this contract and means of ensuring quality services from their consultants/subcontractors and technical accuracy of finished product.</p>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements:</u>&nbsp; Describe the quality control program that will be utilized for all deliverables of this contract and the management approach for quality control processes and procedures. The description shall:</p>\\n\\n<ol>\\n\\t<li>Explain the quality control program including an example of how the plan has worked successfully for one of the projects submitted as part of SF330, Section F or how the plan will work if it has not been used previously.</li>\\n\\t<li>Describe the design quality control organization structure; and list the personnel responsible for each phase of the design quality control.&nbsp; Describe how you intend to track review comments.&nbsp;</li>\\n\\t<li>Describe the methodology that will be used to eliminate errors and inconsistencies between all design disciplines and consultants and for the incorporation of lessons learned and review comments.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong>Criterion 6 &ndash; Firm&rsquo;s Location (SF330, Part I, Section H) </strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on the locations of their office or offices that will be performing the work under this contract and demonstrated knowledge of the general geographic areas in which projects could be located. Evaluation of firms will include consideration of their location within the general geographic area of the anticipated projects, primarily within the NAVFAC Pacific AOR.</p>\\n\\n<p></p>\\n\\n<p>The SF330 shall be evaluated on the firm&rsquo;s level of effort in various sites located at Navy and Marine Corps installations and facilities within the NAVFAC Pacific AOR including, but not limited to: Hawaii, Guam, Japan, Diego Garcia, Singapore, Korea, Washington, California and other areas in the Pacific and Indian Oceans.&nbsp; In addition, the firm&rsquo;s ability to provide timely response to requests for on-site support to various locations within the general geographical area of the intended work.</p>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements:</u>&nbsp; SF330, Part I, Section H.&nbsp;</p>\\n\\n<ol>\\n\\t<li>Indicate location of the office(s) that will be performing the work, including main offices, branch offices, and offices of team members.</li>\\n\\t<li>Provide a narrative describing the team&rsquo;s knowledge of the primary geographic areas to be covered by this contract.</li>\\n\\t<li>Provide the firm&rsquo;s methodology to provide timely responses to request for on-site support to various locations within the general geographical area of the intended work.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p><u>SF330 SUBMISSION REQUIREMENTS</u>: AE submittals shall accurately complete all information requested on the SF330, <strong>AE firms shall indicate in Block 3 of the SF330 Solicitation No. N62742-26-R-1803 vice N62742-22-R-1803,&nbsp;</strong>clearly and specifically; include qualifications in narrative discussion in sufficient detail, addressing each of the foregoing selection evaluation criteria; and prepared in an organized format, in order to be properly evaluated.&nbsp; The AE firm and team consultants, selected for the resultant contract, will be required to perform throughout the contract term. This solicitation requires all interested firms to have on-line access to email via the Internet.&nbsp; Notifications and correspondence will be via email; therefore, email addresses must be indicated in the SF330. Please include your Unique Entity Identifier and CAGE numbers in Block 30 of the SF330.</p>\\n\\n<p></p>\\n\\n<p>AE firms desiring to be considered for this acquisition shall submit a completed SF330 package. Do not submit SF254/255s. The SF330 shall be typed and at least 11 point Time New Roman or larger. Part I, Section H shall not exceed thirty (30) single-sided 8.5 by 11 inch pages. This page limit does not include submission requirements annotated in the synopsis as Attachments (i.e. PPQ, CPARS, Joint Venture (JV), Limited Liability Company (LLC), and Limited Partnership (LTD) Agreements) nor does the page limit include cover sheets or dividers, provided that these do not contain any substantive information submitted in response to the synopsis or intended to demonstrate the qualifications of the firm. Part I pages shall be numbered sequentially.</p>\\n\\n<p></p>\\n\\n<p>In accordance with the FAR 36.601-4(b), contracts for architect-engineer services may only be awarded to firms permitted by law to practice the professions of architecture or engineering. Firms must submit proof that their professions of architecture or engineering are permitted by law as required by FAR 36.601-4(b) i.e. State registration number.&nbsp; If a firm is in a jurisdiction that requires AE firm registration, the firm must provide proof of registration.&nbsp; If a firm is in a jurisdiction that does not require AE firm registration, the firm must provide proof eligibility to practice (e.g., a summary explaining eligibility under the laws of that jurisdiction). Failure to submit the required proof could result in a firm&rsquo;s elimination from consideration.</p>\\n\\n<p></p>\\n\\n<p>Firms that are submitting information as a JV, LLC, or LTD shall submit a copy of their JV Agreement, LLC Operating Agreement, or LTD Agreement as an attachment.&nbsp; Failure to do so will result in the rejection of the SF330 from further consideration.&nbsp; In addition, please ensure that the agreements address the following:</p>\\n\\n<p></p>\\n\\n<p>a.&nbsp; A detailed statement outlining the following in terms of percentages where appropriate:</p>\\n\\n<ol>\\n\\t<li>The relationship of the team/partners/parties in terms of business ownership, capital contribution, profit distribution or loss sharing.</li>\\n\\t<li>The management approach in terms of who will conduct, direct, supervise, and control.</li>\\n\\t<li>The structure and decision-making responsibilities of the partners/parties in terms of who will control the manner and method of performance of work.</li>\\n\\t<li>Identify (by name and title) the personnel having the authority to legally bind the partners/parties (including authority to execute the contract documents).</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>b.&nbsp; A list of partners/parties, to include company name, UEI and CAGE numbers, address, point of contact, email address, phone number, and facsimile number.</p>\\n\\n<p></p>\\n\\n<p>A-E firms meeting the requirements described in this announcement are invited to submit, SF330, to this office electronically through DoD Secure Access File Exchange (SAFE) service by <strong>2:00 p.m. HST, on Thursday, 07 May 2026 addressed to the following:</strong></p>\\n\\n<p></p>\\n\\n<p><strong>Naval Facilities Engineering Systems Command, Pacific</strong></p>\\n\\n<p><strong>Solicitation No. N62742-26-R-1803</strong></p>\\n\\n<p><strong>Environmental Contracts Branch (Code CON75)</strong></p>\\n\\n<p><strong>258 Makalapa Drive, Suite 100</strong></p>\\n\\n<p><strong>JBPHH, Hawaii 96860-3134</strong></p>\\n\\n<p></p>\\n\\n<p>Only DoD SAFE is authorized for the submission of electronic SF330s (.pdf format) in response to this synopsis. Electronic SF330s submitted via electronic mail or facsimile will NOT be considered. Electronic submissions should be no larger than 8GB. A-E firms shall ensure that the Government has received the electronic SF330 prior to the date and time specified.</p>\\n\\n<p></p>\\n\\n<p>Instructions for use of DoD SAFE, Drop-off feature in DoD SAFE (https://safe.apps.mil) are provided below:</p>\\n\\n<ol>\\n\\t<li>No later than two (2) business days prior to the date and time specified, the A-E firm shall submit their point of contact (POC) name and email address to Kylee Chun at kylee.k.chun.civ@us.navy.mil. Upon receipt of this information, a Contract Specialist will &ldquo;Request a Drop-Off&rdquo; in DoD SAFE to the firm&rsquo;s POC email address. The firm will receive a &ldquo;Request a Drop-Off&rdquo; email message to allow for submission of a SF330. Only the identified POC will be able to drop-off a SF330 in DOD SAFE. Failure to provide accurate POC information will preclude the A-E firm from using DoD SAFE.</li>\\n\\t<li>To submit the SF330, the A-E firm will click the link in the &ldquo;Request a Drop-off&rdquo; email message. The system will allow for inclusion of a short note to the Recipient and then the firm will click to add files or drag and drop them. Click &ldquo;Drop-Off Files&rdquo; to send the files to the recipient. The file(s) are uploaded and an email will be sent to the recipient notifying them of the &ldquo;drop-off&rdquo;. [Additional details can be viewed in the DoD SAFE User Guide available at https://safe.apps.mil]. Note that the submission of any SF330 must be completed no later than the date and time specified. The DoD SAFE system will record the date and time of package submittal. The date and time of package submittal recorded in DoD SAFE shall govern the timeliness of any submission.</li>\\n\\t<li>A-E firms shall allow adequate time to upload files which may be slower for non-DoD users and to avoid other technical difficulties that may be encountered. A-E firms are also responsible for submitting files in the format specified consistent with requirements stated elsewhere in this synopsis. Files that cannot be opened, or are otherwise missing the required content are the responsibility of A-E firm.</li>\\n\\t<li>It is the responsibility of the A-E firm to promptly notify Kylee Chun at kylee.k.chun.civ@us.navy.mil if an email containing the link is NOT received on the day of their written request.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong>This is not a request for a proposal. </strong></p>\\n\\n<p></p>\\n\\n<p>Late responses will be handled in accordance with FAR 52.215-1.Questions regarding the synopsis shall be submitted in writing via electronic email to Ms. Danika Kamikawa, danika.m.kamikawa.civ@us.navy.mil, and Kylee Chun, kylee.k.chun.civ@us.navy.mil.&nbsp; Emailed questions must be received no later than ten (10) business days in advance of the closing date.</p>\\n\\n<p></p>\\n\\n<p></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11dd396d2c004d87a1bf08742cda5dd6/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 176394,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2c0ecfbfb6a948049987e6c073802680/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 185538,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d9c4f8430544493aa1d6a5a73920ca0/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 152571,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c46a1ce5f1c848418ea441719d1a0f36/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1278990,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "AWS",
+      "Monitoring",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "AWS",
+        "Monitoring",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "on-site"
+      ]
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "program management office"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "ad1a3e4858de4e59b0c42beb69837fee",
+    "title": "B710 Architect Design Repair Emergency Services",
+    "solicitationNumber": "FA663326QA004",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-05",
+    "responseDeadline": "2026-05-05T15:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE RESERVE COMMAND.FA6633  934 AW PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "zip": "55450"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ad1a3e4858de4e59b0c42beb69837fee/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ad1a3e4858de4e59b0c42beb69837fee",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ab6ef6a886744948ace2f4a1e381d6f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/57fdb1c75566401b893efbd03e561f55/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/59c87f96db414b86b9393c6dc4d02b85/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/629ecc7d55084755af93fde8389ec941/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93e6fa1ba16542fbb5671d804ddc6b76/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a043bdbd3b2c4b999bf72424a2efa1ea/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d3dc2cbd3ffe4620b8ca40aa0ddcaac3/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Notice to Offeror(s)/Supplier(s): Funds are not presently available for this effort. No award will be made under this solicitation until funds are available. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs.<br />\\nThis is a public announcement for a Request for Architect-Engineer (A-E) Qualifications in accordance with the Revolutionary Far Overhaul (RFO) Subpart 36.202, Selection of Firms for Architect-Engineer Contracts, Department of the Air Force, and the Brooks Act. Price proposals are not requested with this announcement and will not be considered.<br />\\nThe Government anticipates a...",
+    "descriptionFull": "{\"description\":\"<p>Notice to Offeror(s)/Supplier(s): Funds are not presently available for this effort. No award will be made under this solicitation until funds are available. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs.<br />\\nThis is a public announcement for a Request for Architect-Engineer (A-E) Qualifications in accordance with the Revolutionary Far Overhaul (RFO) Subpart 36.202, Selection of Firms for Architect-Engineer Contracts, Department of the Air Force, and the Brooks Act. Price proposals are not requested with this announcement and will not be considered.<br />\\nThe Government anticipates awarding to one (1) responsible offeror with the most highly<br />\\nqualified firms following evaluation, selection, and negotiation. The Government reserves the right to award one contract under this solicitation if in the best interest of the Government.<br />\\nStatutory fee limitation: Adhere to 10 U.S.C. 9540. Current limitation is ten percent. The contract price for production and delivery of designs, plans, drawings, and specifications shall not exceed ten percent of the estimated cost of construction of the public work or utility, excluding fees.<br />\\nThese contracts will fulfill requirements for:<br />\\n(1) Provide Professional Design Servies (Title I Type A, Title I Type B and Title II Services) all supervision, labor, materials and equipment necessary to fully meet all requirements of the Statement of Work (SOW), SOW Drawings and all other Contract Documents related to and/or titled: &ldquo;REPAIR EMERGENCY SERVICES B710&rdquo; at the Minneapolis Air Reserve Station, Minneapolis, Minnesota. The Government will provide Contractor(s) with access to the site and/or facilities along with any existing documentation pertinent to the project, including existing drawings for this facility. It is the Contractors responsibility to verify the accuracy of these drawings and documents. Professional services of an architectural or engineering nature associated with design or construction of real property.<br />\\n(2) Title I (type &ldquo;A&rdquo; Services) Involves field investigations and surveys (roof investigations, fa&ccedil;ade evaluations, etc.); similar fact-finding surveys of the site essential to proper design; preparation of reports and similar services not involved in the preparation of designs, plans, drawings, and specifications.<br />\\n(3) Title I (Type &ldquo;B&rdquo; Services). These services include those items normally furnished by an AE in the actual preparation of the design documents (plans, drawings, specifications, submittal register, etc.) and include visual inspection of the site or facility for familiarization with scope, general conditions, and coordination with using activities.<br />\\n(4) Title II (Type &ldquo;C&rdquo; Services). Those items involve inspecting, monitoring, and evaluating construction activities to validate conformance to plans and specifications, including reviewing, evaluating and testing product submittals and shop drawings, and preparation of construction contract modifications.<br />\\nRefer to the contract-level scope of work for details.<br />\\nNo construction contract may be awarded to the firm that designed the project.<br />\\nProduct Service Code: C215 Architect-Engineering- General: Production Engineering, includes; Design and Control, Building Programming NAICS: 541330 Engineering Services<br />\\nSmall Business Size Standard: $25.5M<br />\\nEach potential contractor shall be evaluated in terms of its:<br />\\n(1) Professional qualifications necessary for satisfactory performance of required services.<br />\\n(2) Specialized experience and technical competence in the type of work required, including, where appropriate, experience in energy conservation, pollution prevention, waste reduction, and the use of recovered materials.<br />\\n(3) Capacity to accomplish the work in the required time.<br />\\n(4) Past performance on contracts with Government agencies and private industry in terms of cost control, quality of work, and compliance with performance schedules.<br />\\n(5) Location in the general geographical area of the project and knowledge of the locality of the project; provided, that application of this criterion leaves an appropriate number of qualified firms, given the nature and size of the project.<br />\\n(6) Acceptability under other appropriate evaluation criteria, as indicated below.<br />\\nMinneapolis Air Force Reserve Base will provide one architect-engineer evaluation board composed of its members who, collectively, have experience in architecture, engineering, construction, and Government and related acquisition matters. One Government member of each board shall be designated as the chairperson.<br />\\nUnder the general direction of the 934th Contracting Flight Chief of the Contracting<br />\\nOffice (COCO) the evaluation board shall:<br />\\n(1) Review the current data files on eligible firms and responses to the public notice.<br />\\n(2) Evaluate the firms in accordance with the criteria listed.<br />\\n(3) Hold discussions with at least three of the most highly qualified firms regarding<br />\\nconcepts and the relative utility of alternative methods of furnishing the required services.<br />\\n(4) And prepare a selection report for the 934th Civil Engineering Squadron Base Civil Engineer recommending, in order of preference, at least three firms that are considered to be the most highly qualified to perform the required services. The report shall include a description of the discussions and evaluation conducted by the board to allow the selection authority to review the considerations upon which the recommendations are based.<br />\\nThe final selection decision shall be made by the Base Civil Engineer.<br />\\nThe selection authority shall review the recommendations of the evaluation board and shall, with the advice of appropriate technical and staff representatives, make the final selection. This final selection shall be a listing, in order of preference, of the firms considered most highly qualified to perform the work. If the firm listed as the most preferred is not the firm recommended as the most highly qualified by the evaluation board, the selection authority shall provide for the contract file a written explanation of the reason for the preference. All firms on the final selection list are considered &quot;selected firms&quot; with which the contracting officer may negotiate in accordance with RFO 36.201-1(b)(2).<br />\\nThe selection authority shall not add firms to the selection report. If the firms recommended in the report are not deemed to be qualified or the report is considered inadequate for any reason, the selection authority shall record the reasons and return the report through channels to the evaluation board for appropriate revision.<br />\\nThe board shall be promptly informed of the final selection.<br />\\nThe final selection authorizes the Contracting Officer to begin negotiations, beginning with the most preferred firm in the final selection.<br />\\nThe Contracting Officer will request priced proposals for fully burdened contract rates that will be used to price orders made under each contract. Refer to the table of categories for which rates will be requested.<br />\\nIf a mutually satisfactory contract cannot be negotiated, the contracting officer shall obtain a written final proposal revision from the firm and notify the firm that negotiations have been terminated. The contracting officer shall then initiate negotiations with the next firm on the final selection list. This procedure shall be continued until a mutually satisfactory contract has been negotiated. If negotiations fail with all selected firms, the contracting officer shall refer the matter to the selection authority who, after consulting with the contracting officer as to why a contract cannot be negotiated, may direct the evaluation board to recommend additional firms in accordance with RFO 36.202-3.<br />\\nInstructions.<br />\\nTo be considered for contract award, firms must file a Standard Form 330. The most current version is available for download at https://www.gsa.gov/reference/forms/architectengineer-qualifications<br />\\nQualification files shall be submitted through the DoD SAFE. No other method will be used for submission. Prior to submission, notify the POC (points of contact) under the General Information section below and request DoD SAFE request drop off.<br />\\nSubmit a complete Standard Form 330 (all parts) and the support documentation. Follow the instructions of the Standard Form 330 for generation of the support documentation and ensure the submitted information demonstrates the qualifications of the firm against the specific selection criteria listed below. Firms shall also use this Request for Qualifications document to self-evaluate under each selection criteria and total of points. Include the self-evaluation using this document with the other support documentation.<br />\\nTotal submission is limited to 50 pages of standard 8.5 x 11 with 1-inch margin. 10-point font minimum. The Standard Form 330 itself and the self-evaluation using this document does not count against the 50-page limitation.<br />\\nDo not provide any pricing information.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ab6ef6a886744948ace2f4a1e381d6f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 179820,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/57fdb1c75566401b893efbd03e561f55/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 309041,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/59c87f96db414b86b9393c6dc4d02b85/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 696324,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/629ecc7d55084755af93fde8389ec941/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 304454,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93e6fa1ba16542fbb5671d804ddc6b76/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1073371,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Minnesota"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "03c1fdfe7df647f28d51da07f7629125",
+    "title": "BLM Tomahawk Detention Dam Rehabilitation NID # MT",
+    "solicitationNumber": "140L0626Q0009",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-05",
+    "responseDeadline": "2026-05-26T12:00:00-06:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.NATIONAL OPERATIONS CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/03c1fdfe7df647f28d51da07f7629125/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=03c1fdfe7df647f28d51da07f7629125",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9feccd629352448ca96043818ee6f442/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e3310aa794154da089e944b250ffa875/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"The Bureau of Land Management (BLM) is seeking one qualified firm to provide Title I, II A/E Services for Tomahawk Detention Dam NID # MT00712 BLM Dam Rehabilitation Glasgow, Montana. \"}",
+    "descriptionFull": "{\"description\":\"The Bureau of Land Management (BLM) is seeking one qualified firm to provide Title I, II A/E Services for Tomahawk Detention Dam NID # MT00712 BLM Dam Rehabilitation Glasgow, Montana.  \"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9feccd629352448ca96043818ee6f442/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 682654,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e3310aa794154da089e944b250ffa875/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 233318,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "020a57c9959e4cdcb2f1b68d7419e490",
+    "title": "Former Nebraska Ordnance Plant (FNOP) near Mead, NE, SATOC Synopsis",
+    "solicitationNumber": "W912DQ26RA053",
+    "type": "Solicitation",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-05",
+    "responseDeadline": "2026-05-14T10:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTHWESTERN.ENDIST KANSAS CITY.W071 ENDIST KANSAS CITY",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/020a57c9959e4cdcb2f1b68d7419e490/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=020a57c9959e4cdcb2f1b68d7419e490",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a res...",
+    "descriptionFull": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a result in replying to this notice. This notice should not be construed as a commitment by the Government for any purpose. Firms are required to submit their qualifications by 10:00am CT, 14 May 2026. Please submit SF330s through this related notice. \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "422a712f198f4bda9d0fb565d58746eb",
     "title": "Former Nebraska Ordnance Plant (FNOP) near Mead, NE, SATOC Synopsis",
     "solicitationNumber": "W912DQ-MEADSATOC",
@@ -1602,110 +1987,6 @@
     "scopeRisk": false,
     "workModeNotes": {
       "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "842ce7002e28463290b1d52c27c20257",
-    "title": "INDEFINITE DELIVERY/INDEFINITE QUANTITY CONTRACT FOR ARCHITECT-ENGINEER SERVICES FOR ENVIRONMENTAL INVESTIGATIONS, PERMIT APPLICATIONS AND RELATED STUDIES AT VARIOUS NAVY AND MARINE CORPS ACTIVITIES, PACIFIC BASIN AND INDIAN OCEAN AREAS",
-    "solicitationNumber": "N6274222R1803",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-30",
-    "responseDeadline": "2026-05-07T14:00:00-10:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFACSYSCOM PACIFIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/842ce7002e28463290b1d52c27c20257/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=842ce7002e28463290b1d52c27c20257",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11dd396d2c004d87a1bf08742cda5dd6/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2c0ecfbfb6a948049987e6c073802680/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d9c4f8430544493aa1d6a5a73920ca0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c46a1ce5f1c848418ea441719d1a0f36/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>ALL INFORMATION NEEDED FOR INTERESTED PARTIES TO SUBMIT A STANDARD FORM SF 330, ARCHITECT ENGINEER QUALIFICATIONS IS CONTAINED HEREIN. THERE IS NO SEPARATE REQUEST FOR PROPOSALS (RFP) PACKAGE TO DOWNLOAD.</p>\\n\\n<p></p>\\n\\n<p>This procurement will result in one Indefinite Delivery/Indefinite Quantity (IDIQ) contract for multi-discipline Architect-Engineer (AE) services for Environmental Investigations, Permit Applications and Related Studies at Various Navy and Marine Corps Activities, Pacific Basin and Indian Ocean Areas, and at various locations under the cognizance of the Naval Facilities Engineering Systems Command (NAVFAC), Pacific.&nbsp; These services will be procured in accordance with 40 USC Chapter 11, Selection of Architects and Engineers, as implemented by...",
-    "descriptionFull": "{\"description\":\"<p>ALL INFORMATION NEEDED FOR INTERESTED PARTIES TO SUBMIT A STANDARD FORM SF 330, ARCHITECT ENGINEER QUALIFICATIONS IS CONTAINED HEREIN. THERE IS NO SEPARATE REQUEST FOR PROPOSALS (RFP) PACKAGE TO DOWNLOAD.</p>\\n\\n<p></p>\\n\\n<p>This procurement will result in one Indefinite Delivery/Indefinite Quantity (IDIQ) contract for multi-discipline Architect-Engineer (AE) services for Environmental Investigations, Permit Applications and Related Studies at Various Navy and Marine Corps Activities, Pacific Basin and Indian Ocean Areas, and at various locations under the cognizance of the Naval Facilities Engineering Systems Command (NAVFAC), Pacific.&nbsp; These services will be procured in accordance with 40 USC Chapter 11, Selection of Architects and Engineers, as implemented by FAR 36.102. The IDIQ contract will be for a base period of one (1) year, four (4) one (1) year option periods (if exercised), and one (1) six (6) month extension of services period (if exercised). The total fee for the contract term shall not exceed $30,000,000. The guaranteed minimum for the contract term (including option years) is $5,000. Firm-fixed price task orders will be negotiated for this contract. There will be no dollar limit per task order and no dollar limit per year. Estimated start date is January 2027.</p>\\n\\n<p></p>\\n\\n<p>This proposed contract is being solicited as a Total Small Business Set-Aside. The Small Business size standard classification is North American Industrial Classification System (NAICS) Code 541330, Engineering Services, with a small business size standard of $25.5M. The Government seeks the most highly qualified firm to perform the required services, based on the demonstrated competence and qualifications, in accordance with the selection criteria.</p>\\n\\n<p></p>\\n\\n<p>The market research study (Sources Sought Number: N6274226R1803) conducted by NAVFAC Pacific included an assessment of relevant qualifications and capabilities of potentially qualified firms.&nbsp; As a result of the market research analysis, a determination was made to set aside this procurement for participation amongst Small Business firms.&nbsp; The NAVFAC Pacific small business office concurs with this decision.&nbsp;</p>\\n\\n<p></p>\\n\\n<p>Architect/Engineering (AE) services are expected to be performed under this contract. The engineering services are for environmental investigations, permit applications and related studies of water, wastewater, storm water, hazardous waste, solid waste and pollution prevention, in accordance with the following laws and applicable regulations: 1) Clean Water Act (CWA); 2) Safe Drinking Water Act (SDWA); 3) Toxic Substances Control Act (TSCA); 4) Resource Conservation and Recovery Act (RCRA); 5) Clean Air Act (CAA); and 6) Oil Pollution Act of 1990 (OPA90), and applicable Executive Orders, Department of Defense (DoD), Navy/Marine Corps policies and instructions, industry standards as adopted by DoD, and applicable environmental governing standards in foreign countries, and other applicable standards. The services may include the preparation of analytical studies, reports, management plans, technical evaluations, training material, permit applications, preliminary engineering designs, cost estimates and supporting documents for corrective projects, and performing monitoring/testing/training/survey actions. The A-E must have or be able to obtain microbiology, toxicology and chemistry laboratory services. Work shall be performed in accordance with the requirements and statements of work submitted with each project.</p>\\n\\n<p></p>\\n\\n<p>Many military areas of work anticipated under this contract will not allow the entry of aliens. The field crew of the AE shall be composed of U.S. Citizens who can qualify for access to these areas. The AE shall also be able to provide personnel who have the capability to obtain Secret Clearance and facilities and equipment to manage classified documents.</p>\\n\\n<p></p>\\n\\n<p>Interested firms are advised to ensure System of Award Management (SAM) registration is current at time of offer submission and at time of award. To be eligible for award, your firm(s) must be registered in the SAM database. For instructions on registering with SAM, see the SAM website at https://sam.gov/. The following certifications and registrations are also mandatory prior to award of a contract: Wide Area Workflow (WAWF) at https://piee.eb.mil/piee-landing/</p>\\n\\n<p></p>\\n\\n<p>The awarded contract will be subject to specific provisions addressing the avoidance of organizational conflicts of interest. The prime firm for this contract will be required to perform throughout the contract term.</p>\\n\\n<p></p>\\n\\n<p>Interviews may be scheduled with firms slated as the most highly qualified. It is anticipated that interviews for slated firms will be conducted at Joint Base Pearl Harbor-Hickam, Hawaii. Firms slated for interviews may be asked to clarify information contained in the SF330 submittal. Elaborate presentations are not desired.</p>\\n\\n<p></p>\\n\\n<p><strong>SELECTION CRITERIA</strong></p>\\n\\n<p></p>\\n\\n<p>Firms responding to this synopsis will be evaluated to determine the most highly qualified firms to perform the required services in accordance with the selection criteria contained in this synopsis.&nbsp; Failure to comply with instructions, or provide complete information may affect the firm&rsquo;s evaluation or disqualify the firm from further consideration.</p>\\n\\n<p></p>\\n\\n<p>The following selection criteria, listed in descending order of importance, will be used to evaluate the qualification of the AE firms:</p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>Professional Qualifications of the Key Personnel</li>\\n\\t<li>Specialized Experience/Technical Competence</li>\\n\\t<li>Past Performance</li>\\n\\t<li>Capability and Capacity to Accomplish Work&nbsp;</li>\\n\\t<li>Quality Control</li>\\n\\t<li>Firm&rsquo;s Location</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong>Criterion 1 - Professional Qualifications of the Key Personnel (SF330, Part I, Sections E &amp; G):</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>: Firms will be evaluated on the professional licensing, education, qualifications, and experience of the proposed key personnel in providing services to accomplish the tasks required under this contract, including participation in example projects as outlined in the SF330, Part 1, Section G.</p>\\n\\n<p></p>\\n\\n<p>The following Key Personnel must be included:</p>\\n\\n<ul>\\n\\t<li>Principal Architect / Engineer</li>\\n\\t<li>Project Manager</li>\\n\\t<li>Registered Engineer / Geologist / Architect proficient in:\\n\\t<ul>\\n\\t\\t<li>Environmental engineering</li>\\n\\t\\t<li>Sanitary engineering</li>\\n\\t\\t<li>Chemical engineering</li>\\n\\t\\t<li>Geology/hydrogeology</li>\\n\\t\\t<li>Geotechnical engineering</li>\\n\\t\\t<li>Electrical engineering</li>\\n\\t\\t<li>Mechanical engineering</li>\\n\\t\\t<li>Structural engineering</li>\\n\\t\\t<li>Architecture</li>\\n\\t</ul>\\n\\t</li>\\n</ul>\\n\\n<p></p>\\n\\n<p>A limit of 24 resumes will be considered to collectively demonstrate all of the professional qualifications.&nbsp; The professional qualifications of the prime contractor&rsquo;s key personnel will be weighted more heavily than that of the team sub-contractors. The qualifications of the offeror&rsquo;s staff proposed key personnel shall include the environmental engineering fields of potable water; industrial and domestic wastewater; and storm water.</p>\\n\\n<p></p>\\n\\n<p>More favorable consideration may be given to any of the following, which are NOT listed in any order of precedence:&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\\n<ul>\\n\\t<li>Types and complexity of the work performed in the projects</li>\\n\\t<li>Logistical challenges and site conditions</li>\\n\\t<li>Experience working for the Navy/Marine Corps</li>\\n\\t<li>Experience working in the NAVFAC Pacific AOR</li>\\n\\t<li>Experience working on CWA, SDWA, TSCA, RCRA, CAA, and OPA90 projects</li>\\n\\t<li>Relevance of educational degree</li>\\n\\t<li>Active professional registration(s)/licenses</li>\\n</ul>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements</u>:&nbsp; SF330, Part I, Sections E.&nbsp; Complete Section E for each Key Personnel person being proposed that will demonstrate their professional qualifications and experience for the resultant contract. Resumes are limited to two (2) single sided or one (1) double sided page and should indicate: professional registration, certification, licensure and/or accreditation in appropriate disciplines; cite recent (within the past 5 years) project-specific experience in work relevant to the services required under this contract; and indicate proposed role in this contract. For Section E, Block 13, specify the proposed role of the person being proposed for the resultant contract. Provide a maximum of five (5) projects for each resume. Experience that is not related to the work described in this synopsis should not be included. Key Personnel experience may include experience gained while not employed by the prime/subconsultant firm.</p>\\n\\n<p></p>\\n\\n<p><strong>Criterion 2- Specialized Experience/Technical Competence (SF330, Part I, Section F):</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on specialized experience in performance of services similar to those anticipated under this contract and technical competence of the firm or its particular staff members addressing federal, state, territory and local regulatory requirements, and overseas environmental governing standards, and Navy and other applicable DoD instructions of the Naval Facilities Engineering Systems Command, Pacific (NAVFAC PAC) area of responsibility (AOR) in the following environmental services:</p>\\n\\n<ol>\\n\\t<li>Potable water master plans and utility assessments;</li>\\n\\t<li>Potable water quality and treatment studies;</li>\\n\\t<li>Wastewater utility assessments;</li>\\n\\t<li>Potable water sanitary surveys;</li>\\n\\t<li>Cross connection control and backflow prevention surveys and program plans;</li>\\n\\t<li>Sludge handling and disposal management;</li>\\n\\t<li>Wastewater slug prevention plans</li>\\n\\t<li>Industrial wastewater management plans</li>\\n\\t<li>Storm water investigations, permit and management, including low impact development (LID) planning;</li>\\n\\t<li>Oily waste, treatment, recycling and disposal;</li>\\n\\t<li>Spill prevention and response planning;</li>\\n\\t<li>Potable water system vulnerability assessments and emergency response/contingency planning;</li>\\n\\t<li>Hydro-geological modeling;</li>\\n\\t<li>Air/ozone-depleting substances (ODS) inventory, permit, modeling and management plan;</li>\\n\\t<li>Pollution prevention (P2);</li>\\n\\t<li>Solid waste utility system assessment and management plans;</li>\\n\\t<li>Hazardous waste management;</li>\\n\\t<li>Dredged material management plans, and</li>\\n\\t<li>Surveying and cadastral, including hydrographic surveying</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>Firm&rsquo;s specialized experience in relevant projects that include ALL of the following four (4) features listed below may be evaluated more favorably. All features do not have to be within a single project scope. Offerors that do not demonstrate experience in ALL four (4) individual features may be evaluated less favorably.</p>\\n\\n<p></p>\\n\\n<p><u>Features</u>:&nbsp;</p>\\n\\n<ol>\\n\\t<li>Projects performed in the NAVFAC Pacific AOR, with more favorable consideration for firms demonstrating four (4) or more such projects.</li>\\n\\t<li>Projects for potable water source, treatment, and distribution assessments, with more favorable consideration for firms demonstrating two (2) or more such projects.</li>\\n\\t<li>Projects for sewage/wastewater and industrial waste collection, treatment, and disposal systems investigations and assessments, with more favorable consideration for firms demonstrating two (2) or more such projects.</li>\\n\\t<li>Projects for storm water (including LID) systems investigations, assessment and management and NPDES permits, with more favorable consideration for firms demonstrating two (2) or more such projects.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>More favorable consideration may be given by demonstrating any of the following, which are NOT listed in any order of precedence:&nbsp;&nbsp;</p>\\n\\n<p></p>\\n\\n<ul>\\n\\t<li>Complex level of work performed in the projects</li>\\n\\t<li>Logistical challenges and site conditions</li>\\n\\t<li>Level of effort performed by the prime firm</li>\\n\\t<li>Experience working for the Navy/Marine Corps</li>\\n\\t<li>Experience working on CWA, SDWA, TSCA, RCRA, CAA, and OPA90 projects</li>\\n\\t<li>Experience working on projects within the NAVFAC Pacific AOR</li>\\n</ul>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements</u>:&nbsp; Provide a maximum of seven (7) projects that best demonstrates the offeror&rsquo;s experience on recent, relevant projects completed or substantially completed (at least 85%) within the past five (5) years of the issuance of this synopsis. Sufficient information to determine the percent complete of the project must be included in the project description or the project will not be considered. If more than the maximum number of projects are submitted, the Government will only evaluate projects up to the maximum number authorized in the order submitted.</p>\\n\\n<p></p>\\n\\n<p>All projects provided in the SF330 must be completed by the actual office/branch/regional office/individual team member proposed to manage and perform work under this contract. Projects not meeting this requirement will be excluded from consideration in the evaluation. To enable verification, firms should include the Unique Entity Identifier number along with each firm name in the SF330 Part 1, Section F, block 25, &ldquo;Firm Name&rdquo; Include a contract number or project identification number in block 21. Include an e-mail address and phone number for the point of contact in block 23(c). In block 24, include in the project description the contract period of performance, award contract value, current contract value, and a summary of the work performed that demonstrates relevance to specialized experience as outlined above. For projects performed as a subcontractor or a joint venture involving different partners, specifically indicate the value of the work (percentage) performed as a subcontractor or by those firms proposed for this contract, and identify the specific roles and responsibilities performed as a subcontractor or by those firms on the project rather than the work performed on the project as a whole.&nbsp; If the project description does not clearly delineate the work performed by the entity/entities offering/teaming on this contract, the project could be eliminated from consideration.</p>\\n\\n<p></p>\\n\\n<p>Projects shall be submitted on the SF330, Part I, Section F and shall be completed or substantially completed projects. Projects not substantially completed will be excluded from evaluation consideration. For submittal purposes, a task order on an IDIQ contract is considered a project, as is a stand-alone contract award.<strong> Do not submit an IDIQ contract as an example project.</strong> Instead, list relevant task orders or stand-alone contract awards that fit within the definition above. The Government will not evaluate information provided for an IDIQ contract. Examples of project work submitted that do not conform to this requirement will not be evaluated.</p>\\n\\n<p></p>\\n\\n<p>The SF330, Section F, shall submit no more than one (1) double-sided page per recent, relevant project. If more than one (1) double sided page is submitted, the Government will not consider the information on the additional pages.</p>\\n\\n<p></p>\\n\\n<p><strong>All information for Criterion 2 should be submitted in the SF330, Part I, Section F. The Government WILL NOT consider information submitted in addition to Part 1, Section F in evaluation of Criterion 2.</strong></p>\\n\\n<p></p>\\n\\n<p>NOTES: If the firm is a joint venture, projects performed by the joint venture should be submitted; however, if there are no projects performed by the joint venture, projects may be submitted for either joint venture partner. If a firm is utilizing or relying on experience or past performance information from affiliates/subsidiaries/parent companies/LLC/LTD member companies (where the name of the entity is not exactly as stated on the SF330), the proposal shall clearly demonstrate that the affiliate/subsidiary/parent firm/LLC/LTD member companies will have meaningful involvement in the performance of the contract in order for the experience,&nbsp; past performance, and/or key personnel information of the affiliate/subsidiary/parent firm/LLC/LTD member companies to be considered.&nbsp; The proposal shall state the specific resources (e.g., workforce, management, facilities, or other resources) that the affiliate/subsidiary/parent/LLC/LTD member companies will commit toward the performance of the contract.&nbsp; If meaningful involvement is not demonstrated in the proposal, the affiliate, subsidiary or parent company&rsquo;s experience or past performance and/or key personnel information will not be considered.</p>\\n\\n<p></p>\\n\\n<p>A subcontractor&rsquo;s experience and past performance will not be given the same level of consideration as that of either a prime contractor or a joint venture partner/LLC member because there is no direct legal relationship between the Government and a subcontractor.&nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>Criterion 3 - Past Performance (SF330, Part I, Section H):</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on past performance with Government agencies and private industry in terms of work quality, compliance with schedules, and stakeholder/customer satisfaction of DoD contracts. Evaluating past performance and experience will include information provided in Past Performance Questionnaires (PPQs) or CPARS for Criterion 2 projects and may include customer inquiries, Government databases, and other information available to the Government including contacts with points of contact in other criteria. NOTE: Past performance information for projects listed under Criterion 2 may be given greater weight. Preference will be on past performance on contracts with Government agencies.</p>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements</u>:&nbsp; SUBMIT A COMPLETED CPARS EVALUATION FOR EACH PROJECT UNDER CRITERION 2, as an attachment. IF A COMPLETED CPARS EVALUATION IS NOT AVAILABLE, the Past Performance Questionnaire (PPQ) (Attachment (A)) included in this notice is provided for the firm or its team members to submit to the client for each project included under Criterion 2, Specialized Experience/Technical Competence. DO NOT SUBMIT A PPQ WHEN A COMPLETED CPARS IS AVAILABLE.</p>\\n\\n<p></p>\\n\\n<p>IF A CPARS EVALUATION IS NOT AVAILABLE, ensure correct phone numbers and email addresses are provided for the client point of contact. Completed PPQs should be submitted with your SF330. If the firm is unable to obtain a completed PPQ from a client for a project(s) before the response date set forth in this notice, firms should complete and submit with their responses the first page of the PPQ (Attachment (A)), which will provide contract and client information for the respective project(s). Firms may submit a PPQ previously submitted under a different Notice/RFP (legible copies are acceptable) as long as it is on the same form as posted with this Synopsis. Firms should follow up with clients/references to ensure timely submittal of questionnaires. If requested by the client, questionnaires may be submitted directly to the Government&#39;s point of contact, NAVFAC Pacific, Code CON75, Attn: Kylee Chun via email at kylee.k.chun.civ@us.navy.mil, prior to the response date. Firms shall not incorporate by reference into their response PPQs or CPARS previously submitted in response to other A/E services procurements. However, this does not preclude the Government from utilizing previously submitted PPQ information in the past performance evaluation. PPQs shall not be from a prime contractor to a subconsultant or a subconsultant to a prime contractor.&nbsp; PPQs shall be from the customer or the owner of the project.</p>\\n\\n<p></p>\\n\\n<p>Firms may provide any information on problems encountered and the corrective actions taken on projects submitted under Criterion 2, Specialized Experience/Technical Competence.&nbsp; Firms may also address any adverse past performance issues.&nbsp; Information shall not exceed two (2) double-sided pages (or four (4) single-sided pages) in total.</p>\\n\\n<p></p>\\n\\n<p>In addition to the above, the Government may review any other sources of relevant information in the evaluation of past performance.&nbsp; Other sources may include, but are not limited to, past performance information retrieved through the CPARS using all CAGE/Unique Entity Identifier (UEI) numbers of team members (partnership, joint venture, teaming partners, former firms, or parent company/subsidiary/affiliate) identified in the SF330, inquiries of owner representatives, Federal Awardee Performance and Integrity Information System (FAPIIS), SAM.gov, and any other known sources not provided by the firm. While the Government may elect to consider data from other sources, the burden of providing detailed, current, accurate and complete past performance information rests with the firm.</p>\\n\\n<p></p>\\n\\n<p>Awards, letters of commendation, certificates of appreciation, etc. shall not be submitted and will not be considered in the evaluation.</p>\\n\\n<p></p>\\n\\n<p><strong>Criterion 4 &ndash; Capability and Capacity to Accomplish Work (SF330, Part I, Section H and D)</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on the firm&rsquo;s ability to deliver on-schedule tasks/products similar to the type described in this synopsis assuming a workload of 10 projects totaling a minimum of $1 million at multiple locations within the solicitation area of responsibility occurring concurrently.&nbsp; Firms who demonstrate substantial overlapping projects or overlapping projects significantly in excess of $1 million in value may be considered more favorably.&nbsp; Firms may be evaluated more favorably if they are able to demonstrate experience working in the NAVFAC Pacific AOR simultaneously.</p>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements</u>:&nbsp; SF330, Part I, Section H.&nbsp; Describe the firm&rsquo;s ability to complete multiple large and small task orders concurrently using the criteria above. The SF330 shall also describe the proposed location of the program management office and how this organization will be advantageous to the Government and a detailed description of the organizational structure and how it will function. Please provide an organizational chart (SF330, Part I, Section D). The organizational chart may be one page single sided 11 by 17 foldout, using 11 point font or larger (font limitations do not apply to graphics, captions or tables). &nbsp;</p>\\n\\n<p></p>\\n\\n<p><strong>Criterion 5 &ndash; Quality Control (SF330, Part I, Section H):</strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on the strength of the quality control program proposed by the firm to ensure quality products and services under this contract and means of ensuring quality services from their consultants/subcontractors and technical accuracy of finished product.</p>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements:</u>&nbsp; Describe the quality control program that will be utilized for all deliverables of this contract and the management approach for quality control processes and procedures. The description shall:</p>\\n\\n<ol>\\n\\t<li>Explain the quality control program including an example of how the plan has worked successfully for one of the projects submitted as part of SF330, Section F or how the plan will work if it has not been used previously.</li>\\n\\t<li>Describe the design quality control organization structure; and list the personnel responsible for each phase of the design quality control.&nbsp; Describe how you intend to track review comments.&nbsp;</li>\\n\\t<li>Describe the methodology that will be used to eliminate errors and inconsistencies between all design disciplines and consultants and for the incorporation of lessons learned and review comments.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong>Criterion 6 &ndash; Firm&rsquo;s Location (SF330, Part I, Section H) </strong></p>\\n\\n<p></p>\\n\\n<p><u>Basis of Evaluation</u>:&nbsp; Firms will be evaluated on the locations of their office or offices that will be performing the work under this contract and demonstrated knowledge of the general geographic areas in which projects could be located. Evaluation of firms will include consideration of their location within the general geographic area of the anticipated projects, primarily within the NAVFAC Pacific AOR.</p>\\n\\n<p></p>\\n\\n<p>The SF330 shall be evaluated on the firm&rsquo;s level of effort in various sites located at Navy and Marine Corps installations and facilities within the NAVFAC Pacific AOR including, but not limited to: Hawaii, Guam, Japan, Diego Garcia, Singapore, Korea, Washington, California and other areas in the Pacific and Indian Oceans.&nbsp; In addition, the firm&rsquo;s ability to provide timely response to requests for on-site support to various locations within the general geographical area of the intended work.</p>\\n\\n<p></p>\\n\\n<p><u>Submission Requirements:</u>&nbsp; SF330, Part I, Section H.&nbsp;</p>\\n\\n<ol>\\n\\t<li>Indicate location of the office(s) that will be performing the work, including main offices, branch offices, and offices of team members.</li>\\n\\t<li>Provide a narrative describing the team&rsquo;s knowledge of the primary geographic areas to be covered by this contract.</li>\\n\\t<li>Provide the firm&rsquo;s methodology to provide timely responses to request for on-site support to various locations within the general geographical area of the intended work.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p><u>SF330 SUBMISSION REQUIREMENTS</u>: AE submittals shall accurately complete all information requested on the SF330, clearly and specifically; include qualifications in narrative discussion in sufficient detail, addressing each of the foregoing selection evaluation criteria; and prepared in an organized format, in order to be properly evaluated.&nbsp; The AE firm and team consultants, selected for the resultant contract, will be required to perform throughout the contract term. This solicitation requires all interested firms to have on-line access to email via the Internet.&nbsp; Notifications and correspondence will be via email; therefore, email addresses must be indicated in the SF330. Please include your Unique Entity Identifier and CAGE numbers in Block 30 of the SF330.</p>\\n\\n<p></p>\\n\\n<p>AE firms desiring to be considered for this acquisition shall submit a completed SF330 package. Do not submit SF254/255s. The SF330 shall be typed and at least 11 point Time New Roman or larger. Part I, Section H shall not exceed thirty (30) single-sided 8.5 by 11 inch pages. This page limit does not include submission requirements annotated in the synopsis as Attachments (i.e. PPQ, CPARS, Joint Venture (JV), Limited Liability Company (LLC), and Limited Partnership (LTD) Agreements) nor does the page limit include cover sheets or dividers, provided that these do not contain any substantive information submitted in response to the synopsis or intended to demonstrate the qualifications of the firm. Part I pages shall be numbered sequentially.</p>\\n\\n<p></p>\\n\\n<p>In accordance with the FAR 36.601-4(b), contracts for architect-engineer services may only be awarded to firms permitted by law to practice the professions of architecture or engineering. Firms must submit proof that their professions of architecture or engineering are permitted by law as required by FAR 36.601-4(b) i.e. State registration number.&nbsp; If a firm is in a jurisdiction that requires AE firm registration, the firm must provide proof of registration.&nbsp; If a firm is in a jurisdiction that does not require AE firm registration, the firm must provide proof eligibility to practice (e.g., a summary explaining eligibility under the laws of that jurisdiction). Failure to submit the required proof could result in a firm&rsquo;s elimination from consideration.</p>\\n\\n<p></p>\\n\\n<p>Firms that are submitting information as a JV, LLC, or LTD shall submit a copy of their JV Agreement, LLC Operating Agreement, or LTD Agreement as an attachment.&nbsp; Failure to do so will result in the rejection of the SF330 from further consideration.&nbsp; In addition, please ensure that the agreements address the following:</p>\\n\\n<p></p>\\n\\n<p>a.&nbsp; A detailed statement outlining the following in terms of percentages where appropriate:</p>\\n\\n<ol>\\n\\t<li>The relationship of the team/partners/parties in terms of business ownership, capital contribution, profit distribution or loss sharing.</li>\\n\\t<li>The management approach in terms of who will conduct, direct, supervise, and control.</li>\\n\\t<li>The structure and decision-making responsibilities of the partners/parties in terms of who will control the manner and method of performance of work.</li>\\n\\t<li>Identify (by name and title) the personnel having the authority to legally bind the partners/parties (including authority to execute the contract documents).</li>\\n</ol>\\n\\n<p></p>\\n\\n<p>b.&nbsp; A list of partners/parties, to include company name, UEI and CAGE numbers, address, point of contact, email address, phone number, and facsimile number.</p>\\n\\n<p></p>\\n\\n<p>A-E firms meeting the requirements described in this announcement are invited to submit, SF330, to this office electronically through DoD Secure Access File Exchange (SAFE) service by <strong>2:00 p.m. HST, on Thursday, 07 May 2026. </strong></p>\\n\\n<p>Only DoD SAFE is authorized for the submission of electronic SF330s (.pdf format) in response to this synopsis. Electronic SF330s submitted via electronic mail or facsimile will NOT be considered. Electronic submissions should be no larger than 8GB. A-E firms shall ensure that the Government has received the electronic SF330 prior to the date and time specified.</p>\\n\\n<p></p>\\n\\n<p>Instructions for use of DoD SAFE, Drop-off feature in DoD SAFE (https://safe.apps.mil) are provided below:</p>\\n\\n<ol>\\n\\t<li>No later than two (2) business days prior to the date and time specified, the A-E firm shall submit their point of contact (POC) name and email address to Kylee Chun at kylee.k.chun.civ@us.navy.mil. Upon receipt of this information, a Contract Specialist will &ldquo;Request a Drop-Off&rdquo; in DoD SAFE to the firm&rsquo;s POC email address. The firm will receive a &ldquo;Request a Drop-Off&rdquo; email message to allow for submission of a SF330. Only the identified POC will be able to drop-off a SF330 in DOD SAFE. Failure to provide accurate POC information will preclude the A-E firm from using DoD SAFE.</li>\\n\\t<li>To submit the SF330, the A-E firm will click the link in the &ldquo;Request a Drop-off&rdquo; email message. The system will allow for inclusion of a short note to the Recipient and then the firm will click to add files or drag and drop them. Click &ldquo;Drop-Off Files&rdquo; to send the files to the recipient. The file(s) are uploaded and an email will be sent to the recipient notifying them of the &ldquo;drop-off&rdquo;. [Additional details can be viewed in the DoD SAFE User Guide available at https://safe.apps.mil]. Note that the submission of any SF330 must be completed no later than the date and time specified. The DoD SAFE system will record the date and time of package submittal. The date and time of package submittal recorded in DoD SAFE shall govern the timeliness of any submission.</li>\\n\\t<li>A-E firms shall allow adequate time to upload files which may be slower for non-DoD users and to avoid other technical difficulties that may be encountered. A-E firms are also responsible for submitting files in the format specified consistent with requirements stated elsewhere in this synopsis. Files that cannot be opened, or are otherwise missing the required content are the responsibility of A-E firm.</li>\\n\\t<li>It is the responsibility of the A-E firm to promptly notify Kylee Chun at kylee.k.chun.civ@us.navy.mil if an email containing the link is NOT received on the day of their written request.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong>This is not a request for a proposal. </strong></p>\\n\\n<p></p>\\n\\n<p>Late responses will be handled in accordance with FAR 52.215-1.Questions regarding the synopsis shall be submitted in writing via electronic email to Ms. Danika Kamikawa, danika.m.kamikawa.civ@us.navy.mil, and Kylee Chun, kylee.k.chun.civ@us.navy.mil.&nbsp; Emailed questions must be received no later than ten (10) business days in advance of the closing date.</p>\\n\\n<p></p>\\n\\n<p></p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11dd396d2c004d87a1bf08742cda5dd6/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 176394,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2c0ecfbfb6a948049987e6c073802680/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 185538,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d9c4f8430544493aa1d6a5a73920ca0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 152571,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c46a1ce5f1c848418ea441719d1a0f36/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1278990,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "AWS",
-      "Monitoring",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "AWS",
-        "Monitoring",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": [
-        "on-site"
-      ]
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "program management office"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": true,
       "onsiteAllowedStates": [
         "AZ",
         "Arizona"
@@ -2927,7 +3208,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "e460a28c9404434db81e6f1b434983c6",
+    "noticeId": "0e2c51e90fba4b2fa0f720e728a01cf3",
     "title": "Construction Inspection IDIQ",
     "solicitationNumber": "6982AF25R000016",
     "type": "Solicitation",
@@ -2935,8 +3216,8 @@
     "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-01",
-    "responseDeadline": "2026-05-11T14:00:00-06:00",
+    "postedDate": "2026-05-05",
+    "responseDeadline": "2026-05-15T14:00:00-06:00",
     "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
     "office": "",
     "placeOfPerformance": {
@@ -2945,17 +3226,19 @@
       "zip": null
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/e460a28c9404434db81e6f1b434983c6/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e460a28c9404434db81e6f1b434983c6",
+      "uiLink": "https://sam.gov/workspace/contract/opp/0e2c51e90fba4b2fa0f720e728a01cf3/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0e2c51e90fba4b2fa0f720e728a01cf3",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04b2d60e4d5d43a3b7b2c929e3081e64/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/132ef026cd334b5682b0c7f31eabf88c/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/233bbdb184cd4b4e99d83c18d6f50154/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/29a6828bf4cc49829654da1b2e66cd19/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d837557022f4c498a32082e990fcd8a/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56f1bac3e7e5436993894e3943f6eaf8/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6781d5d844204e45aabf5471e50ac8e9/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/75688db67f884980b251cf249a23a95e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/90ec1f0d363544dd9554e31768e94b96/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/efebc87539a94d39a59f2febda7748a3/download"
       ]
     },
@@ -2987,9 +3270,9 @@
         "textSnippet": ""
       },
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56f1bac3e7e5436993894e3943f6eaf8/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d837557022f4c498a32082e990fcd8a/download",
         "contentType": "application/octet-stream",
-        "byteSize": 260214,
+        "byteSize": 970991,
         "textSnippet": ""
       }
     ],
