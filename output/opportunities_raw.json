@@ -1,5 +1,59 @@
 [
   {
+    "noticeId": "fe921f41cf4249d38f730269ed10465b",
+    "title": "National Instruments Equipment",
+    "solicitationNumber": "N0016726Q1091",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC CARDEROCK",
+    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00167",
+    "postedDate": "2026-05-06",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-29",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-14T12:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "6625",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "michael.bonaiuto@navy.mil",
+        "phone": "3012270589",
+        "title": null,
+        "fullName": "Michael J. Bonaiuto"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fe921f41cf4249d38f730269ed10465b",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20817-5700",
+      "city": "BETHESDA",
+      "countryCode": "USA",
+      "state": "MD"
+    },
+    "placeOfPerformance": null,
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/fe921f41cf4249d38f730269ed10465b/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fe921f41cf4249d38f730269ed10465b&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6c6d50caa04a49bcb1203836756f002c/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b38d686840bd4773ad2fb6e5e427d7d7/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ee6465eb307141d2bdd27d97158948f0/download"
+    ]
+  },
+  {
     "noticeId": "f1523cd2d1294a6188c49681ca66074a",
     "title": "NOI for Brand Name Purchase - Cellebrite Inseyets",
     "solicitationNumber": "EB112520250837",
@@ -2209,6 +2263,73 @@
     ]
   },
   {
+    "noticeId": "e9c6e86a74c146159b23b1c5a181d135",
+    "title": "RFI-FA2835-1710 SVTC Conference Room Upgrade",
+    "solicitationNumber": "FA2835-1710",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.FA2835 AFLCMC HANSCOM PZI",
+    "fullParentPathCode": "057.5700.AFMC.AFLCMC.FA2835",
+    "postedDate": "2026-05-07",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-25",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-04-16T17:00:00-04:00",
+    "naicsCode": "541512",
+    "naicsCodes": [
+      "541512"
+    ],
+    "classificationCode": "J074",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "kristin.morrison.1@us.af.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Kristin Morrison"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e9c6e86a74c146159b23b1c5a181d135",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "01731-2107",
+      "city": "HANSCOM AFB",
+      "countryCode": "USA",
+      "state": "MA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "0",
+        "name": "Hanscom AFB"
+      },
+      "state": {
+        "code": "MA",
+        "name": "Massachusetts"
+      },
+      "zip": "01731",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/e9c6e86a74c146159b23b1c5a181d135/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e9c6e86a74c146159b23b1c5a181d135&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0130c88829a74cc8baa55acf9c514a1d/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/293779a9ef2d4c2b816af7cfb27cf2bb/download"
+    ]
+  },
+  {
     "noticeId": "e4ef8ea2a5ec4405a9313c8ef6ac2920",
     "title": "Wireless Network Deployment at Peterson Space Force Base",
     "solicitationNumber": "H9229526QB001",
@@ -2527,80 +2648,6 @@
     ],
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4c97a4923a73445da0137ce6c0284b6b/download"
-    ]
-  },
-  {
-    "noticeId": "ff6685762d1345cd9b5da70a50fc7595",
-    "title": "Remote Automated Laboratory System (RALS) License",
-    "solicitationNumber": "W81K00-26-Q-A086",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY MEDICAL COMMAND.US ARMY HEALTH CONTRACTING ACTIVITY.W40M MRC0 WEST",
-    "fullParentPathCode": "021.2100.MEDCOM.USAHCA.W81K00",
-    "postedDate": "2026-04-15",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-05-06",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-04-21T12:00:00-04:00",
-    "naicsCode": "541512",
-    "naicsCodes": [
-      "541512"
-    ],
-    "classificationCode": "DA10",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "lisa.d.branch.civ@health.mil",
-        "phone": "7067870293",
-        "title": null,
-        "fullName": "LISA Branch"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "wayne.shavers.civ@health.mil",
-        "phone": "2104752192",
-        "title": null,
-        "fullName": "Wayne Shavers"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ff6685762d1345cd9b5da70a50fc7595",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "78234-4504",
-      "city": "JBSA FT SAM HOUSTON",
-      "countryCode": "USA",
-      "state": "TX"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "91224",
-        "name": "Fort Gordon"
-      },
-      "state": {
-        "code": "GA",
-        "name": "Georgia"
-      },
-      "zip": "30905",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/ff6685762d1345cd9b5da70a50fc7595/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ff6685762d1345cd9b5da70a50fc7595&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/71ab462f69e54231b37fd6c40baaf5ce/download"
     ]
   },
   {
@@ -3268,6 +3315,66 @@
     ]
   },
   {
+    "noticeId": "7519675121dc4803bf3576d102fcd578",
+    "title": "B--LARGE RIVER MONITORING METHODS REVIEW",
+    "solicitationNumber": "140L6326Q0009",
+    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.ALASKA STATE OFFICE",
+    "fullParentPathCode": "014.1422.140L63",
+    "postedDate": "2026-05-06",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-26",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-11T17:00:00-08:00",
+    "naicsCode": "541690",
+    "naicsCodes": [
+      "541690"
+    ],
+    "classificationCode": "B516",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "(907) 271-4595",
+        "type": "primary",
+        "email": "lsherman@blm.gov",
+        "phone": "9072714440",
+        "title": null,
+        "fullName": "Sherman, Laura"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7519675121dc4803bf3576d102fcd578",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "99513",
+      "city": "ANCHORAGE",
+      "countryCode": "USA",
+      "state": "AK"
+    },
+    "placeOfPerformance": {
+      "city": {},
+      "state": {},
+      "country": {}
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/7519675121dc4803bf3576d102fcd578/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=7519675121dc4803bf3576d102fcd578&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071ee1a07414444597cccda424ff66a9/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/210f7b7ec44645cab93e8e260987793f/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c47283365d574738acb3cc9e27fa00e1/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2541b7b77394a239e7b18372131bf7c/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ecfc9ce25d4f4a72a755eff88de58e54/download"
+    ]
+  },
+  {
     "noticeId": "51b8677c48714400be83efd9cf597ab4",
     "title": "Latin America and the Caribbean: Transportation Infrastructure Project Scoping Services",
     "solicitationNumber": "1131PL26R0035",
@@ -3394,64 +3501,6 @@
     ],
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/178fc239b2bc415db93e93192fe80d04/download"
-    ]
-  },
-  {
-    "noticeId": "1f713aaaf88448049a51228354dd2e5c",
-    "title": "LARGE RIVER MONITORING METHODS REVIEW",
-    "solicitationNumber": "140L6326Q0009",
-    "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.ALASKA STATE OFFICE",
-    "fullParentPathCode": "014.1422.140L63",
-    "postedDate": "2026-05-01",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-05-26",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-05-11T17:00:00-08:00",
-    "naicsCode": "541690",
-    "naicsCodes": [
-      "541690"
-    ],
-    "classificationCode": "B516",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "(907) 271-4595",
-        "type": "primary",
-        "email": "lsherman@blm.gov",
-        "phone": "9072714440",
-        "title": null,
-        "fullName": "Sherman, Laura"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1f713aaaf88448049a51228354dd2e5c",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "99513",
-      "city": "ANCHORAGE",
-      "countryCode": "USA",
-      "state": "AK"
-    },
-    "placeOfPerformance": {
-      "city": {},
-      "state": {},
-      "country": {}
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/1f713aaaf88448049a51228354dd2e5c/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=1f713aaaf88448049a51228354dd2e5c&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071ee1a07414444597cccda424ff66a9/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/210f7b7ec44645cab93e8e260987793f/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c47283365d574738acb3cc9e27fa00e1/download"
     ]
   },
   {
@@ -3721,6 +3770,277 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0f85ccf481a4c61ae84cd326ab4f587/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ff6b2a728a504f409e32a6725d5cd011/download"
     ]
+  },
+  {
+    "noticeId": "fbf306aaae9249fe8c7bd282b491f546",
+    "title": "A&E Type C Services",
+    "solicitationNumber": "W50S9926PA002",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO TN.USPFO TN PROCUREMENT.W7N1 USPFO ACTIVITY TNANG 164",
+    "fullParentPathCode": "021.2100.NGB.JFHQ USPFO TN.USPFO TN PROC.W50S99",
+    "postedDate": "2026-05-07",
+    "type": "Award Notice",
+    "baseType": "Special Notice",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-21",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": null,
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C1AZ",
+    "active": "Yes",
+    "award": {
+      "date": "2026-05-06",
+      "number": "W50S9926PA002",
+      "amount": "206424.93",
+      "awardee": {
+        "name": "C2RL ENGINEERING, INC.",
+        "location": {
+          "city": {
+            "code": "540",
+            "name": "Alcoa"
+          },
+          "state": {
+            "code": "TN",
+            "name": "Tennessee"
+          },
+          "zip": "37701",
+          "country": {
+            "code": "USA",
+            "name": "UNITED STATES"
+          }
+        },
+        "ueiSAM": "NLWCNMW439Z4",
+        "cageCode": "3EQ74"
+      }
+    },
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "164.AW.MSC.ORG@US.AF.MIL",
+        "phone": "",
+        "title": null,
+        "fullName": "Christopher Rhyne"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fbf306aaae9249fe8c7bd282b491f546",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "38118-7101",
+      "city": "MEMPHIS",
+      "countryCode": "USA",
+      "state": "TN"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "48000",
+        "name": "Memphis"
+      },
+      "state": {
+        "code": "TN",
+        "name": "Tennessee"
+      },
+      "zip": "38118",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/fbf306aaae9249fe8c7bd282b491f546/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fbf306aaae9249fe8c7bd282b491f546&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/30de3615d5874adea075682bb0e2a7fd/download"
+    ]
+  },
+  {
+    "noticeId": "b748b364c12649178210a8a95d2eff87",
+    "title": "Biomedical Clinical Engineer",
+    "solicitationNumber": "FA800321C0021",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8003  771 ENTERPRISE SOURCING SQ",
+    "fullParentPathCode": "057.5700.AFMC.AFIMSC-AFICC.FA8003",
+    "postedDate": "2026-05-07",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "archiveType": "auto15",
+    "archiveDate": "2026-06-05",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-21T16:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "Q702",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "christian.takai@us.af.mil",
+        "phone": "9377132306",
+        "title": null,
+        "fullName": "Christian Takai"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b748b364c12649178210a8a95d2eff87",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "45433-5344",
+      "city": "WRIGHT PATTERSON AFB",
+      "countryCode": "USA",
+      "state": "OH"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "30325",
+        "name": "Frederick"
+      },
+      "state": {
+        "code": "MD",
+        "name": "Maryland"
+      },
+      "zip": "21702",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/b748b364c12649178210a8a95d2eff87/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b748b364c12649178210a8a95d2eff87&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/283b6f2ad4d648e0942cf713ecd553cf/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6108651d1f84b7f86bcc3675de99939/download"
+    ]
+  },
+  {
+    "noticeId": "37335c86de6e4642867db93451010cbd",
+    "title": "Special Notice Pilot and Aircrew Curriculum Revision and Maintenance  Multiple Award Contract",
+    "solicitationNumber": "N6134020R0082",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC TSD.NAWC TRAINING SYSTEMS DIV",
+    "fullParentPathCode": "017.1700.NAVAIR.NAVAIR NAWC TSD.N61340",
+    "postedDate": "2026-05-07",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-05-25",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-29T10:00:00-05:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "U099",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "kelly.m.stevens4.civ@us.navy.mil",
+        "phone": "4073804143",
+        "title": null,
+        "fullName": "Kelly Stevens"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "evan.t.denove.civ@us.navy.mil",
+        "phone": "4073804032",
+        "title": null,
+        "fullName": "Evan Denove "
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=37335c86de6e4642867db93451010cbd",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "32826-3224",
+      "city": "ORLANDO",
+      "countryCode": "USA",
+      "state": "FL"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "NAWCTSD 12211 Science Drive, Orlando, FL 32826",
+      "zip": "32826"
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/37335c86de6e4642867db93451010cbd/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=37335c86de6e4642867db93451010cbd&limit=1"
+      }
+    ],
+    "resourceLinks": null
+  },
+  {
+    "noticeId": "36830b0ba4fb4514bbe0c7ce999a75b2",
+    "title": "N0016426R3107: Professional Support Services for PMS 312 and 368 in Support of RCOH/ INACT/ ILS",
+    "solicitationNumber": "N0016426R3107",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC CRANE",
+    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00164",
+    "postedDate": "2026-05-06",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "autocustom",
+    "archiveDate": "2026-07-06",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-06-08T14:00:00-05:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "R425",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "kristen.m.crane.civ@us.navy.mil",
+        "phone": "18123814719",
+        "title": null,
+        "fullName": "Kristen Crane"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=36830b0ba4fb4514bbe0c7ce999a75b2",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "47522-5001",
+      "city": "CRANE",
+      "countryCode": "USA",
+      "state": "IN"
+    },
+    "placeOfPerformance": {
+      "streetAddress": "2900 Effingham St, Portsmouth, VA",
+      "zip": "23709"
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/36830b0ba4fb4514bbe0c7ce999a75b2/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=36830b0ba4fb4514bbe0c7ce999a75b2&limit=1"
+      }
+    ],
+    "resourceLinks": null
   },
   {
     "noticeId": "df06ed9118a947c889313614db6feb8e",
@@ -5165,67 +5485,6 @@
     ]
   },
   {
-    "noticeId": "b390aafacc78435cadd0d183c3c6a70b",
-    "title": "Special Notice Pilot and Aircrew Curriculum Revision and Maintenance  Multiple Award Contract",
-    "solicitationNumber": "N6134020R0082",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC TSD.NAWC TRAINING SYSTEMS DIV",
-    "fullParentPathCode": "017.1700.NAVAIR.NAVAIR NAWC TSD.N61340",
-    "postedDate": "2026-04-22",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-05-25",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-05-07T10:00:00-05:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "U099",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "kelly.m.stevens4.civ@us.navy.mil",
-        "phone": "4073804143",
-        "title": null,
-        "fullName": "Kelly Stevens"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "evan.t.denove.civ@us.navy.mil",
-        "phone": "4073804032",
-        "title": null,
-        "fullName": "Evan Denove "
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b390aafacc78435cadd0d183c3c6a70b",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "32826-3224",
-      "city": "ORLANDO",
-      "countryCode": "USA",
-      "state": "FL"
-    },
-    "placeOfPerformance": {
-      "streetAddress": "NAWCTSD 12211 Science Drive, Orlando, FL 32826",
-      "zip": "32826"
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/b390aafacc78435cadd0d183c3c6a70b/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b390aafacc78435cadd0d183c3c6a70b&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
     "noticeId": "d7a2da9a2f714c75b20fcf5bd149b207",
     "title": "20--Synopsis NOAA Ships T-AGOS Propulsion Drive Update",
     "solicitationNumber": "1305M226Q0076",
@@ -6279,12 +6538,12 @@
     "resourceLinks": null
   },
   {
-    "noticeId": "0e2c51e90fba4b2fa0f720e728a01cf3",
+    "noticeId": "3c15ca33a95747c497ca607e5592aabe",
     "title": "Construction Inspection IDIQ",
     "solicitationNumber": "6982AF25R000016",
     "fullParentPathName": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
     "fullParentPathCode": "069.6925.6982AF",
-    "postedDate": "2026-05-05",
+    "postedDate": "2026-05-06",
     "type": "Solicitation",
     "baseType": "Solicitation",
     "archiveType": "auto15",
@@ -6317,7 +6576,7 @@
         "fullName": "Kelly Palmer"
       }
     ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0e2c51e90fba4b2fa0f720e728a01cf3",
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3c15ca33a95747c497ca607e5592aabe",
     "organizationType": "OFFICE",
     "officeAddress": {
       "zipcode": "80228",
@@ -6332,11 +6591,11 @@
       }
     },
     "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/0e2c51e90fba4b2fa0f720e728a01cf3/view",
+    "uiLink": "https://sam.gov/workspace/contract/opp/3c15ca33a95747c497ca607e5592aabe/view",
     "links": [
       {
         "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=0e2c51e90fba4b2fa0f720e728a01cf3&limit=1"
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3c15ca33a95747c497ca607e5592aabe&limit=1"
       }
     ],
     "resourceLinks": [
@@ -6349,7 +6608,71 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6781d5d844204e45aabf5471e50ac8e9/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/75688db67f884980b251cf249a23a95e/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/90ec1f0d363544dd9554e31768e94b96/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bd2cd39c08454c9baf2eb333f0b98f8e/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/efebc87539a94d39a59f2febda7748a3/download"
+    ]
+  },
+  {
+    "noticeId": "d96f41d7739846f4bf3af364f15838bc",
+    "title": "Talos Linux FIPS Compliant Build and Support",
+    "solicitationNumber": "N0018926QL129",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+    "fullParentPathCode": "017.1700.NAVSUP.NAVSUP GLS.NAVSUP FLC NORFOLK.N00189",
+    "postedDate": "2026-05-06",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-06-02",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-18T11:00:00-04:00",
+    "naicsCode": "518210",
+    "naicsCodes": [
+      "518210"
+    ],
+    "classificationCode": "7B21",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "alexandria.e.mccune.civ@us.navy.mil",
+        "phone": "7712293585",
+        "title": null,
+        "fullName": "Alexandria McCune"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d96f41d7739846f4bf3af364f15838bc",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "23511-3392",
+      "city": "NORFOLK",
+      "countryCode": "USA",
+      "state": "VA"
+    },
+    "placeOfPerformance": {
+      "state": {
+        "code": "VA",
+        "name": "Virginia"
+      },
+      "zip": "23435",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/d96f41d7739846f4bf3af364f15838bc/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d96f41d7739846f4bf3af364f15838bc&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24aea8994a874174ad31db4fd07a3d9f/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/261535ee1fe44656a66769be5d03c946/download"
     ]
   },
   {

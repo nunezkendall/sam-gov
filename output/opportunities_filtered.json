@@ -976,6 +976,111 @@
     "updatedDate": null
   },
   {
+    "noticeId": "7519675121dc4803bf3576d102fcd578",
+    "title": "B--LARGE RIVER MONITORING METHODS REVIEW",
+    "solicitationNumber": "140L6326Q0009",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541690",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-06",
+    "responseDeadline": "2026-05-11T17:00:00-08:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.ALASKA STATE OFFICE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/7519675121dc4803bf3576d102fcd578/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7519675121dc4803bf3576d102fcd578",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071ee1a07414444597cccda424ff66a9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/210f7b7ec44645cab93e8e260987793f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c47283365d574738acb3cc9e27fa00e1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2541b7b77394a239e7b18372131bf7c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ecfc9ce25d4f4a72a755eff88de58e54/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"LARGE RIVER MONITORING METHODS REVIEW\"}",
+    "descriptionFull": "{\"description\":\"LARGE RIVER MONITORING METHODS REVIEW\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071ee1a07414444597cccda424ff66a9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 344272,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/210f7b7ec44645cab93e8e260987793f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 52142,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c47283365d574738acb3cc9e27fa00e1/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 342669,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2541b7b77394a239e7b18372131bf7c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 52121,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ecfc9ce25d4f4a72a755eff88de58e54/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 206060,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "Monitoring"
+      ],
+      "description": [
+        "Monitoring"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "51b8677c48714400be83efd9cf597ab4",
     "title": "Latin America and the Caribbean: Transportation Infrastructure Project Scoping Services",
     "solicitationNumber": "1131PL26R0035",
@@ -1136,97 +1241,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Puerto Rico"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "1f713aaaf88448049a51228354dd2e5c",
-    "title": "LARGE RIVER MONITORING METHODS REVIEW",
-    "solicitationNumber": "140L6326Q0009",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541690",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-01",
-    "responseDeadline": "2026-05-11T17:00:00-08:00",
-    "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.ALASKA STATE OFFICE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/1f713aaaf88448049a51228354dd2e5c/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1f713aaaf88448049a51228354dd2e5c",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071ee1a07414444597cccda424ff66a9/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/210f7b7ec44645cab93e8e260987793f/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c47283365d574738acb3cc9e27fa00e1/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"LARGE RIVER MONITORING METHODS REVIEW\"}",
-    "descriptionFull": "{\"description\":\"LARGE RIVER MONITORING METHODS REVIEW\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071ee1a07414444597cccda424ff66a9/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 344272,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/210f7b7ec44645cab93e8e260987793f/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 52142,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c47283365d574738acb3cc9e27fa00e1/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 342669,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "Monitoring"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "Monitoring"
-      ],
-      "description": [
-        "Monitoring"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -1419,6 +1433,90 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "b748b364c12649178210a8a95d2eff87",
+    "title": "Biomedical Clinical Engineer",
+    "solicitationNumber": "FA800321C0021",
+    "type": "Sources Sought",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-07",
+    "responseDeadline": "2026-05-21T16:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8003  771 ENTERPRISE SOURCING SQ",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Frederick",
+      "state": "Maryland",
+      "zip": "21702"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/b748b364c12649178210a8a95d2eff87/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b748b364c12649178210a8a95d2eff87",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/283b6f2ad4d648e0942cf713ecd553cf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6108651d1f84b7f86bcc3675de99939/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<ol>\\n\\t<li>\\n\\t<ol>\\n\\t\\t<li><strong>The mission of the Air Force Medical Command (AFMEDCOM) is to </strong>generate medically ready forces, deploy expeditionary medics, and improve the health of all we serve - anytime, anywhere<strong>. Air Force Warrior Medics are Mission Focused, Excellence Driven, ensuring a medically ready force to fly, fight and win with four main strategic imperatives for the Air Force Medical Service (AFMS): 1. Deliver Department of the Air Force (DAF) Integrated Operational Capability, 2. Enhance Joint Force Readiness Support, 3. Drive Advance Medical Force Development, and 4. Provide a Medically Ready Force. The Clinical Engineering and Equipment Sustainment (AFMEDCOM A4/10E) Division of Air Force Logistics and Installation Support (AFMEDCOM A...",
+    "descriptionFull": "{\"description\":\"<ol>\\n\\t<li>\\n\\t<ol>\\n\\t\\t<li><strong>The mission of the Air Force Medical Command (AFMEDCOM) is to </strong>generate medically ready forces, deploy expeditionary medics, and improve the health of all we serve - anytime, anywhere<strong>. Air Force Warrior Medics are Mission Focused, Excellence Driven, ensuring a medically ready force to fly, fight and win with four main strategic imperatives for the Air Force Medical Service (AFMS): 1. Deliver Department of the Air Force (DAF) Integrated Operational Capability, 2. Enhance Joint Force Readiness Support, 3. Drive Advance Medical Force Development, and 4. Provide a Medically Ready Force. The Clinical Engineering and Equipment Sustainment (AFMEDCOM A4/10E) Division of Air Force Logistics and Installation Support (AFMEDCOM A4/10) Directorate provides operational support, analysis, and program management to our warfighters, AFMS enterprise-level, and the Military Health System (MHS) contingency and expeditionary medical equipment. This position will be utilized to support lifecycle program management of medical technologies from initial requirement identification through operational testing to contracting through delivery, sustainment and disposal for contingency and expeditionary operations. The support will include, but is not limited to: identifying Original Equipment Manufacturers (OEMs) currently existing on the market through market analysis and available contracting agencies, noting concerns to the Senior Clinical Engineer regarding equipment or facility requirements for deployed environments, liaising between the OEM and cybersecurity approval offices, requirement owners, contracting agencies or others, reviewing medical maintenance data and identifying trends, reviewing available medical maintenance plans or training options and providing recommendations to the Senior Clinical Engineer on the courses of action, assisting with the development of total cost of ownership calculations for contingency medical equipment, identifying equipment concerns based on staffing expertise/levels, supporting the program managers for contracting actions and budgetary actions, and providing sound engineering recommendations to the Senior Clinical Engineer for contingency, expeditionary, and war reserve medical equipment.</strong></li>\\n\\t</ol>\\n\\t</li>\\n</ol>\\n\\n<p></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/283b6f2ad4d648e0942cf713ecd553cf/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 27366,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6108651d1f84b7f86bcc3675de99939/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 87984,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "enterprise"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Maryland"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -3208,7 +3306,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "0e2c51e90fba4b2fa0f720e728a01cf3",
+    "noticeId": "3c15ca33a95747c497ca607e5592aabe",
     "title": "Construction Inspection IDIQ",
     "solicitationNumber": "6982AF25R000016",
     "type": "Solicitation",
@@ -3216,7 +3314,7 @@
     "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-05",
+    "postedDate": "2026-05-06",
     "responseDeadline": "2026-05-15T14:00:00-06:00",
     "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.6982AF CENTRAL FEDERAL LANDS DIVISI",
     "office": "",
@@ -3226,8 +3324,8 @@
       "zip": null
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/0e2c51e90fba4b2fa0f720e728a01cf3/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0e2c51e90fba4b2fa0f720e728a01cf3",
+      "uiLink": "https://sam.gov/workspace/contract/opp/3c15ca33a95747c497ca607e5592aabe/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3c15ca33a95747c497ca607e5592aabe",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/04b2d60e4d5d43a3b7b2c929e3081e64/download",
@@ -3239,6 +3337,7 @@
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6781d5d844204e45aabf5471e50ac8e9/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/75688db67f884980b251cf249a23a95e/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/90ec1f0d363544dd9554e31768e94b96/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bd2cd39c08454c9baf2eb333f0b98f8e/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/efebc87539a94d39a59f2febda7748a3/download"
       ]
     },
@@ -3312,6 +3411,90 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "d96f41d7739846f4bf3af364f15838bc",
+    "title": "Talos Linux FIPS Compliant Build and Support",
+    "solicitationNumber": "N0018926QL129",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "518210",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-06",
+    "responseDeadline": "2026-05-18T11:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": "Virginia",
+      "zip": "23435"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/d96f41d7739846f4bf3af364f15838bc/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d96f41d7739846f4bf3af364f15838bc",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24aea8994a874174ad31db4fd07a3d9f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/261535ee1fe44656a66769be5d03c946/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Please see attached solicitation,&nbsp;N0018926QL129,&nbsp;Talos Linux FIPS Compliant Build and Support.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>Please see attached solicitation,&nbsp;N0018926QL129,&nbsp;Talos Linux FIPS Compliant Build and Support.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24aea8994a874174ad31db4fd07a3d9f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 250691,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/261535ee1fe44656a66769be5d03c946/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1886785,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Linux"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "Linux"
+      ],
+      "description": [
+        "Linux"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
