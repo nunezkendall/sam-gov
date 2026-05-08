@@ -1,8 +1,8 @@
 [
   {
     "noticeId": "d96f41d7739846f4bf3af364f15838bc",
-    "reason": "Direct Linux build and support requirement with strong alignment to DevOps/Linux expertise.",
-    "overallScore": 75,
+    "reason": "Direct Linux build and support requirement; strongest DevOps alignment and manageable scope.",
+    "overallScore": 71,
     "title": "Talos Linux FIPS Compliant Build and Support",
     "uiLink": "https://sam.gov/workspace/contract/opp/d96f41d7739846f4bf3af364f15838bc/view",
     "descriptionSnippet": "{\"description\":\"<p>Please see attached solicitation,&nbsp;N0018926QL129,&nbsp;Talos Linux FIPS Compliant Build and Support.</p>\\n\"}",
@@ -12,7 +12,7 @@
   },
   {
     "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
-    "reason": "Cloud application O&M and enterprise IT support aligned with DevOps and automation skills.",
+    "reason": "Enterprise cloud application support with architecture and O&M components.",
     "overallScore": 59,
     "title": "ANC OCIO CEAS Support Services",
     "uiLink": "https://sam.gov/workspace/contract/opp/ea37ba4fa6bc4d5499c1dcbbbe4a4b0e/view",
@@ -22,8 +22,19 @@
     "awardEstimate": null
   },
   {
+    "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
+    "reason": "Enterprise data modernization and cybersecurity operations align with DevOps capabilities.",
+    "overallScore": 57,
+    "title": "TRANSCOM Reference Data Management (TRDM)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/9b298d4de6bf400781b119b1e03d4f79/view",
+    "descriptionSnippet": "{\"description\":\"<p>TRDM provides a single distribution source of enterprise reference data for enhancing C2, transportation, logistics, deployment, and financial systems&rsquo; reference data management and functional data collection. The scope of TRDM requires the contractor to perform current technical &amp; Cybersecurity operations, maintenance, and distribution of the TRDM system and data while modernizing the architecture. These tasks include but are not limited to requirement analysis, data collection, data management, interface and architecture validation, and data distribution. Requests and requirements fielded by TRDM require contractor expertise on implementation, fielding, planning, scheduling, interoperability testing, documentation, and other key tasks defined in the softwa...",
+    "responseDeadline": "2026-05-04T10:00:00-05:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
     "noticeId": "c8a2b26722e64018b73289dc45a05b97",
-    "reason": "Software O&M support likely within small business capacity.",
+    "reason": "Operations and maintenance support suitable for automation and DevOps services.",
     "overallScore": 54,
     "title": "HURREVAC and RtePM - Operations and Maintenance (O and M) In support of Planning Division, Baltimore, MD",
     "uiLink": "https://sam.gov/workspace/contract/opp/c8a2b26722e64018b73289dc45a05b97/view",
@@ -34,7 +45,7 @@
   },
   {
     "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
-    "reason": "Automation and data-centric IT support relevant to Python/DevOps.",
+    "reason": "Automation and data-centric support fits Python and DevOps strengths.",
     "overallScore": 52,
     "title": "Intelligence and Automation Operations",
     "uiLink": "https://sam.gov/workspace/contract/opp/12339a6b49a048b7b81a5b89b0013f8d/view",
@@ -44,53 +55,9 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
-    "reason": "Enterprise data management modernization with technical architecture focus.",
-    "overallScore": 51,
-    "title": "TRANSCOM Reference Data Management (TRDM)",
-    "uiLink": "https://sam.gov/workspace/contract/opp/9b298d4de6bf400781b119b1e03d4f79/view",
-    "descriptionSnippet": "{\"description\":\"<p>TRDM provides a single distribution source of enterprise reference data for enhancing C2, transportation, logistics, deployment, and financial systems&rsquo; reference data management and functional data collection. The scope of TRDM requires the contractor to perform current technical &amp; Cybersecurity operations, maintenance, and distribution of the TRDM system and data while modernizing the architecture. These tasks include but are not limited to requirement analysis, data collection, data management, interface and architecture validation, and data distribution. Requests and requirements fielded by TRDM require contractor expertise on implementation, fielding, planning, scheduling, interoperability testing, documentation, and other key tasks defined in the softwa...",
-    "responseDeadline": "2026-05-04T10:00:00-05:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "5325838bec914456a6c36b27e4b87ccf",
-    "reason": "Data migration effort potentially leveraging automation and scripting skills.",
-    "overallScore": 49,
-    "title": "Data Migration RFI",
-    "uiLink": "https://sam.gov/workspace/contract/opp/5325838bec914456a6c36b27e4b87ccf/view",
-    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
-    "responseDeadline": "2026-05-10T16:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "6a596f4bd3f14ff9b93225edccd7cae9",
-    "reason": "Web-based solution integration opportunity under small business set-aside.",
-    "overallScore": 44,
-    "title": "7A21--Web-Based VISTA/CPRS Integrated Solution for Oncology  Brand Name for Reference: DSS Order Tracking Manager for  Oncology",
-    "uiLink": "https://sam.gov/workspace/contract/opp/6a596f4bd3f14ff9b93225edccd7cae9/view",
-    "descriptionSnippet": "{\"description\":\"THIS IS NOT A REQUEST FOR COMPETITIVE OFFERS\u00c2 \\n\u00c2 Lebanon VA Medical Center\u00c2 \\nThis is a Pre-Solicitation Notice for the Department of Veterans Affairs, Network Contracting Office (NCO) 4, to provide\u00c2 a Web-Based VISTA/CPRS Integrated Solution for Oncology. This equipment requirement is for the Lebanon VA Medical Center in support of their multiple clinics, located in Lebanon, PA 17042. The full solicitation may be posted to the NASA SEWP at www.sewp.nasa.gov on or about\u00c2 May 8th, 2026.\u00c2 \\n\\nThe full solicitation will be a Small Business set-aside.\u00c2 \u00c2 The North American Industry Classification System (NAICS) for this procurement is 541519 Other Computer Related Services; the size standard is\u00c2 $34.0M.\u00c2 \\nPotential offerors\u00c2 are responsible for\u00c2 monitoring\u00c2 for the release...",
-    "responseDeadline": "2026-05-08T12:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
-    "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
-    "reason": "Engineering support including AI/ML and systems engineering components.",
-    "overallScore": 43,
-    "title": "H20 Engineering Services",
-    "uiLink": "https://sam.gov/workspace/contract/opp/ecdef2f3b5ab4526bb208f9c119a6a9f/view",
-    "descriptionSnippet": "{\"description\":\"<p>***ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire C...",
-    "responseDeadline": "2026-05-11T12:00:00-04:00",
-    "timeToDeadlineDays": null,
-    "awardEstimate": null
-  },
-  {
     "noticeId": "7e13ab0d7b3c4e19867362141011853d",
-    "reason": "Network engineering support with potential systems integration relevance.",
-    "overallScore": 42,
+    "reason": "Network engineering sustainment relevant to Linux and infrastructure automation skills.",
+    "overallScore": 49,
     "title": "Network Engineering Support Seaport",
     "uiLink": "https://sam.gov/workspace/contract/opp/7e13ab0d7b3c4e19867362141011853d/view",
     "descriptionSnippet": "{\"description\":\"This requirement is for NSWCPD Codes 542 and 543, which are responsible for Hull, Mechanical and Electrical (HM and E) and Navigation Networks. This requirement is for engineering support services. This effort shall provide engineering, technical and administrative services required for the design, development, integration, configuration, testing, troubleshooting, repair, maintenance and fleet sustainment of IC Data Networks and associated user systems. NOTE: Type of Contract: This will be a Cost-Plus-Fixed-Fee (CPFF) Task Order that will be competed under the SeaPort-NXG Multiple Award Contract (MAC) amongst all Small Business MAC holders. \"}",
@@ -99,13 +66,46 @@
     "awardEstimate": null
   },
   {
-    "noticeId": "e4ef8ea2a5ec4405a9313c8ef6ac2920",
-    "reason": "Secure wireless network deployment with structured scope and defined deliverables.",
-    "overallScore": 39,
-    "title": "Wireless Network Deployment at Peterson Space Force Base",
-    "uiLink": "https://sam.gov/workspace/contract/opp/e4ef8ea2a5ec4405a9313c8ef6ac2920/view",
-    "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless netw...",
-    "responseDeadline": "2026-05-21T12:00:00-06:00",
+    "noticeId": "5325838bec914456a6c36b27e4b87ccf",
+    "reason": "Data migration effort aligns with scripting and cloud engineering experience.",
+    "overallScore": 47,
+    "title": "Data Migration RFI",
+    "uiLink": "https://sam.gov/workspace/contract/opp/5325838bec914456a6c36b27e4b87ccf/view",
+    "descriptionSnippet": "{\"description\":\"<p>The United States Air Force, Air Force Life Cycle Management Center, AFLCMC/WVSS is seeking information from interested companies with the capability to deliver a data migration solution for the 3DEXPERIENCE (3DX) platform. Previous efforts configured the application code to serve as a collaboration and approval platform to support the Government&#39;s migration to a digital-based acquisition program. The application integrates data from other supporting applications including Cameo and Teamwork Cloud (TWC) and CATIA.</p>\\n\"}",
+    "responseDeadline": "2026-05-10T16:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "a53ee4f22e2d497bb3b579e6c2d95ad4",
+    "reason": "Includes system administration services applicable to Linux and DevOps skillset.",
+    "overallScore": 47,
+    "title": "H30 Engineering Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/a53ee4f22e2d497bb3b579e6c2d95ad4/view",
+    "descriptionSnippet": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project manag...",
+    "responseDeadline": "2026-06-08T12:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
+    "reason": "Engineering support with AI/ML and system admin components relevant to automation expertise.",
+    "overallScore": 41,
+    "title": "H20 Engineering Services",
+    "uiLink": "https://sam.gov/workspace/contract/opp/ecdef2f3b5ab4526bb208f9c119a6a9f/view",
+    "descriptionSnippet": "{\"description\":\"<p>***ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire C...",
+    "responseDeadline": "2026-05-11T12:00:00-04:00",
+    "timeToDeadlineDays": null,
+    "awardEstimate": null
+  },
+  {
+    "noticeId": "17f2311a308a439a8dc5420f38001e52",
+    "reason": "Maintenance management systems support offers moderate alignment with IT automation services.",
+    "overallScore": 36,
+    "title": "Shipboard Automated Maintenance Management (SAMM)",
+    "uiLink": "https://sam.gov/workspace/contract/opp/17f2311a308a439a8dc5420f38001e52/view",
+    "descriptionSnippet": "{\"description\":\"<p>The Engineering Directorate of Military Sea lift Command (MSC) requires non-personal engineering services to administer its Engineering Maintenance Management Systems in order to continue support to the fleet in a cost effective manner. The Contractor shall provide non-personal engineering, technical, and system implementation and improvement services in the performance of investigative and design efforts relating to material readiness, preventive and predictive maintenance, and condition monitoring programs. The Government requires engineering and technical services to perform the following: Maintenance engineering services; condition based monitoring technology support services; and shipboard testing and inspection services.</p>\\n\"}",
+    "responseDeadline": "2026-05-08T13:00:00-04:00",
     "timeToDeadlineDays": null,
     "awardEstimate": null
   }

@@ -1,5 +1,110 @@
 [
   {
+    "noticeId": "7216fb68caa043788b5f403540a21497",
+    "title": "NIPR Network Drops and Multi-Mode (MM) Cable Installation Bldg 15177",
+    "solicitationNumber": "FA282326Q0032",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-07",
+    "responseDeadline": "2026-05-26T09:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA2823  AFTC PZIO",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "GOULDS",
+      "state": "Florida",
+      "zip": "32542"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/7216fb68caa043788b5f403540a21497/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7216fb68caa043788b5f403540a21497",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d4bf2df437f4dca9d44de58f562a88f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41f1b42d229947cba43573b515385e13/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/469444606698482d8793be8eac61af02/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8fbd2d8f83134f5bb6a10958f4241c48/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d052cb6436924f1d953ece47de16808a/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>NIPR Network Drops and Multi-Mode (MM) Cable Installation Bldg 15177 on Eglin AFB, FL. See PWS and&nbsp;Combo_RFQ FA282326Q0032 Instructions attached.&nbsp;</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>NIPR Network Drops and Multi-Mode (MM) Cable Installation Bldg 15177 on Eglin AFB, FL. See PWS and&nbsp;Combo_RFQ FA282326Q0032 Instructions attached.&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d4bf2df437f4dca9d44de58f562a88f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 482429,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41f1b42d229947cba43573b515385e13/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 138591,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/469444606698482d8793be8eac61af02/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 596376,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8fbd2d8f83134f5bb6a10958f4241c48/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 47788,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d052cb6436924f1d953ece47de16808a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 9365780,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "network"
+      ],
+      "description": [
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Florida"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "6a596f4bd3f14ff9b93225edccd7cae9",
     "title": "7A21--Web-Based VISTA/CPRS Integrated Solution for Oncology  Brand Name for Reference: DSS Order Tracking Manager for  Oncology",
     "solicitationNumber": "36C24426Q0511",
@@ -632,7 +737,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "e4ef8ea2a5ec4405a9313c8ef6ac2920",
+    "noticeId": "3589edc592834256b96809817756fca4",
     "title": "Wireless Network Deployment at Peterson Space Force Base",
     "solicitationNumber": "H9229526QB001",
     "type": "Combined Synopsis/Solicitation",
@@ -640,7 +745,7 @@
     "naicsCode": "541512",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-05",
+    "postedDate": "2026-05-08",
     "responseDeadline": "2026-05-21T12:00:00-06:00",
     "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).SOCNORTH PB",
     "office": "",
@@ -650,16 +755,19 @@
       "zip": "80914"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/e4ef8ea2a5ec4405a9313c8ef6ac2920/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e4ef8ea2a5ec4405a9313c8ef6ac2920",
+      "uiLink": "https://sam.gov/workspace/contract/opp/3589edc592834256b96809817756fca4/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3589edc592834256b96809817756fca4",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0af6dc00a0a24124bb39b7bac7c62f5b/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1596f1fdc7744736adca0818b32a0c0e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2be90e2306d34d11bbbeaac5aeab8b9a/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d7afa57fe3a4717bd203315fd563dc4/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c8a43b26eea4a1cbd54dc43587b86b4/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d93065b2a524a528c7ba42a18eba779/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e692aadedf574e5eacd743bd4ce40ad1/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d945dd1c3ee476aae4f79326d67e0de/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4223a69b29e4d3892849b94915004f8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc993f41372f44d89303e36c4b890885/download"
       ]
     },
     "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless netw...",
@@ -678,6 +786,12 @@
         "textSnippet": ""
       },
       {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2be90e2306d34d11bbbeaac5aeab8b9a/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 899015,
+        "textSnippet": ""
+      },
+      {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d7afa57fe3a4717bd203315fd563dc4/download",
         "contentType": "application/octet-stream",
         "byteSize": 4994129,
@@ -687,12 +801,6 @@
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c8a43b26eea4a1cbd54dc43587b86b4/download",
         "contentType": "application/octet-stream",
         "byteSize": 459241,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d93065b2a524a528c7ba42a18eba779/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 3118364,
         "textSnippet": ""
       }
     ],
@@ -976,7 +1084,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "7519675121dc4803bf3576d102fcd578",
+    "noticeId": "c89452a439ba433d9e91fd788ddd5925",
     "title": "B--LARGE RIVER MONITORING METHODS REVIEW",
     "solicitationNumber": "140L6326Q0009",
     "type": "Solicitation",
@@ -984,8 +1092,8 @@
     "naicsCode": "541690",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-06",
-    "responseDeadline": "2026-05-11T17:00:00-08:00",
+    "postedDate": "2026-05-07",
+    "responseDeadline": "2026-05-18T17:00:00-08:00",
     "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.ALASKA STATE OFFICE",
     "office": "",
     "placeOfPerformance": {
@@ -994,14 +1102,16 @@
       "zip": null
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/7519675121dc4803bf3576d102fcd578/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7519675121dc4803bf3576d102fcd578",
+      "uiLink": "https://sam.gov/workspace/contract/opp/c89452a439ba433d9e91fd788ddd5925/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c89452a439ba433d9e91fd788ddd5925",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071ee1a07414444597cccda424ff66a9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/19b4b5e78745428bb3b362f10c5f8063/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/210f7b7ec44645cab93e8e260987793f/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c47283365d574738acb3cc9e27fa00e1/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2541b7b77394a239e7b18372131bf7c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ebc84de214e043eba28e7a20e33d0b23/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ecfc9ce25d4f4a72a755eff88de58e54/download"
       ]
     },
@@ -1012,6 +1122,12 @@
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/071ee1a07414444597cccda424ff66a9/download",
         "contentType": "application/octet-stream",
         "byteSize": 344272,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/19b4b5e78745428bb3b362f10c5f8063/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 206350,
         "textSnippet": ""
       },
       {
@@ -1030,12 +1146,6 @@
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2541b7b77394a239e7b18372131bf7c/download",
         "contentType": "application/octet-stream",
         "byteSize": 52121,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ecfc9ce25d4f4a72a755eff88de58e54/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 206060,
         "textSnippet": ""
       }
     ],
@@ -1436,6 +1546,112 @@
     "updatedDate": null
   },
   {
+    "noticeId": "4dbeaa91f5cb435e9703b15524a3fccd",
+    "title": "Dust Collection System Evaluation",
+    "solicitationNumber": "FN1609-26",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-08",
+    "responseDeadline": "2026-05-28T14:00:00-04:00",
+    "agency": "JUSTICE, DEPARTMENT OF.FEDERAL PRISON INDUSTRIES, INC.FEDERAL PRISON INDUSTRIES, INC",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Coleman",
+      "state": "Florida",
+      "zip": "33521"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/4dbeaa91f5cb435e9703b15524a3fccd/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4dbeaa91f5cb435e9703b15524a3fccd",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ad226104be94cf998982631c52aea94/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/64ccf37795aa434a8aaf6c272bffe565/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/732cffcbd1464dba84afd256599721b4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7601f226eb544d5dbe13695619a6bde7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2e76639fab48c6ad9fca43de1cb7c2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aaa34e5f08214edca5882a22fc73e854/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e7a31cad54fa4b2cb33309ebe3e062a5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3c819b2674245db83ac6ff1fd6fdf6b/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>UNICOR intends to enter into a firm fixed price, IDIQ type contract for Architect and Engineer firm to evaluate the dust collection system used in the manufacture of office furniture in two locations, Ashland, KY and Coleman, FL.&nbsp; The solicitation number is FN1609-26 and this solicitation is issued as a Request For Proposal.&nbsp; NAICS CODE IS 541330. Offerors are advised that the Government intends to evaluate offers on a multiple award basis. Offerors shall submit signed and dated offers to UNICOR, Federal Correctional Complex, PO BOX 1109, COLEMAN, FL 33521 ATTN: Peyton Perry (peyton.perry@usdoj.gov). All Proposals should be emailed to peyton.perry@usdoj.gov. The subject of the email should reference FN1609-26. All offerors must complete the Business Manageme...",
+    "descriptionFull": "{\"description\":\"<p>UNICOR intends to enter into a firm fixed price, IDIQ type contract for Architect and Engineer firm to evaluate the dust collection system used in the manufacture of office furniture in two locations, Ashland, KY and Coleman, FL.&nbsp; The solicitation number is FN1609-26 and this solicitation is issued as a Request For Proposal.&nbsp; NAICS CODE IS 541330. Offerors are advised that the Government intends to evaluate offers on a multiple award basis. Offerors shall submit signed and dated offers to UNICOR, Federal Correctional Complex, PO BOX 1109, COLEMAN, FL 33521 ATTN: Peyton Perry (peyton.perry@usdoj.gov). All Proposals should be emailed to peyton.perry@usdoj.gov. The subject of the email should reference FN1609-26. All offerors must complete the Business Management questionnaire in Section L of solicitation document with three references. References must be for same or similar items, and for the same scope of solicitation. All Offerors must register on www.sam.gov. All offerors must acknowledgment all amendments if any and complete all documents attached to this solicitation. Offers received after the exact time and date specified will not be considered. The Government intends to award a contract resulting from this solicitation to the responsible offeror or offeror&#39;s whose offer represents the best value to the government. The following factors shall be used to evaluate proposals: Listed in order of importance: Technicaly (ability to meet specifications and other requirements listed in the solicitation), Past Performance, and Price. A written notice of award or acceptance of an offer will be mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the offer, shall result in a binding contract without further action by either party.&nbsp; All NCIC forms and questions regarding this solicitation must be sent in writing to Peyton Perry at peyton.perry@usdoj.gov, no later than Wednesday, March 27, 2026 at 2:00 p.m. NO PHONE CALLS WILL BE ACCEPTED No copies of the solicitation will be mailed or emailed. All responsible offerors may submit a proposal which will be considered.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ad226104be94cf998982631c52aea94/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 10996,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/64ccf37795aa434a8aaf6c272bffe565/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 893286,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/732cffcbd1464dba84afd256599721b4/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 66705,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7601f226eb544d5dbe13695619a6bde7/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 682878,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2e76639fab48c6ad9fca43de1cb7c2/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 626291,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Florida"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "b748b364c12649178210a8a95d2eff87",
     "title": "Biomedical Clinical Engineer",
     "solicitationNumber": "FA800321C0021",
@@ -1517,6 +1733,72 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "a53ee4f22e2d497bb3b579e6c2d95ad4",
+    "title": "H30 Engineering Services",
+    "solicitationNumber": "N0017826R3017",
+    "type": "Solicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-07",
+    "responseDeadline": "2026-06-08T12:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Dahlgren",
+      "state": "Virginia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/a53ee4f22e2d497bb3b579e6c2d95ad4/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a53ee4f22e2d497bb3b579e6c2d95ad4",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project manag...",
+    "descriptionFull": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project management and project management support functions, accounting and business services, technical writing services, information assurance (IA) support services, and system administration services.</p>\\n\"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "system administration"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "system administration"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -2746,111 +3028,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "f995748f51ca473cac8014465faea6cc",
-    "title": "Dust Collection System Evaluation",
-    "solicitationNumber": "FN1609-26",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-15",
-    "responseDeadline": "2026-05-21T14:00:00-04:00",
-    "agency": "JUSTICE, DEPARTMENT OF.FEDERAL PRISON INDUSTRIES, INC.FEDERAL PRISON INDUSTRIES, INC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Coleman",
-      "state": "Florida",
-      "zip": "33521"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/f995748f51ca473cac8014465faea6cc/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f995748f51ca473cac8014465faea6cc",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ad226104be94cf998982631c52aea94/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/64ccf37795aa434a8aaf6c272bffe565/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/732cffcbd1464dba84afd256599721b4/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7601f226eb544d5dbe13695619a6bde7/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2e76639fab48c6ad9fca43de1cb7c2/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aaa34e5f08214edca5882a22fc73e854/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e7a31cad54fa4b2cb33309ebe3e062a5/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>UNICOR intends to enter into a firm fixed price, IDIQ type contract for Architect and Engineer firm to evaluate the dust collection system used in the manufacture of office furniture in two locations, Ashland, KY and Coleman, FL.&nbsp; The solicitation number is FN1609-26 and this solicitation is issued as a Request For Proposal.&nbsp; NAICS CODE IS 541330. Offerors are advised that the Government intends to evaluate offers on a multiple award basis. Offerors shall submit signed and dated offers to UNICOR, Federal Correctional Complex, PO BOX 1109, COLEMAN, FL 33521 ATTN: Peyton Perry (peyton.perry@usdoj.gov). All Proposals should be emailed to peyton.perry@usdoj.gov. The subject of the email should reference FN1609-26. All offerors must complete the Business Manageme...",
-    "descriptionFull": "{\"description\":\"<p>UNICOR intends to enter into a firm fixed price, IDIQ type contract for Architect and Engineer firm to evaluate the dust collection system used in the manufacture of office furniture in two locations, Ashland, KY and Coleman, FL.&nbsp; The solicitation number is FN1609-26 and this solicitation is issued as a Request For Proposal.&nbsp; NAICS CODE IS 541330. Offerors are advised that the Government intends to evaluate offers on a multiple award basis. Offerors shall submit signed and dated offers to UNICOR, Federal Correctional Complex, PO BOX 1109, COLEMAN, FL 33521 ATTN: Peyton Perry (peyton.perry@usdoj.gov). All Proposals should be emailed to peyton.perry@usdoj.gov. The subject of the email should reference FN1609-26. All offerors must complete the Business Management questionnaire in Section L of solicitation document with three references. References must be for same or similar items, and for the same scope of solicitation. All Offerors must register on www.sam.gov. All offerors must acknowledgment all amendments if any and complete all documents attached to this solicitation. Offers received after the exact time and date specified will not be considered. The Government intends to award a contract resulting from this solicitation to the responsible offeror or offeror&#39;s whose offer represents the best value to the government. The following factors shall be used to evaluate proposals: Listed in order of importance: Technicaly (ability to meet specifications and other requirements listed in the solicitation), Past Performance, and Price. A written notice of award or acceptance of an offer will be mailed or otherwise furnished to the successful offeror within the time for acceptance specified in the offer, shall result in a binding contract without further action by either party.&nbsp; All NCIC forms and questions regarding this solicitation must be sent in writing to Peyton Perry at peyton.perry@usdoj.gov, no later than Wednesday, March 27, 2026 at 2:00 p.m. NO PHONE CALLS WILL BE ACCEPTED No copies of the solicitation will be mailed or emailed. All responsible offerors may submit a proposal which will be considered.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ad226104be94cf998982631c52aea94/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 10996,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/64ccf37795aa434a8aaf6c272bffe565/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 893286,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/732cffcbd1464dba84afd256599721b4/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 66705,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7601f226eb544d5dbe13695619a6bde7/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 682878,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e2e76639fab48c6ad9fca43de1cb7c2/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 626291,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Florida"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "6ce6db8ab8174a2abdfd00445bc90c34",
     "title": "RFP N6523626R3007",
     "solicitationNumber": "N6523626R3007",
@@ -3238,74 +3415,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "26585410986a43f0b22b4d11912df1bb",
-    "title": "The Radford Army Ammunition Plant (RFAAP) Modernized Pre-Mix and Nitro Cellulose (NC) Dehydration NG3 Facilities",
-    "solicitationNumber": "W911S226RA005",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-07",
-    "responseDeadline": "2026-04-13T15:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.419TH CSB.W6QM MICC-FT DRUM",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "24141"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/26585410986a43f0b22b4d11912df1bb/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=26585410986a43f0b22b4d11912df1bb",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"Amendment 0001 of this Synopsis adds Attachment 2- Requests for Information. This is an A-E Synopsis in accordance with FAR 36.102. The Mission and Installation Contracting Command - Fort Drum is procuring Architect-Engineer (A-E) Design Services for the Modernized Pre-Mix and Nitrocellulose (NC) Dehydration Facilities at Radford Army Ammunition Plant (RFAAP). This procurement is conducted under the Brooks Architect-Engineer Act (40 U.S.C Section 1102) and Far subpart 36.102, which require that A-E contracts be negotiated on the basis of demonstrated competence and qualifications for the required professional services. The objective of this project is to prepare a 30% design for Nitro Cellulose (NC) Dehydration (including NC Shredding), hereinafter referred as NC Dehy, a...",
-    "descriptionFull": "{\"description\":\"Amendment 0001 of this Synopsis adds Attachment 2- Requests for Information. This is an A-E Synopsis in accordance with FAR 36.102. The Mission and Installation Contracting Command - Fort Drum is procuring Architect-Engineer (A-E) Design Services for the Modernized Pre-Mix and Nitrocellulose (NC) Dehydration Facilities at Radford Army Ammunition Plant (RFAAP). This procurement is conducted under the Brooks Architect-Engineer Act (40 U.S.C Section 1102) and Far subpart 36.102, which require that A-E contracts be negotiated on the basis of demonstrated competence and qualifications for the required professional services. The objective of this project is to prepare a 30% design for Nitro Cellulose (NC) Dehydration (including NC Shredding), hereinafter referred as NC Dehy, and Pre-Mix facilities at Radford Army Ammunition Plant (RFAAP) using the most modern, safe, environmentally friendly, and automated technologies to the maximum extent feasible. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "3c15ca33a95747c497ca607e5592aabe",
     "title": "Construction Inspection IDIQ",
     "solicitationNumber": "6982AF25R000016",
@@ -3498,81 +3607,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "246da8ea420246c3b5b1af168c90a91f",
-    "title": "Hardware and software maintenance Image Trac 6400 Scanner 85880",
-    "solicitationNumber": "May-1-MW-008",
-    "type": "Sources Sought",
-    "baseType": "Sources Sought",
-    "naicsCode": "518210",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-01",
-    "responseDeadline": "2026-05-04T16:00:00-04:00",
-    "agency": "COMMERCE, DEPARTMENT OF.US CENSUS BUREAU.DEPT OF COMMERCE CENSUS",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Suitland",
-      "state": "Maryland",
-      "zip": "20746"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/246da8ea420246c3b5b1af168c90a91f/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=246da8ea420246c3b5b1af168c90a91f",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3650c4850bb043c2961861305d1a801d/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This requirement is to provide full-service hardware and software support and maintenance for the ImageTrac 6400 scanner 85880 located in room 1R115 of the Census Bureau Headquarters in Suitland, MD. This renewal provides required hardware maintenance and software support on scanning equipment used to reduce wasteful paper production processes and automate survey processing methods saving money by decreasing manpower and resources necessary to complete scheduled milestones and without impeding the Agency&#39;s mission.</p>\\n\\n<p></p>\\n\\n<p></p>\\n\"}",
-    "descriptionFull": "{\"description\":\"<p>This requirement is to provide full-service hardware and software support and maintenance for the ImageTrac 6400 scanner 85880 located in room 1R115 of the Census Bureau Headquarters in Suitland, MD. This renewal provides required hardware maintenance and software support on scanning equipment used to reduce wasteful paper production processes and automate survey processing methods saving money by decreasing manpower and resources necessary to complete scheduled milestones and without impeding the Agency&#39;s mission.</p>\\n\\n<p></p>\\n\\n<p></p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3650c4850bb043c2961861305d1a801d/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 23220,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {

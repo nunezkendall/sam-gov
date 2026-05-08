@@ -1,340 +1,326 @@
 {
   "scored": [
     {
+      "noticeId": "7216fb68caa043788b5f403540a21497",
+      "relevance": 20,
+      "ease": 40,
+      "overall": 28,
+      "rationale": "Physical network cabling installation; minimal DevOps or cloud relevance."
+    },
+    {
       "noticeId": "6a596f4bd3f14ff9b93225edccd7cae9",
-      "relevance": 40,
-      "ease": 50,
-      "overall": 44,
-      "rationale": "Web-based integrated solution but healthcare system specific with unclear cloud/DevOps scope."
+      "relevance": 35,
+      "ease": 30,
+      "overall": 33,
+      "rationale": "Web-based medical system integration; possible IT fit but unclear DevOps/cloud scope."
     },
     {
       "noticeId": "5325838bec914456a6c36b27e4b87ccf",
       "relevance": 55,
-      "ease": 40,
-      "overall": 49,
-      "rationale": "Data migration effort; potentially relevant to automation/Python but enterprise platform complexity."
+      "ease": 35,
+      "overall": 47,
+      "rationale": "Data migration for enterprise platform; moderate automation relevance but likely complex."
     },
     {
       "noticeId": "c8a2b26722e64018b73289dc45a05b97",
       "relevance": 60,
       "ease": 45,
       "overall": 54,
-      "rationale": "O&M for planning models; likely software sustainment with moderate scope."
+      "rationale": "O&M for planning models; ongoing support aligns with DevOps and automation skills."
     },
     {
       "noticeId": "ab3dcf25dc2b4e46a673117c32778a51",
-      "relevance": 35,
-      "ease": 55,
-      "overall": 43,
-      "rationale": "Communication system support; limited evidence of cloud/DevOps work."
+      "relevance": 30,
+      "ease": 35,
+      "overall": 32,
+      "rationale": "Communications system support; limited cloud/automation indication."
     },
     {
       "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
-      "relevance": 65,
+      "relevance": 75,
       "ease": 30,
-      "overall": 51,
-      "rationale": "Enterprise data management modernization with cybersecurity; likely large and complex."
+      "overall": 57,
+      "rationale": "Enterprise data management with modernization and cybersecurity; strong DevOps relevance but large scope."
     },
     {
       "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
       "relevance": 70,
       "ease": 25,
       "overall": 52,
-      "rationale": "Automation and data-centric intelligence support but broad enterprise scope."
+      "rationale": "Automation and data-centric intelligence support; relevant but likely complex and resource-heavy."
     },
     {
       "noticeId": "301410e46cdb4cdd8964ed9bdbf27eff",
-      "relevance": 20,
+      "relevance": 25,
       "ease": 20,
-      "overall": 20,
-      "rationale": "IT hardware/software reseller IDIQ; product-heavy and large scale."
+      "overall": 23,
+      "rationale": "IT hardware/software reseller IDIQ; low alignment with DevOps services."
     },
     {
-      "noticeId": "e4ef8ea2a5ec4405a9313c8ef6ac2920",
-      "relevance": 45,
-      "ease": 30,
-      "overall": 39,
-      "rationale": "Wireless network deployment with security compliance; infrastructure-heavy and onsite."
+      "noticeId": "3589edc592834256b96809817756fca4",
+      "relevance": 40,
+      "ease": 25,
+      "overall": 34,
+      "rationale": "Wireless network deployment with security compliance; more infrastructure than DevOps."
     },
     {
       "noticeId": "eab94181669b4421b3ac220fc092f115",
-      "relevance": 25,
-      "ease": 60,
-      "overall": 39,
-      "rationale": "Cisco VOIP procurement/support; limited DevOps relevance but small scope."
+      "relevance": 15,
+      "ease": 50,
+      "overall": 29,
+      "rationale": "Cisco VOIP product procurement; minimal DevOps relevance but simple scope."
     },
     {
       "noticeId": "2ecbf6e29d294762b92d691d96e399c3",
-      "relevance": 15,
-      "ease": 70,
-      "overall": 37,
-      "rationale": "License renewal for Sage software; minimal technical services scope."
+      "relevance": 10,
+      "ease": 60,
+      "overall": 30,
+      "rationale": "Software license renewal; low technical service relevance and simple."
     },
     {
       "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
       "relevance": 75,
       "ease": 35,
       "overall": 59,
-      "rationale": "Cloud application O&M and enterprise architecture support; strong IT alignment but sizable."
+      "rationale": "Enterprise application support with cloud systems and program management; strong DevOps fit but sizable."
     },
     {
-      "noticeId": "7519675121dc4803bf3576d102fcd578",
+      "noticeId": "c89452a439ba433d9e91fd788ddd5925",
       "relevance": 5,
-      "ease": 60,
-      "overall": 27,
-      "rationale": "Environmental monitoring review; not IT-focused."
+      "ease": 40,
+      "overall": 19,
+      "rationale": "Environmental monitoring review; unrelated to IT services focus."
     },
     {
       "noticeId": "51b8677c48714400be83efd9cf597ab4",
       "relevance": 5,
-      "ease": 50,
-      "overall": 23,
-      "rationale": "Transportation infrastructure scoping; non-IT consulting."
+      "ease": 35,
+      "overall": 17,
+      "rationale": "Transportation infrastructure scoping; not IT-focused."
     },
     {
       "noticeId": "0c4e881019604e62b48c8ec303f21f77",
       "relevance": 10,
-      "ease": 55,
-      "overall": 28,
-      "rationale": "Forestry technical support; not aligned with DevOps/cloud."
+      "ease": 35,
+      "overall": 20,
+      "rationale": "Forestry technical support; minimal IT alignment."
     },
     {
       "noticeId": "4ef4707fbbfa4068b3c9893e9630d4b1",
       "relevance": 0,
-      "ease": 50,
-      "overall": 20,
+      "ease": 30,
+      "overall": 12,
       "rationale": "Medical physicist services; unrelated to IT."
     },
     {
       "noticeId": "4e3614c8357d47e89f6c1bfb0c32a2cb",
       "relevance": 5,
-      "ease": 45,
-      "overall": 21,
-      "rationale": "Earthquake warning implementation plan; engineering-focused."
+      "ease": 35,
+      "overall": 17,
+      "rationale": "Earthquake system implementation plan; not aligned with DevOps focus."
+    },
+    {
+      "noticeId": "4dbeaa91f5cb435e9703b15524a3fccd",
+      "relevance": 0,
+      "ease": 30,
+      "overall": 12,
+      "rationale": "Dust collection engineering evaluation; unrelated to IT services."
     },
     {
       "noticeId": "b748b364c12649178210a8a95d2eff87",
-      "relevance": 5,
-      "ease": 40,
-      "overall": 19,
-      "rationale": "Biomedical engineering support; not IT DevOps."
+      "relevance": 10,
+      "ease": 30,
+      "overall": 18,
+      "rationale": "Biomedical engineering lifecycle support; not IT DevOps focused."
+    },
+    {
+      "noticeId": "a53ee4f22e2d497bb3b579e6c2d95ad4",
+      "relevance": 65,
+      "ease": 20,
+      "overall": 47,
+      "rationale": "System administration and engineering services; relevant but large NAVSEA scope."
     },
     {
       "noticeId": "df06ed9118a947c889313614db6feb8e",
-      "relevance": 10,
+      "relevance": 5,
       "ease": 20,
-      "overall": 14,
-      "rationale": "Large A-E environmental IDIQ; not IT services."
+      "overall": 11,
+      "rationale": "Environmental A-E IDIQ; not aligned with IT capabilities."
     },
     {
       "noticeId": "ad1a3e4858de4e59b0c42beb69837fee",
       "relevance": 5,
-      "ease": 35,
-      "overall": 17,
-      "rationale": "Architect design services; non-IT."
+      "ease": 30,
+      "overall": 15,
+      "rationale": "Architect-engineer design services; not IT-focused."
     },
     {
       "noticeId": "03c1fdfe7df647f28d51da07f7629125",
       "relevance": 0,
-      "ease": 40,
-      "overall": 16,
-      "rationale": "Dam rehabilitation A-E services; unrelated to IT."
+      "ease": 30,
+      "overall": 12,
+      "rationale": "Dam rehabilitation engineering; unrelated to IT."
     },
     {
       "noticeId": "020a57c9959e4cdcb2f1b68d7419e490",
-      "relevance": 5,
+      "relevance": 0,
       "ease": 25,
-      "overall": 13,
-      "rationale": "Environmental remediation A-E SATOC; non-IT and complex."
+      "overall": 10,
+      "rationale": "Environmental remediation A-E services; not IT-related."
     },
     {
       "noticeId": "422a712f198f4bda9d0fb565d58746eb",
-      "relevance": 5,
+      "relevance": 0,
       "ease": 25,
-      "overall": 13,
-      "rationale": "Duplicate SATOC environmental A-E; non-IT."
+      "overall": 10,
+      "rationale": "Duplicate environmental A-E synopsis; not IT-related."
     },
     {
       "noticeId": "17f2311a308a439a8dc5420f38001e52",
-      "relevance": 15,
+      "relevance": 40,
       "ease": 30,
-      "overall": 21,
-      "rationale": "Engineering maintenance systems support; limited DevOps/cloud detail."
+      "overall": 36,
+      "rationale": "Maintenance management systems engineering; moderate IT relevance but hardware-focused."
     },
     {
       "noticeId": "7e13ab0d7b3c4e19867362141011853d",
-      "relevance": 50,
-      "ease": 30,
-      "overall": 42,
-      "rationale": "Network engineering support under Seaport; relevant but large and restricted vehicle."
-    },
-    {
-      "noticeId": "bee9da334b0147afbabed9dd7330d423",
-      "relevance": 0,
-      "ease": 50,
-      "overall": 20,
-      "rationale": "Structural slab evaluation; non-IT."
-    },
-    {
-      "noticeId": "22fde05b04a4491ebdab02947c708250",
-      "relevance": 10,
-      "ease": 20,
-      "overall": 14,
-      "rationale": "Large multi-pool A-E IDIQ; not IT DevOps."
+      "relevance": 65,
+      "ease": 25,
+      "overall": 49,
+      "rationale": "Network engineering sustainment; relevant to Linux/network skills but likely large scope."
     },
     {
       "noticeId": "8f3d5512a10142ff96d9f978cb98daea",
-      "relevance": 35,
-      "ease": 20,
-      "overall": 29,
-      "rationale": "Telecom maintenance via Seaport; infrastructure-focused and restricted."
+      "relevance": 45,
+      "ease": 15,
+      "overall": 33,
+      "rationale": "Telecom maintenance limited to Seaport holders; restricted and infrastructure-focused."
     },
     {
       "noticeId": "e4029833dda14220be6aa980bdc94b93",
-      "relevance": 5,
-      "ease": 30,
-      "overall": 15,
-      "rationale": "Environmental remedial design oversight; non-IT."
+      "relevance": 0,
+      "ease": 25,
+      "overall": 10,
+      "rationale": "Superfund remedial design; unrelated to IT services."
     },
     {
       "noticeId": "85844112608c47d69a9526fbacaf2ae9",
-      "relevance": 10,
+      "relevance": 20,
       "ease": 20,
-      "overall": 14,
-      "rationale": "Mechanical-electrical A-E MATOC; non-IT engineering."
+      "overall": 20,
+      "rationale": "Mechanical-electrical A-E MATOC; minimal DevOps relevance."
     },
     {
       "noticeId": "05d1bfa249ce4dc6a9566e77807022e0",
-      "relevance": 20,
-      "ease": 15,
-      "overall": 18,
-      "rationale": "Router modernization via OASIS+; hardware-focused and restricted vehicle."
+      "relevance": 30,
+      "ease": 10,
+      "overall": 22,
+      "rationale": "Router modernization via OASIS; hardware-focused and restricted access."
     },
     {
       "noticeId": "d53179a5b66a4861a2332f9532f5dd89",
       "relevance": 0,
-      "ease": 25,
-      "overall": 10,
-      "rationale": "Highway/bridge A-E services; unrelated to IT."
-    },
-    {
-      "noticeId": "f995748f51ca473cac8014465faea6cc",
-      "relevance": 0,
-      "ease": 45,
-      "overall": 18,
-      "rationale": "Dust collection engineering evaluation; non-IT."
+      "ease": 20,
+      "overall": 8,
+      "rationale": "Highway/bridge engineering; unrelated to IT."
     },
     {
       "noticeId": "6ce6db8ab8174a2abdfd00445bc90c34",
-      "relevance": 40,
-      "ease": 20,
-      "overall": 32,
-      "rationale": "C4ISR sustainment via Seaport; relevant domain but large and restricted."
+      "relevance": 50,
+      "ease": 15,
+      "overall": 36,
+      "rationale": "C4ISR sustainment via Seaport; relevant but large and restricted."
     },
     {
       "noticeId": "bf7aaa6f12f4424186b571ce9bf623de",
-      "relevance": 30,
+      "relevance": 40,
       "ease": 20,
-      "overall": 26,
-      "rationale": "Future MFOM engineering support; limited detail and restricted."
+      "overall": 32,
+      "rationale": "Systems/software engineering support notice; relevant but future and restricted."
     },
     {
       "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
       "relevance": 55,
-      "ease": 25,
-      "overall": 43,
-      "rationale": "Engineering services including AI/ML and systems; relevant but large Seaport effort."
+      "ease": 20,
+      "overall": 41,
+      "rationale": "Systems engineering with AI/ML and network support; relevant but broad NAVSEA scope."
     },
     {
       "noticeId": "fc4c43cf7bd54906860a2b47bddf0297",
       "relevance": 0,
-      "ease": 50,
-      "overall": 20,
-      "rationale": "Cradle recertification engineering; non-IT."
+      "ease": 40,
+      "overall": 16,
+      "rationale": "Cradle recertification engineering; not IT-related."
     },
     {
       "noticeId": "60b3760279344744a4c2141432240628",
       "relevance": 0,
-      "ease": 50,
-      "overall": 20,
-      "rationale": "3D laser scan service; non-IT."
-    },
-    {
-      "noticeId": "26585410986a43f0b22b4d11912df1bb",
-      "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Ammunition plant A-E design; non-IT."
+      "ease": 40,
+      "overall": 16,
+      "rationale": "3D laser scan service; unrelated to IT focus."
     },
     {
       "noticeId": "3c15ca33a95747c497ca607e5592aabe",
       "relevance": 0,
-      "ease": 20,
-      "overall": 8,
-      "rationale": "Construction inspection IDIQ; non-IT."
+      "ease": 25,
+      "overall": 10,
+      "rationale": "Construction inspection IDIQ; not IT services."
     },
     {
       "noticeId": "d96f41d7739846f4bf3af364f15838bc",
       "relevance": 85,
-      "ease": 60,
-      "overall": 75,
-      "rationale": "Talos Linux FIPS build/support; strong Linux relevance and likely focused scope."
-    },
-    {
-      "noticeId": "246da8ea420246c3b5b1af168c90a91f",
-      "relevance": 10,
-      "ease": 60,
-      "overall": 30,
-      "rationale": "Scanner maintenance; minimal DevOps relevance."
+      "ease": 50,
+      "overall": 71,
+      "rationale": "Linux-based FIPS build and support; strong alignment with Linux, automation, and DevOps skills."
     },
     {
       "noticeId": "5c517562b57247d98bc1a584ce0918bb",
-      "relevance": 20,
-      "ease": 40,
-      "overall": 28,
-      "rationale": "UPS maintenance; infrastructure support not cloud/DevOps."
+      "relevance": 15,
+      "ease": 30,
+      "overall": 21,
+      "rationale": "UPS maintenance services; minimal cloud/DevOps relevance."
     }
   ],
   "top10": [
     {
       "noticeId": "d96f41d7739846f4bf3af364f15838bc",
-      "reason": "Direct Linux build and support requirement with strong alignment to DevOps/Linux expertise."
+      "reason": "Direct Linux build and support requirement; strongest DevOps alignment and manageable scope."
     },
     {
       "noticeId": "ea37ba4fa6bc4d5499c1dcbbbe4a4b0e",
-      "reason": "Cloud application O&M and enterprise IT support aligned with DevOps and automation skills."
-    },
-    {
-      "noticeId": "c8a2b26722e64018b73289dc45a05b97",
-      "reason": "Software O&M support likely within small business capacity."
-    },
-    {
-      "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
-      "reason": "Automation and data-centric IT support relevant to Python/DevOps."
+      "reason": "Enterprise cloud application support with architecture and O&M components."
     },
     {
       "noticeId": "9b298d4de6bf400781b119b1e03d4f79",
-      "reason": "Enterprise data management modernization with technical architecture focus."
+      "reason": "Enterprise data modernization and cybersecurity operations align with DevOps capabilities."
     },
     {
-      "noticeId": "5325838bec914456a6c36b27e4b87ccf",
-      "reason": "Data migration effort potentially leveraging automation and scripting skills."
+      "noticeId": "c8a2b26722e64018b73289dc45a05b97",
+      "reason": "Operations and maintenance support suitable for automation and DevOps services."
     },
     {
-      "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
-      "reason": "Engineering support including AI/ML and systems engineering components."
+      "noticeId": "12339a6b49a048b7b81a5b89b0013f8d",
+      "reason": "Automation and data-centric support fits Python and DevOps strengths."
     },
     {
       "noticeId": "7e13ab0d7b3c4e19867362141011853d",
-      "reason": "Network engineering support with potential systems integration relevance."
+      "reason": "Network engineering sustainment relevant to Linux and infrastructure automation skills."
     },
     {
-      "noticeId": "6a596f4bd3f14ff9b93225edccd7cae9",
-      "reason": "Web-based solution integration opportunity under small business set-aside."
+      "noticeId": "5325838bec914456a6c36b27e4b87ccf",
+      "reason": "Data migration effort aligns with scripting and cloud engineering experience."
     },
     {
-      "noticeId": "e4ef8ea2a5ec4405a9313c8ef6ac2920",
-      "reason": "Secure wireless network deployment with structured scope and defined deliverables."
+      "noticeId": "a53ee4f22e2d497bb3b579e6c2d95ad4",
+      "reason": "Includes system administration services applicable to Linux and DevOps skillset."
+    },
+    {
+      "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
+      "reason": "Engineering support with AI/ML and system admin components relevant to automation expertise."
+    },
+    {
+      "noticeId": "17f2311a308a439a8dc5420f38001e52",
+      "reason": "Maintenance management systems support offers moderate alignment with IT automation services."
     }
   ]
 }
