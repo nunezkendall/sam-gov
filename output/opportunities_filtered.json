@@ -1,5 +1,87 @@
 [
   {
+    "noticeId": "036958b478e34547a68e49f96ca87f1e",
+    "title": "Microsoft 365 Education License - Renewal",
+    "solicitationNumber": "M00264-26-Q-0073",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-08",
+    "responseDeadline": "2026-05-18T10:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCORP I&L.MARINE CORPS INSTALLATIONS COMMAND.MCINCR.COMMANDER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Quantico",
+      "state": "Virginia",
+      "zip": "22134"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/036958b478e34547a68e49f96ca87f1e/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=036958b478e34547a68e49f96ca87f1e",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/408c600e1f214dd99c587566f93a25a8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/545ba749bf54459181163cdf003d30ab/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Marine Corps University (MCU) has a requirement for Microsoft 365 A5, Planner and Project Plan 3 and Visio Plan 2, Defender for Business, Power Automate Premium, and Power apps Premium annual licensing. Microsoft 365 A5 is a suite of office applications such as Outlook, Word, Excel, PowerPoint, OneNote, Publisher and Access. Microsoft 365 A5 also includes Services such as Exchange, OneDrive, SharePoint, Teams, Planner, Sway, Forms, Stream, and Flow. Microsoft 365 A5 will provide the MCU with seamless, integrated capabilities that can be accessed on multiple devices while providing security and protection from advanced threats for both students and faculty.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>The Marine Corps University (MCU) has a requirement for Microsoft 365 A5, Planner and Project Plan 3 and Visio Plan 2, Defender for Business, Power Automate Premium, and Power apps Premium annual licensing. Microsoft 365 A5 is a suite of office applications such as Outlook, Word, Excel, PowerPoint, OneNote, Publisher and Access. Microsoft 365 A5 also includes Services such as Exchange, OneDrive, SharePoint, Teams, Planner, Sway, Forms, Stream, and Flow. Microsoft 365 A5 will provide the MCU with seamless, integrated capabilities that can be accessed on multiple devices while providing security and protection from advanced threats for both students and faculty.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/408c600e1f214dd99c587566f93a25a8/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1825724,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/545ba749bf54459181163cdf003d30ab/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 233881,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "7216fb68caa043788b5f403540a21497",
     "title": "NIPR Network Drops and Multi-Mode (MM) Cable Installation Bldg 15177",
     "solicitationNumber": "FA282326Q0032",
@@ -1435,111 +1517,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "South Dakota"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "4e3614c8357d47e89f6c1bfb0c32a2cb",
-    "title": "B--Implementation plan-ShakeAlert Earthquake EW.",
-    "solicitationNumber": "140G0326Q0073",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541690",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-15",
-    "responseDeadline": "2026-04-24T17:00:00-07:00",
-    "agency": "INTERIOR, DEPARTMENT OF THE.US GEOLOGICAL SURVEY.OFFICE OF ACQUISITON  GRANTS",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/4e3614c8357d47e89f6c1bfb0c32a2cb/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4e3614c8357d47e89f6c1bfb0c32a2cb",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1de9dd6b73c64220b403dc716580a150/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3feccf1b90d1448fafff500fb785ac7e/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b5b5dfbacc404bb2b276e97cf8410897/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0f85ccf481a4c61ae84cd326ab4f587/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ff6b2a728a504f409e32a6725d5cd011/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"Implementation plan-ShakeAlert Earthquake Early Warning System in Nevada_amd 2, Q&A<br/>\"}",
-    "descriptionFull": "{\"description\":\"Implementation plan-ShakeAlert Earthquake Early Warning System in Nevada_amd 2, Q&A<br/>\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1de9dd6b73c64220b403dc716580a150/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 35520,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3feccf1b90d1448fafff500fb785ac7e/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 206205,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b5b5dfbacc404bb2b276e97cf8410897/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 520690,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0f85ccf481a4c61ae84cd326ab4f587/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 39451,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ff6b2a728a504f409e32a6725d5cd011/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 206185,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -3251,170 +3228,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "fc4c43cf7bd54906860a2b47bddf0297",
-    "title": "110\u2019 WPB CRADLE AND SPREADER BAR RECERTIFICATION",
-    "solicitationNumber": "70Z04026Q60746Y00",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-09",
-    "responseDeadline": "2026-04-24T12:00:00-04:00",
-    "agency": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.SFLC PROCUREMENT BRANCH 3(00040)",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Curtis Bay",
-      "state": "Maryland",
-      "zip": "21226"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/fc4c43cf7bd54906860a2b47bddf0297/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fc4c43cf7bd54906860a2b47bddf0297",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/34e13ee6bc844d3a808ea807a10b09c0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b129f04ac754a0f8b57d3a6c2b56061/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6125705001 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation,...",
-    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6125705001 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation, which if timely received, shall be considered by this agency.</p>\\n\\n<p>The U.S. Coast Guard, Surface Forces Logistics Center (SFLC) intends to award a Firm Fixed Price Purchase Order. No down payments or advanced payments will be made to the awarded vendor. Vendor shall ensure they can secure funding for this order until delivered and received by the US Coast Guard. Payment will be made by Government Purchase order (Net 30) and the vendor shall assume financial responsibility until the order is accepted and received by US Coast Guard. Payment of the work is authorized to be submitted as work is completed but must be approved by the Contracting Officer First.</p>\\n\\n<p><strong>Basis for Award:</strong>&nbsp;This&nbsp;solicitation is based on FAR 13 &ndash; Simplified Acquisition Procedures and quotes will be reviewed and awarded on a Best Value basis per the solicitation.&nbsp; Past performance will only be reviewed for &ldquo;responsibility&rdquo; basis per FAR 9.1.&nbsp;&nbsp;The evaluation criteria for the quote&rsquo;s will be who meets all the technical requirements, who meets our deadlines and price.</p>\\n\\n<p><strong><u>All quotes must include the drawings approved by a professional engineer that are stated in the Statement of Work in order to be considered. Drawings will then be reviewed by U. S. Coast Guard Yard Structural and Safety departments to ensure it meets our needs.</u></strong></p>\\n\\n<p><strong><u>All quotes shall be emailed to Shellby Hammond via Shellby.M.Hammond@uscg.mil and shall be received no later than April 24, 2026 at 1200 (Eastern). All emailed quotes shall have 2126406Y6125705001</u></strong><strong> </strong><strong><u>in</u></strong><strong><u> the subject of the email.</u></strong></p>\\n\\n<p><strong><u>If a Site Visit is required in order to bid, please email James Greenfield via James.H.Greenfield2@uscg.mil in order to schedule.</u></strong></p>\\n\\n<p><strong>Vendor Information:</strong></p>\\n\\n<p><strong>Entity Name</strong></p>\\n\\n<p><strong>Entity Unique Entity ID</strong></p>\\n\\n<p><strong>Entity Address</strong></p>\\n\\n<p><strong>Entity POC</strong></p>\\n\\n<p><strong>Entity Phone Number</strong></p>\\n\\n<p><strong>POC Email Address</strong></p>\\n\\n<p></p>\\n\\n<p><strong><u>Vendor shall provide</u></strong>:&nbsp;</p>\\n\\n<p><strong>Line 1: </strong>&nbsp;110&rsquo; WPB CRADLE AND SPREADER BAR RECERTIFICATION</p>\\n\\n<p><strong>DESCRIPTION: </strong>The Contractor shall provide services to certify 01 docking cradle and 01 spreader bar identified as 110-foot USCG Cutter Cradle No. 3(CGY-C110-3) and Spreader Bar No. 1 (CGY-S110-1). The slings are NOT part of this certification and are to be certified IAW standard CFR/OSHA requirements. Cradle and spreader has been proof loaded and no structural modifications have been made that would invalidate that proof load test. Failure to have the following may negate your ability to bid.</p>\\n\\n<p>- Surface Forces Logistics Center Standard Specification 8634 (SFLC Std Spec 8634), -2022 Drydocking</p>\\n\\n<p>- United States Coast Guard Drawing No. 87WPB 085-12, Rev A, 87 Ft Coastal Patrol Boat Lifting Cradle</p>\\n\\n<p>Available post-award upon request:</p>\\n\\n<p>- Previous certification reports</p>\\n\\n<p>- Docking history</p>\\n\\n<p>- Last Non-Destructive Inspection (NDI) Report</p>\\n\\n<p>- Last completed load test</p>\\n\\n<p>The Contractor shall conduct all necessary inspections required to certify 01 docking cradles, constructed in accordance with referenced drawings. Certification shall meet requirements stated within SFLC STD Spec 8634. Certifying Authority shall provide requirements for type of weld inspection and length of weld inspection required for certification. The cradle has been previously load tested; re-load testing is not required. All inspections shall be conducted at USCG Yard, Baltimore MD 21226. All work and applicable deliverables shall be provided between 5/1/26 - 5/31/26.</p>\\n\\n<p>Contractor shall provide a Certification Report, which shall include, at minimum, the following:</p>\\n\\n<p>- Appendix B-2 (of SFLC STD Spec 8634), signed and sealed by a Professional Engineer (State of Maryland)</p>\\n\\n<p>- Appendix B-23 and</p>\\n\\n<p>- Appendix B-24 of SFLC STD Spec 8634, completed.</p>\\n\\n<p>- Inspection Overview</p>\\n\\n<p>- Proof Testing, as applicable.</p>\\n\\n<p>- Inspection Findings with supporting documentation, as applicable.</p>\\n\\n<p>- Surveyor&#39;s Endorsement, annotated as &quot;SATISFACTORY&quot; or &quot;UNSATISFACTORY&quot;. Any contingencies to endorsement must be clearly noted.</p>\\n\\n<p>- NDT Weld Test Report</p>\\n\\n<p><strong>Unit of Issue: </strong>1 JB</p>\\n\\n<p><strong>Line Total:</strong></p>\\n\\n<p><strong>Estimated Performance Date:</strong></p>\\n\\n<p></p>\\n\\n<p>*All Work must be completed in accordance with the attached Statement of Work for the order.</p>\\n\\n<p>*Access to some drawings may be Export-Controlled and require any recipient to be registered in the Joint Certification Program (JCP) through DLA to receive the drawing. *</p>\\n\\n<p>*Services are Required on the following date(s): 5/1/26 &ndash; 5/31/26*</p>\\n\\n<p>Place of Performance:</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U.S. COAST GUARD YARD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2401 HAWKINS POINT ROAD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BALTIMORE, MD 21226</p>\\n\\n<p></p>\\n\\n<p><strong>Invoicing In IPP</strong></p>\\n\\n<p>It is a requirement that all invoicing for Purchase Orders will now be entered and processed through https://www.ipp.gov.</p>\\n\\n<p>All invoices must contain the following information: <strong>CG Purchase Order number, vendor&rsquo;s invoice number, cage number, PO item number, description of supplies or services, unit prices and extended totals (INVOICES FOR PURCHASE ORDERS AWARDED BY SURFACE FORCE LOGISTICS CENTER, BALTIMORE ARE TO BE SUMITTED AS NON PO IN IPP).</strong> Shipping costs will be indicated as a separate line item on the invoice (if applicable).<strong> Shipping cost $100 or more must be accompanied by a separate freight invoice when submitting an invoice(s) for payment (if applicable). </strong></p>\\n\\n<p>To submit an invoice, vendor must have access to www.ipp.gov. To gain access please indicate if you don&rsquo;t have an account So the issuing office can establish one for you.</p>\\n\\n<p></p>\\n\\n<p><strong>FAR Clauses</strong></p>\\n\\n<p><strong>This order is subject to but is not limited to the following Federal Acquisition Regulations:</strong></p>\\n\\n<p>52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.204-26 Covered Telecommunications Equipment or Services-Representation.</p>\\n\\n<p>52.212-1 Instructions to Offerors&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.212-3 Offeror Representations and Certifications&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities.</p>\\n\\n<p>52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders&mdash;Commercial Products and Commercial Services.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/34e13ee6bc844d3a808ea807a10b09c0/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 34914,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b129f04ac754a0f8b57d3a6c2b56061/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 18501,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "60b3760279344744a4c2141432240628",
-    "title": "3D Laser Scan needed on 154' PAUL CLARK",
-    "solicitationNumber": "70Z04026Q60747Y00",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-09",
-    "responseDeadline": "2026-04-24T12:00:00-04:00",
-    "agency": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.SFLC PROCUREMENT BRANCH 3(00040)",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Curtis Bay",
-      "state": "Maryland",
-      "zip": "21226"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/60b3760279344744a4c2141432240628/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=60b3760279344744a4c2141432240628",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3da7d87fefb24d0d8ae846b368b011cb/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6128bb4dcdc14f12a25104f2b577f38d/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6175K87013 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation,...",
-    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation for commercial items, prepared in accordance with the format in subpart 12.6 of the FAR and as supplemented with additional information included in this notice. This announcement constitutes only solicitation; quotes are being requested and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number&nbsp;<strong>2126406Y6175K87013 </strong>applies and is used as a Request for Quote (RFQ). This solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular (FAC) 2024-05, dated 22 May 2024. It is anticipated that a competitive price purchase order shall be awarded as a result of this synopsis/solicitation. All responsible sources may submit a quotation, which if timely received, shall be considered by this agency.</p>\\n\\n<p>The U.S. Coast Guard, Surface Forces Logistics Center (SFLC) intends to award a Firm Fixed Price Purchase Order. No down payments or advanced payments will be made to the awarded vendor. Vendor shall ensure they can secure funding for this order until delivered and received by the US Coast Guard. Payment will be made by Government Purchase order (Net 30) and the vendor shall assume financial responsibility until the order is accepted and received by US Coast Guard. Payment of the work is authorized to be submitted as work is completed but must be approved by the Contracting Officer First.</p>\\n\\n<p><strong>Basis for Award:</strong>&nbsp;This&nbsp;solicitation is based on FAR 13 &ndash; Simplified Acquisition Procedures and quotes will be reviewed and awarded on a Best Value basis per the solicitation.&nbsp; Past performance will only be reviewed for &ldquo;responsibility&rdquo; basis per FAR 9.1.&nbsp;&nbsp;The evaluation criteria for the quote&rsquo;s will be who meets all the technical requirements, who meets our deadlines and price.</p>\\n\\n<p><strong><u>All quotes must include the drawings approved by a professional engineer that are stated in the Statement of Work in order to be considered. Drawings will then be reviewed by U. S. Coast Guard Yard Structural and Safety departments to ensure it meets our needs.</u></strong></p>\\n\\n<p><strong><u>All quotes shall be emailed to Shellby Hammond via Shellby.M.Hammond@uscg.mil &nbsp;and shall be received no later than April 24, 2026 at 1200 (Eastern). All emailed quotes shall have </u></strong><u><strong>2126406Y6175K87013</strong> </u><strong><u>in</u></strong><strong><u> the subject of the email.</u></strong></p>\\n\\n<p><strong><u>If a Site Visit is required in order to bid, please email </u></strong><strong><u>Carl Weiland <strong>via </strong>Carl.H.Weiland@uscg.mil in order to schedule.</u></strong></p>\\n\\n<p></p>\\n\\n<p><strong>Vendor Information:</strong></p>\\n\\n<p><strong>Entity Name</strong></p>\\n\\n<p><strong>Entity Unique Entity ID</strong></p>\\n\\n<p><strong>Entity Address</strong></p>\\n\\n<p><strong>Entity POC</strong></p>\\n\\n<p><strong>Entity Phone Number</strong></p>\\n\\n<p><strong>POC Email Address</strong></p>\\n\\n<p></p>\\n\\n<p><strong><u>Vendor shall provide</u></strong>:&nbsp;</p>\\n\\n<p><strong>Line 1: </strong>3D Laser Scan needed on 154&#39; PAUL CLARK</p>\\n\\n<p><strong>DESCRIPTION: </strong>Provide 3D laser scan services IAW the provided SOW.<strong> </strong></p>\\n\\n<p><strong>Unit of Issue: </strong>1 JB</p>\\n\\n<p><strong>Line Total:</strong></p>\\n\\n<p><strong>Estimated Performance Date:</strong></p>\\n\\n<p></p>\\n\\n<p>*All Work must be completed in accordance with the attached Statement of Work for the order.</p>\\n\\n<p>*Access to some drawings may be Export-Controlled and require any recipient to be registered in the Joint Certification Program (JCP) through DLA to receive the drawing. *</p>\\n\\n<p>*Services are Required to be complete by an approximate start date of July 6 2026 and completed in one day. *</p>\\n\\n<p>Place of Performance:</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; U.S. COAST GUARD YARD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2401 HAWKINS POINT ROAD</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BALTIMORE, MD 21226</p>\\n\\n<p></p>\\n\\n<p><strong>Invoicing In IPP</strong></p>\\n\\n<p>It is a requirement that all invoicing for Purchase Orders will now be entered and processed through https://www.ipp.gov.</p>\\n\\n<p>All invoices must contain the following information: <strong>CG Purchase Order number, vendor&rsquo;s invoice number, cage number, PO item number, description of supplies or services, unit prices and extended totals (INVOICES FOR PURCHASE ORDERS AWARDED BY SURFACE FORCE LOGISTICS CENTER, BALTIMORE ARE TO BE SUMITTED AS NON PO IN IPP).</strong> Shipping costs will be indicated as a separate line item on the invoice (if applicable).<strong> Shipping cost $100 or more must be accompanied by a separate freight invoice when submitting an invoice(s) for payment (if applicable). </strong></p>\\n\\n<p>To submit an invoice, vendor must have access to www.ipp.gov. To gain access please indicate if you don&rsquo;t have an account So the issuing office can establish one for you.</p>\\n\\n<p></p>\\n\\n<p><strong>FAR Clauses</strong></p>\\n\\n<p><strong>This order is subject to but is not limited to the following Federal Acquisition Regulations:</strong></p>\\n\\n<p>52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.204-26 Covered Telecommunications Equipment or Services-Representation.</p>\\n\\n<p>52.212-1 Instructions to Offerors&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.212-3 Offeror Representations and Certifications&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p>52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab Covered Entities.</p>\\n\\n<p>52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.</p>\\n\\n<p>52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders&mdash;Commercial Products and Commercial Services.</p>\\n\\n<p></p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3da7d87fefb24d0d8ae846b368b011cb/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 205768,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6128bb4dcdc14f12a25104f2b577f38d/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 18501,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "3c15ca33a95747c497ca607e5592aabe",
     "title": "Construction Inspection IDIQ",
     "solicitationNumber": "6982AF25R000016",
@@ -3604,117 +3417,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "5c517562b57247d98bc1a584ce0918bb",
-    "title": "Uninterruptible Power Systems (UPS) Maintenance and Repair",
-    "solicitationNumber": "W912KC26RA004",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "518210",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-20",
-    "responseDeadline": "2026-04-23T17:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO PA.USPFO PA PROCUREMENT.W7NX USPFO ACTIVITY PA ARNG",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Annville",
-      "state": "Pennsylvania",
-      "zip": "17003"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/5c517562b57247d98bc1a584ce0918bb/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5c517562b57247d98bc1a584ce0918bb",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e27af717fb4489a9e851ddd442c120a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbbc297a7a8540fe8497c16beffa4132/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2dceafcc2c643c9a1dc82a5d5910d53/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f10d733eecdb49e6973df447012ee33b/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>This is a blanket purchase agreement. The period of performance is 1 May 2026 through 30 April 2031.</p>\\n\\n<p>General: This is a service contract to provide all necessary support to perform UPS service, maintenance, repairs and replacement/upgrade of outdated parts or equipment for the MTC FTIG.</p>\\n\\n<p>The contractor shall provide 24/7/365 emergency repair services to address any unscheduled system failures.<br />\\n<br />\\nThe contractor shall provide a telephone response from a qualified technician within four (4) hours of receiving an emergency service call. If the issue cannot be resolved remotely, the contractor shall have a technician on-site within twenty-four (24) hours.<br />\\n<br />\\nThe contractor shall diagnose the system failure and provide the cost es...",
-    "descriptionFull": "{\"description\":\"<p>This is a blanket purchase agreement. The period of performance is 1 May 2026 through 30 April 2031.</p>\\n\\n<p>General: This is a service contract to provide all necessary support to perform UPS service, maintenance, repairs and replacement/upgrade of outdated parts or equipment for the MTC FTIG.</p>\\n\\n<p>The contractor shall provide 24/7/365 emergency repair services to address any unscheduled system failures.<br />\\n<br />\\nThe contractor shall provide a telephone response from a qualified technician within four (4) hours of receiving an emergency service call. If the issue cannot be resolved remotely, the contractor shall have a technician on-site within twenty-four (24) hours.<br />\\n<br />\\nThe contractor shall diagnose the system failure and provide the cost estimated to restore the UPS to full operational status. This includes all necessary labor and the replacement of failed parts.<br />\\n<br />\\nThe contractor shall respond to requests for corrective maintenance within 8 hours from the time the customer requests that service.<br />\\n<br />\\nThe contractor shall diagnose the system failure and provide the cost estimated to restore the UPS to full operational status. This includes all necessary labor and the replacement of failed parts.<br />\\n<br />\\nThe contractor is to furnish a detailed report to the COR in PDF format no later than 1 week after performing service. Any issues or deficiencies found during performance are to be immediately reported to the COR with proposed corrective action.<br />\\n<br />\\nThe contractor shall provide two preventative maintenance services annually to be scheduled at the convenience of the Government. Preventative maintenance includes but is not limited to the following:<br />\\n<br />\\nVisual Inspection: inspect the UPS and battery cabinets for any signs of damage, overheating, fluid leakage, or loose connections. Verify that all air inlets and outlets are clean and free of obstructions to ensure proper ventilation. Check for and clean any accumulation of dust or debris on internal and external components.<br />\\n<br />\\nMechanical and electrical checks: check all electrical connections, including internal wiring, breakers, and terminal blocks, to manufacturer-recommended specifications. Verify the integrity and functionality of all system components, including circuit breakers, fuses, and capacitors. Measure and record all critical AC and DC operational parameters (input/output voltage and current, frequency, battery voltage, and charge current).<br />\\n<br />\\nRectifier: Record input/output voltages and currents. Verify proper float and equalize settings for installed battery plant. Verify tolerance on the filtered DC bus. Verify system alignments are within factory specifications.<br />\\n<br />\\nInverter: Record input/output voltages and currents. Verify proper operation of inverter. Verify system alignments are within factory specifications. Verify DC currents on output of each inverter power stage.<br />\\n<br />\\nStatic Switch: Record Inverter input voltage and currents to Static Switch. Record Bypass input voltage and currents to Static Switch. Record Static Switch output voltages and currents. Verify proper operation of the static switch. Verify system alignments are within factory specifications.<br />\\n<br />\\nPower Supplies: Verify proper output voltage of each internal power supply. Check for proper filtering of power supply output voltage. Confirm power supply redundancy if applicable.<br />\\n<br />\\nGeneral: Check for proper fan operation. Inspect general overall condition of battery plant. Confirm acceptable environmental conditions exist for applicable parts coverage.<br />\\n<br />\\nNot all items are applicable to all systems.<br />\\n<br />\\nSystem functional tests: perform a full functional test of the UPS, including transferring the load from utility power to battery power and back to utility power to stimulate a power outage. Verify functionality of all system alarms, indicators, and communication interfaces. Calibrate the system as necessary to ensure all operational readings are within acceptable tolerances.<br />\\n<br />\\nThe contractor will provide annual battery maintenance to be scheduled at the convenience of the Government. Battery maintenance includes but is not limited to the following: Review Customer battery maintenance logs and make entries into customer logs.<br />\\n<br />\\nPerform semi-annual preventive maintenance inspection as follows:<br />\\n<br />\\nMeasure and record the voltage of each individual battery cell.<br />\\n<br />\\nMeasure and record total voltage per cabinet / rack<br />\\n<br />\\nMeasure and record ambient room temperature and humidity of the operating environment.<br />\\n<br />\\nConduct an impedance test on each battery to assess its internal condition and ability to hold a charge.<br />\\n<br />\\nPerform a load test to verify the battery system can support the critical load for the specified runtime.<br />\\n<br />\\nMeasure and record AC ripple current. Measure and record AC milli-volt per unit.<br />\\n<br />\\nVisual inspection: Check jar and cover for signs of leakage. Check for corrosion on terminal post or connector. Check for general appearance and cleanliness of battery room.<br />\\n<br />\\nClean all battery terminals and posts. Apply protective coating to all terminals to prevent corrosion. Re-torque all battery connections to manufacturer specifications.<br />\\n<br />\\nThe contractor shall provide a detailed report and quotation for the replacement of any battery that fails testing or shows signs of impending failure.<br />\\n<br />\\nWarning/hazard labels. Operational information and placards. Eye wash and deluge shower (if applicable). Goggles, gloves and aprons (if applicable).<br />\\n<br />\\nThe contractor shall contain, collect, and dispose of hazardous and non-hazardous wastes and residues generated as a result of this contract, and dispose of all wastes off Fort Indiantown Gap, PA at disposal sites authorized by federal, state, and local laws and regulations for no additional cost. Contractor shall conduct any sampling necessary to properly characterize any waste prior to disposal and shall properly document all such waste determinations. Work shall be performed in accordance with all federal, state, and local laws and regulations. The contractor shall take responsibility for the cleanup for spills that may occur from their supplies or equipment during the operation, at no cost to the Government.<br />\\n<br />\\nThe contractor will provide, in writing, to the POC the following information 15 days prior to the execution of this contract:<br />\\n<br />\\nLocal Contractor POC Details.<br />\\n<br />\\nName and location of the contractor.<br />\\n<br />\\nPOC and contact information of the contractor.<br />\\n<br />\\nHours of operation of the contractor.<br />\\n<br />\\nGovernment Responsibilities.<br />\\n<br />\\nThe government will provide POC information, in writing, to the contractor with the following information 15 days prior to the execution of this contract:<br />\\n<br />\\nName and location of the Government POC.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23e67945bf2f49818966598763a6e964/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 497760,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e27af717fb4489a9e851ddd442c120a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 88593,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbbc297a7a8540fe8497c16beffa4132/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 38971,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2dceafcc2c643c9a1dc82a5d5910d53/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 3280156,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f10d733eecdb49e6973df447012ee33b/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 47312,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "AWS",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "AWS",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": [
-        "remote"
-      ]
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": [
-        "on-site"
-      ]
-    },
-    "remotePossible": true,
-    "onsitePossible": false,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "24/7"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": true,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Pennsylvania"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
