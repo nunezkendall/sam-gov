@@ -1523,6 +1523,88 @@
     "updatedDate": null
   },
   {
+    "noticeId": "02a990694714486588884425ee9ef4b1",
+    "title": "H30 Engineering Services",
+    "solicitationNumber": "N0017826R3017",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-11",
+    "responseDeadline": "2026-06-08T12:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Dahlgren",
+      "state": "Virginia",
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/02a990694714486588884425ee9ef4b1/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=02a990694714486588884425ee9ef4b1",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67b53f1d7f93441b98aee3fd5d3d7a80/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/770937f8a3c04cfca7d2e61b7f7980b8/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project manag...",
+    "descriptionFull": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project management and project management support functions, accounting and business services, technical writing services, information assurance (IA) support services, and system administration services.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67b53f1d7f93441b98aee3fd5d3d7a80/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 195687,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/770937f8a3c04cfca7d2e61b7f7980b8/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 426070,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "system administration"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "system administration"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "4dbeaa91f5cb435e9703b15524a3fccd",
     "title": "Dust Collection System Evaluation",
     "solicitationNumber": "FN1609-26",
@@ -1710,72 +1792,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "a53ee4f22e2d497bb3b579e6c2d95ad4",
-    "title": "H30 Engineering Services",
-    "solicitationNumber": "N0017826R3017",
-    "type": "Solicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-07",
-    "responseDeadline": "2026-06-08T12:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Dahlgren",
-      "state": "Virginia",
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/a53ee4f22e2d497bb3b579e6c2d95ad4/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a53ee4f22e2d497bb3b579e6c2d95ad4",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project manag...",
-    "descriptionFull": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project management and project management support functions, accounting and business services, technical writing services, information assurance (IA) support services, and system administration services.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "system administration"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "system administration"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {
@@ -3157,74 +3173,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
-    "title": "H20 Engineering Services",
-    "solicitationNumber": "N0017826R3102",
-    "type": "Solicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-10",
-    "responseDeadline": "2026-05-11T12:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Dahlgren",
-      "state": "Virginia",
-      "zip": "22448"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/ecdef2f3b5ab4526bb208f9c119a6a9f/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ecdef2f3b5ab4526bb208f9c119a6a9f",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p>***ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire C...",
-    "descriptionFull": "{\"description\":\"<p>***ONLY SEAPORT-NXG MULTIPLE AWARD CONTRACT CONTRACTORS ARE ELIGIBLE FOR AWARD. All SEAPORT MAC holders will need to register PIEE accounts in order to now receive solicitations and submit proposals/offers.*** The Naval Surface Warfare Center Dahlgren Division (NSWCDD) has a requirement to provide engineering services to the NSWCDD Maritime Warfare Control Systems Division (H20) for the development of Maritime Command and Control systems, Warfare/Weapons Control systems, and future warfare development. H20 supports programs/systems such as: Littoral Combat Ship (LCS) Mission Package (MP); Surface Launcher System (SLS); Vertical Launching Systems (VLS); AN/SQQ-89, Undersea Warfare (USW)/Anti-Submarine Warfare (ASW) Combat Systems (USWCS/ASWCS); Aegis Weapons and Fire Control; Autonomous and Unmanned Systems; Electromagnetic Maneuver Warfare (EMW); Information Warfare/Big Data; Machine Learning; and Artificial Intelligence (AI). The Contractor shall support technical and engineering stages of systems development, testing, integration, fielding, quality assurance (QA), certification, and maintenance. The Contractor shall participate in systems engineering activities including concept definition, system architecture development, system design, operational and system requirements development and management, external and internal interface management, security engineering, systems certification, communications and network engineering, hardware design and integration, system interoperability support, integrated logistics, training, fleet support, tactics and operations, mission engineering, metrics collection and analysis, modeling, and simulations. Other duties include providing business operational and financial support, technical writing, documentation, configuration management, database maintenance, information assurance (IA), and system administration.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "system administration",
-      "network"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "system administration",
-        "network"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
     "updatedDate": null
   },
   {

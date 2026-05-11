@@ -1,5 +1,221 @@
 [
   {
+    "noticeId": "5ba4d9b4be4c405881b14532f8b0ade3",
+    "title": "NetApp Storage Expansion",
+    "solicitationNumber": "N0017326Q5814",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+    "fullParentPathCode": "017.1700.ONR.ONR NRL.N00173",
+    "postedDate": "2026-05-11",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-28",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-13T11:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "7B22",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "yina.brooks.civ@us.navy.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Yina Brooks"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5ba4d9b4be4c405881b14532f8b0ade3",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20375-5328",
+      "city": "WASHINGTON",
+      "countryCode": "USA",
+      "state": "DC"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "48872",
+        "name": "Monterey"
+      },
+      "state": {
+        "code": "CA",
+        "name": "California"
+      },
+      "zip": "93943",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/5ba4d9b4be4c405881b14532f8b0ade3/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5ba4d9b4be4c405881b14532f8b0ade3&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79480f7262a0408bbc70bc024e6fec57/download"
+    ]
+  },
+  {
+    "noticeId": "177f36f262d44d9ab89f08b0cfba76eb",
+    "title": "Sole Source - Bi2 Technologies, LLC",
+    "solicitationNumber": "F2026073260",
+    "fullParentPathName": "HOMELAND SECURITY, DEPARTMENT OF.US IMMIGRATION AND CUSTOMS ENFORCEMENT.INFORMATION TECHNOLOGY DIVISION",
+    "fullParentPathCode": "070.7012.70CTD0",
+    "postedDate": "2026-05-11",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-05-27",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-12T09:00:00-04:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "5865",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "ice-ero-procurements@ice.dhs.gov",
+        "phone": null,
+        "title": null,
+        "fullName": "ICE ERO Procurements"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=177f36f262d44d9ab89f08b0cfba76eb",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "20024",
+      "city": "WASHINGTON",
+      "countryCode": "USA",
+      "state": "DC"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "50000",
+        "name": "Washington"
+      },
+      "state": {
+        "code": "DC",
+        "name": "District of Columbia"
+      },
+      "zip": "20024",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/177f36f262d44d9ab89f08b0cfba76eb/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=177f36f262d44d9ab89f08b0cfba76eb&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0230df03c1064cb8b0980b30c1fc4ea3/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1df46832a2104ab9b801647f377340b8/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/21778b2beaac4c41b020dfcb975c90e8/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/30c8d4d82f2b475eb19ac6f0a3b98a7a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/468184b538bf4acc9ac323c760a356e3/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/78bc41cbc4074f5b9a944ff68499d461/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b585c2ad63764bd5860d2f5206caab23/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cb3b5d2927fc4cf299df1745a2d7a127/download"
+    ]
+  },
+  {
+    "noticeId": "0c14b3d8b48f4cefb6dfd4063f4a9541",
+    "title": "Digital Communication & Graphic Design Services",
+    "solicitationNumber": "W911S826QA014",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.418TH CSB.W6QM MICC-JB LEWIS-MC CHORD",
+    "fullParentPathCode": "021.2100.AMC.ACC.MICC.418TH CSB.W911S8",
+    "postedDate": "2026-05-11",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-06-11",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-05-27T10:00:00-07:00",
+    "naicsCode": "541519",
+    "naicsCodes": [
+      "541519"
+    ],
+    "classificationCode": "R422",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "manuel.e.rosas.civ@army.mil",
+        "phone": "5207148517",
+        "title": null,
+        "fullName": "Manuel Rosas"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "rosa.i.diaz.civ@army.mil",
+        "phone": "",
+        "title": null,
+        "fullName": "Rosa Diaz"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0c14b3d8b48f4cefb6dfd4063f4a9541",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "98433-9500",
+      "city": "JOINT BASE LEWIS MCCH",
+      "countryCode": "USA",
+      "state": "WA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "0",
+        "name": "North Lakewood"
+      },
+      "state": {
+        "code": "WA",
+        "name": "Washington"
+      },
+      "zip": "98433",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/0c14b3d8b48f4cefb6dfd4063f4a9541/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=0c14b3d8b48f4cefb6dfd4063f4a9541&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1fa64d5806424810ada447f391171c8a/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e04b493f23f4a08a5010b6e0d1ebec7/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/af4eab866290469d822d8cb1818c65fd/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e862ea328a3f405bbe9aa1fb380a2f01/download"
+    ]
+  },
+  {
     "noticeId": "78ae36bbb3674363b89b54ae70e7f0d4",
     "title": "805 Offsec Learn Enterprise Subscription",
     "solicitationNumber": "F2FT576021A001",
@@ -72,78 +288,6 @@
     "resourceLinks": [
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/569456e83a2f409fa05d74bd5e94ac60/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ac33533b38304f57af7f38eadb0b174f/download"
-    ]
-  },
-  {
-    "noticeId": "3a3179e66c7e4d99ad80340ae213a751",
-    "title": "Sole Source - Bi2 Technologies, LLC",
-    "solicitationNumber": "F2026073260",
-    "fullParentPathName": "HOMELAND SECURITY, DEPARTMENT OF.US IMMIGRATION AND CUSTOMS ENFORCEMENT.INFORMATION TECHNOLOGY DIVISION",
-    "fullParentPathCode": "070.7012.70CTD0",
-    "postedDate": "2026-05-08",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-05-27",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-05-12T09:00:00-04:00",
-    "naicsCode": "541519",
-    "naicsCodes": [
-      "541519"
-    ],
-    "classificationCode": "5865",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "ice-ero-procurements@ice.dhs.gov",
-        "phone": null,
-        "title": null,
-        "fullName": "ICE ERO Procurements"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3a3179e66c7e4d99ad80340ae213a751",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "20024",
-      "city": "WASHINGTON",
-      "countryCode": "USA",
-      "state": "DC"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "50000",
-        "name": "Washington"
-      },
-      "state": {
-        "code": "DC",
-        "name": "District of Columbia"
-      },
-      "zip": "20024",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/3a3179e66c7e4d99ad80340ae213a751/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3a3179e66c7e4d99ad80340ae213a751&limit=1"
-      }
-    ],
-    "resourceLinks": [
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0230df03c1064cb8b0980b30c1fc4ea3/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/21778b2beaac4c41b020dfcb975c90e8/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/30c8d4d82f2b475eb19ac6f0a3b98a7a/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/468184b538bf4acc9ac323c760a356e3/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/78bc41cbc4074f5b9a944ff68499d461/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cb3b5d2927fc4cf299df1745a2d7a127/download",
-      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ce8ebe9f238f42aca335fbc571e75a56/download"
     ]
   },
   {
@@ -3683,6 +3827,154 @@
     ]
   },
   {
+    "noticeId": "c0fb045e2e734c45b012117dc806c621",
+    "title": "ARCHITECT-ENGINEERING (A-E) SERVICES FOR INDEFINITE DELIVERY/INDEFINITE QUANTITY (IDIQ) (OPEN ENDED) CONTRACT, HURLBURT FIELD, FL CIVIL STRUCTURAL ENGINEERING SERVICES CONTRACT",
+    "solicitationNumber": "FA441727R0001",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE SPECIAL OPERATIONS COMMAND.FA4417 1 SOCONS",
+    "fullParentPathCode": "057.5700.AFSOC.FA4417",
+    "postedDate": "2026-05-11",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-06-23",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-06-08T14:00:00-05:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "C219",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": "",
+        "type": "primary",
+        "email": "christine.young.1@us.af.mil",
+        "phone": "8508843298",
+        "title": null,
+        "fullName": "Christine Young"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "tina.kneip.1@us.af.mil",
+        "phone": "8508844941",
+        "title": null,
+        "fullName": "Tina Kneip"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c0fb045e2e734c45b012117dc806c621",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "32544-5810",
+      "city": "HURLBURT FIELD",
+      "countryCode": "USA",
+      "state": "FL"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "32975",
+        "name": "Hurlburt Field"
+      },
+      "state": {
+        "code": "FL",
+        "name": "Florida"
+      },
+      "zip": "32544",
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/c0fb045e2e734c45b012117dc806c621/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=c0fb045e2e734c45b012117dc806c621&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dbc3947718cc49a9a8c315fbf1c2af1f/download"
+    ]
+  },
+  {
+    "noticeId": "02a990694714486588884425ee9ef4b1",
+    "title": "H30 Engineering Services",
+    "solicitationNumber": "N0017826R3017",
+    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
+    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00178",
+    "postedDate": "2026-05-11",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "archiveType": "auto15",
+    "archiveDate": "2026-06-23",
+    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
+    "typeOfSetAside": "SBA",
+    "responseDeadLine": "2026-06-08T12:00:00-04:00",
+    "naicsCode": "541330",
+    "naicsCodes": [
+      "541330"
+    ],
+    "classificationCode": "R425",
+    "active": "Yes",
+    "award": null,
+    "pointOfContact": [
+      {
+        "fax": null,
+        "type": "primary",
+        "email": "karrington.r.wilson.civ@us.navy.mil",
+        "phone": null,
+        "title": null,
+        "fullName": "Karrington Wilson"
+      },
+      {
+        "fax": "",
+        "type": "secondary",
+        "email": "jason.w.simpson.civ@us.navy.mil",
+        "phone": "5407428783",
+        "title": null,
+        "fullName": "Jason W Simpson"
+      }
+    ],
+    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=02a990694714486588884425ee9ef4b1",
+    "organizationType": "OFFICE",
+    "officeAddress": {
+      "zipcode": "22448-5154",
+      "city": "DAHLGREN",
+      "countryCode": "USA",
+      "state": "VA"
+    },
+    "placeOfPerformance": {
+      "city": {
+        "code": "21008",
+        "name": "Dahlgren"
+      },
+      "state": {
+        "code": "VA",
+        "name": "Virginia"
+      },
+      "country": {
+        "code": "USA",
+        "name": "UNITED STATES"
+      }
+    },
+    "additionalInfoLink": null,
+    "uiLink": "https://sam.gov/workspace/contract/opp/02a990694714486588884425ee9ef4b1/view",
+    "links": [
+      {
+        "rel": "self",
+        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=02a990694714486588884425ee9ef4b1&limit=1"
+      }
+    ],
+    "resourceLinks": [
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67b53f1d7f93441b98aee3fd5d3d7a80/download",
+      "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/770937f8a3c04cfca7d2e61b7f7980b8/download"
+    ]
+  },
+  {
     "noticeId": "bbb3075fa35c407fad24f2e81647a5c1",
     "title": "Propulsion Drive Update for NOAA Ships",
     "solicitationNumber": "1305M226Q0076",
@@ -3965,77 +4257,6 @@
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/283b6f2ad4d648e0942cf713ecd553cf/download",
       "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6108651d1f84b7f86bcc3675de99939/download"
     ]
-  },
-  {
-    "noticeId": "a53ee4f22e2d497bb3b579e6c2d95ad4",
-    "title": "H30 Engineering Services",
-    "solicitationNumber": "N0017826R3017",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
-    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00178",
-    "postedDate": "2026-05-07",
-    "type": "Solicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "auto15",
-    "archiveDate": "2026-06-23",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-06-08T12:00:00-04:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "R425",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": null,
-        "type": "primary",
-        "email": "karrington.r.wilson.civ@us.navy.mil",
-        "phone": null,
-        "title": null,
-        "fullName": "Karrington Wilson"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "jason.w.simpson.civ@us.navy.mil",
-        "phone": "5407428783",
-        "title": null,
-        "fullName": "Jason W Simpson"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a53ee4f22e2d497bb3b579e6c2d95ad4",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "22448-5154",
-      "city": "DAHLGREN",
-      "countryCode": "USA",
-      "state": "VA"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "21008",
-        "name": "Dahlgren"
-      },
-      "state": {
-        "code": "VA",
-        "name": "Virginia"
-      },
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/a53ee4f22e2d497bb3b579e6c2d95ad4/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=a53ee4f22e2d497bb3b579e6c2d95ad4&limit=1"
-      }
-    ],
-    "resourceLinks": null
   },
   {
     "noticeId": "37335c86de6e4642867db93451010cbd",
@@ -6303,78 +6524,6 @@
       {
         "rel": "self",
         "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=41e4e3748a7745da80d973bbac41ea5a&limit=1"
-      }
-    ],
-    "resourceLinks": null
-  },
-  {
-    "noticeId": "ecdef2f3b5ab4526bb208f9c119a6a9f",
-    "title": "H20 Engineering Services",
-    "solicitationNumber": "N0017826R3102",
-    "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
-    "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00178",
-    "postedDate": "2026-04-10",
-    "type": "Solicitation",
-    "baseType": "Presolicitation",
-    "archiveType": "autocustom",
-    "archiveDate": "2026-06-11",
-    "typeOfSetAsideDescription": "Total Small Business Set-Aside (FAR 19.5)",
-    "typeOfSetAside": "SBA",
-    "responseDeadLine": "2026-05-11T12:00:00-04:00",
-    "naicsCode": "541330",
-    "naicsCodes": [
-      "541330"
-    ],
-    "classificationCode": "R425",
-    "active": "Yes",
-    "award": null,
-    "pointOfContact": [
-      {
-        "fax": "",
-        "type": "primary",
-        "email": "cameron.s.dodson3.civ@us.navy.mil",
-        "phone": "(540) 430-5899",
-        "title": null,
-        "fullName": "Cameron S. Dodson"
-      },
-      {
-        "fax": "",
-        "type": "secondary",
-        "email": "jason.w.simpson.civ@us.navy.mil",
-        "phone": "(540) 742-8783",
-        "title": null,
-        "fullName": "Jason W Simpson"
-      }
-    ],
-    "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ecdef2f3b5ab4526bb208f9c119a6a9f",
-    "organizationType": "OFFICE",
-    "officeAddress": {
-      "zipcode": "22448-5154",
-      "city": "DAHLGREN",
-      "countryCode": "USA",
-      "state": "VA"
-    },
-    "placeOfPerformance": {
-      "city": {
-        "code": "21008",
-        "name": "Dahlgren"
-      },
-      "state": {
-        "code": "VA",
-        "name": "Virginia"
-      },
-      "zip": "22448",
-      "country": {
-        "code": "USA",
-        "name": "UNITED STATES"
-      }
-    },
-    "additionalInfoLink": null,
-    "uiLink": "https://sam.gov/workspace/contract/opp/ecdef2f3b5ab4526bb208f9c119a6a9f/view",
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ecdef2f3b5ab4526bb208f9c119a6a9f&limit=1"
       }
     ],
     "resourceLinks": null
