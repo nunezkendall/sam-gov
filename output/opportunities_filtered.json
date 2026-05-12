@@ -1,5 +1,87 @@
 [
   {
+    "noticeId": "d9ba1fa23fd045708778534f2b9646bb",
+    "title": "7B20--EQUIP 644-26-2-218-0017-PHX_ENGINEERING_SALIENT SERVERS",
+    "solicitationNumber": "36C26226Q0776",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-12",
+    "responseDeadline": "2026-05-25T12:00:00-07:00",
+    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.262-NETWORK CONTRACT OFFICE 22 (36C262)",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/d9ba1fa23fd045708778534f2b9646bb/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d9ba1fa23fd045708778534f2b9646bb",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61d17f54f40a4211b270a7e4acd7fa96/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dddf495cf6fb4b87b0deb7b236535469/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"PAGE 1 OF\\n1. REQUISITION NO. \\n2. CONTRACT NO.\\n3. AWARD/EFFECTIVE DATE\\n4. ORDER NO.\\n5. SOLICITATION NUMBER\\n6. SOLICITATION ISSUE DATE\\na. NAME\\nb. TELEPHONE NO. (No Collect Calls)\\n8. OFFER DUE DATE/LOCAL\\nTIME\\n9. ISSUED BY\\nCODE\\n10. THIS ACQUISITION IS\\n UNRESTRICTED OR\\nSET ASIDE: \\n% FOR:\\nSMALL BUSINESS\\nHUBZONE SMALL\\nBUSINESS\\nSERVICE-DISABLED\\nVETERAN-OWNED\\nSMALL BUSINESS\\nWOMEN-OWNED SMALL BUSINESS\\n(WOSB) ELIGIBLE UNDER THE WOMEN-OWNED\\nSMALL BUSINESS PROGRAM\\nEDWOSB\\n8(A)\\nNAICS:\\nSIZE STANDARD:\\n11. DELIVERY FOR FOB DESTINA-\\nTION UNLESS BLOCK IS\\nMARKED\\nSEE SCHEDULE\\n12. DISCOUNT TERMS\\n 13a. THIS CONTRACT IS A \\nRATED ORDER UNDER\\nDPAS (15 CFR 700)\\n13b. RATING\\n14. METHOD OF SOLICITATION\\nRFQ\\nIFB\\nRFP\\n15. DELIVER TO \\nCODE\\n16. ADMINISTERED BY\\nC...",
+    "descriptionFull": "{\"description\":\"PAGE 1 OF\\n1. REQUISITION NO.   \\n2. CONTRACT NO.\\n3. AWARD/EFFECTIVE DATE\\n4. ORDER NO.\\n5. SOLICITATION NUMBER\\n6. SOLICITATION ISSUE DATE\\na. NAME\\nb. TELEPHONE NO.  (No Collect Calls)\\n8. OFFER DUE DATE/LOCAL\\nTIME\\n9. ISSUED BY\\nCODE\\n10. THIS ACQUISITION IS\\n UNRESTRICTED OR\\nSET ASIDE: \\n% FOR:\\nSMALL BUSINESS\\nHUBZONE SMALL\\nBUSINESS\\nSERVICE-DISABLED\\nVETERAN-OWNED\\nSMALL BUSINESS\\nWOMEN-OWNED SMALL BUSINESS\\n(WOSB) ELIGIBLE UNDER THE WOMEN-OWNED\\nSMALL BUSINESS PROGRAM\\nEDWOSB\\n8(A)\\nNAICS:\\nSIZE STANDARD:\\n11. DELIVERY FOR FOB DESTINA-\\nTION UNLESS BLOCK IS\\nMARKED\\nSEE SCHEDULE\\n12. DISCOUNT TERMS\\n 13a.  THIS CONTRACT IS A \\nRATED ORDER UNDER\\nDPAS (15 CFR 700)\\n13b. RATING\\n14. METHOD OF SOLICITATION\\nRFQ\\nIFB\\nRFP\\n15. DELIVER TO \\nCODE\\n16. ADMINISTERED BY\\nCODE\\n17a. CONTRACTOR/OFFEROR\\nCODE\\nFACILITY CODE\\n18a. PAYMENT WILL BE MADE BY\\nCODE\\nTELEPHONE NO.\\nUEI:\\nEFT:\\nPHONE:\\nFAX:\\n17b. CHECK IF REMITTANCE IS DIFFERENT AND PUT SUCH ADDRESS IN OFFER\\n18b. SUBMIT INVOICES TO ADDRESS SHOWN IN BLOCK 18a UNLESS BLOCK BELOW IS CHECKED\\nSEE ADDENDUM\\n19.\\n20.\\n21.\\n22.\\n23.\\n24.\\nITEM NO.\\nSCHEDULE OF SUPPLIES/SERVICES\\nQUANTITY\\nUNIT\\nUNIT PRICE\\nAMOUNT\\n(Use Reverse and/or Attach Additional Sheets as Necessary)\\n25. ACCOUNTING AND APPROPRIATION DATA\\n26. TOTAL AWARD AMOUNT (For Govt. Use Only)\\n27a. SOLICITATION INCORPORATES BY REFERENCE FAR 52.212-1, 52.212-4. FAR 52.212-3 AND 52.212-5 ARE ATTACHED.  ADDENDA\\nARE\\nARE NOT ATTACHED.\\n27b. CONTRACT/PURCHASE ORDER INCORPORATES BY REFERENCE FAR 52.212-4. FAR 52.212-5 IS ATTACHED.  ADDENDA\\nARE\\nARE NOT ATTACHED\\n28. CONTRACTOR IS REQUIRED TO SIGN THIS DOCUMENT AND RETURN _______________ \\n29. AWARD OF CONTRACT: REF.  ___________________________________ OFFER\\nCOPIES TO ISSUING OFFICE.  CONTRACTOR AGREES TO FURNISH AND \\nDATED ________________________________.  YOUR OFFER ON SOLICITATION \\nDELIVER ALL ITEMS SET FORTH OR OTHERWISE IDENTIFIED ABOVE AND ON ANY \\n(BLOCK 5), INCLUDING ANY ADDITIONS OR CHANGES WHICH ARE \\nADDITIONAL SHEETS SUBJECT TO THE TERMS AND CONDITIONS SPECIFIED\\nSET FORTH HEREIN IS ACCEPTED AS TO ITEMS:\\n30a. SIGNATURE OF OFFEROR/CONTRACTOR\\n31a. UNITED STATES OF AMERICA (SIGNATURE OF CONTRACTING OFFICER)\\n30b. NAME AND TITLE OF SIGNER (TYPE OR PRINT)\\n30c. DATE SIGNED\\n31b. NAME OF CONTRACTING OFFICER (TYPE OR PRINT)\\n31c. DATE SIGNED\\nAUTHORIZED FOR LOCAL REPRODUCTION\\n(REV. NOV 2021)\\nPREVIOUS EDITION IS NOT USABLE\\nPrescribed by GSA - FAR (48 CFR) 53.212\\n7. FOR SOLICITATION\\nINFORMATION CALL:\\nSTANDARD FORM 1449\\nSOLICITATION/CONTRACT/ORDER FOR COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES\\nOFFEROR TO COMPLETE BLOCKS 12, 17, 23, 24, & 30\\n49\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n36C26226Q0776\\n05-19-2026\\nAnette Doan\\n562-766-2200\\n05-25-2026\\n12 PM\\nPDT\\n36C262\\nDepartment of Veterans Affairs\\nNetwork Contracting Office 22\\n4811 Airport Plaza Drive\\nSuite 600\\nLong Beach CA 90815\\n\\n\\n\\nX\\n100\\nX\\n\\n\\n\\n\\n\\n\\n541519\\n$34 Million\\n\\n\\n\\n\\n\\n\\nN/A\\nX\\n\\n\\n36C262\\nDepartment of Veterans Affairs\\nCarl Hayden Medical Center\\n650 E Indian School Rd\\nSuite 600\\nLong Beach CA 90815\\n36C262\\nDepartment of Veterans Affairs\\nNetwork Contracting Office 22\\n4811 Airport Plaza Drive\\nSuite 600\\nLong Beach CA 90815\\n\\n\\n \\n\\n\\n\\n\\n\\n\\n  \\n\\n\\n\\n\\n\\n\\nDepartment of Veterans Affairs\\nFinancial Services Center\\n\\nSubmit invoices electronically to:\\nwww.tungsten-network.com  \\n1-877-489-6135\\n\\n\\nSee CONTINUATION Page\\nTHIS IS A FIRM-FIXED PRICE FOR SALIENT SERVERS/NETWORK\\nVIDEO RECORDER.\\n\\nPLEASE ENSURE THE FOLLOWING INFORMATION IS REFERENCED\\nITEM SCHEDULE, SALIENT CHARACTERISTICS, AND ALL CLAUSES\\n\\nDELIVER BY: AUGUST 31, 2026.\\n\\nQUOTE MUST BE SUBMITTED VIA EMAIL TO ANETTE.DOAN@VA.GOV \\nQUOTE MUST BE VALID FOR AT LEAST 60 DAYS\\n\\nALL QUESTIONS MUST BE RECEIVED BY 12:00PM PST ON MAY 19, 2026\\n\\nOFFERS TO THIS SOLICITATION SHALL BE EMAILED NO LATER THAN\\n\\n12:00 PM PST ON MAY 25, 2026.\\n\\n\\n\\n\\n\\n\\nSee CONTINUATION Page\\n\\n\\n\\nX\\nX\\n\\n\\n\\n\\nX\\n1\\n\\n\\n\\n\\nAnette Doan\\nCONTRACTING OFFICER\\n\\n\\n\\n\\n36C26226Q0776\\n\\nPage 1 of \\n\\nPage 2 of 60\\n\\n\\nPage 1 of \\nTable of Contents\\nSECTION A 1\\nA.1  SF 1449  SOLICITATION/CONTRACT/ORDER FOR COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES 1\\nSECTION B - CONTINUATION OF SF 1449 BLOCKS 3\\nB.1 CONTRACT ADMINISTRATION DATA 3\\nB.2 STATEMENT OF WORK 4\\nB.3 PRICE/COST SCHEDULE 4\\nB.4 DELIVERY SCHEDULE 5\\nSECTION C - CONTRACT CLAUSES 6\\nC.1 52.204-23 PROHIBITION ON CONTRACTING FOR HARDWARE, SOFTWARE, AND SERVICES DEVELOPED OR PROVIDED BY KASPERSKY LAB AND OTHER COVERED ENTITIES (DEC 2023) 6\\nC.2 52.204-27 PROHIBITION ON A BYTEDANCE COVERED APPLICATION (JUN 2023) 7\\nC.3 52.212-4 CONTRACT TERMS AND CONDITIONS COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (NOV 2023) 8\\nC.4 52.217-6 OPTION FOR INCREASED QUANTITY (MAR 1989) 14\\nC.5 52.222-90\u00c2\u00a0ADDRESSING DEI DI BY SCRIMINATION FEDERAL CONTRACTORS. 15\\nAs prescribed in 22.2203, insert the following clause: 15\\nC.6 52.225-2 BUY AMERICAN CERTIFICATE (OCT 2022) 16\\nC.7 52.233-2 SERVICE OF PROTEST (SEP 2006) 16\\nC.8 52.252-2 CLAUSES INCORPORATED BY REFERENCE (FEB 1998) 17\\nC.9 VAAR 852.219-76 VA NOTICE OF LIMITATIONS ON SUBCONTRACTING CERTIFICATE OF COMPLIANCE FOR SUPPLIES AND PRODUCTS (JAN 2023) (DEVIATION) 17\\nC.10 VAAR 852.222-71 COMPLIANCE WITH EXECUTIVE ORDER 13899 (DEVIATION)(APR 2025) 20\\nC.11 VAAR 852.232-72 ELECTRONIC SUBMISSION OF PAYMENT REQUESTS (NOV 2018) 20\\nC.12 VAAR 852.247-71 DELIVERY LOCATION (OCT 2018) 22\\nC.13 VAAR 852.247-72 MARKING DELIVERABLES (OCT 2018) 22\\nC.14 VAAR 852.247-73 PACKING FOR DOMESTIC SHIPMENT (OCT 2018) 22\\nSECTION D - CONTRACT DOCUMENTS, EXHIBITS, OR ATTACHMENTS 23\\nSECTION E - SOLICITATION PROVISIONS 24\\nE.1 52.212-1 INSTRUCTIONS TO OFFERORS COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (MAR 2023) 24\\nE.2 ADDENDUM to FAR 52.212-1 INSTRUCTIONS TO OFFERORS  COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES 28\\nE.3 52.212-2 EVALUATION COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (NOV 2021) 30\\nE.4 52.212-3 OFFEROR REPRESENTATIONS AND CERTIFICATIONS COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES (OCT 2025) 31\\n\\n36C26226Q0776\\nPage 1 of \\nPage 4 of 60\\nPage 1 of \\nSECTION B - CONTINUATION OF SF 1449 BLOCKS \\nB.1 CONTRACT ADMINISTRATION DATA\\n  1. Contract Administration: All contract administration matters will be handled by the following individuals:\\n    a.  CONTRACTOR: TBD\\n    b.  GOVERNMENT: Contracting Officer 36C262 \\nDepartment of Veterans Affairs\\nNetwork Contracting Office 22\\n4811 Airport Plaza Drive, Suite 600\\nLong Beach CA 90815\\n  2. CONTRACTOR REMITTANCE ADDRESS: All payments by the Government to the contractor will be made in accordance with:\\n[X]\\n52.232-33, Payment by Electronic Funds Transfer System For Award Management, or\\n[]\\n52.232-36, Payment by Third Party\\n  3. INVOICES: Invoices shall be submitted in arrears:\\n    a.  Quarterly []\\n    b.  Semi-Annually []\\n    c.  Other [X] Per Contract Terms and Conditions\\n  4.  GOVERNMENT INVOICE ADDRESS:  All Invoices from the contractor shall be submitted electronically in accordance with VAAR Clause 852.232-72 Electronic Submission of Payment Requests.\\nThis is accomplished through the Tungsten Network located at:\\nhttps://www.fsc.va.gov/einvoice.asp\\n  ACKNOWLEDGMENT OF AMENDMENTS: The offeror acknowledges receipt of amendments to the Solicitation numbered and dated as follows:\\nAMENDMENT NO\\nDATE\\n\\n\\n\\n\\n\\n \\nB.2 STATEMENT OF WORK\\nDescription of Equipment Requested: Salient Server/Network Video Recorder\\n\\nHow Equipment Works: The NVR s store the recording of the camera system. \\n\\nWho Will Use This Equipment: VAPD and Special Systems\\n\\nWhere it will be used: The NVRs will be installed in the OIT server room\\n\\nSalient Characteristics: \\n\\n- Platinum Server\\n-- Must have storage capacity of 120TB R5\\n-- Must have Processor: Xeon 5418Y\\n--Must have memory capacity of 64GB RAM\\n-- Must have Operating System: Windows Server 2022\\n-- Must have 5 yr Basic Warranty\\n-- Must have a Hard Drive capacity of 480GB OS R1; Rev03\\n\\n- Elite Server\\n-- Must have storage capacity of 384TB R6\\n-- Must have Processor: Xeon 5418Y\\n-- Must have Memory capacity of 64GB RAM\\n-- Must have Operating System: Windows Server 2022\\n-- Must have 5 yr Basic Warranty\\n-- Must have a Hard Drive capacity of 480GB OS R1; rev01\\n\\nJustification: The current Salient Server/NVR s do not have the computing power to maintain the demand for the currently installed cameras on the main campus. We have had to lower the settings below the required minimums on the cameras for the NVR s to be able to be stable.\\n\\nB.3 PRICE/COST SCHEDULE\\nITEM INFORMATION \\nITEM NUMBER\\nDESCRIPTION OF SUPPLIES/SERVICES\\nQUANTITY\\nUNIT\\nUNIT PRICE\\nAMOUNT\\n0001\\n\\n7.00\\nEA\\n__________________\\n__________________\\n\\nNetwork Video Recorder Server 2022; Platinum 120TB R5; Xeon 5418Y; 64GB RAM; 5yr Basic; 480GB OS R1; Rev03 \\nLOCAL STOCK NUMBER: PX5120T5B\\n\\n0002\\n\\n1.00\\nEA\\n__________________\\n__________________\\n\\nNetwork Video Recorder Server 2022; Elite 384TB R6, Xeon 5418Y: 64GB RAM; 5YR Basic; 480GB OS R1; rev01 \\nLOCAL STOCK NUMBER: PK6384T5B\\n\\n\\n\\n\\n\\nGRAND TOTAL\\n__________________\\n\\nB.4 DELIVERY SCHEDULE\\nITEM NUMBER\\nSHIPPING INFORMATION\\nQUANTITY\\nDELIVERY DATE\\n0001\\n\\n\\n7.00\\n\\n0002\\n\\n\\n1.00\\n\\n\\nPLEASE REFER TO PDF FOR COMPLETE SOLICITATION AND CLAUSES\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/61d17f54f40a4211b270a7e4acd7fa96/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 40666,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dddf495cf6fb4b87b0deb7b236535469/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 583101,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "network"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "network"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "036958b478e34547a68e49f96ca87f1e",
     "title": "Microsoft 365 Education License - Renewal",
     "solicitationNumber": "M00264-26-Q-0073",
@@ -819,7 +901,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "3589edc592834256b96809817756fca4",
+    "noticeId": "2d2961ce032c43a3b643cfc9fffee24b",
     "title": "Wireless Network Deployment at Peterson Space Force Base",
     "solicitationNumber": "H9229526QB001",
     "type": "Combined Synopsis/Solicitation",
@@ -827,7 +909,7 @@
     "naicsCode": "541512",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-08",
+    "postedDate": "2026-05-12",
     "responseDeadline": "2026-05-21T12:00:00-06:00",
     "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).SOCNORTH PB",
     "office": "",
@@ -837,23 +919,24 @@
       "zip": "80914"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/3589edc592834256b96809817756fca4/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3589edc592834256b96809817756fca4",
+      "uiLink": "https://sam.gov/workspace/contract/opp/2d2961ce032c43a3b643cfc9fffee24b/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2d2961ce032c43a3b643cfc9fffee24b",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0af6dc00a0a24124bb39b7bac7c62f5b/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1596f1fdc7744736adca0818b32a0c0e/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2be90e2306d34d11bbbeaac5aeab8b9a/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d7afa57fe3a4717bd203315fd563dc4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2daae2eb38154b6caf008cd451d91374/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c8a43b26eea4a1cbd54dc43587b86b4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/563d6f1717a140d8a81ae54fed9bc8cf/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d93065b2a524a528c7ba42a18eba779/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d945dd1c3ee476aae4f79326d67e0de/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4223a69b29e4d3892849b94915004f8/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc993f41372f44d89303e36c4b890885/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/890678d0bf43485fb3ed4ab04bf1488e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4223a69b29e4d3892849b94915004f8/download"
       ]
     },
     "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless netw...",
-    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless network. The contractor shall ensure compliance with&nbsp;<strong>NSA CSfC Capabilities Package (CP)</strong>,&nbsp;<strong>DoD Security Technical Implementation Guide (STIG)</strong>, and other applicable federal security standards.</p>\\n\\n<p>This acquisition is&nbsp;<strong>set aside for small business concerns</strong>&nbsp;under&nbsp;<strong>NAICS Code 541512 &ndash; Computer Systems Design Services</strong>, with a small business size standard of&nbsp;<strong>$34M</strong>.</p>\\n\\n<p>This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at&nbsp;<strong>https://www.acquisition.gov/far-overhaul/far-part-deviation-guide</strong>.</p>\\n\\n<p><strong>DESCRIPTION OF REQUIREMENTS</strong></p>\\n\\n<p>The contractor shall perform all work in accordance with the attached&nbsp;<strong>Performance Work Statement (PWS)</strong>. Deliverables and performance milestones are as follows:</p>\\n\\n<p><strong>DATE(S) AND PLACE(S) OF DELIVERY AND ACCEPTANCE</strong></p>\\n\\n<ul>\\n\\t<li><strong>Delivery Location</strong>: Peterson Space Force Base, Colorado</li>\\n\\t<li><strong>FOB Point</strong>: Destination</li>\\n\\t<li><strong>Acceptance</strong>: Deliverables will be reviewed and accepted by the designated Government POC upon validation that all requirements are met.</li>\\n</ul>\\n\\n<p><strong>INSTRUCTIONS TO OFFERORS</strong></p>\\n\\n<p>Offerors shall prepare and submit proposals that include the following:</p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide a detailed narrative describing the approach to executing each phase of the requirement, including:\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Pre-onsite assessment</strong>: Identify methods for assessing infrastructure readiness (e.g., tools, processes).</li>\\n\\t\\t\\t<li><strong>Wireless site surveys</strong>: Include details on the tools and methodologies to be used (e.g., heatmaps, signal strength analysis, channel planning).</li>\\n\\t\\t\\t<li><strong>Compliance</strong>: Describe how the proposed solution will meet&nbsp;<strong>NSA CSfC Capabilities Package</strong>&nbsp;requirements,&nbsp;<strong>DoD STIGs</strong>, and&nbsp;<strong>NSA Common Criteria</strong>.</li>\\n\\t\\t\\t<li><strong>Security and Risk Management</strong>: Outline strategies for ensuring cybersecurity compliance and mitigating risks.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Proposed Schedule</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Submit a detailed&nbsp;<strong>project schedule</strong>&nbsp;(e.g., Gantt chart or similar format) showing how all tasks and deliverables will be completed within&nbsp;<strong>60 calendar days of contract award</strong>.</li>\\n\\t\\t<li>Include key milestones, task durations, dependencies, and any concurrent work planned to meet the timeline.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pricing Information</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide firm-fixed pricing for&nbsp;<strong>CLIN 0001</strong>.</li>\\n\\t\\t<li>Acknowledge that pricing for&nbsp;<strong>CLINs 0002 and 0003</strong>&nbsp;will be submitted as part of the deliverables for CLIN 0001.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Representation and Certifications</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Ensure the offeror&rsquo;s&nbsp;<strong>System for Award Management (SAM)</strong>&nbsp;registration is active and up to date.</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>EVALUATION</strong></p>\\n\\n<p>The Government will evaluate offers in accordance with&nbsp;<strong>FAR 52.212-2, Evaluation&mdash;Commercial Products and Commercial Services (Deviation Date)</strong>, as follows:</p>\\n\\n<p><strong>Evaluation Factors (in descending order of importance):</strong></p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s technical approach for its ability to meet the requirements outlined in the PWS.</li>\\n\\t\\t<li>The evaluation will consider the proposed methodologies, tools, and processes for completing the study, design, installation, and testing phases.</li>\\n\\t\\t<li>Emphasis will be placed on the offeror&rsquo;s understanding of CSfC, NSA compliance, DoD STIG standards, and their ability to deliver a fully compliant solution.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Schedule Feasibility</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s proposed schedule for its ability to meet the requirement to complete all phases of work within&nbsp;<strong>60 calendar days of contract award</strong>.</li>\\n\\t\\t<li>The evaluation will consider the realism of the schedule, the logical sequencing of tasks, and the ability to perform concurrent work where applicable.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Price</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Price will be evaluated for&nbsp;<strong>reasonableness</strong>,&nbsp;<strong>realism</strong>, and&nbsp;<strong>balance</strong>:\\n\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Reasonableness</strong>: The proposed price will be compared to historical data, market research, and other offers to ensure it is fair.</li>\\n\\t\\t\\t<li><strong>Realism</strong>: The price will be analyzed to ensure it reflects a sound understanding of the work and is not unrealistically low.</li>\\n\\t\\t\\t<li><strong>Balance</strong>: The price will be reviewed to ensure it is appropriately distributed across all CLINs and does not indicate front-loading or disproportionate allocation.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>Basis for Award:</strong><br />\\nThe Government intends to make an award to the offeror whose proposal represents the&nbsp;<strong>best value</strong>&nbsp;to the Government.&nbsp;<strong>Technical Approach</strong>&nbsp;is significantly more important than&nbsp;<strong>Schedule Feasibility</strong>, which is slightly more important than&nbsp;<strong>Price</strong>. However, as proposals become more equal in their technical merit and schedule feasibility, the evaluated price will become more important in determining the overall best value.</p>\\n\\n<p>(End of Evaluation Section)</p>\\n\\n<p><strong>SUBMISSION DEADLINES</strong></p>\\n\\n<ul>\\n\\t<li><strong>Site Visit</strong>: 11 May 2026, 12:00 PM Mountain Time. Please submit names to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta no later than close of business 7 May 2026.</li>\\n\\t<li><strong>Questions Due</strong>: 15 May 2026, 12:00 PM Mountain Time. Questions must be submitted via email to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n\\t<li><strong>Proposals Due</strong>: 21 May 2026, 12:00 PM Mountain Time. Proposals must be submitted electronically to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n</ul>\\n\\n<p><strong>SOLICITATION PROVISIONS AND CONTRACT CLAUSES</strong></p>\\n\\n<p>The provisions and clauses applicable to this solicitation are those listed in&nbsp;<strong>RFO 12.205 Solicitation provisions and contract clauses</strong>.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless network. The contractor shall ensure compliance with&nbsp;<strong>NSA CSfC Capabilities Package (CP)</strong>,&nbsp;<strong>DoD Security Technical Implementation Guide (STIG)</strong>, and other applicable federal security standards.</p>\\n\\n<p>This acquisition is&nbsp;<strong>set aside for small business concerns</strong>&nbsp;under&nbsp;<strong>NAICS Code 541512 &ndash; Computer Systems Design Services</strong>, with a small business size standard of&nbsp;<strong>$34M</strong>.</p>\\n\\n<p>This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at&nbsp;<strong>https://www.acquisition.gov/far-overhaul/far-part-deviation-guide</strong>.</p>\\n\\n<p><strong>DESCRIPTION OF REQUIREMENTS</strong></p>\\n\\n<p>The contractor shall perform all work in accordance with the attached&nbsp;<strong>Performance Work Statement (PWS)</strong>. Deliverables and performance milestones are as follows:</p>\\n\\n<p><strong>DATE(S) AND PLACE(S) OF DELIVERY AND ACCEPTANCE</strong></p>\\n\\n<ul>\\n\\t<li><strong>Delivery Location</strong>: Peterson Space Force Base, Colorado</li>\\n\\t<li><strong>FOB Point</strong>: Destination</li>\\n\\t<li><strong>Acceptance</strong>: Deliverables will be reviewed and accepted by the designated Government POC upon validation that all requirements are met.</li>\\n</ul>\\n\\n<p><strong>INSTRUCTIONS TO OFFERORS</strong></p>\\n\\n<p>Offerors shall prepare and submit proposals that include the following:</p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide a detailed narrative describing the approach to executing each phase of the requirement, including:\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Pre-onsite assessment</strong>: Identify methods for assessing infrastructure readiness (e.g., tools, processes).</li>\\n\\t\\t\\t<li><strong>Wireless site surveys</strong>: Include details on the tools and methodologies to be used (e.g., heatmaps, signal strength analysis, channel planning).</li>\\n\\t\\t\\t<li><strong>Compliance</strong>: Describe how the proposed solution will meet&nbsp;<strong>NSA CSfC Capabilities Package</strong>&nbsp;requirements,&nbsp;<strong>DoD STIGs</strong>, and&nbsp;<strong>NSA Common Criteria</strong>.</li>\\n\\t\\t\\t<li><strong>Security and Risk Management</strong>: Outline strategies for ensuring cybersecurity compliance and mitigating risks.</li>\\n\\t\\t\\t<li>Offerors shall submit a <strong>Proposed Milestone Schedule</strong> detailing the number of days required to complete each phase and deliverable of the PWS. The proposed schedule must account for realistic equipment procurement lead times for NSA-approved components. The total proposed <strong>Period of Performance shall not exceed 120 calendar days</strong> after contract award.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Proposed Schedule</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Submit a detailed&nbsp;<strong>project schedule</strong>&nbsp;(e.g., Gantt chart or similar format) showing how all tasks and deliverables will be completed within&nbsp;<strong>60 calendar days of contract award</strong>.</li>\\n\\t\\t<li>Include key milestones, task durations, dependencies, and any concurrent work planned to meet the timeline.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pricing Information</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide firm-fixed pricing for&nbsp;<strong>CLIN 0001</strong>.</li>\\n\\t\\t<li>Acknowledge that pricing for&nbsp;<strong>CLINs 0002 and 0003</strong>&nbsp;will be submitted as part of the deliverables for CLIN 0001.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Representation and Certifications</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Ensure the offeror&rsquo;s&nbsp;<strong>System for Award Management (SAM)</strong>&nbsp;registration is active and up to date.</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>EVALUATION</strong></p>\\n\\n<p>The Government will evaluate offers in accordance with&nbsp;<strong>FAR 52.212-2, Evaluation&mdash;Commercial Products and Commercial Services (Deviation Date)</strong>, as follows:</p>\\n\\n<p><strong>Evaluation Factors (in descending order of importance):</strong></p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s technical approach for its ability to meet the requirements outlined in the PWS.</li>\\n\\t\\t<li>The evaluation will consider the proposed methodologies, tools, and processes for completing the study, design, installation, and testing phases.</li>\\n\\t\\t<li>Emphasis will be placed on the offeror&rsquo;s understanding of CSfC, NSA compliance, DoD STIG standards, and their ability to deliver a fully compliant solution.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Schedule Feasibility</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s Proposed Milestone Schedule to determine if the proposed timelines for design, procurement, and installation are realistic, achievable, and demonstrate a clear understanding of supply chain constraints for required CSfC equipment. Proposed schedules that exceed 120 days total Period of Performance will be deemed unacceptable.</li>\\n\\t\\t<li>The evaluation will consider the realism of the schedule, the logical sequencing of tasks, and the ability to perform concurrent work where applicable.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Price</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Price will be evaluated for&nbsp;<strong>reasonableness</strong>,&nbsp;<strong>realism</strong>, and&nbsp;<strong>balance</strong>:\\n\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Reasonableness</strong>: The proposed price will be compared to historical data, market research, and other offers to ensure it is fair.</li>\\n\\t\\t\\t<li><strong>Realism</strong>: The price will be analyzed to ensure it reflects a sound understanding of the work and is not unrealistically low.</li>\\n\\t\\t\\t<li><strong>Balance</strong>: The price will be reviewed to ensure it is appropriately distributed across all CLINs and does not indicate front-loading or disproportionate allocation.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>Basis for Award:</strong><br />\\nThe Government intends to make an award to the offeror whose proposal represents the&nbsp;<strong>best value</strong>&nbsp;to the Government.&nbsp;<strong>Technical Approach</strong>&nbsp;is significantly more important than&nbsp;<strong>Schedule Feasibility</strong>, which is slightly more important than&nbsp;<strong>Price</strong>. However, as proposals become more equal in their technical merit and schedule feasibility, the evaluated price will become more important in determining the overall best value.</p>\\n\\n<p>(End of Evaluation Section)</p>\\n\\n<p><strong>SUBMISSION DEADLINES</strong></p>\\n\\n<ul>\\n\\t<li><strong>Site Visit</strong>: 11 May 2026, 12:00 PM Mountain Time. Please submit names to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta no later than close of business 7 May 2026.</li>\\n\\t<li><strong>Questions Due</strong>: 15 May 2026, 12:00 PM Mountain Time. Questions must be submitted via email to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n\\t<li><strong>Proposals Due</strong>: 21 May 2026, 12:00 PM Mountain Time. Proposals must be submitted electronically to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n</ul>\\n\\n<p><strong>SOLICITATION PROVISIONS AND CONTRACT CLAUSES</strong></p>\\n\\n<p>The provisions and clauses applicable to this solicitation are those listed in&nbsp;<strong>RFO 12.205 Solicitation provisions and contract clauses</strong>.</p>\\n\"}",
     "attachments": [
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0af6dc00a0a24124bb39b7bac7c62f5b/download",
@@ -880,9 +963,9 @@
         "textSnippet": ""
       },
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c8a43b26eea4a1cbd54dc43587b86b4/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2daae2eb38154b6caf008cd451d91374/download",
         "contentType": "application/octet-stream",
-        "byteSize": 459241,
+        "byteSize": 18054,
         "textSnippet": ""
       }
     ],
@@ -1523,7 +1606,495 @@
     "updatedDate": null
   },
   {
-    "noticeId": "02a990694714486588884425ee9ef4b1",
+    "noticeId": "ee473a3e704b450a88848d8c666163a5",
+    "title": "NUWC Division Keyport 2MMTR Services",
+    "solicitationNumber": "N6572626R3101",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-12",
+    "responseDeadline": "2026-06-11T15:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVSEALOGCENKYPTDIVNUWC  MECH PA",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Portsmouth",
+      "state": "Virginia",
+      "zip": "23703"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/ee473a3e704b450a88848d8c666163a5/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ee473a3e704b450a88848d8c666163a5",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/085d17c4e27f4bff8f1323b15ac0310e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/337092246ce04a02aeb2fe8264351bb4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/49dda3f850464bdf82f40b4cd1817839/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/90736f2277aa48978e316625169fd98c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0c14ee69ae844b88b07cbf687fde40e/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a Small Business SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***</p>\\n\\n<p>Naval Sea Logistics Center, Mechanicsburg, is soliciting for the following non-commercial service: Miniature Microminiature (2M) Repair / Module Test &amp; Repair (MTR).&nbsp;The contractor will be responsible for providing engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Government electronic and electrical systems. The resultant SeaPort task order is anticipated ...",
+    "descriptionFull": "{\"description\":\"<p>***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a Small Business SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.***</p>\\n\\n<p>Naval Sea Logistics Center, Mechanicsburg, is soliciting for the following non-commercial service: Miniature Microminiature (2M) Repair / Module Test &amp; Repair (MTR).&nbsp;The contractor will be responsible for providing engineering and technical services to support the Miniature Microminiature Module Test and Repair Program In-Service Engineering Agent&rsquo;s responsibilities of progressive repair capability for Government electronic and electrical systems. The resultant SeaPort task order is anticipated to be awarded as a cost plus fixed fee (CPFF) task order with a base year and four (4) optional years. The solicitation number for this requirement issued as a request for proposal (RFP) is N6572626R3101. <strong>This requirement is limited to Small Business SeaPort contract holders with a minimum facility clearance of Secret. </strong></p>\\n\\n<p>The applicable NAICS code for this requirement is 541330 and has a size standard of $45 million.&nbsp; The Defense Priorities and Allocations System (DPAS) applicable assigned rating for this requirement is DO-C9.</p>\\n\\n<p>Offerors wishing to submit a proposal are responsible for downloading the RFP from www.sam.gov and frequently monitoring the site for any amendments to the RFP. Proposals must be submitted through the PIEE Solicitation Module. No paper copies will be accepted.&nbsp; Failure to respond to the RFP and associated amendments as applicable, prior to the closing date and time established, may render an offer non-responsive and result in rejection.&nbsp; All questions regarding this solicitation shall be submitted in writing via e-mail to marisa.n.wirfel.civ@us.navy.mil and cody.d.hutchinson.civ@us.navy.mil no later than fifteen (15) calendar days following the issue date of the solicitation, with the day after issue of the solicitation being day one.</p>\\n\\n<p>To access the incorporated clauses/provisions to be completed, download the Federal Acquisition Regulations (FAR) at http://acquisition.gov/far/ and the Defense Federal Acquisition Regulations (DFARS) at http://www.acq.osd.mil/dpap/dars/dfarspgi/current/index.html. Offerors are also advised that the representations and certifications can be completed electronically via the System for Award Management website at http://www.sam.gov.</p>\\n\\n<p>Many of the exhibits and attachments to this RFP contain Controlled Unclassified Information (CUI), and are therefore restricted. Interested Offerors must request access via SAM.gov. The Government will verify each Offeror&rsquo;s status as a qualified SeaPort-NxG vendor prior to granting access to controlled attachments.</p>\\n\\n<p>Per DFARS 252.204-7019, Notice of NIST SP 800-171 DoD Assessment Requirements, the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-171 applies to this procurement. &nbsp;The Offeror shall have a current (not more than 3 years old) minimum Confidence Level assessment of &ldquo;Basic&rdquo; as identified in the NIST SP 800-171 Assessment Report within the Supplier Performance Risk System (SPRS). &nbsp;Guidance regarding the NIST SP 800-171 DoD Assessments can be found at https://www.sprs.csd.disa.mil/.&nbsp; The Government will not extend or delay the procurement for pending Contractor NIST SP 800-171 assessments.</p>\\n\\n<p>The Program Office has determined CMMC compliance is required effective 10 November 2025. The minimum CMMC assessment requirement for this tasking is CMMC Level 2 (Self).</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/085d17c4e27f4bff8f1323b15ac0310e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 22064,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/337092246ce04a02aeb2fe8264351bb4/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 456759,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/49dda3f850464bdf82f40b4cd1817839/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 25818,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/90736f2277aa48978e316625169fd98c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 21246,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e0c14ee69ae844b88b07cbf687fde40e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 2640565,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "c7b2891b46814f2491d32a327b1ce1ed",
+    "title": "Architect-Engineer (A-E) Services IDIQ for Offutt AFB",
+    "solicitationNumber": "FA4600R0004",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-12",
+    "responseDeadline": "2026-06-10T15:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "St Columbans",
+      "state": "Nebraska",
+      "zip": "68113"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/c7b2891b46814f2491d32a327b1ce1ed/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c7b2891b46814f2491d32a327b1ce1ed",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ce1d566579a4192b2856d174836147e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/15cc9dc143a041e3830a18e27c8e237e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6228eb7f1e12474aa89371c970381226/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b038fe4c3be45288f4e126f18571ff2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/77ce9986377947e38e20c890fa6796b9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ac235ba298414848aca6b221b8314c9a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c376367e6f1243678dfe62eba2415007/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c5f65be3bd5f42349b1a7b1cfcb8d0f4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c6f0bb5f2d37439698746a4e819bf627/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cddb18d57bad46dbbc49cdf4bfec22e6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d23bdb2d78a145a2a7fd3f89f2b61a77/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dbf96d75c859462293f080f7b9ce1af3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fff17c8da8844990adbb3bb2ecd1a688/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>--- AMENDMENT 0002 HAS BEEN ISSUED ---</strong><br />\\n<em>(Please see the attached &quot;Amd_0002_Deadline_Correction&quot; document for critical clarifications regarding the final submission deadline).</em></p>\\n\\n<p><strong>--- AMENDMENT 0001 WAS PREVIOUSLY ISSUED ---</strong><br />\\n<em>(Please see the Amendment 0001 Summary and Q&amp;A document for full details regarding updated cybersecurity compliance requirements, SOW replacements, and other key clarifications. The Conformed Synopsis and Replacement SOWs attached to Amendment 0001 remain the official, active solicitation documents).</em></p>\\n\\n<p>The 55th Contracting Squadron at Offutt Air Force Base, Nebraska, is issuing a Combined Synopsis/Solicitation for Architect-Engineer (A-E) services in accord...",
+    "descriptionFull": "{\"description\":\"<p><strong>--- AMENDMENT 0002 HAS BEEN ISSUED ---</strong><br />\\n<em>(Please see the attached &quot;Amd_0002_Deadline_Correction&quot; document for critical clarifications regarding the final submission deadline).</em></p>\\n\\n<p><strong>--- AMENDMENT 0001 WAS PREVIOUSLY ISSUED ---</strong><br />\\n<em>(Please see the Amendment 0001 Summary and Q&amp;A document for full details regarding updated cybersecurity compliance requirements, SOW replacements, and other key clarifications. The Conformed Synopsis and Replacement SOWs attached to Amendment 0001 remain the official, active solicitation documents).</em></p>\\n\\n<p>The 55th Contracting Squadron at Offutt Air Force Base, Nebraska, is issuing a Combined Synopsis/Solicitation for Architect-Engineer (A-E) services in accordance with the Brooks Act (RFO Subpart 36.102).</p>\\n\\n<p>The Government intends to award up to four (4) single-award, Firm-Fixed-Price (FFP) Indefinite-Delivery/Indefinite-Quantity (IDIQ) contracts to provide a full range of multi-disciplinary Title I, Title II, and other specialized engineering services. These services will support sustainment, restoration, modernization, and new construction projects primarily at Offutt AFB and its associated off-site facilities in eastern Nebraska.</p>\\n\\n<p><strong>Important Dates (CLARIFIED VIA AMENDMENT 0002):</strong></p>\\n\\n<ul>\\n\\t<li>\\n\\t<p><strong>Questions Due Date:</strong>&nbsp;The deadline for questions has passed. No further questions will be accepted.</p>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>SF330 Submission Due Date:</strong>&nbsp;<strong>10 June 2026 at 3:00 PM Central Time.</strong>&nbsp;(This is the final, definitive deadline. No further extensions will be granted).</p>\\n\\t</li>\\n</ul>\\n\\n<p><strong>Acquisition Strategy &amp; Contract Structure:</strong></p>\\n\\n<ul>\\n\\t<li>\\n\\t<p><strong>Set-Aside:</strong>&nbsp;This acquisition is a&nbsp;<strong>100% Total Small Business Set-Aside</strong>.</p>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>NAICS Code:</strong>&nbsp;541330 (Engineering Services), with a Small Business Size Standard of $25.5 Million.</p>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Period of Performance:</strong>&nbsp;Each contract will consist of a five (5) year base period and one (1) five (5) year option period.</p>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Contract Ceiling:</strong>&nbsp;The maximum capacity for each IDIQ contract is $49,000,000.</p>\\n\\t</li>\\n</ul>\\n\\n<p><strong>Pool Structure:</strong><br />\\nTo ensure the Government has access to highly specialized expertise, the contracts will be awarded across four (4) distinct pools of work. A firm may submit qualifications for one or more pools;&nbsp;<strong>however, a firm will only be awarded a maximum of one (1) contract.</strong></p>\\n\\n<ul>\\n\\t<li>\\n\\t<p><strong>Pool 1:</strong>&nbsp;Specialized Engineering &amp; Consulting (e.g., Blast, RF Shielding, SCIF/SAPF, Acoustics)</p>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pool 2:</strong>&nbsp;Mechanical &amp; Electrical Engineering</p>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pool 3:</strong>&nbsp;Civil &amp; Structural Engineering</p>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pool 4:</strong>&nbsp;Architecture &amp; Renovation</p>\\n\\t</li>\\n</ul>\\n\\n<p><strong>Key Mandatory Requirements:</strong><br />\\nOfferors are advised that this solicitation includes stringent mandatory pass/fail requirements that must be met&nbsp;<strong>at the time of submission</strong>, including:</p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Geographic Requirement:</strong>&nbsp;A full-service, non-residential design office located within a 200-mile radius of Offutt AFB (Applies to the Prime Offeror only).</p>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Cybersecurity Compliance:</strong>&nbsp;The Offeror must possess a current, active Summary Level Score in the Supplier Performance Risk System (SPRS) reflecting a self-assessment against the NIST SP 800-171 framework.</p>\\n\\t</li>\\n</ol>\\n\\n<p><strong>Submission Instructions:</strong><br />\\nThis is&nbsp;<strong>NOT</strong>&nbsp;a Request for Proposal (RFP). Interested firms must submit a Statement of Qualifications using Standard Form (SF) 330.</p>\\n\\n<p>For complete details on the scope of work, mandatory requirements, evaluation criteria, and specific instructions for submitting an SF330, please download and carefully review the Conformed Synopsis/Solicitation and the individual Statements of Work (SOWs) attached to this posting.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ce1d566579a4192b2856d174836147e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 157949,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/15cc9dc143a041e3830a18e27c8e237e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 191423,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6228eb7f1e12474aa89371c970381226/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1823627,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b038fe4c3be45288f4e126f18571ff2/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1233063,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/77ce9986377947e38e20c890fa6796b9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1230366,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "modernization"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Nebraska"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "bdfe6a33b7c24155a377ab036048b9b4",
+    "title": "B710 Architect Design Repair Emergency Services",
+    "solicitationNumber": "FA663326QA004",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-12",
+    "responseDeadline": "2026-06-11T15:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE RESERVE COMMAND.FA6633  934 AW PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "zip": "55450"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/bdfe6a33b7c24155a377ab036048b9b4/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bdfe6a33b7c24155a377ab036048b9b4",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ab6ef6a886744948ace2f4a1e381d6f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/57fdb1c75566401b893efbd03e561f55/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/59c87f96db414b86b9393c6dc4d02b85/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/629ecc7d55084755af93fde8389ec941/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93e6fa1ba16542fbb5671d804ddc6b76/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a043bdbd3b2c4b999bf72424a2efa1ea/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d3dc2cbd3ffe4620b8ca40aa0ddcaac3/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>Notice to Offeror(s)/Supplier(s): Funds are not presently available for this effort. No award will be made under this solicitation until funds are available. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs.<br />\\nThis is a public announcement for a Request for Architect-Engineer (A-E) Qualifications in accordance with the Revolutionary Far Overhaul (RFO) Subpart 36.202, Selection of Firms for Architect-Engineer Contracts, Department of the Air Force, and the Brooks Act. Price proposals are not requested with this announcement and will not be considered.<br />\\nThe Government anticipates a...",
+    "descriptionFull": "{\"description\":\"<p>Notice to Offeror(s)/Supplier(s): Funds are not presently available for this effort. No award will be made under this solicitation until funds are available. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs.<br />\\nThis is a public announcement for a Request for Architect-Engineer (A-E) Qualifications in accordance with the Revolutionary Far Overhaul (RFO) Subpart 36.202, Selection of Firms for Architect-Engineer Contracts, Department of the Air Force, and the Brooks Act. Price proposals are not requested with this announcement and will not be considered.<br />\\nThe Government anticipates awarding to one (1) responsible offeror with the most highly<br />\\nqualified firms following evaluation, selection, and negotiation. The Government reserves the right to award one contract under this solicitation if in the best interest of the Government.<br />\\nStatutory fee limitation: Adhere to 10 U.S.C. 9540. Current limitation is ten percent. The contract price for production and delivery of designs, plans, drawings, and specifications shall not exceed ten percent of the estimated cost of construction of the public work or utility, excluding fees.<br />\\nThese contracts will fulfill requirements for:<br />\\n(1) Provide Professional Design Servies (Title I Type A, Title I Type B and Title II Services) all supervision, labor, materials and equipment necessary to fully meet all requirements of the Statement of Work (SOW), SOW Drawings and all other Contract Documents related to and/or titled: &ldquo;REPAIR EMERGENCY SERVICES B710&rdquo; at the Minneapolis Air Reserve Station, Minneapolis, Minnesota. The Government will provide Contractor(s) with access to the site and/or facilities along with any existing documentation pertinent to the project, including existing drawings for this facility. It is the Contractors responsibility to verify the accuracy of these drawings and documents. Professional services of an architectural or engineering nature associated with design or construction of real property.<br />\\n(2) Title I (type &ldquo;A&rdquo; Services) Involves field investigations and surveys (roof investigations, fa&ccedil;ade evaluations, etc.); similar fact-finding surveys of the site essential to proper design; preparation of reports and similar services not involved in the preparation of designs, plans, drawings, and specifications.<br />\\n(3) Title I (Type &ldquo;B&rdquo; Services). These services include those items normally furnished by an AE in the actual preparation of the design documents (plans, drawings, specifications, submittal register, etc.) and include visual inspection of the site or facility for familiarization with scope, general conditions, and coordination with using activities.<br />\\n(4) Title II (Type &ldquo;C&rdquo; Services). Those items involve inspecting, monitoring, and evaluating construction activities to validate conformance to plans and specifications, including reviewing, evaluating and testing product submittals and shop drawings, and preparation of construction contract modifications.<br />\\nRefer to the contract-level scope of work for details.<br />\\nNo construction contract may be awarded to the firm that designed the project.<br />\\nProduct Service Code: C215 Architect-Engineering- General: Production Engineering, includes; Design and Control, Building Programming NAICS: 541330 Engineering Services<br />\\nSmall Business Size Standard: $25.5M<br />\\nEach potential contractor shall be evaluated in terms of its:<br />\\n(1) Professional qualifications necessary for satisfactory performance of required services.<br />\\n(2) Specialized experience and technical competence in the type of work required, including, where appropriate, experience in energy conservation, pollution prevention, waste reduction, and the use of recovered materials.<br />\\n(3) Capacity to accomplish the work in the required time.<br />\\n(4) Past performance on contracts with Government agencies and private industry in terms of cost control, quality of work, and compliance with performance schedules.<br />\\n(5) Location in the general geographical area of the project and knowledge of the locality of the project; provided, that application of this criterion leaves an appropriate number of qualified firms, given the nature and size of the project.<br />\\n(6) Acceptability under other appropriate evaluation criteria, as indicated below.<br />\\nMinneapolis Air Force Reserve Base will provide one architect-engineer evaluation board composed of its members who, collectively, have experience in architecture, engineering, construction, and Government and related acquisition matters. One Government member of each board shall be designated as the chairperson.<br />\\nUnder the general direction of the 934th Contracting Flight Chief of the Contracting<br />\\nOffice (COCO) the evaluation board shall:<br />\\n(1) Review the current data files on eligible firms and responses to the public notice.<br />\\n(2) Evaluate the firms in accordance with the criteria listed.<br />\\n(3) Hold discussions with at least three of the most highly qualified firms regarding<br />\\nconcepts and the relative utility of alternative methods of furnishing the required services.<br />\\n(4) And prepare a selection report for the 934th Civil Engineering Squadron Base Civil Engineer recommending, in order of preference, at least three firms that are considered to be the most highly qualified to perform the required services. The report shall include a description of the discussions and evaluation conducted by the board to allow the selection authority to review the considerations upon which the recommendations are based.<br />\\nThe final selection decision shall be made by the Base Civil Engineer.<br />\\nThe selection authority shall review the recommendations of the evaluation board and shall, with the advice of appropriate technical and staff representatives, make the final selection. This final selection shall be a listing, in order of preference, of the firms considered most highly qualified to perform the work. If the firm listed as the most preferred is not the firm recommended as the most highly qualified by the evaluation board, the selection authority shall provide for the contract file a written explanation of the reason for the preference. All firms on the final selection list are considered &quot;selected firms&quot; with which the contracting officer may negotiate in accordance with RFO 36.201-1(b)(2).<br />\\nThe selection authority shall not add firms to the selection report. If the firms recommended in the report are not deemed to be qualified or the report is considered inadequate for any reason, the selection authority shall record the reasons and return the report through channels to the evaluation board for appropriate revision.<br />\\nThe board shall be promptly informed of the final selection.<br />\\nThe final selection authorizes the Contracting Officer to begin negotiations, beginning with the most preferred firm in the final selection.<br />\\nThe Contracting Officer will request priced proposals for fully burdened contract rates that will be used to price orders made under each contract. Refer to the table of categories for which rates will be requested.<br />\\nIf a mutually satisfactory contract cannot be negotiated, the contracting officer shall obtain a written final proposal revision from the firm and notify the firm that negotiations have been terminated. The contracting officer shall then initiate negotiations with the next firm on the final selection list. This procedure shall be continued until a mutually satisfactory contract has been negotiated. If negotiations fail with all selected firms, the contracting officer shall refer the matter to the selection authority who, after consulting with the contracting officer as to why a contract cannot be negotiated, may direct the evaluation board to recommend additional firms in accordance with RFO 36.202-3.<br />\\nInstructions.<br />\\nTo be considered for contract award, firms must file a Standard Form 330. The most current version is available for download at https://www.gsa.gov/reference/forms/architectengineer-qualifications<br />\\nQualification files shall be submitted through the DoD SAFE. No other method will be used for submission. Prior to submission, notify the POC (points of contact) under the General Information section below and request DoD SAFE request drop off.<br />\\nSubmit a complete Standard Form 330 (all parts) and the support documentation. Follow the instructions of the Standard Form 330 for generation of the support documentation and ensure the submitted information demonstrates the qualifications of the firm against the specific selection criteria listed below. Firms shall also use this Request for Qualifications document to self-evaluate under each selection criteria and total of points. Include the self-evaluation using this document with the other support documentation.<br />\\nTotal submission is limited to 50 pages of standard 8.5 x 11 with 1-inch margin. 10-point font minimum. The Standard Form 330 itself and the self-evaluation using this document does not count against the 50-page limitation.<br />\\nDo not provide any pricing information.</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ab6ef6a886744948ace2f4a1e381d6f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 179820,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/57fdb1c75566401b893efbd03e561f55/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 309041,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/59c87f96db414b86b9393c6dc4d02b85/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 696324,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/629ecc7d55084755af93fde8389ec941/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 304454,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93e6fa1ba16542fbb5671d804ddc6b76/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 1073371,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "Monitoring",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "Monitoring",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Minnesota"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "b5ffcdb73bbf4ae7a3f926df7dacd7f3",
+    "title": "Architectural and Engineering Services (A/E) Indefinite Delivery Indefinite Quantity",
+    "solicitationNumber": "W911SD26RA004",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-12",
+    "responseDeadline": "2026-05-29T16:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.MISSION INSTALLATION CONTRACTING COMMAND.FDO EUSTIS.W6QM MICC-WEST POINT",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "West Point",
+      "state": "New York",
+      "zip": "10996"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/b5ffcdb73bbf4ae7a3f926df7dacd7f3/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b5ffcdb73bbf4ae7a3f926df7dacd7f3",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8026fbbca1b346179740e922157d01c7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/95700412653744cb9bbd39a002953dc9/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>This is a notice only for the submission of Architect -Engineer Qualification Packages, SF330.&nbsp; &nbsp;</p>\\n\\n<p>The Mission and Installation Contracting Command (MICC) - West Point, NY is issuing this notice for the procurement of Architectural and Engineering (A-E) services in support of the Directorate of Public Works (DPW), West Point NY.</p>\\n\\n<p>This procurement is being conducted in accordance with the Brooks Act (Public Law 92-582), as implemented by FAR Subpart 36.6.</p>\\n\\n<p>This is not a request for proposal.&nbsp; No pricing information is requested at this time.&nbsp;</p>\\n\\n<p><strong>Description:</strong> The Government intends to award multiple Indefinite Delivery Indefinite Quantity (IDIQ) contracts for general A-E services in support of Sustai...",
+    "descriptionFull": "{\"description\":\"<p>This is a notice only for the submission of Architect -Engineer Qualification Packages, SF330.&nbsp; &nbsp;</p>\\n\\n<p>The Mission and Installation Contracting Command (MICC) - West Point, NY is issuing this notice for the procurement of Architectural and Engineering (A-E) services in support of the Directorate of Public Works (DPW), West Point NY.</p>\\n\\n<p>This procurement is being conducted in accordance with the Brooks Act (Public Law 92-582), as implemented by FAR Subpart 36.6.</p>\\n\\n<p>This is not a request for proposal.&nbsp; No pricing information is requested at this time.&nbsp;</p>\\n\\n<p><strong>Description:</strong> The Government intends to award multiple Indefinite Delivery Indefinite Quantity (IDIQ) contracts for general A-E services in support of Sustainment, Restoration, and Modernization (SRM) and other construction programs within West Point.</p>\\n\\n<p>Services may include, but are not limited to:</p>\\n\\n<ul>\\n\\t<li>Planning, investigation, and design services</li>\\n\\t<li>Preparation of studies, reports, cost estimates, and technical analyses</li>\\n\\t<li>Development of construction drawings and specifications</li>\\n\\t<li>Construction Phase Services (Title II)</li>\\n\\t<li>Computer Aided Design and Drafting (CADD) services</li>\\n\\t<li>Environmental and Infrastructure - related services</li>\\n</ul>\\n\\n<p>Projects will primarily involve facilities and infrastructure typical of military installations and may include administrative, training, operational, and support facilities, as well as utility and infrastructure systems.&nbsp; Work may also include renovation, repair, alteration, and rehabilitation of existing historic facilities.&nbsp;</p>\\n\\n<p>Work will consist of renovation, repair, alteration, and rehabilitation projects of varying size and complexity.</p>\\n\\n<p><strong>Contract Information:</strong> The Government intends to award up to three (3) IDIQ contracts.</p>\\n\\n<p>Each contract will have an ordering period not to exceed five (5) years.</p>\\n\\n<p>The total aggregate capacity of all contracts will not exceed $20,000,000.00.</p>\\n\\n<p>Task orders will be Firm Fixed Price.</p>\\n\\n<p><strong>NAICS Code:</strong> 541330 &ndash; Engineering Services</p>\\n\\n<p>The applicable small business size standard is $25,500,000.00</p>\\n\\n<p>Set Aside:&nbsp; This procurement is set aside for 100% Small Business concerns.</p>\\n\\n<p><strong>Selection Process:</strong> Firms will be evaluated and selected for negotiation based on demonstrated competence and qualifications in accordance with FAR Subpart 36.6.</p>\\n\\n<p>The most highly qualified firms will be selected, and negotiations will be conducted to determine fair and reasonable pricing.&nbsp;</p>\\n\\n<p><strong>Evaluation Criteria:</strong> Firms will be evaluated based on the following factors, listed in descending order of importance:</p>\\n\\n<ol>\\n\\t<li>Specialized experience and technical competence in providing A-E services for renovation, repair, alteration, and rehabilitation of facilities and infrastructure.</li>\\n\\t<li>Professional qualifications of key personnel</li>\\n\\t<li>Past performance</li>\\n\\t<li>Capacity to accomplish the work</li>\\n\\t<li>Knowledge of the locality</li>\\n\\t<li>Volume of prior Department of War work.</li>\\n</ol>\\n\\n<p>Factors a. through d. are considered the most critical.&nbsp; Factors e. and f. are of lesser importance and may be used as discriminators among firms that are otherwise considered substantially equal under the most critical factors.&nbsp;</p>\\n\\n<p><strong>Project Experience (SF 330, Section F):</strong> Firms shall submit recent and relevant project experience in section F. of the SF 330 that demonstrates their qualifications to perform the required A-E services.</p>\\n\\n<p>&ldquo;Recent&rdquo; is defined as projects completed within the past five (5) years from the date of this notice.&nbsp;</p>\\n\\n<p>Projects submitted should be similar in scope, size, and complexity and demonstrate experience in the planning, design, and execution of projects involving renovation, repair, alteration, and/or modernization of facilities and infrastructure.</p>\\n\\n<p>Firms are encouraged to highlight experience that demonstrates:</p>\\n\\n<ul>\\n\\t<li>Multidisciplinary design capabilities across key engineering and architectural disciplines</li>\\n\\t<li>Preparation of construction drawings, specifications, and cost estimates</li>\\n\\t<li>Coordination among design disciplines and stakeholders</li>\\n\\t<li>Experience supporting the Department of War or similar government projects (if applicable)</li>\\n\\t<li>Ability to perform design services for facilities and infrastructure in varying conditions and project types</li>\\n</ul>\\n\\n<p>Each project description shall clearly identify:</p>\\n\\n<ul>\\n\\t<li>Scope of work performed by the firm</li>\\n\\t<li>Firm&rsquo;s role (prime or subcontractor)</li>\\n\\t<li>Project size, complexity, and type</li>\\n\\t<li>Dates of performance</li>\\n\\t<li>Relevance to the requirements of this notice</li>\\n</ul>\\n\\n<p>Firms shall include sufficient project examples to clearly demonstrate their qualifications.</p>\\n\\n<p>Greater consideration may be given to projects involving renovation and modernization of existing facilities in occupied or operational environments.&nbsp; &nbsp;</p>\\n\\n<p><strong>Submission Requirements:</strong> Interested Firms shall submit a completed SF 330, Architect &ndash; Engineer Qualifications.&nbsp;</p>\\n\\n<p>Firms must be registered in the System for Award Management (SAM) to be eligible for award.</p>\\n\\n<p><strong>Submission Instructions:</strong></p>\\n\\n<p>Submit SF 330 packages electronically in PDF format.</p>\\n\\n<p>Submission Deadline: 29 May 2026 4:00PM EST</p>\\n\\n<p>Submit to: Lakenia Brown at lakenia.m.brown.civ@army.mil</p>\\n\\n<p><strong>Additional Information:</strong> This announcement shall not be construed as a commitment by the Government to issue a solicitation or award a contract.&nbsp; &nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8026fbbca1b346179740e922157d01c7/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 682665,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/95700412653744cb9bbd39a002953dc9/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 43259,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "modernization",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "modernization",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "New York"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "a7856ba4e4684cb28832bf726fe19ec1",
+    "title": "Synopsis for Davis-Monthan Air Force Base Architectural Engineering (A&E) IDIQ",
+    "solicitationNumber": "DMAFBAEIDIQSYNOPSIS",
+    "type": "Presolicitation",
+    "baseType": "Sources Sought",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-12",
+    "responseDeadline": "2026-05-28T15:00:00-07:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4877  355 CONS PK",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Tucson",
+      "state": "Arizona",
+      "zip": "85707"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/a7856ba4e4684cb28832bf726fe19ec1/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a7856ba4e4684cb28832bf726fe19ec1",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98024a26e25d40a8b5a0b3773bb4fa5f/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>The 355th Contracting Squadron (355 CONS) is issuing this synopsis in accordance with Revolutionary FAR Overhaul (RFO) 5, &quot;Publicizing Contract Actions,&quot; to announce a forthcoming requirement for Architect and Engineering (A&amp;E) services.&nbsp;This action will be executed in accordance with RFO 16.5, &quot;Indefinite-Delivery Contracts,&quot; utilizing the acquisition procedures prescribed in RFO 36.202, &quot;Architect and Engineering Services&quot; (Brooks Act procedures). 355 CONS intends to award three (3) multiple award A&amp;E Indefinite-Delivery/Indefinite-Quantity (IDIQ) contracts with a total estimated capacity of&nbsp;$9.9M.&nbsp;</p>\\n\\n<p>The purpose of this requirement is to provide a broad range of A&amp;E services to support the 355 CONS mi...",
+    "descriptionFull": "{\"description\":\"<p>The 355th Contracting Squadron (355 CONS) is issuing this synopsis in accordance with Revolutionary FAR Overhaul (RFO) 5, &quot;Publicizing Contract Actions,&quot; to announce a forthcoming requirement for Architect and Engineering (A&amp;E) services.&nbsp;This action will be executed in accordance with RFO 16.5, &quot;Indefinite-Delivery Contracts,&quot; utilizing the acquisition procedures prescribed in RFO 36.202, &quot;Architect and Engineering Services&quot; (Brooks Act procedures). 355 CONS intends to award three (3) multiple award A&amp;E Indefinite-Delivery/Indefinite-Quantity (IDIQ) contracts with a total estimated capacity of&nbsp;$9.9M.&nbsp;</p>\\n\\n<p>The purpose of this requirement is to provide a broad range of A&amp;E services to support the 355 CONS mission and associated installations. Task orders issued under this IDIQ may include, but are not limited to, multi-discipline engineering, architectural design, site investigations, drafting, planning, and construction inspection services to support the 355th Civil Engineering Squadron (355 CES). Please see attached Statement of Work (SOW) for further details.&nbsp;</p>\\n\\n<p>This is a&nbsp;SYNOPSIS ONLY. This notice does not constitute a Request for Proposal, Request for Quote, or Invitation for Bid. Do not submit SF 330s, proposals, or pricing information in response to this notice. A&nbsp;formal solicitation/announcement, detailing the specific evaluation criteria, submission requirements, and the deadline for SF 330 submissions, is anticipated to be posted on SAM.gov in June or July FY26. Interested parties are highly encouraged to monitor SAM.gov for the official solicitation release and any associated amendments. Response to this synopsis is not required.&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98024a26e25d40a8b5a0b3773bb4fa5f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 514102,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Arizona"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "9f09f8a20b3c41cab235c7a6ea13a9a1",
     "title": "H30 Engineering Services",
     "solicitationNumber": "N0017826R3017",
     "type": "Solicitation",
@@ -1531,7 +2102,7 @@
     "naicsCode": "541330",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-11",
+    "postedDate": "2026-05-12",
     "responseDeadline": "2026-06-08T12:00:00-04:00",
     "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
     "office": "",
@@ -1541,27 +2112,34 @@
       "zip": null
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/02a990694714486588884425ee9ef4b1/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=02a990694714486588884425ee9ef4b1",
+      "uiLink": "https://sam.gov/workspace/contract/opp/9f09f8a20b3c41cab235c7a6ea13a9a1/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9f09f8a20b3c41cab235c7a6ea13a9a1",
       "additionalInfoLink": null,
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67b53f1d7f93441b98aee3fd5d3d7a80/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/770937f8a3c04cfca7d2e61b7f7980b8/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5b0290b89f4c4b85a16d06c574e6b6de/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/770937f8a3c04cfca7d2e61b7f7980b8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/921a076b936a48bf8c86dd4a54183f21/download"
       ]
     },
     "descriptionSnippet": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project manag...",
     "descriptionFull": "{\"description\":\"<p>The Naval Surface Warfare Center Dahlgren Division (NSWCDD) falls under the Naval Sea Systems Command (NAVSEA). NSWCDD is an engineering, software development, and system test and integration center for Research, Development, Test, and Evaluation (RDTE) components of the US Navy. Request for proposals to provide engineering services to the Weapons Control and Integration Department (H), Missile Systems, Threat Engineering, and Weapons Effectiveness Division (H30) for professional system engineering, mechanical engineering, electrical engineering, computer hardware and software engineering, design and technical direction agent engineering, configuration management (CM), logistics support services, mechanical and electrical engineering technician services, project management and project management support functions, accounting and business services, technical writing services, information assurance (IA) support services, and system administration services.</p>\\n\"}",
     "attachments": [
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67b53f1d7f93441b98aee3fd5d3d7a80/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5b0290b89f4c4b85a16d06c574e6b6de/download",
         "contentType": "application/octet-stream",
-        "byteSize": 195687,
+        "byteSize": 35299,
         "textSnippet": ""
       },
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/770937f8a3c04cfca7d2e61b7f7980b8/download",
         "contentType": "application/octet-stream",
         "byteSize": 426070,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/921a076b936a48bf8c86dd4a54183f21/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 226173,
         "textSnippet": ""
       }
     ],
@@ -1893,115 +2471,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "ad1a3e4858de4e59b0c42beb69837fee",
-    "title": "B710 Architect Design Repair Emergency Services",
-    "solicitationNumber": "FA663326QA004",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-05",
-    "responseDeadline": "2026-05-05T15:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE RESERVE COMMAND.FA6633  934 AW PK",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Minneapolis",
-      "state": "Minnesota",
-      "zip": "55450"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/ad1a3e4858de4e59b0c42beb69837fee/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ad1a3e4858de4e59b0c42beb69837fee",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ab6ef6a886744948ace2f4a1e381d6f/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/57fdb1c75566401b893efbd03e561f55/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/59c87f96db414b86b9393c6dc4d02b85/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/629ecc7d55084755af93fde8389ec941/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93e6fa1ba16542fbb5671d804ddc6b76/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a043bdbd3b2c4b999bf72424a2efa1ea/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d3dc2cbd3ffe4620b8ca40aa0ddcaac3/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>Notice to Offeror(s)/Supplier(s): Funds are not presently available for this effort. No award will be made under this solicitation until funds are available. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs.<br />\\nThis is a public announcement for a Request for Architect-Engineer (A-E) Qualifications in accordance with the Revolutionary Far Overhaul (RFO) Subpart 36.202, Selection of Firms for Architect-Engineer Contracts, Department of the Air Force, and the Brooks Act. Price proposals are not requested with this announcement and will not be considered.<br />\\nThe Government anticipates a...",
-    "descriptionFull": "{\"description\":\"<p>Notice to Offeror(s)/Supplier(s): Funds are not presently available for this effort. No award will be made under this solicitation until funds are available. The Government reserves the right to cancel this solicitation, either before or after the closing date. In the event the Government cancels this solicitation, the Government has no obligation to reimburse an offeror for any costs.<br />\\nThis is a public announcement for a Request for Architect-Engineer (A-E) Qualifications in accordance with the Revolutionary Far Overhaul (RFO) Subpart 36.202, Selection of Firms for Architect-Engineer Contracts, Department of the Air Force, and the Brooks Act. Price proposals are not requested with this announcement and will not be considered.<br />\\nThe Government anticipates awarding to one (1) responsible offeror with the most highly<br />\\nqualified firms following evaluation, selection, and negotiation. The Government reserves the right to award one contract under this solicitation if in the best interest of the Government.<br />\\nStatutory fee limitation: Adhere to 10 U.S.C. 9540. Current limitation is ten percent. The contract price for production and delivery of designs, plans, drawings, and specifications shall not exceed ten percent of the estimated cost of construction of the public work or utility, excluding fees.<br />\\nThese contracts will fulfill requirements for:<br />\\n(1) Provide Professional Design Servies (Title I Type A, Title I Type B and Title II Services) all supervision, labor, materials and equipment necessary to fully meet all requirements of the Statement of Work (SOW), SOW Drawings and all other Contract Documents related to and/or titled: &ldquo;REPAIR EMERGENCY SERVICES B710&rdquo; at the Minneapolis Air Reserve Station, Minneapolis, Minnesota. The Government will provide Contractor(s) with access to the site and/or facilities along with any existing documentation pertinent to the project, including existing drawings for this facility. It is the Contractors responsibility to verify the accuracy of these drawings and documents. Professional services of an architectural or engineering nature associated with design or construction of real property.<br />\\n(2) Title I (type &ldquo;A&rdquo; Services) Involves field investigations and surveys (roof investigations, fa&ccedil;ade evaluations, etc.); similar fact-finding surveys of the site essential to proper design; preparation of reports and similar services not involved in the preparation of designs, plans, drawings, and specifications.<br />\\n(3) Title I (Type &ldquo;B&rdquo; Services). These services include those items normally furnished by an AE in the actual preparation of the design documents (plans, drawings, specifications, submittal register, etc.) and include visual inspection of the site or facility for familiarization with scope, general conditions, and coordination with using activities.<br />\\n(4) Title II (Type &ldquo;C&rdquo; Services). Those items involve inspecting, monitoring, and evaluating construction activities to validate conformance to plans and specifications, including reviewing, evaluating and testing product submittals and shop drawings, and preparation of construction contract modifications.<br />\\nRefer to the contract-level scope of work for details.<br />\\nNo construction contract may be awarded to the firm that designed the project.<br />\\nProduct Service Code: C215 Architect-Engineering- General: Production Engineering, includes; Design and Control, Building Programming NAICS: 541330 Engineering Services<br />\\nSmall Business Size Standard: $25.5M<br />\\nEach potential contractor shall be evaluated in terms of its:<br />\\n(1) Professional qualifications necessary for satisfactory performance of required services.<br />\\n(2) Specialized experience and technical competence in the type of work required, including, where appropriate, experience in energy conservation, pollution prevention, waste reduction, and the use of recovered materials.<br />\\n(3) Capacity to accomplish the work in the required time.<br />\\n(4) Past performance on contracts with Government agencies and private industry in terms of cost control, quality of work, and compliance with performance schedules.<br />\\n(5) Location in the general geographical area of the project and knowledge of the locality of the project; provided, that application of this criterion leaves an appropriate number of qualified firms, given the nature and size of the project.<br />\\n(6) Acceptability under other appropriate evaluation criteria, as indicated below.<br />\\nMinneapolis Air Force Reserve Base will provide one architect-engineer evaluation board composed of its members who, collectively, have experience in architecture, engineering, construction, and Government and related acquisition matters. One Government member of each board shall be designated as the chairperson.<br />\\nUnder the general direction of the 934th Contracting Flight Chief of the Contracting<br />\\nOffice (COCO) the evaluation board shall:<br />\\n(1) Review the current data files on eligible firms and responses to the public notice.<br />\\n(2) Evaluate the firms in accordance with the criteria listed.<br />\\n(3) Hold discussions with at least three of the most highly qualified firms regarding<br />\\nconcepts and the relative utility of alternative methods of furnishing the required services.<br />\\n(4) And prepare a selection report for the 934th Civil Engineering Squadron Base Civil Engineer recommending, in order of preference, at least three firms that are considered to be the most highly qualified to perform the required services. The report shall include a description of the discussions and evaluation conducted by the board to allow the selection authority to review the considerations upon which the recommendations are based.<br />\\nThe final selection decision shall be made by the Base Civil Engineer.<br />\\nThe selection authority shall review the recommendations of the evaluation board and shall, with the advice of appropriate technical and staff representatives, make the final selection. This final selection shall be a listing, in order of preference, of the firms considered most highly qualified to perform the work. If the firm listed as the most preferred is not the firm recommended as the most highly qualified by the evaluation board, the selection authority shall provide for the contract file a written explanation of the reason for the preference. All firms on the final selection list are considered &quot;selected firms&quot; with which the contracting officer may negotiate in accordance with RFO 36.201-1(b)(2).<br />\\nThe selection authority shall not add firms to the selection report. If the firms recommended in the report are not deemed to be qualified or the report is considered inadequate for any reason, the selection authority shall record the reasons and return the report through channels to the evaluation board for appropriate revision.<br />\\nThe board shall be promptly informed of the final selection.<br />\\nThe final selection authorizes the Contracting Officer to begin negotiations, beginning with the most preferred firm in the final selection.<br />\\nThe Contracting Officer will request priced proposals for fully burdened contract rates that will be used to price orders made under each contract. Refer to the table of categories for which rates will be requested.<br />\\nIf a mutually satisfactory contract cannot be negotiated, the contracting officer shall obtain a written final proposal revision from the firm and notify the firm that negotiations have been terminated. The contracting officer shall then initiate negotiations with the next firm on the final selection list. This procedure shall be continued until a mutually satisfactory contract has been negotiated. If negotiations fail with all selected firms, the contracting officer shall refer the matter to the selection authority who, after consulting with the contracting officer as to why a contract cannot be negotiated, may direct the evaluation board to recommend additional firms in accordance with RFO 36.202-3.<br />\\nInstructions.<br />\\nTo be considered for contract award, firms must file a Standard Form 330. The most current version is available for download at https://www.gsa.gov/reference/forms/architectengineer-qualifications<br />\\nQualification files shall be submitted through the DoD SAFE. No other method will be used for submission. Prior to submission, notify the POC (points of contact) under the General Information section below and request DoD SAFE request drop off.<br />\\nSubmit a complete Standard Form 330 (all parts) and the support documentation. Follow the instructions of the Standard Form 330 for generation of the support documentation and ensure the submitted information demonstrates the qualifications of the firm against the specific selection criteria listed below. Firms shall also use this Request for Qualifications document to self-evaluate under each selection criteria and total of points. Include the self-evaluation using this document with the other support documentation.<br />\\nTotal submission is limited to 50 pages of standard 8.5 x 11 with 1-inch margin. 10-point font minimum. The Standard Form 330 itself and the self-evaluation using this document does not count against the 50-page limitation.<br />\\nDo not provide any pricing information.</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ab6ef6a886744948ace2f4a1e381d6f/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 179820,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/57fdb1c75566401b893efbd03e561f55/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 309041,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/59c87f96db414b86b9393c6dc4d02b85/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 696324,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/629ecc7d55084755af93fde8389ec941/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 304454,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93e6fa1ba16542fbb5671d804ddc6b76/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1073371,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "Monitoring",
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "Monitoring",
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Minnesota"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -2472,112 +2941,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Maryland"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "22fde05b04a4491ebdab02947c708250",
-    "title": "Architect-Engineer (A-E) Services IDIQ for Offutt AFB",
-    "solicitationNumber": "FA4600R0004",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Sources Sought",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-27",
-    "responseDeadline": "2026-05-27T15:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "St Columbans",
-      "state": "Nebraska",
-      "zip": "68113"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/22fde05b04a4491ebdab02947c708250/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=22fde05b04a4491ebdab02947c708250",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0d79f6e878bf409fa4a3d85e7d389e45/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ce4324d77b4c5c8f9566baf6b0718c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/756b0149878e403bb15215b2384a59aa/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/960bd779296d42e3a1ec970aeeb48663/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ac235ba298414848aca6b221b8314c9a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f528bb7da01f43f6b5ac1e72088ef805/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"<p>The 55th Contracting Squadron at Offutt Air Force Base, Nebraska, is issuing a Combined Synopsis/Solicitation for Architect-Engineer (A-E) services in accordance with the Brooks Act (FAR Subpart 36.6).</p>\\n\\n<p>The Government intends to award up to four (4) single-award, Firm-Fixed-Price (FFP) Indefinite-Delivery/Indefinite-Quantity (IDIQ) contracts to provide a full range of multi-disciplinary Title I, Title II, and other specialized engineering services. These services will support sustainment, restoration, modernization, and new construction projects primarily at Offutt AFB and its associated off-site facilities in eastern Nebraska.</p>\\n\\n<p><strong>Acquisition Strategy &amp; Contract Structure:</strong></p>\\n\\n<ul>\\n\\t<li><strong>Set-Aside</strong>: This acquisi...",
-    "descriptionFull": "{\"description\":\"<p>The 55th Contracting Squadron at Offutt Air Force Base, Nebraska, is issuing a Combined Synopsis/Solicitation for Architect-Engineer (A-E) services in accordance with the Brooks Act (FAR Subpart 36.6).</p>\\n\\n<p>The Government intends to award up to four (4) single-award, Firm-Fixed-Price (FFP) Indefinite-Delivery/Indefinite-Quantity (IDIQ) contracts to provide a full range of multi-disciplinary Title I, Title II, and other specialized engineering services. These services will support sustainment, restoration, modernization, and new construction projects primarily at Offutt AFB and its associated off-site facilities in eastern Nebraska.</p>\\n\\n<p><strong>Acquisition Strategy &amp; Contract Structure:</strong></p>\\n\\n<ul>\\n\\t<li><strong>Set-Aside</strong>: This acquisition is a 100% Total Small Business Set-Aside.</li>\\n\\t<li><strong>NAICS Code:</strong> 541330 (Engineering Services), with a Small Business Size Standard of $25.5 Million.</li>\\n\\t<li><strong>Period of Performance:</strong> Each contract will consist of a five (5) year base period and one (1) five (5) year option period.</li>\\n\\t<li><strong>Contract Ceiling:</strong> The maximum capacity for each IDIQ contract is $49,000,000.</li>\\n</ul>\\n\\n<p><strong>Pool Structure:</strong></p>\\n\\n<p>To ensure the Government has access to highly specialized expertise, the contracts will be awarded across four (4) distinct pools of work. A firm may submit qualifications for one or more pools; however, a firm will only be awarded a maximum of one (1) contract.</p>\\n\\n<p>The pools are:</p>\\n\\n<ul>\\n\\t<li>Pool 1: Specialized Engineering &amp; Consulting (e.g., Blast, RF Shielding, SCIF/SAPF, Acoustics)</li>\\n\\t<li>Pool 2: Mechanical &amp; Electrical Engineering</li>\\n\\t<li>Pool 3: Civil &amp; Structural Engineering</li>\\n\\t<li>Pool 4: Architecture &amp; Renovation</li>\\n</ul>\\n\\n<p><strong>Key Requirements:</strong></p>\\n\\n<p>Offerors are advised that this solicitation includes stringent mandatory pass/fail requirements that must be met at the time of submission, including:</p>\\n\\n<ol>\\n\\t<li>A geographic requirement for a design office located within a 200-mile radius of Offutt AFB.</li>\\n\\t<li>A requirement to possess a current Cybersecurity Maturity Model Certification (CMMC) Level 2 self (or higher) in the Supplier Performance Risk System (SPRS).</li>\\n</ol>\\n\\n<p><strong>Submission Instructions:</strong></p>\\n\\n<p>This is NOT a Request for Proposal (RFP). Interested firms must submit a Statement of Qualifications using Standard Form (SF) 330.</p>\\n\\n<p>For complete details on the scope of work, mandatory requirements, evaluation criteria, and specific instructions for submitting an SF330, please download and carefully review the attached document titled &quot;<strong>Combo Synopsis-Solicitation_Offutt AE IDIQ</strong>.&quot;</p>\\n\\n<p><strong>Submission Deadlines:</strong></p>\\n\\n<p>Questions regarding this solicitation shall be received no later than <strong>08 May 2026</strong> at <strong>3:00 PM Central Time</strong>. Questions received after this deadline may not be answered.</p>\\n\\n<p>SF330&#39;s shall be receieved no later than <strong>27 May 2026 at 3:00 PM Central Time.</strong>&nbsp;</p>\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0d79f6e878bf409fa4a3d85e7d389e45/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 165880,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41ce4324d77b4c5c8f9566baf6b0718c/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 165669,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/756b0149878e403bb15215b2384a59aa/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 165262,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/960bd779296d42e3a1ec970aeeb48663/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 245088,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ac235ba298414848aca6b221b8314c9a/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 1073371,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "modernization"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "modernization"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [
-      "soc"
-    ],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Nebraska"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -3287,7 +3650,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "d96f41d7739846f4bf3af364f15838bc",
+    "noticeId": "c5fa1d5d41a648d5b4b7d7af626fc669",
     "title": "Talos Linux FIPS Compliant Build and Support",
     "solicitationNumber": "N0018926QL129",
     "type": "Solicitation",
@@ -3295,7 +3658,7 @@
     "naicsCode": "518210",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-06",
+    "postedDate": "2026-05-12",
     "responseDeadline": "2026-05-18T11:00:00-04:00",
     "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
     "office": "",
@@ -3305,12 +3668,14 @@
       "zip": "23435"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/d96f41d7739846f4bf3af364f15838bc/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d96f41d7739846f4bf3af364f15838bc",
+      "uiLink": "https://sam.gov/workspace/contract/opp/c5fa1d5d41a648d5b4b7d7af626fc669/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c5fa1d5d41a648d5b4b7d7af626fc669",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24aea8994a874174ad31db4fd07a3d9f/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/261535ee1fe44656a66769be5d03c946/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/252cf42c85524a0da1c01b5687a273b7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/261535ee1fe44656a66769be5d03c946/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c7cf7c9679c3455c86682966d65616ba/download"
       ]
     },
     "descriptionSnippet": "{\"description\":\"<p>Please see attached solicitation,&nbsp;N0018926QL129,&nbsp;Talos Linux FIPS Compliant Build and Support.</p>\\n\"}",
@@ -3323,9 +3688,21 @@
         "textSnippet": ""
       },
       {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/252cf42c85524a0da1c01b5687a273b7/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 61778,
+        "textSnippet": ""
+      },
+      {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/261535ee1fe44656a66769be5d03c946/download",
         "contentType": "application/octet-stream",
         "byteSize": 1886785,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c7cf7c9679c3455c86682966d65616ba/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 586899,
         "textSnippet": ""
       }
     ],
