@@ -1,5 +1,87 @@
 [
   {
+    "noticeId": "399ceb16e5c342438fb8e8159706fa19",
+    "title": "SafeTK\u00ae (Safety Permitting Software) Annual Subscription Renewal.",
+    "solicitationNumber": "80NSSC26933028Q",
+    "type": "Presolicitation",
+    "baseType": "Presolicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-14",
+    "responseDeadline": "2026-05-18T16:00:00-05:00",
+    "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Hampton",
+      "state": "Virginia",
+      "zip": "23681"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/399ceb16e5c342438fb8e8159706fa19/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=399ceb16e5c342438fb8e8159706fa19",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/174676c132574b4ebfb7d2ae7cde945b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/418f789f1aa1442e89698a0b2b75ef96/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p>NASA/NSSC has a requirement for SafeTK&reg; (Safety Permitting Software) Annual Subscription Renewal. See the attached SOW and request for capability statements.&nbsp;</p>\\n\\n<p>All correspondence must reference ID 80NSSC26933028Q in the subject line to ensure visibility.&nbsp;</p>\\n\\n<p>PLEASE NOTE* THIS IS NOT A REQUEST FOR QUOTES. PRICING OFFERED WILL NOT BE REVIEWED OR ACCEPTED AT THIS TIME.&nbsp;</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>NASA/NSSC has a requirement for SafeTK&reg; (Safety Permitting Software) Annual Subscription Renewal. See the attached SOW and request for capability statements.&nbsp;</p>\\n\\n<p>All correspondence must reference ID 80NSSC26933028Q in the subject line to ensure visibility.&nbsp;</p>\\n\\n<p>PLEASE NOTE* THIS IS NOT A REQUEST FOR QUOTES. PRICING OFFERED WILL NOT BE REVIEWED OR ACCEPTED AT THIS TIME.&nbsp;</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/174676c132574b4ebfb7d2ae7cde945b/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 179837,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/418f789f1aa1442e89698a0b2b75ef96/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 89212,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "ASA"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "ASA"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Virginia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "d9ba1fa23fd045708778534f2b9646bb",
     "title": "7B20--EQUIP 644-26-2-218-0017-PHX_ENGINEERING_SALIENT SERVERS",
     "solicitationNumber": "36C26226Q0776",
@@ -263,85 +345,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Florida"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "6a596f4bd3f14ff9b93225edccd7cae9",
-    "title": "7A21--Web-Based VISTA/CPRS Integrated Solution for Oncology  Brand Name for Reference: DSS Order Tracking Manager for  Oncology",
-    "solicitationNumber": "36C24426Q0511",
-    "type": "Presolicitation",
-    "baseType": "Presolicitation",
-    "naicsCode": "541519",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-01",
-    "responseDeadline": "2026-05-08T12:00:00-04:00",
-    "agency": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.244-NETWORK CONTRACT OFFICE 4 (36C244)",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Lebanon",
-      "state": "PA",
-      "zip": "17042"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/6a596f4bd3f14ff9b93225edccd7cae9/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6a596f4bd3f14ff9b93225edccd7cae9",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/02bfd18dbfa84dcfb7e1f9e472c63549/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"THIS IS NOT A REQUEST FOR COMPETITIVE OFFERS\u00c2 \\n\u00c2 Lebanon VA Medical Center\u00c2 \\nThis is a Pre-Solicitation Notice for the Department of Veterans Affairs, Network Contracting Office (NCO) 4, to provide\u00c2 a Web-Based VISTA/CPRS Integrated Solution for Oncology. This equipment requirement is for the Lebanon VA Medical Center in support of their multiple clinics, located in Lebanon, PA 17042. The full solicitation may be posted to the NASA SEWP at www.sewp.nasa.gov on or about\u00c2 May 8th, 2026.\u00c2 \\n\\nThe full solicitation will be a Small Business set-aside.\u00c2 \u00c2 The North American Industry Classification System (NAICS) for this procurement is 541519 Other Computer Related Services; the size standard is\u00c2 $34.0M.\u00c2 \\nPotential offerors\u00c2 are responsible for\u00c2 monitoring\u00c2 for the release...",
-    "descriptionFull": "{\"description\":\"THIS IS NOT A REQUEST FOR COMPETITIVE OFFERS\u00c2\u00a0\\n\u00c2\u00a0Lebanon VA Medical Center\u00c2\u00a0\\nThis is a Pre-Solicitation Notice for the Department of Veterans Affairs, Network Contracting Office (NCO) 4, to provide\u00c2\u00a0a Web-Based VISTA/CPRS Integrated Solution for Oncology. This equipment requirement is for the Lebanon VA Medical Center in support of their multiple clinics, located in Lebanon, PA 17042. The full solicitation may be posted to the NASA SEWP at www.sewp.nasa.gov on or about\u00c2\u00a0May 8th, 2026.\u00c2\u00a0\\n\\nThe full solicitation will be a Small Business set-aside.\u00c2\u00a0\u00c2\u00a0The North American Industry Classification System (NAICS) for this procurement is 541519 Other Computer Related Services; the size standard is\u00c2\u00a0$34.0M.\u00c2\u00a0\\nPotential offerors\u00c2\u00a0are responsible for\u00c2\u00a0monitoring\u00c2\u00a0for the release of the solicitation package and any other pertinent information and for downloading their own copy of the solicitation package. Any amendments issued to this solicitation will ONLY be available on this site.\u00c2\u00a0\u00c2\u00a0Offerors are advised that they\u00c2\u00a0are responsible for\u00c2\u00a0obtaining all amendments.\u00c2\u00a0\u00c2\u00a0All questions must be\u00c2\u00a0submitted\u00c2\u00a0in writing to the Contract Specialist at\u00c2\u00a0joanne.skaff@va.gov. No telephone inquiries will be accepted.\u00c2\u00a0\\n\u00c2\u00a0\\nThis notice does not\u00c2\u00a0obligate\u00c2\u00a0the Government to award a contract neither does it\u00c2\u00a0obligate\u00c2\u00a0the Government to pay for any quotes or proposal preparation costs. The Government is not\u00c2\u00a0obligated\u00c2\u00a0to issue a solicitation because of this notice. No other information is available until issuance of the solicitation. All interested parties must be registered in System for Award Management (SAM)\u00c2\u00a0pursuant to\u00c2\u00a0applicable regulations and guidelines prior to award. Registration information can be found at www.sam.gov.\u00c2\u00a0\\nThe point of contact is Contract Specialist, Joanne Skaff, joanne.skaff@va.gov. No phone calls. \u00c2\u00a0\\nEnd of Document\\n\\n\"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/02bfd18dbfa84dcfb7e1f9e472c63549/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 24661,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "Monitoring",
-      "network",
-      "ASA"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "Monitoring",
-        "network",
-        "ASA"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "PA"
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
@@ -777,7 +780,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "301410e46cdb4cdd8964ed9bdbf27eff",
+    "noticeId": "445cc670ee4246a088d21fcaffee86c6",
     "title": "Screening Information Request (SIR) for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES)",
     "solicitationNumber": "697DCK-25-R-00302",
     "type": "Solicitation",
@@ -785,8 +788,8 @@
     "naicsCode": "541519",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-04-22",
-    "responseDeadline": "2026-01-16T17:00:00-05:00",
+    "postedDate": "2026-05-13",
+    "responseDeadline": "2026-06-24T17:00:00-04:00",
     "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL AVIATION ADMINISTRATION.697DCK REGIONAL ACQUISITIONS SVCS",
     "office": "",
     "placeOfPerformance": {
@@ -795,21 +798,25 @@
       "zip": "30337"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/301410e46cdb4cdd8964ed9bdbf27eff/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=301410e46cdb4cdd8964ed9bdbf27eff",
+      "uiLink": "https://sam.gov/workspace/contract/opp/445cc670ee4246a088d21fcaffee86c6/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=445cc670ee4246a088d21fcaffee86c6",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0617945c548a4a8d8aa0719de39ed0ad/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0ad9c2c9746b47fc91052ff049431aed/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/13b4d9eb06fe493a9acdd1f1eaa945b7/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22cba0e8ec0c4deaaf3cbf8253882f5f/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/271cb682e7964cea93dca79583d42b44/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3280a26128124b42bb97dcdb6e421768/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4096d908ca0249eb9e99f802275ffb2c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/425c8c4193c443efbc0b7b64f557d6da/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/479b4e3142694f078326f619cc938d11/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4c5454b11a5f499e9985b339b6978d79/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5832ec19d5f9485ab16c9ff1939399f0/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5893427b5ac24fa4bbf697c67cb232cf/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5edb5513618e482d89df54cbc677da97/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67ab4891245e4a988f70c4daf1e1efcf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/67c06cf5c82e49be9ba0476828fb8dbd/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6f7dd1176f13482c8e53149f772af695/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/76cd5432868349a6b85fa4a0b00d85c2/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7b7b8d5d109d4f50aece5431711278dd/download",
@@ -818,15 +825,18 @@
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9c6265b6b2ea40239d2ecb828cb56fef/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d846cf054b24cce813542a0a2501639/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a2b28d15fe9d495ca4e5ed9238f40426/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b877a1e090f94d1294df5b926d5bb94d/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/baa79439207a4826824a008e792405f8/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cbc1fd3643514a9fbd75a657f931f8d8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d0ba2d1912b744748f45ece615cd3e55/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dad081c5852a41339764a7297ada986e/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f20a7527a3144b6c8ff4c82bf10b99e4/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f6d4da743a9e4e7b8dfd858fc7ed163d/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f6d4da743a9e4e7b8dfd858fc7ed163d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fdca10bcd5444b248763fb6635695c4f/download"
       ]
     },
-    "descriptionSnippet": "{\"description\":\"<p><strong>Amendment Notice:&nbsp;</strong></p>\\n\\n<p><strong>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n...",
-    "descriptionFull": "{\"description\":\"<p><strong>Amendment Notice:&nbsp;</strong></p>\\n\\n<p><strong>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0004 is issued to update the solicitation with the conformed copy, provide the Questions and Answers and extend the proposal due date to January 16, 2026, at 1700 ET.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0003&nbsp;is issued to extend the proposal due date to January 12, 2026, at 1700 ET. A subsequent amendment will be issued to address the questions that were received from Amendment 0002.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment-Due to the Government shutdown the SIR close date has been extended from Tuesday 10/21/2025 to Friday 11/21/2025.&nbsp; A formal amendment and Q&amp;As will be posted following the end of the Government shutdown. Continue to monitor this posting for any updates.</p>\\n\\n<p>Amendment 0002 is issued to update the solicitation with the conformed copy, provide the Questions and Answers, set a new submission deadline for additional Questions on amended items only, and extend the proposal due date to October 21, 2025, at 1700 Eastern Time.</p>\\n\\n<p>All questions on amended items only must be submitted by October 7, 2025, at 1000 Eastern Time.&nbsp;Questions will only be permitted for the revisions identified in red from this amendment.</p>\\n\\n<p>*********************************************************************************</p>\\n\\n<p>Amendment 0001 is issued to extend the proposal due date to September 30, 2025, at 1700 ET. A subsequent amendment will be issued to address the questions received and provide updated attachments.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>This is the updated Screening Information Request (SIR) 697DCK-25-R-00302 for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES) Procurement.&nbsp;&nbsp; This procurement is in support of the Federal Aviation Administration (FAA), Office of Finance and Management (AFN), Information and Technology Services (AIT), Contract Strategy and Support Division (ASP-400).</p>\\n\\n<p>This SIR is for Commercial Products (Hardware (HW) and Software (SW)) and is a DOT-wide strategic sourcing contract administered and managed by the FAA Offices of Acquisition and Business Services (ACQ) and Information and Technology Services (AIT).&nbsp; The products and services which include, but are not limited to, software, network infrastructure components (servers, switches, storage arrays, and network devices), personal computing devices (workstations, laptops, tablets, thin clients, notebooks, and similar items), computer peripherals and accessories, audio/visual equipment, and miscellaneous equipment (large screens, touch screens, scanners, projectors, desktop printers, multi-functional devices (MFD)), software to support the above mentioned hardware, and cloud based services by various Original Equipment Manufacturers (OEM) that meet the FAA IT community&rsquo;s requirements.&nbsp; The contract also includes product-based services that enable the full lifecycle management of IT assets; and these services must be directly related to the range of products offered under the Contract and must be performed as requested by the Contracting Officer on individual delivery orders.&nbsp; The Contractor must facilitate the acquisition, deployment and maintenance of IT assets under this contract by providing services including, but not limited to, asset recovery/disposition and warehousing. See SIR attached below for further details.&nbsp;</p>\\n\\n<p>The FAA intends to competitively award approximately eight (8) multiple-award Indefinite Delivery Indefinite Quantity (IDIQ)contracts under this SIR.&nbsp; The Government will make awards using a Lowest Price Technically Acceptable (LPTA) approach with a two-pool evaluation process; Up to six (6) awards to Offerors reserved for Small Businesses under the Small Business Pool, and up to two (2) awards to Offerors Unrestricted in Size under the Unrestricted Pool.</p>\\n\\n<p>The North American Industry Classification System (NAICS) code is 541519e Information Technology Value Added Resellers (Exception) and the size standard is 150 Employees.&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>To be considered for award of this requirement, the Offeror must have a current/valid registration in the Systems for Award Management (SAM) database website: www.sam.gov. Registration must be active by the offer due date.&nbsp;</p>\\n\\n<p>Proposals are due by EMAIL ONLY no later than 1700 ET on September 18, 2025.&nbsp; Please see attached SIR for proposal submission requirements.&nbsp; Questions are to be submitted, in writing only, as specified in the SIR.&nbsp; Questions will be answered in an Amendment to the SIR if deemed necessary and posted to SAM.GOV for all interested parties to consider.&nbsp; Prospective Offerors are encouraged to frequently visit SAM.GOV for any updates to this requirement.&nbsp;</p>\\n\\n<p>Any questions regarding this announcement should be directed to Dawn Bloome at <u>Dawn.A.Bloome@faa.gov </u>and Kristin Frantz at&nbsp;<u>Kristin.T.Frantz@faa.go</u>v.&nbsp; All questions must be received no later than 1700 ET on August 21, 2025.&nbsp; All questions and comments must be in writing, please no telephone calls.&nbsp; <strong>Offerors are requested to utilize the attached Q&amp;A Template attached.</strong></p>\\n\\n<p>Any responses received after <strong>the closing date and time</strong>, may not be considered in accordance with AMS provision 3.2.2.3-14, Late Submissions, Modifications, and Withdrawals of Submittals.&nbsp;</p>\\n\\n<p>This SIR is not to be construed as a contract or a commitment of any kind.&nbsp; The Government will not be liable for payment of any costs attributed to the preparation and submission of requested proposal documentation.</p>\\n\"}",
+    "descriptionSnippet": "{\"description\":\"<p><strong>Amendment 0006 is issued to update the solicitation with the conformed copy, set a new submission deadline for additional Questions, and extend the proposal due date to June 24, 2026, at 1700 ET.&nbsp;</strong></p>\\n\\n<p><strong>All questions must be submitted by May 27, 2026 at 1700 Eastern Time.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment Notice:&nbsp;</p>\\n\\n<p>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for th...",
+    "descriptionFull": "{\"description\":\"<p><strong>Amendment 0006 is issued to update the solicitation with the conformed copy, set a new submission deadline for additional Questions, and extend the proposal due date to June 24, 2026, at 1700 ET.&nbsp;</strong></p>\\n\\n<p><strong>All questions must be submitted by May 27, 2026 at 1700 Eastern Time.</strong></p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment Notice:&nbsp;</p>\\n\\n<p>The FAA has determined that an amendment is necessary and is currently finalizing the details. Consequently, the acquisition process has been temporarily paused to accommodate these adjustments. Amendment 0006 will be posted to all interested offerors as soon as possible, providing full clarifications on the reasons for the amendment and any new attachments, if applicable. Thank you for your continued interest and engagement.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0005 is issued to correct an error identified in Amendment 0004.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0004 is issued to update the solicitation with the conformed copy, provide the Questions and Answers and extend the proposal due date to January 16, 2026, at 1700 ET.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment 0003&nbsp;is issued to extend the proposal due date to January 12, 2026, at 1700 ET. A subsequent amendment will be issued to address the questions that were received from Amendment 0002.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>Amendment-Due to the Government shutdown the SIR close date has been extended from Tuesday 10/21/2025 to Friday 11/21/2025.&nbsp; A formal amendment and Q&amp;As will be posted following the end of the Government shutdown. Continue to monitor this posting for any updates.</p>\\n\\n<p>Amendment 0002 is issued to update the solicitation with the conformed copy, provide the Questions and Answers, set a new submission deadline for additional Questions on amended items only, and extend the proposal due date to October 21, 2025, at 1700 Eastern Time.</p>\\n\\n<p>All questions on amended items only must be submitted by October 7, 2025, at 1000 Eastern Time.&nbsp;Questions will only be permitted for the revisions identified in red from this amendment.</p>\\n\\n<p>*********************************************************************************</p>\\n\\n<p>Amendment 0001 is issued to extend the proposal due date to September 30, 2025, at 1700 ET. A subsequent amendment will be issued to address the questions received and provide updated attachments.</p>\\n\\n<p>***********************************************************************************</p>\\n\\n<p>This is the updated Screening Information Request (SIR) 697DCK-25-R-00302 for the Strategic Sourcing for the Acquisition of Various Supplies and Equipment (SAVES) Procurement.&nbsp;&nbsp; This procurement is in support of the Federal Aviation Administration (FAA), Office of Finance and Management (AFN), Information and Technology Services (AIT), Contract Strategy and Support Division (ASP-400).</p>\\n\\n<p>This SIR is for Commercial Products (Hardware (HW) and Software (SW)) and is a DOT-wide strategic sourcing contract administered and managed by the FAA Offices of Acquisition and Business Services (ACQ) and Information and Technology Services (AIT).&nbsp; The products and services which include, but are not limited to, software, network infrastructure components (servers, switches, storage arrays, and network devices), personal computing devices (workstations, laptops, tablets, thin clients, notebooks, and similar items), computer peripherals and accessories, audio/visual equipment, and miscellaneous equipment (large screens, touch screens, scanners, projectors, desktop printers, multi-functional devices (MFD)), software to support the above mentioned hardware, and cloud based services by various Original Equipment Manufacturers (OEM) that meet the FAA IT community&rsquo;s requirements.&nbsp; The contract also includes product-based services that enable the full lifecycle management of IT assets; and these services must be directly related to the range of products offered under the Contract and must be performed as requested by the Contracting Officer on individual delivery orders.&nbsp; The Contractor must facilitate the acquisition, deployment and maintenance of IT assets under this contract by providing services including, but not limited to, asset recovery/disposition and warehousing. See SIR attached below for further details.&nbsp;</p>\\n\\n<p>The FAA intends to competitively award approximately eight (8) multiple-award Indefinite Delivery Indefinite Quantity (IDIQ)contracts under this SIR.&nbsp; The Government will make awards using a Lowest Price Technically Acceptable (LPTA) approach with a two-pool evaluation process; Up to six (6) awards to Offerors reserved for Small Businesses under the Small Business Pool, and up to two (2) awards to Offerors Unrestricted in Size under the Unrestricted Pool.</p>\\n\\n<p>The North American Industry Classification System (NAICS) code is 541519e Information Technology Value Added Resellers (Exception) and the size standard is 150 Employees.&nbsp;&nbsp;&nbsp;</p>\\n\\n<p>To be considered for award of this requirement, the Offeror must have a current/valid registration in the Systems for Award Management (SAM) database website: www.sam.gov. Registration must be active by the offer due date.&nbsp;</p>\\n\\n<p>Proposals are due by EMAIL ONLY no later than 1700 ET on September 18, 2025.&nbsp; Please see attached SIR for proposal submission requirements.&nbsp; Questions are to be submitted, in writing only, as specified in the SIR.&nbsp; Questions will be answered in an Amendment to the SIR if deemed necessary and posted to SAM.GOV for all interested parties to consider.&nbsp; Prospective Offerors are encouraged to frequently visit SAM.GOV for any updates to this requirement.&nbsp;</p>\\n\\n<p>Any questions regarding this announcement should be directed to Dawn Bloome at <u>Dawn.A.Bloome@faa.gov </u>and Kristin Frantz at&nbsp;<u>Kristin.T.Frantz@faa.go</u>v.&nbsp; All questions must be received no later than 1700 ET on August 21, 2025.&nbsp; All questions and comments must be in writing, please no telephone calls.&nbsp; <strong>Offerors are requested to utilize the attached Q&amp;A Template attached.</strong></p>\\n\\n<p>Any responses received after <strong>the closing date and time</strong>, may not be considered in accordance with AMS provision 3.2.2.3-14, Late Submissions, Modifications, and Withdrawals of Submittals.&nbsp;</p>\\n\\n<p>This SIR is not to be construed as a contract or a commitment of any kind.&nbsp; The Government will not be liable for payment of any costs attributed to the preparation and submission of requested proposal documentation.</p>\\n\"}",
     "attachments": [
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0617945c548a4a8d8aa0719de39ed0ad/download",
@@ -841,6 +851,12 @@
         "textSnippet": ""
       },
       {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/13b4d9eb06fe493a9acdd1f1eaa945b7/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 108973,
+        "textSnippet": ""
+      },
+      {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22cba0e8ec0c4deaaf3cbf8253882f5f/download",
         "contentType": "application/octet-stream",
         "byteSize": 38665,
@@ -850,12 +866,6 @@
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/271cb682e7964cea93dca79583d42b44/download",
         "contentType": "application/octet-stream",
         "byteSize": 9734,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3280a26128124b42bb97dcdb6e421768/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 380239,
         "textSnippet": ""
       }
     ],
@@ -901,7 +911,7 @@
     "updatedDate": null
   },
   {
-    "noticeId": "2d2961ce032c43a3b643cfc9fffee24b",
+    "noticeId": "29765a1295fe44c58f0406c09a1d569b",
     "title": "Wireless Network Deployment at Peterson Space Force Base",
     "solicitationNumber": "H9229526QB001",
     "type": "Combined Synopsis/Solicitation",
@@ -909,7 +919,7 @@
     "naicsCode": "541512",
     "setAsideCode": "",
     "setAside": "",
-    "postedDate": "2026-05-12",
+    "postedDate": "2026-05-14",
     "responseDeadline": "2026-05-21T12:00:00-06:00",
     "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).SOCNORTH PB",
     "office": "",
@@ -919,24 +929,24 @@
       "zip": "80914"
     },
     "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/2d2961ce032c43a3b643cfc9fffee24b/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2d2961ce032c43a3b643cfc9fffee24b",
+      "uiLink": "https://sam.gov/workspace/contract/opp/29765a1295fe44c58f0406c09a1d569b/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=29765a1295fe44c58f0406c09a1d569b",
       "additionalInfoLink": null,
       "resourceLinks": [
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0af6dc00a0a24124bb39b7bac7c62f5b/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1596f1fdc7744736adca0818b32a0c0e/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2be90e2306d34d11bbbeaac5aeab8b9a/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2d7afa57fe3a4717bd203315fd563dc4/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2daae2eb38154b6caf008cd451d91374/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c8a43b26eea4a1cbd54dc43587b86b4/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/563d6f1717a140d8a81ae54fed9bc8cf/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d93065b2a524a528c7ba42a18eba779/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/890678d0bf43485fb3ed4ab04bf1488e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a21f7d3ffc12448da2a17512b2fb9f13/download",
         "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4223a69b29e4d3892849b94915004f8/download"
       ]
     },
     "descriptionSnippet": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless netw...",
-    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless network. The contractor shall ensure compliance with&nbsp;<strong>NSA CSfC Capabilities Package (CP)</strong>,&nbsp;<strong>DoD Security Technical Implementation Guide (STIG)</strong>, and other applicable federal security standards.</p>\\n\\n<p>This acquisition is&nbsp;<strong>set aside for small business concerns</strong>&nbsp;under&nbsp;<strong>NAICS Code 541512 &ndash; Computer Systems Design Services</strong>, with a small business size standard of&nbsp;<strong>$34M</strong>.</p>\\n\\n<p>This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at&nbsp;<strong>https://www.acquisition.gov/far-overhaul/far-part-deviation-guide</strong>.</p>\\n\\n<p><strong>DESCRIPTION OF REQUIREMENTS</strong></p>\\n\\n<p>The contractor shall perform all work in accordance with the attached&nbsp;<strong>Performance Work Statement (PWS)</strong>. Deliverables and performance milestones are as follows:</p>\\n\\n<p><strong>DATE(S) AND PLACE(S) OF DELIVERY AND ACCEPTANCE</strong></p>\\n\\n<ul>\\n\\t<li><strong>Delivery Location</strong>: Peterson Space Force Base, Colorado</li>\\n\\t<li><strong>FOB Point</strong>: Destination</li>\\n\\t<li><strong>Acceptance</strong>: Deliverables will be reviewed and accepted by the designated Government POC upon validation that all requirements are met.</li>\\n</ul>\\n\\n<p><strong>INSTRUCTIONS TO OFFERORS</strong></p>\\n\\n<p>Offerors shall prepare and submit proposals that include the following:</p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide a detailed narrative describing the approach to executing each phase of the requirement, including:\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Pre-onsite assessment</strong>: Identify methods for assessing infrastructure readiness (e.g., tools, processes).</li>\\n\\t\\t\\t<li><strong>Wireless site surveys</strong>: Include details on the tools and methodologies to be used (e.g., heatmaps, signal strength analysis, channel planning).</li>\\n\\t\\t\\t<li><strong>Compliance</strong>: Describe how the proposed solution will meet&nbsp;<strong>NSA CSfC Capabilities Package</strong>&nbsp;requirements,&nbsp;<strong>DoD STIGs</strong>, and&nbsp;<strong>NSA Common Criteria</strong>.</li>\\n\\t\\t\\t<li><strong>Security and Risk Management</strong>: Outline strategies for ensuring cybersecurity compliance and mitigating risks.</li>\\n\\t\\t\\t<li>Offerors shall submit a <strong>Proposed Milestone Schedule</strong> detailing the number of days required to complete each phase and deliverable of the PWS. The proposed schedule must account for realistic equipment procurement lead times for NSA-approved components. The total proposed <strong>Period of Performance shall not exceed 120 calendar days</strong> after contract award.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Proposed Schedule</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Submit a detailed&nbsp;<strong>project schedule</strong>&nbsp;(e.g., Gantt chart or similar format) showing how all tasks and deliverables will be completed within&nbsp;<strong>60 calendar days of contract award</strong>.</li>\\n\\t\\t<li>Include key milestones, task durations, dependencies, and any concurrent work planned to meet the timeline.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pricing Information</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide firm-fixed pricing for&nbsp;<strong>CLIN 0001</strong>.</li>\\n\\t\\t<li>Acknowledge that pricing for&nbsp;<strong>CLINs 0002 and 0003</strong>&nbsp;will be submitted as part of the deliverables for CLIN 0001.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Representation and Certifications</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Ensure the offeror&rsquo;s&nbsp;<strong>System for Award Management (SAM)</strong>&nbsp;registration is active and up to date.</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>EVALUATION</strong></p>\\n\\n<p>The Government will evaluate offers in accordance with&nbsp;<strong>FAR 52.212-2, Evaluation&mdash;Commercial Products and Commercial Services (Deviation Date)</strong>, as follows:</p>\\n\\n<p><strong>Evaluation Factors (in descending order of importance):</strong></p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s technical approach for its ability to meet the requirements outlined in the PWS.</li>\\n\\t\\t<li>The evaluation will consider the proposed methodologies, tools, and processes for completing the study, design, installation, and testing phases.</li>\\n\\t\\t<li>Emphasis will be placed on the offeror&rsquo;s understanding of CSfC, NSA compliance, DoD STIG standards, and their ability to deliver a fully compliant solution.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Schedule Feasibility</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s Proposed Milestone Schedule to determine if the proposed timelines for design, procurement, and installation are realistic, achievable, and demonstrate a clear understanding of supply chain constraints for required CSfC equipment. Proposed schedules that exceed 120 days total Period of Performance will be deemed unacceptable.</li>\\n\\t\\t<li>The evaluation will consider the realism of the schedule, the logical sequencing of tasks, and the ability to perform concurrent work where applicable.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Price</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Price will be evaluated for&nbsp;<strong>reasonableness</strong>,&nbsp;<strong>realism</strong>, and&nbsp;<strong>balance</strong>:\\n\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Reasonableness</strong>: The proposed price will be compared to historical data, market research, and other offers to ensure it is fair.</li>\\n\\t\\t\\t<li><strong>Realism</strong>: The price will be analyzed to ensure it reflects a sound understanding of the work and is not unrealistically low.</li>\\n\\t\\t\\t<li><strong>Balance</strong>: The price will be reviewed to ensure it is appropriately distributed across all CLINs and does not indicate front-loading or disproportionate allocation.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>Basis for Award:</strong><br />\\nThe Government intends to make an award to the offeror whose proposal represents the&nbsp;<strong>best value</strong>&nbsp;to the Government.&nbsp;<strong>Technical Approach</strong>&nbsp;is significantly more important than&nbsp;<strong>Schedule Feasibility</strong>, which is slightly more important than&nbsp;<strong>Price</strong>. However, as proposals become more equal in their technical merit and schedule feasibility, the evaluated price will become more important in determining the overall best value.</p>\\n\\n<p>(End of Evaluation Section)</p>\\n\\n<p><strong>SUBMISSION DEADLINES</strong></p>\\n\\n<ul>\\n\\t<li><strong>Site Visit</strong>: 11 May 2026, 12:00 PM Mountain Time. Please submit names to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta no later than close of business 7 May 2026.</li>\\n\\t<li><strong>Questions Due</strong>: 15 May 2026, 12:00 PM Mountain Time. Questions must be submitted via email to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n\\t<li><strong>Proposals Due</strong>: 21 May 2026, 12:00 PM Mountain Time. Proposals must be submitted electronically to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n</ul>\\n\\n<p><strong>SOLICITATION PROVISIONS AND CONTRACT CLAUSES</strong></p>\\n\\n<p>The provisions and clauses applicable to this solicitation are those listed in&nbsp;<strong>RFO 12.205 Solicitation provisions and contract clauses</strong>.</p>\\n\"}",
+    "descriptionFull": "{\"description\":\"<p>This is a combined synopsis/solicitation issued as a&nbsp;<strong>Request for Quotation (RFQ)&nbsp;</strong>for&nbsp;<strong>commercial services</strong>&nbsp;prepared in accordance with&nbsp;<strong>FAR Part 12</strong>. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued for the following requirement.</p>\\n\\n<p>The Government requires&nbsp;<strong>Commercial Solutions for Classified (CSfC) Wireless Local Area Network (WLAN)</strong>&nbsp;services to support SOCNORTH at&nbsp;<strong>Peterson Space Force Base, Colorado</strong>. The requirement includes a phased execution approach for study, design, equipment procurement, installation, testing, and final validation of the wireless network. The contractor shall ensure compliance with&nbsp;<strong>NSA CSfC Capabilities Package (CP)</strong>,&nbsp;<strong>DoD Security Technical Implementation Guide (STIG)</strong>, and other applicable federal security standards.</p>\\n\\n<p>This acquisition is&nbsp;<strong>set aside for small business concerns</strong>&nbsp;under&nbsp;<strong>NAICS Code 541512 &ndash; Computer Systems Design Services</strong>, with a small business size standard of&nbsp;<strong>$34M</strong>.</p>\\n\\n<p>This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at&nbsp;<strong>https://www.acquisition.gov/far-overhaul/far-part-deviation-guide</strong>.</p>\\n\\n<p><strong>DESCRIPTION OF REQUIREMENTS</strong></p>\\n\\n<p>The contractor shall perform all work in accordance with the attached&nbsp;<strong>Performance Work Statement (PWS)</strong>. Deliverables and performance milestones are as follows:</p>\\n\\n<p><strong>DATE(S) AND PLACE(S) OF DELIVERY AND ACCEPTANCE</strong></p>\\n\\n<ul>\\n\\t<li><strong>Delivery Location</strong>: Peterson Space Force Base, Colorado</li>\\n\\t<li><strong>FOB Point</strong>: Destination</li>\\n\\t<li><strong>Acceptance</strong>: Deliverables will be reviewed and accepted by the designated Government POC upon validation that all requirements are met.</li>\\n</ul>\\n\\n<p><strong>INSTRUCTIONS TO OFFERORS</strong></p>\\n\\n<p>Offerors shall prepare and submit proposals that include the following:</p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide a detailed narrative describing the approach to executing each phase of the requirement, including:\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Pre-onsite assessment</strong>: Identify methods for assessing infrastructure readiness (e.g., tools, processes).</li>\\n\\t\\t\\t<li><strong>Wireless site surveys</strong>: Include details on the tools and methodologies to be used (e.g., heatmaps, signal strength analysis, channel planning).</li>\\n\\t\\t\\t<li><strong>Compliance</strong>: Describe how the proposed solution will meet&nbsp;<strong>NSA CSfC Capabilities Package</strong>&nbsp;requirements,&nbsp;<strong>DoD STIGs</strong>, and&nbsp;<strong>NSA Common Criteria</strong>.</li>\\n\\t\\t\\t<li><strong>Security and Risk Management</strong>: Outline strategies for ensuring cybersecurity compliance and mitigating risks.</li>\\n\\t\\t\\t<li>Offerors shall submit a <strong>Proposed Milestone Schedule</strong> detailing the number of days required to complete each phase and deliverable of the PWS. The proposed schedule must account for realistic equipment procurement lead times for NSA-approved components. The total proposed <strong>Period of Performance shall not exceed 120 calendar days</strong> after contract award.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Proposed Schedule</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Submit a detailed&nbsp;<strong>project schedule</strong>&nbsp;(e.g., Gantt chart or similar format) showing how all tasks and deliverables will be completed within <strong>120&nbsp;calendar days of contract award</strong>.</li>\\n\\t\\t<li>Include key milestones, task durations, dependencies, and any concurrent work planned to meet the timeline.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Pricing Information</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Provide firm-fixed pricing for&nbsp;<strong>CLIN 0001</strong>.</li>\\n\\t\\t<li>Acknowledge that pricing for&nbsp;<strong>CLINs 0002 and 0003</strong>&nbsp;will be submitted as part of the deliverables for CLIN 0001.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Representation and Certifications</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Ensure the offeror&rsquo;s&nbsp;<strong>System for Award Management (SAM)</strong>&nbsp;registration is active and up to date.</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>EVALUATION</strong></p>\\n\\n<p>The Government will evaluate offers in accordance with&nbsp;<strong>FAR 52.212-2, Evaluation&mdash;Commercial Products and Commercial Services (Deviation Date)</strong>, as follows:</p>\\n\\n<p><strong>Evaluation Factors (in descending order of importance):</strong></p>\\n\\n<ol>\\n\\t<li>\\n\\t<p><strong>Technical Approach</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s technical approach for its ability to meet the requirements outlined in the PWS.</li>\\n\\t\\t<li>The evaluation will consider the proposed methodologies, tools, and processes for completing the study, design, installation, and testing phases.</li>\\n\\t\\t<li>Emphasis will be placed on the offeror&rsquo;s understanding of CSfC, NSA compliance, DoD STIG standards, and their ability to deliver a fully compliant solution.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Schedule Feasibility</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>The Government will evaluate the offeror&rsquo;s Proposed Milestone Schedule to determine if the proposed timelines for design, procurement, and installation are realistic, achievable, and demonstrate a clear understanding of supply chain constraints for required CSfC equipment. Proposed schedules that exceed 120 days total Period of Performance will be deemed unacceptable.</li>\\n\\t\\t<li>The evaluation will consider the realism of the schedule, the logical sequencing of tasks, and the ability to perform concurrent work where applicable.</li>\\n\\t</ul>\\n\\t</li>\\n\\t<li>\\n\\t<p><strong>Price</strong>:</p>\\n\\n\\t<ul>\\n\\t\\t<li>Price will be evaluated for&nbsp;<strong>reasonableness</strong>,&nbsp;<strong>realism</strong>, and&nbsp;<strong>balance</strong>:\\n\\n\\t\\t<ul>\\n\\t\\t\\t<li><strong>Reasonableness</strong>: The proposed price will be compared to historical data, market research, and other offers to ensure it is fair.</li>\\n\\t\\t\\t<li><strong>Realism</strong>: The price will be analyzed to ensure it reflects a sound understanding of the work and is not unrealistically low.</li>\\n\\t\\t\\t<li><strong>Balance</strong>: The price will be reviewed to ensure it is appropriately distributed across all CLINs and does not indicate front-loading or disproportionate allocation.</li>\\n\\t\\t</ul>\\n\\t\\t</li>\\n\\t</ul>\\n\\t</li>\\n</ol>\\n\\n<p><strong>Basis for Award:</strong><br />\\nThe Government intends to make an award to the offeror whose proposal represents the&nbsp;<strong>best value</strong>&nbsp;to the Government.&nbsp;<strong>Technical Approach</strong>&nbsp;is significantly more important than&nbsp;<strong>Schedule Feasibility</strong>, which is slightly more important than&nbsp;<strong>Price</strong>. However, as proposals become more equal in their technical merit and schedule feasibility, the evaluated price will become more important in determining the overall best value.</p>\\n\\n<p>(End of Evaluation Section)</p>\\n\\n<p><strong>SUBMISSION DEADLINES</strong></p>\\n\\n<ul>\\n\\t<li><strong>Site Visit</strong>: 11 May 2026, 12:00 PM Mountain Time. Please submit names to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta no later than close of business 7 May 2026.</li>\\n\\t<li><strong>Questions Due</strong>: 15 May 2026, 12:00 PM Mountain Time. Questions must be submitted via email to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n\\t<li><strong>Proposals Due</strong>: 21 May 2026, 12:00 PM Mountain Time. Proposals must be submitted electronically to the Contracting Officer, Capt Byron S. Irving, Contract Specialist, Matthew B Clark at&nbsp;matthew.b.clark.ctr@socom.mil, and Technical POC, CW3 Chimere Chuta.</li>\\n</ul>\\n\\n<p><strong>SOLICITATION PROVISIONS AND CONTRACT CLAUSES</strong></p>\\n\\n<p>The provisions and clauses applicable to this solicitation are those listed in&nbsp;<strong>RFO 12.205 Solicitation provisions and contract clauses</strong>.</p>\\n\"}",
     "attachments": [
       {
         "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0af6dc00a0a24124bb39b7bac7c62f5b/download",
@@ -963,9 +973,9 @@
         "textSnippet": ""
       },
       {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2daae2eb38154b6caf008cd451d91374/download",
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3c8a43b26eea4a1cbd54dc43587b86b4/download",
         "contentType": "application/octet-stream",
-        "byteSize": 18054,
+        "byteSize": 459241,
         "textSnippet": ""
       }
     ],
@@ -1609,6 +1619,238 @@
     "updatedDate": null
   },
   {
+    "noticeId": "8663417b484c46b8acc7089c68cd58fb",
+    "title": "Former Nebraska Ordnance Plant (FNOP) near Mead, NE, SATOC Synopsis",
+    "solicitationNumber": "W912DQ-MEADSATOC",
+    "type": "Special Notice",
+    "baseType": "Special Notice",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-13",
+    "responseDeadline": "2026-05-21T10:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTHWESTERN.ENDIST KANSAS CITY.W071 ENDIST KANSAS CITY",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/8663417b484c46b8acc7089c68cd58fb/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8663417b484c46b8acc7089c68cd58fb",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a res...",
+    "descriptionFull": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a result in replying to this notice. This notice should not be construed as a commitment by the Government for any purpose. Firms are required to submit their qualifications by 10:00am CT, 21 May 2026. Please note, update 0003 was an administrative update to correct the submission date. Update 0004 includes Amendment 0003. \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": false,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "51384547705141f6aaa9204ca6121f31",
+    "title": "C--BLM Tomahawk Detention Dam Rehabilitation NID # MT",
+    "solicitationNumber": "140L0626Q0009",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-13",
+    "responseDeadline": "2026-05-26T12:00:00-06:00",
+    "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.NATIONAL OPERATIONS CENTER",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": null
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/51384547705141f6aaa9204ca6121f31/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=51384547705141f6aaa9204ca6121f31",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9feccd629352448ca96043818ee6f442/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e3310aa794154da089e944b250ffa875/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f02935db50fd48449a286a615cb615dc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fb07a81ad40f4a62bee09c65f4b473c4/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"The Bureau of Land Management (BLM) is seeking one qualified firm to provide Title I, II A/E Services for Tomahawk Detention Dam NID # MT00712 BLM Dam Rehabilitation Glasgow, Montana. \"}",
+    "descriptionFull": "{\"description\":\"The Bureau of Land Management (BLM) is seeking one qualified firm to provide Title I, II A/E Services for Tomahawk Detention Dam NID # MT00712 BLM Dam Rehabilitation Glasgow, Montana.  \"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9feccd629352448ca96043818ee6f442/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 682654,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e3310aa794154da089e944b250ffa875/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 233318,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f02935db50fd48449a286a615cb615dc/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 102540,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fb07a81ad40f4a62bee09c65f4b473c4/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 206282,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
+    "noticeId": "249186119d1c4f7abd687db19122f861",
+    "title": "Former Nebraska Ordnance Plant (FNOP) near Mead, NE, SATOC Synopsis",
+    "solicitationNumber": "W912DQ26RA053",
+    "type": "Solicitation",
+    "baseType": "Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-13",
+    "responseDeadline": "2026-05-21T10:00:00-05:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTHWESTERN.ENDIST KANSAS CITY.W071 ENDIST KANSAS CITY",
+    "office": "",
+    "placeOfPerformance": {
+      "city": null,
+      "state": null,
+      "zip": ""
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/249186119d1c4f7abd687db19122f861/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=249186119d1c4f7abd687db19122f861",
+      "additionalInfoLink": null,
+      "resourceLinks": null
+    },
+    "descriptionSnippet": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a res...",
+    "descriptionFull": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a result in replying to this notice. This notice should not be construed as a commitment by the Government for any purpose. Firms are required to submit their qualifications by 10:00am CT, 21 May 2026. Please submit SF330s through this related notice. \"}",
+    "attachments": [],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [
+        "LAN"
+      ],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": null
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "c7b2891b46814f2491d32a327b1ce1ed",
     "title": "Architect-Engineer (A-E) Services IDIQ for Offutt AFB",
     "solicitationNumber": "FA4600R0004",
@@ -2081,74 +2323,6 @@
     "updatedDate": null
   },
   {
-    "noticeId": "95c61321362544cd8c52b2da8cd3e8f5",
-    "title": "Former Nebraska Ordnance Plant (FNOP) near Mead, NE, SATOC Synopsis",
-    "solicitationNumber": "W912DQ26RA053",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-12",
-    "responseDeadline": "2026-05-21T10:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTHWESTERN.ENDIST KANSAS CITY.W071 ENDIST KANSAS CITY",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": ""
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/95c61321362544cd8c52b2da8cd3e8f5/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=95c61321362544cd8c52b2da8cd3e8f5",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a res...",
-    "descriptionFull": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a result in replying to this notice. This notice should not be construed as a commitment by the Government for any purpose. Firms are required to submit their qualifications by 10:00am CT, 21 May 2026. Please submit SF330s through this related notice. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
     "noticeId": "32be6f136a1045e1852515abe4663b27",
     "title": "NUWC Division Keyport 2MMTR Services",
     "solicitationNumber": "N6572626R3101",
@@ -2251,74 +2425,6 @@
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "2f5dbebc668041c18ff1f228d751f847",
-    "title": "Former Nebraska Ordnance Plant (FNOP) near Mead, NE, SATOC Synopsis",
-    "solicitationNumber": "W912DQ-MEADSATOC",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-12",
-    "responseDeadline": "2026-05-21T10:00:00-05:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTHWESTERN.ENDIST KANSAS CITY.W071 ENDIST KANSAS CITY",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": ""
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/2f5dbebc668041c18ff1f228d751f847/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2f5dbebc668041c18ff1f228d751f847",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a res...",
-    "descriptionFull": "{\"description\":\"This announcement serves as a synopsis for a SATOC for A/E services to support the Former Nebraska Ordnance Plant near Mead, NE. This will be a Small Business set-aside. Projects relate to performing Hazardous, Toxic, and Radiological Waste (HTRW) activities, including design work involving groundwater treatment systems and extraction wells, groundwater modeling, pre-design investigation, preparation of contract drawings, technical specifications, design analyses, life cycle cost analyses, and computer aided cost estimating, as well as construction phase services, including shop drawing review, design during construction, site visits, etc. This notice does not constitute a commitment on the part of the Government to award a contract, or to pay any costs incurred as a result in replying to this notice. This notice should not be construed as a commitment by the Government for any purpose. Firms are required to submit their qualifications by 10:00am CT, 21 May 2026. Note, this is an administrative update to correct the submission date. \"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "LAN"
-      ],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
     "updatedDate": null
   },
   {
@@ -2605,88 +2711,6 @@
     "scopeRisk": false,
     "workModeNotes": {
       "onsiteRequired": true,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "03c1fdfe7df647f28d51da07f7629125",
-    "title": "BLM Tomahawk Detention Dam Rehabilitation NID # MT",
-    "solicitationNumber": "140L0626Q0009",
-    "type": "Combined Synopsis/Solicitation",
-    "baseType": "Combined Synopsis/Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-05-05",
-    "responseDeadline": "2026-05-26T12:00:00-06:00",
-    "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF LAND MANAGEMENT.NATIONAL OPERATIONS CENTER",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": null
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/03c1fdfe7df647f28d51da07f7629125/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=03c1fdfe7df647f28d51da07f7629125",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9feccd629352448ca96043818ee6f442/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e3310aa794154da089e944b250ffa875/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"The Bureau of Land Management (BLM) is seeking one qualified firm to provide Title I, II A/E Services for Tomahawk Detention Dam NID # MT00712 BLM Dam Rehabilitation Glasgow, Montana. \"}",
-    "descriptionFull": "{\"description\":\"The Bureau of Land Management (BLM) is seeking one qualified firm to provide Title I, II A/E Services for Tomahawk Detention Dam NID # MT00712 BLM Dam Rehabilitation Glasgow, Montana.  \"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9feccd629352448ca96043818ee6f442/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 682654,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e3310aa794154da089e944b250ffa875/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 233318,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
       "onsiteAllowedStates": [
         "AZ",
         "Arizona"
@@ -3208,74 +3232,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Alaska"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": false,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "05d1bfa249ce4dc6a9566e77807022e0",
-    "title": "GSA OASIS+ SB 10206 Router Solution for B-52H Crypto Modernization Production",
-    "solicitationNumber": "RFP1798904",
-    "type": "Special Notice",
-    "baseType": "Special Notice",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-20",
-    "responseDeadline": "2026-04-28T23:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
-    "office": "",
-    "placeOfPerformance": {
-      "city": "Wright Patterson AFB",
-      "state": "Ohio",
-      "zip": "45433"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/05d1bfa249ce4dc6a9566e77807022e0/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=05d1bfa249ce4dc6a9566e77807022e0",
-      "additionalInfoLink": null,
-      "resourceLinks": null
-    },
-    "descriptionSnippet": "{\"description\":\"<p><strong>UPDATE 2:</strong>&nbsp;Tab 3a - B-52 Router Solution FOPR Atch 1_Cost-Price Worksheet has been updated to the latest version 17 Apr 2026. New Question and Answers sheet has been updated.&nbsp;</p>\\n\\n<p><strong>UPDATE 1:&nbsp;</strong>The subject contract opportunity&#39;s open period for proposal has been extended by 2 weeks. The new due date is 28 April 2026.</p>\\n\\n<p></p>\\n\\n<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please...",
-    "descriptionFull": "{\"description\":\"<p><strong>UPDATE 2:</strong>&nbsp;Tab 3a - B-52 Router Solution FOPR Atch 1_Cost-Price Worksheet has been updated to the latest version 17 Apr 2026. New Question and Answers sheet has been updated.&nbsp;</p>\\n\\n<p><strong>UPDATE 1:&nbsp;</strong>The subject contract opportunity&#39;s open period for proposal has been extended by 2 weeks. The new due date is 28 April 2026.</p>\\n\\n<p></p>\\n\\n<p>This posting will only include Bidders&rsquo; Library documents and Fair Opportunity Proposal Request (FOPR). All other documents related to proposal submission are in the B-52 Crypto Mod Router Qualification posting on E-Buy (RFP 1798904 OASIS+ SB 10206).</p>\\n\\n<p>To access and review the bidder&#39;s library documents for the B-52 Crypto Modernization Router Qualification please submit the B-52 Crypto Mod Router Qualification Controlled Unclassified Information (CUI) Restricted Access Request Form to lauren.vanhook@us.af.mil and michael.west.57@us.af.mil. The purpose of these documents is to provide potential offerors with information necessary to solidify their understanding of the requirement.</p>\\n\\n<p>Interested offerors need to have an active and verified DD Form 2345 on file to access unclassified technical data disclosing militarily critical technology with military or space application that is under the control of, or in possession of the U.S. Department of Defense. Offerors interested in obtaining access to the Bidders&rsquo; Library will need to send a request to the Contracting Officer, lauren.vanhook@us.af.mil and Contract Specialist, michael.west.57@us.af.mil, along with a copy of their verified DD Form 2345.</p>\\n\\n<p>For Questions on completing the DD Form 2345, offerors may view DLA&rsquo;s Joint Certification Program page at https://www.dla.mil/logistics-operations/services/joint-certification-program/.</p>\\n\\n<p>The Government reserves the right to provide access to the documents to legitimate B-52 Crypto Mod Router Qualification bidders. Access to (CUI) Router Drawings_Wiring Interface will require restricted access request.</p>\\n\\n<p>PLEASE NOTE: The Procuring Contracting Officer and Contract Specialist are the sole points of contact for this acquisition and the documents within the Bidder&#39;s Library. All communication shall be routed through lauren.vanhook@us.af.mil and michael.west.57@us.af.mil.</p>\\n\"}",
-    "attachments": [],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "modernization"
-    ],
-    "keywordsMatchedIn": {
-      "title": [
-        "modernization"
-      ],
-      "description": [
-        "modernization"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": "Ohio"
     },
     "timeToDeadlineDays": null,
     "bidEligible": false,
