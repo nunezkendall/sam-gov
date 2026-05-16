@@ -1,5 +1,100 @@
 [
   {
+    "noticeId": "af49d05614944f71af1a98ac36d43d55",
+    "title": "Replacement Notification System",
+    "solicitationNumber": "DJA-26-ASOD-PR-0271",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541519",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-15",
+    "responseDeadline": "2026-05-21T11:59:00-04:00",
+    "agency": "JUSTICE, DEPARTMENT OF.ATF ACQUISITION AND PROPERTY MGMT DIV.ATF",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "Washington",
+      "state": "District of Columbia",
+      "zip": "20226"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/af49d05614944f71af1a98ac36d43d55/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=af49d05614944f71af1a98ac36d43d55",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e807bd4cd504b1789f148e2131f6a2f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/68f4b85da9c04223a43fbcc79eef34db/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa8db9137c68408d89a3bd8894536e7e/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong>THE BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES (ATF) REQUEST FOR QUOTE</strong></p>\\n\\n<p><strong>COMBINED SYNOPSIS/SOLICITATION DJA-26-ASOD-PR-0271</strong></p>\\n\\n<p><strong>BASED ON REVOLUTIONARY FAR OVERHAUL (RFO) DEVIATION&nbsp;</strong></p>\\n\\n<p><strong>Posted Date:&nbsp;&nbsp; 5/6/2026</strong></p>\\n\\n<p><strong>Original Response Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/13/2026</strong></p>\\n\\n<p><strong>Current Response Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/21/2026</strong></p>\\n\\n<p><strong>Product or Service Code:&nbsp;&nbsp;&nbsp;&nbsp; DH10</strong></p>\\n\\n<p><strong>Set Aside:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs...",
+    "descriptionFull": "{\"description\":\"<p><strong>THE BUREAU OF ALCOHOL, TOBACCO, FIREARMS AND EXPLOSIVES (ATF) REQUEST FOR QUOTE</strong></p>\\n\\n<p><strong>COMBINED SYNOPSIS/SOLICITATION DJA-26-ASOD-PR-0271</strong></p>\\n\\n<p><strong>BASED ON REVOLUTIONARY FAR OVERHAUL (RFO) DEVIATION&nbsp;</strong></p>\\n\\n<p><strong>Posted Date:&nbsp;&nbsp; 5/6/2026</strong></p>\\n\\n<p><strong>Original Response Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/13/2026</strong></p>\\n\\n<p><strong>Current Response Date:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5/21/2026</strong></p>\\n\\n<p><strong>Product or Service Code:&nbsp;&nbsp;&nbsp;&nbsp; DH10</strong></p>\\n\\n<p><strong>Set Aside:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Total Small Business Set-Aside</strong></p>\\n\\n<p><strong>NAICS Code:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 541519</strong></p>\\n\\n<p><strong>Address</strong></p>\\n\\n<p><strong>ATF The National Coordination Center</strong></p>\\n\\n<p><strong>99 New York Avenue, NE, Suite 2N-584</strong></p>\\n\\n<p><strong>Washington, D.C., 20226</strong></p>\\n\\n<p></p>\\n\\n<p><strong>DESCRIPTION</strong></p>\\n\\n<p>Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) is a law enforcement organization. ATF&rsquo;s unique responsibilities consist of reducing violent crime, collecting revenue, and protecting the public. &nbsp;ATF enforces Federal laws and regulations relating to alcohol, tobacco, firearms, explosives and arson by working directly and in cooperation with other government agencies.</p>\\n\\n<p>This is a combined synopsis/solicitation for commercial &lt;insert &ldquo;products&rdquo; OR &ldquo;services&rdquo;&gt; prepared in accordance with FAR 12. This announcement constitutes the only solicitation. Offers are being requested, and a separate written solicitation will not be issued.</p>\\n\\n<p>Solicitation number DJA-26-ASOD-PR-0271 is issued as a &lt;insert either &ldquo;request for quotation (RFQ)&rdquo; OR &ldquo;request for proposal (RFP)&rdquo; OR &ldquo;invitation for bid (IFB)&rdquo;&gt; for &lt;insert a brief description of the requirement&gt;. &lt;If applicable, include a statement that simplified procedures are being used and provide the anticipated award date.&gt;</p>\\n\\n<p>This acquisition is set aside for small business concerns. This solicitation incorporates provisions and clauses by reference. The full text of provisions and clauses may be accessed electronically at www.acquisition.gov.</p>\\n\\n<p>If applicable, insert a statement regarding the Defense Priorities and Allocations System (DPAS) and assigned rating.</p>\\n\\n<p>The associated North American Industrial Classification System (NAICS) code for this procurement is 541519, with a small business size standard of $34mil. The product or service code is DH10. The government will award an and type of contract, such as firm-fixed price (FFP); resulting from this combined synopsis/solicitation to the responsible offeror whose offer, conforming to the synopsis/solicitation, will be most advantageous to the government (as determined by the solicitation evaluation criteria).</p>\\n\\n<p>All interested companies must provide quotation for the following: Attachment A &ndash; Pricing Table:&nbsp; Vendor will fill out Pricing Table and return with vendor.&nbsp; Vendors shall quote based on the attached PWS and Quality Assurance Surveillance Plan (QASP).</p>\\n\\n<p>SCOPE</p>\\n\\n<p>This procurement is for a replacement of an existing requirement for a FedRAMP Moderate software-as-a-service (SaaS) cloud operated mass notification system to be used by ATF to conduct law enforcement, regulatory and emergency management activities of ATF and the Department of Justice.&nbsp; This system must allow authorized personnel to send text, email and voice messages virtually instantaneously consistent with the public safety purpose of the notification which may include messages with life-safety implications where reliability is critical.&nbsp; These messages will be sent to Federal personnel employed by ATF, our interagency law enforcement partners as well as notifications to Federal Firearms Licensees (public).&nbsp; The system must be capable of sending push notifications without prior registration of the contacts receiving the messages. This procurement is a total small business set-aside and will be a single-award Firm-Fixed-Price (FFP). Contractor(s) shall provide a firm-fixed price quote and complete. Contractors will be evaluated using the following NAICS 541519 and PSC DH10.&nbsp; The vendors shall use the attached Performance Work Statement (PWS) to form their quote.</p>\\n\\n<p>REQUIRED DELIVERY DATE (RDD) AND SHIP TO LOCATION</p>\\n\\n<ul>\\n\\t<li>\\n\\t<ul>\\n\\t\\t<li>Required Deliver Date (RDD): Acceptance will be 7 Days after award. The Period of Performance (POP) will be for one Base year.</li>\\n\\t\\t<li>Base Year Only: May 22, 2026 &ndash; May 21, 2027</li>\\n\\t\\t<li>POP: May 22, 2026 &ndash; May 21, 2031</li>\\n\\t\\t<li>Place of Performance: The program office for the management of the support will be at the ATF The National Coordination Center 99 New York Avenue, NE, Suite 2N-584, Washington, D.C., 20226.&nbsp; The requirement may be located within the United States at a location convenient to the place of performance.</li>\\n\\t</ul>\\n\\t</li>\\n</ul>\\n\\n<p>ATF POLICES, PROCEDURE AND STANDARDS</p>\\n\\n<p>The contractor shall conform to the following ATF guidelines, security requirements, and federal regulation and legislation throughout the life of the contract. &nbsp;ATF reserves the right to amend/upgrade these standards and internal guidelines, processes and procedures based on technological advances.</p>\\n\\n<p>CLAUSES</p>\\n\\n<p>The contractor/awardee must comply with provisions and clauses/terms &amp; conditions (T&amp;Cs) incorporated herein <em>via </em>full text and by reference.</p>\\n\\n<p>Offeror Representations and Certifications &ndash; Commercial Items applies to this acquisition. Prospective vendors must be actively registered with the System for Awards Management (SAM) website at http://www.SAM.gov. The clause at FAR 52.212-4, Contract Terms and Conditions, Contract Terms and Conditions Required to Implement Statutes or Executive Orders &ndash; Commercial Items applies to this acquisition. The offeror must have a current profile in the Online Representations and Certifications (http://www.SAM.gov) prior to award. The above referenced FAR clauses and provisions <u>may</u> be accessed via the World Wide Web at www.aquisitions.gov/far.</p>\\n\\n<p><strong>NOTE: </strong>ATF and DOJ clauses are not all inclusive and will be incorporated at the order level.</p>\\n\\n<p>BASIS FOR AWARD AND SUBMISSION OF QUOTES</p>\\n\\n<p>Award will be made using the lowest price, technically acceptable source selection process. &nbsp;Source selection procedures in accordance with FAR 15.101-2.</p>\\n\\n<p><strong>Factor 1 - Technical Acceptability </strong>- Technical quote will be evaluated to determine the likelihood that the Government&rsquo;s requirements in the Request for Quote (RFQ) can be achieved.</p>\\n\\n<p><u>Technically Acceptable/Unacceptable Ratings</u></p>\\n\\n<p><strong>Acceptable:</strong></p>\\n\\n<p>Quote clearly meets the requirements of the RFQ.</p>\\n\\n<p><strong>Unacceptable:</strong></p>\\n\\n<p>Quote does not clearly meet the requirements of the RFQ.</p>\\n\\n<p><strong>Factor 2 - Price </strong>&ndash; The Price quote will be evaluated based upon the Offeror&rsquo;s price for CLIN in total subject to FAR 16.202-2.</p>\\n\\n<p><strong>QUOTES:</strong>&nbsp; All Quotes shall be submitted via email to David.Berger@atf.gov and Nya.Houston@atf.gov. &nbsp;The Quotes shall be received by 12:00 PM EST on May 21, 2026, and shall reference Solicitation #DJA-26-ASOD-PR-0271.&nbsp; Quotes received after the stated time and date will not be accepted or evaluated.&nbsp; Quotes shall be submitted in two parts, technical and pricing and clearly labeled as such.&nbsp;</p>\\n\\n<p><strong>QUESTIONS/QUOTE DUE DATE</strong></p>\\n\\n<p>All questions regarding this solicitation shall be submitted in writing and sent via email to David Berger at David.Berger@atf.gov and shall reference the solicitation #DJA-26-ASOD-PR-0271. All questions shall be received by 12:00 PM EST on May 20, 2026. Questions received after the stated time and date will not be addressed.&nbsp; Telephonic requests or inquiries will not be accepted.&nbsp; All Quotes shall be submitted via email to David.Berger@atf.gov.&nbsp; All Quotes shall be received by 12:00 PM EST on May 21, 2026, and shall reference Solicitation #DJA-26-ASOD-PR-0271.&nbsp; Quotes received after the stated time and date will not be accepted or evaluated.</p>\\n\\n<p>Please see attachments for full RFQ information.</p>\\n\\n<p></p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e807bd4cd504b1789f148e2131f6a2f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 234464,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/68f4b85da9c04223a43fbcc79eef34db/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 456739,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fa8db9137c68408d89a3bd8894536e7e/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 730096,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "AWS",
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "AWS",
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": [
+        "virtual"
+      ]
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "remotePossible": true,
+    "onsitePossible": false,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "soc"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": false,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "District of Columbia"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "399ceb16e5c342438fb8e8159706fa19",
     "title": "SafeTK\u00ae (Safety Permitting Software) Annual Subscription Renewal.",
     "solicitationNumber": "80NSSC26933028Q",
@@ -1778,6 +1873,92 @@
     "updatedDate": null
   },
   {
+    "noticeId": "d9d37c626eff4106919dd87fdba95a29",
+    "title": "Hexapod for Precision Motion and Angular Positioning",
+    "solicitationNumber": "COMBO-AFRL-PZLEQ-2026-0005",
+    "type": "Combined Synopsis/Solicitation",
+    "baseType": "Combined Synopsis/Solicitation",
+    "naicsCode": "541330",
+    "setAsideCode": "",
+    "setAside": "",
+    "postedDate": "2026-05-15",
+    "responseDeadline": "2026-05-22T12:00:00-04:00",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2396 USAF AFMC AFRL PZL AFRL PZLE",
+    "office": "",
+    "placeOfPerformance": {
+      "city": "GOULDS",
+      "state": "Florida",
+      "zip": "32542"
+    },
+    "links": {
+      "uiLink": "https://sam.gov/workspace/contract/opp/d9d37c626eff4106919dd87fdba95a29/view",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d9d37c626eff4106919dd87fdba95a29",
+      "additionalInfoLink": null,
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/62c974a4b67d48559e403394bb84481f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/81d937f038fc4a5b915c1a6d9f60df5c/download"
+      ]
+    },
+    "descriptionSnippet": "{\"description\":\"<p><strong><u>GENERAL STATEMENT:</u></strong></p>\\n\\n<p>This is a combined synopsis/solicitation for a commercial item issued by the <strong>Air Force Research Laboratory/PZLEQ, Wright-Patterson Air Force Base, Ohio</strong>. This announcement constitutes the only solicitation being issued for the requirement described herein.</p>\\n\\n<p></p>\\n\\n<p><strong><u>SOLICITATION INFORMATION</u></strong></p>\\n\\n<p><strong>Solicitation Number:</strong>&nbsp;&nbsp; <strong>COMBO-AFRL-PZLEQ-2026-0005</strong></p>\\n\\n<p>[<strong>X</strong>]<strong> </strong>Request for Quotation (RFQ) [<strong> &nbsp;</strong>] Request for Proposal (RFP) [&nbsp;&nbsp; ] Invitation for Bid (IFB)</p>\\n\\n<p></p>\\n\\n<p><strong><u>REGULATION IDENTIFICATION:</u></strong></p>\\n\\n<p>This solicitation and the...",
+    "descriptionFull": "{\"description\":\"<p><strong><u>GENERAL STATEMENT:</u></strong></p>\\n\\n<p>This is a combined synopsis/solicitation for a commercial item issued by the <strong>Air Force Research Laboratory/PZLEQ, Wright-Patterson Air Force Base, Ohio</strong>. This announcement constitutes the only solicitation being issued for the requirement described herein.</p>\\n\\n<p></p>\\n\\n<p><strong><u>SOLICITATION INFORMATION</u></strong></p>\\n\\n<p><strong>Solicitation Number:</strong>&nbsp;&nbsp; <strong>COMBO-AFRL-PZLEQ-2026-0005</strong></p>\\n\\n<p>[<strong>X</strong>]<strong> </strong>Request for Quotation (RFQ) [<strong> &nbsp;</strong>] Request for Proposal (RFP) [&nbsp;&nbsp; ] Invitation for Bid (IFB)</p>\\n\\n<p></p>\\n\\n<p><strong><u>REGULATION IDENTIFICATION:</u></strong></p>\\n\\n<p>This solicitation and the incorporated provisions and clauses are those in effect through Revolutionary FAR Overhaul (RFO) Part 12 &ndash; Acquisition of Commercial Products and Services, Effective 14 August 2025.</p>\\n\\n<p></p>\\n\\n<p><strong><u>NOTICE OF SMALL BUSINESS SET-ASIDE:</u></strong><em> </em></p>\\n\\n<p>Set-aside Type&nbsp;</p>\\n\\n<p>100% Total Small Business</p>\\n\\n<p>NAICS Size Standard</p>\\n\\n<p>541330 - Military and Aerospace Equipment</p>\\n\\n<p></p>\\n\\n<p><strong><u>LISTING/DESCRIPTION OF ITEMS: </u></strong></p>\\n\\n<p></p>\\n\\n<p><strong>CLIN #</strong></p>\\n\\n<p><strong>DESCRIPTION</strong></p>\\n\\n<p><strong>QTY</strong></p>\\n\\n<p><strong>UNIT </strong></p>\\n\\n<p>0001</p>\\n\\n<p>Vendor shall deliver one (1) Hexapod system and ancillary items IAW Minimum Requirements Document dated 15 May 2026 (attached).</p>\\n\\n<p>1</p>\\n\\n<p>EA</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p><strong><u>DELIVERY INFORMATION:</u></strong></p>\\n\\n<p></p>\\n\\n<p>FOB:&nbsp;&nbsp; [X] Destination</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [&nbsp;&nbsp; ] Origin</p>\\n\\n<p></p>\\n\\n<p>Place of Delivery:</p>\\n\\n<p></p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>AFRL/RWTSH</strong></p>\\n\\n<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 101 W Eglin Blvd</strong></p>\\n\\n<p><strong>Eglin AFB, FL 32542</strong></p>\\n\\n<p></p>\\n\\n<p>Requested Date of Delivery:</p>\\n\\n<p><strong>16 Weeks After Date of Award</strong></p>\\n\\n<p></p>\\n\\n<p><strong><u>INSTRUCTIONS TO OFFERORS:</u></strong></p>\\n\\n<p>The provision at <strong>RFO </strong><strong>52.212-1</strong>, Instructions to Offerors &ndash; Commercial Products and Services, applies to this acquisition.</p>\\n\\n<p></p>\\n\\n<p>Addenda:</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>N/A</strong></p>\\n\\n<p></p>\\n\\n<p><strong><u>EVALUATION OF OFFERS:</u></strong></p>\\n\\n<p>The provision at <strong>RFO</strong> <strong>52.212-2</strong>, Evaluation &ndash; Commercial Products and Services, will be used to evaluate quotes received.</p>\\n\\n<p></p>\\n\\n<p><em><u>The Government will award a contract resulting from this solicitation to the responsible offeror whose quote conforming to the solicitation will be most advantageous to the Government, <strong>price and other factors considered</strong>. </u></em></p>\\n\\n<p></p>\\n\\n<p><strong>The following factors shall be used to evaluate offers:</strong></p>\\n\\n<p><strong>Lowest Price Technically Acceptable </strong></p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1) <u>Price </u></p>\\n\\n<p>(2) <u>Technical Acceptability</u></p>\\n\\n<p>(a) In order for this quote to be considered &ldquo;Technically Acceptable&rdquo; it must meet all specification requirements in the Minimum Requirements Document dated 15 May 2026.</p>\\n\\n<p></p>\\n\\n<p><strong>Offerors shall assume that the Government has no prior knowledge of its facilities, capabilities, and experience and will base the evaluation solely on the information presented in the Offeror&rsquo;s proposal.</strong></p>\\n\\n<p></p>\\n\\n<p><strong><em><u>The Government reserves the right to award all, some, or none, of the items listed in this solicitation. The Government reserves the right to resolicit if results garner only one qualifying quote, if it&rsquo;s determined to be in the best interests of the Government. </u></em></strong></p>\\n\\n<p></p>\\n\\n<p><strong><u>CONTRACT TERMS &amp; CONDITIONS:</u></strong></p>\\n\\n<p>The clause at <strong>RFO</strong> <strong>52.212-4</strong>, Terms and Conditions &ndash; Commercial Products and Services, applies to this acquisition.</p>\\n\\n<p></p>\\n\\n<p>Addenda: N/A</p>\\n\\n<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\\n\\n<p><strong>REQUIRED PROVISIONS:</strong></p>\\n\\n<p>In accordance with RFO 12.205(a)(3), the following provisions are incorporated if applicable based on the provision prescription:</p>\\n\\n<p></p>\\n\\n<p><strong>Provision Number</strong></p>\\n\\n<p><strong>Provision Title</strong></p>\\n\\n<p><strong>RFO 52.203-11 </strong></p>\\n\\n<p>Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions</p>\\n\\n<p><strong>RFO 52.203-18 </strong></p>\\n\\n<p>Prohibition on Contracting with Entities that Require Certain Internal Confidentiality Agreements or Statements-Representation</p>\\n\\n<p><strong>RFO 52.204-7 </strong></p>\\n\\n<p>System for Award Management&mdash;Registration</p>\\n\\n<p><strong>RFO 52.204-7 with Alt I</strong></p>\\n\\n<p>System for Award Management&mdash;Registration, with Alternate I</p>\\n\\n<p><strong>RFO 52.204-90</strong></p>\\n\\n<p>Offeror Identification</p>\\n\\n<p><strong>RFO 52.207-6</strong></p>\\n\\n<p>Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts)</p>\\n\\n<p><strong>RFO 52.209-12</strong></p>\\n\\n<p>Certification Regarding Tax Matters</p>\\n\\n<p><strong>RFO 52.219-2</strong></p>\\n\\n<p>Equal Low Bids</p>\\n\\n<p><strong>RFO 52.222-18</strong></p>\\n\\n<p>Certification Regarding Knowledge of Child Labor for Listed End Products</p>\\n\\n<p><strong>RFO 52.222-56</strong></p>\\n\\n<p>Certification Regarding Trafficking in Persons Compliance Plan</p>\\n\\n<p><strong>RFO 52.222-90</strong></p>\\n\\n<p>Addressing DEI Discrimination by Federal Contractors</p>\\n\\n<p><strong>RFO 52.223-4</strong></p>\\n\\n<p>Recovered Material Certification</p>\\n\\n<p><strong>RFO 52.225-2</strong></p>\\n\\n<p>Buy American Certificate</p>\\n\\n<p><strong>RFO 52.225-4</strong></p>\\n\\n<p>Buy American-Free Trade Agreements-Israeli Trade Act Certificate</p>\\n\\n<p><strong>RFO 52.225-6</strong></p>\\n\\n<p>Trade Agreements-Certificate</p>\\n\\n<p><strong>RFO 52.225-20</strong></p>\\n\\n<p>Prohibition on Conducting Restricted Business Operations in Sudan-Certification</p>\\n\\n<p><strong>RFO 52.225-25</strong></p>\\n\\n<p>Prohibition on Contracting with Entities Engaging in Certain Activities or Transactions Relating to Iran-Representation and Certifications</p>\\n\\n<p><strong>RFO 52.226-3</strong></p>\\n\\n<p>Disaster or Emergency Area Representation</p>\\n\\n<p><strong>RFO 52.229-11</strong></p>\\n\\n<p>Tax on Certain Foreign Procurements&mdash;Notice and Representation</p>\\n\\n<p><strong>RFO 52.240-90</strong></p>\\n\\n<p>Security Prohibitions and Exclusions Representations and Certifications</p>\\n\\n<p></p>\\n\\n<p></p>\\n\\n<p><strong>REQUIRED CLAUSES:</strong></p>\\n\\n<p>In accordance with RFO 12.205(b)(2), the following provisions are incorporated if applicable based on the clause prescription:</p>\\n\\n<p></p>\\n\\n<p><strong>Clause Number</strong></p>\\n\\n<p><strong>Clause Title</strong></p>\\n\\n<p><strong>RFO 52.203-6 with Alt I</strong></p>\\n\\n<p>Restrictions on Subcontractor Sales to the Government</p>\\n\\n<p><strong>RFO 52.203-13</strong></p>\\n\\n<p>Contractor Code of Business Ethics and Conduct</p>\\n\\n<p><strong>RFO 52.203-17</strong></p>\\n\\n<p>Contractor Employee Whistleblower Rights</p>\\n\\n<p><strong>RFO 52.203-19</strong></p>\\n\\n<p>Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements</p>\\n\\n<p><strong>RFO 52.204-9</strong></p>\\n\\n<p>Personal Identity Verification of Contractor Personnel</p>\\n\\n<p><strong>RFO 52.204-13</strong></p>\\n\\n<p>System for Award Management&mdash;Maintenance</p>\\n\\n<p><strong>RFO 52.204-91</strong></p>\\n\\n<p>Contractor identification</p>\\n\\n<p><strong>RFO 52.209-6</strong></p>\\n\\n<p>Protecting the Government&rsquo;s Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment</p>\\n\\n<p><strong>RFO 52.209-9</strong></p>\\n\\n<p>Updates of Publicly Available Information Regarding Responsibility Matters</p>\\n\\n<p><strong>RFO 52.209-10</strong></p>\\n\\n<p>Prohibition on Contracting with Inverted Domestic Corporations</p>\\n\\n<p><strong>RFO 52.219-4</strong></p>\\n\\n<p>Notice of Price Evaluation Preference for HUBZone Small Business Concerns</p>\\n\\n<p><strong>RFO 52.219-6</strong></p>\\n\\n<p>Notice of Total Small Business Set-Aside</p>\\n\\n<p><strong>RFO 52.219-6 with Alt I</strong></p>\\n\\n<p>Notice of Total Small Business Set-Aside, with Alternate I</p>\\n\\n<p><strong>RFO 52.219-8</strong></p>\\n\\n<p>Utilization of Small Business Concerns</p>\\n\\n<p><strong>RFO 52.219-9</strong></p>\\n\\n<p>Small Business Subcontracting Plan</p>\\n\\n<p><strong>RFO 52.219-9 with Alt I</strong></p>\\n\\n<p>Small Business Subcontracting Plan, with Alternate I</p>\\n\\n<p><strong>RFO 52.219-9 with Alt II</strong></p>\\n\\n<p>Small Business Subcontracting Plan, with Alternate II</p>\\n\\n<p><strong>RFO 52.219-9 with Alt III</strong></p>\\n\\n<p>Small Business Subcontracting Plan, with Alternate III</p>\\n\\n<p><strong>RFO 52.219-9 with Alt IV</strong></p>\\n\\n<p>Small Business Subcontracting Plan, with Alternate IV</p>\\n\\n<p><strong>RFO 52.219-14</strong></p>\\n\\n<p>Limitations on Subcontracting</p>\\n\\n<p><strong>RFO 52.219-16</strong></p>\\n\\n<p>Liquidated Damages&mdash;Subcontracting Plan</p>\\n\\n<p><strong>RFO 52.219-33</strong></p>\\n\\n<p>Nonmanufacturer Rule</p>\\n\\n<p><strong>RFO 52.222-3</strong></p>\\n\\n<p>Convict Labor</p>\\n\\n<p><strong>RFO 52.222-19</strong></p>\\n\\n<p>Child Labor&mdash;Cooperation with Authorities and Remedies</p>\\n\\n<p><strong>RFO 52.222-35</strong></p>\\n\\n<p>Equal Opportunity for Veterans</p>\\n\\n<p><strong>RFO 52.222-35 with Alt I</strong></p>\\n\\n<p>Equal Opportunity for Veterans, with Alternate I</p>\\n\\n<p><strong>RFO 52.222-36</strong></p>\\n\\n<p>Equal Opportunity for Workers with Disabilities</p>\\n\\n<p><strong>RFO 52.222-36 with Alt I</strong></p>\\n\\n<p>Equal Opportunity for Workers with Disabilities, with Alternate I</p>\\n\\n<p><strong>RFO 52.222-37</strong></p>\\n\\n<p>Employment Reports on Veterans</p>\\n\\n<p><strong>RFO 52.222-40</strong></p>\\n\\n<p>Notification of Employee Rights Under the National Labor Relations Act</p>\\n\\n<p><strong>RFO 52.222-50</strong></p>\\n\\n<p>Combating Trafficking in Persons</p>\\n\\n<p><strong>RFO 52.222-50 with Alt&nbsp;</strong></p>\\n\\n<p>Combating Trafficking in Persons, with its Alternate I</p>\\n\\n<p><strong>RFO 52.222-54</strong></p>\\n\\n<p>Employment Eligibility Verification</p>\\n\\n<p><strong>RFO 52.222-62</strong></p>\\n\\n<p>Paid Sick Leave Under Executive Order 13706</p>\\n\\n<p><strong>RFO 52.223-9</strong></p>\\n\\n<p>Estimate of Percentage of Recovered Material Content for EPA-Designated Items</p>\\n\\n<p><strong>RFO 52.223-9 with Alt I</strong></p>\\n\\n<p>Estimate of Percentage of Recovered Material Content for EPA-Designated Items, with Alternate I</p>\\n\\n<p><strong>RFO 52.223-11</strong></p>\\n\\n<p>Ozone-Depleting Substances and High Global Warming Potential Hydrofluorocarbons</p>\\n\\n<p><strong>RFO 52.223-20</strong></p>\\n\\n<p>Aerosols</p>\\n\\n<p><strong>RFO 52.223-21</strong></p>\\n\\n<p>Foams</p>\\n\\n<p><strong>RFO 52.223-23</strong></p>\\n\\n<p>Sustainable Products and Services</p>\\n\\n<p><strong>RFO 52.224-3</strong></p>\\n\\n<p>Privacy Training</p>\\n\\n<p><strong>RFO 52.224-3 with Alt I</strong></p>\\n\\n<p>Privacy Training, with Alternate I</p>\\n\\n<p><strong>RFO 52.225-1</strong></p>\\n\\n<p>Buy American-Supplies</p>\\n\\n<p><strong>RFO 52.225-1 with Alt&nbsp;</strong></p>\\n\\n<p>Buy American-Supplies, with Alternate I</p>\\n\\n<p><strong>RFO 52.225-3</strong></p>\\n\\n<p>Buy American-Free Trade Agreements-Israeli Trade Act</p>\\n\\n<p><strong>RFO 52.225-3 with Alt II</strong></p>\\n\\n<p>Buy American-Free Trade Agreements-Israeli Trade Act, with Alternate II</p>\\n\\n<p><strong>RFO 52.225-3 with Alt III</strong></p>\\n\\n<p>Buy American-Free Trade Agreements-Israeli Trade Act, with Alternate III</p>\\n\\n<p><strong>RFO 52.225-3 with Alt IV</strong></p>\\n\\n<p>Buy American-Free Trade Agreements-Israeli Trade Act, with Alternate IV</p>\\n\\n<p><strong>RFO 52.225-5</strong></p>\\n\\n<p>Trade Agreements</p>\\n\\n<p><strong>RFO 52.225-19</strong></p>\\n\\n<p>Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States</p>\\n\\n<p><strong>RFO 52.225-26</strong></p>\\n\\n<p>Contractors Performing Private Security Functions Outside the United States</p>\\n\\n<p><strong>RFO 52.226-4</strong></p>\\n\\n<p>Notice of Disaster or Emergency Area Set-Aside</p>\\n\\n<p><strong>RFO 52.226-5</strong></p>\\n\\n<p>Restrictions on Subcontracting Outside Disaster or Emergency Area</p>\\n\\n<p><strong>RFO 52.226-8</strong></p>\\n\\n<p>Encouraging Contractor Policies to Ban Text Messaging While Driving</p>\\n\\n<p><strong>RFO 52.229-12</strong></p>\\n\\n<p>Tax on Certain Foreign Procurements</p>\\n\\n<p><strong>RFO 52.232-29</strong></p>\\n\\n<p>Terms for Financing of Commercial Products and Commercial Services</p>\\n\\n<p><strong>RFO 52.232-30</strong></p>\\n\\n<p>Installment Payments of Commercial Products and Commercial Services</p>\\n\\n<p><strong>RFO 52.232-33</strong></p>\\n\\n<p>Payment by Electronic Funds Transfer&mdash;System for Award Management</p>\\n\\n<p><strong>RFO 52.232-34</strong></p>\\n\\n<p>Payment by Electronic Funds Transfer&mdash;Other than System for Award Management</p>\\n\\n<p><strong>RFO 52.232-36</strong></p>\\n\\n<p>Payment by Third Party</p>\\n\\n<p><strong>RFO 52.232-40</strong></p>\\n\\n<p>Providing Accelerated Payments to Small Business Subcontractors</p>\\n\\n<p><strong>RFO 52.233-3</strong></p>\\n\\n<p>Protest After Award</p>\\n\\n<p><strong>RFO 52.233-4</strong></p>\\n\\n<p>Applicable Law for Breach of Contract Claim</p>\\n\\n<p><strong>RFO 52.240-91</strong></p>\\n\\n<p>Security Prohibitions and Exclusions</p>\\n\\n<p><strong>RFO 52.240-91 with Alt I</strong></p>\\n\\n<p>Security Prohibitions and Exclusions, with Alternate I</p>\\n\\n<p><strong>RFO 52.240-92</strong></p>\\n\\n<p>Security Requirements</p>\\n\\n<p><strong>RFO 52.240-92 with Alt II</strong></p>\\n\\n<p>Security Requirements with Alternate II</p>\\n\\n<p><strong>RFO 52.240-93</strong></p>\\n\\n<p>Basic Safeguarding of Covered Contractor Information Systems</p>\\n\\n<p><strong>RFO 52.244-6</strong></p>\\n\\n<p>Subcontracts for Commercial Products and Commercial Services</p>\\n\\n<p><strong>RFO 52.247-64</strong></p>\\n\\n<p>Preference for Privately Owned U.S.-Flag Commercial Vessels</p>\\n\\n<p><strong>RFO 52.247-64 with Alt I</strong></p>\\n\\n<p>Preference for Privately Owned U.S.-Flag Commercial Vessels, with Alternate I</p>\\n\\n<p><strong>RFO 52.247-64 with Alt II</strong></p>\\n\\n<p>Preference for Privately Owned U.S.-Flag Commercial Vessels, with Alternate II</p>\\n\\n<p></p>\\n\\n<p><strong><u>ADDITIONAL CONTRACT REQUIREMENTS:</u></strong></p>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>Offeror shall include all warranty requirements and documentation with quote.</li>\\n</ol>\\n\\n<p></p>\\n\\n<ol>\\n\\t<li>Offerors shall identify how long the quote is valid.</li>\\n</ol>\\n\\n<p></p>\\n\\n<p><strong><u>DPAS APPLICABILITY:</u></strong></p>\\n\\n<p>This requirement is not applicable to the Defense Priorities and Allocations System (DPAS).</p>\\n\\n<p></p>\\n\\n<p><strong><u>SOLICITATION CLOSING INFORMATION:</u></strong></p>\\n\\n<p></p>\\n\\n<p>Quotes are due by: <strong>22 May 2026, @ 12:00 PM ET.</strong></p>\\n\\n<p></p>\\n\\n<p>Quotes must be received by the closing date stated above. Submit quotes by email.</p>\\n\\n<p></p>\\n\\n<p><strong>POINT OF CONTACT:</strong></p>\\n\\n<p>The point of contact for this acquisition for any questions and for submission of quotes is:</p>\\n\\n<p></p>\\n\\n<p><strong>Name:</strong> Mike Hornberger</p>\\n\\n<p><strong>Title:</strong> &nbsp;&nbsp;Contract Specialist</p>\\n\\n<p><strong>Email:</strong> michael.hornberger.1@us.af.mil</p>\\n\"}",
+    "attachments": [
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/62c974a4b67d48559e403394bb84481f/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 117031,
+        "textSnippet": ""
+      },
+      {
+        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/81d937f038fc4a5b915c1a6d9f60df5c/download",
+        "contentType": "application/octet-stream",
+        "byteSize": 37822,
+        "textSnippet": ""
+      }
+    ],
+    "attachmentsTextCombined": "",
+    "amountEstimate": null,
+    "amountSource": null,
+    "amountInRange": null,
+    "keywordsMatched": [
+      "LAN"
+    ],
+    "keywordsMatchedIn": {
+      "title": [],
+      "description": [
+        "LAN"
+      ]
+    },
+    "remoteIndicators": {
+      "title": [],
+      "description": []
+    },
+    "onsiteIndicators": {
+      "title": [],
+      "description": [
+        "in person"
+      ]
+    },
+    "remotePossible": false,
+    "onsitePossible": true,
+    "brandNameLikely": false,
+    "brandNameIndicators": [],
+    "scopeIndicators": [
+      "global"
+    ],
+    "scopeRisk": false,
+    "workModeNotes": {
+      "onsiteRequired": true,
+      "onsiteAllowedStates": [
+        "AZ",
+        "Arizona"
+      ],
+      "placeOfPerformanceState": "Florida"
+    },
+    "timeToDeadlineDays": null,
+    "bidEligible": true,
+    "updatedDate": null
+  },
+  {
     "noticeId": "42f05bad54e04067b5446577b204e807",
     "title": "Emergency Data Distribution Network (EDDN)",
     "solicitationNumber": "140G0126Q0157",
@@ -3490,95 +3671,6 @@
         "Arizona"
       ],
       "placeOfPerformanceState": "Virginia"
-    },
-    "timeToDeadlineDays": null,
-    "bidEligible": true,
-    "updatedDate": null
-  },
-  {
-    "noticeId": "6ce6db8ab8174a2abdfd00445bc90c34",
-    "title": "RFP N6523626R3007",
-    "solicitationNumber": "N6523626R3007",
-    "type": "Solicitation",
-    "baseType": "Solicitation",
-    "naicsCode": "541330",
-    "setAsideCode": "",
-    "setAside": "",
-    "postedDate": "2026-04-15",
-    "responseDeadline": "2026-04-22T12:00:00-04:00",
-    "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR LANT.NIWC ATLANTIC",
-    "office": "",
-    "placeOfPerformance": {
-      "city": null,
-      "state": null,
-      "zip": "29410"
-    },
-    "links": {
-      "uiLink": "https://sam.gov/workspace/contract/opp/6ce6db8ab8174a2abdfd00445bc90c34/view",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6ce6db8ab8174a2abdfd00445bc90c34",
-      "additionalInfoLink": null,
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24a5768cf7ae4c5abdf4f7121186c70b/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b4ec6f2a1324b5db674cabf203b3a03/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9203737eeb0e4353b244e2ea357aa099/download"
-      ]
-    },
-    "descriptionSnippet": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Amendment 0004 revises Attachment 12 Prime Pricing Model to correct an error on the Section B tab that was causing the 6- month option (Option 5 on the pricing model) to not display; 2) revises Section H INVITED CONTRACTOR OR TECHNICAL REPRESENTATIVE STATUS UNDER U.S. - REPUBLIC OF KOREA (ROK) clause; 3) revises Section L clause L-349 to change the subcontractor and prime alternate proposal su...",
-    "descriptionFull": "{\"description\":\"Request for Proposal for Command, Control, Communications, Computer, Intelligence, Surveillance, and Reconnaissance Sustainment III ***This opportunity is for SEAPORT NXG MAC HOLDERS ONLY and is a SMALL BUSINESS SET ASIDE. No other offers will be considered. SeaPort MAC holders will need to register for PIEE accounts in order to receive solicitations and submit proposals/offers.*** Amendment 0004 revises Attachment 12 Prime Pricing Model to correct an error on the Section B tab that was causing the 6- month option (Option 5 on the pricing model) to not display; 2) revises Section H INVITED CONTRACTOR OR TECHNICAL REPRESENTATIVE STATUS UNDER U.S. - REPUBLIC OF KOREA (ROK) clause; 3) revises Section L clause L-349 to change the subcontractor and prime alternate proposal submission process; and 4) extends the RFP closing date until 4/22/2026. \"}",
-    "attachments": [
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24a5768cf7ae4c5abdf4f7121186c70b/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 587481,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b4ec6f2a1324b5db674cabf203b3a03/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 14618,
-        "textSnippet": ""
-      },
-      {
-        "url": "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9203737eeb0e4353b244e2ea357aa099/download",
-        "contentType": "application/octet-stream",
-        "byteSize": 76908,
-        "textSnippet": ""
-      }
-    ],
-    "attachmentsTextCombined": "",
-    "amountEstimate": null,
-    "amountSource": null,
-    "amountInRange": null,
-    "keywordsMatched": [
-      "LAN"
-    ],
-    "keywordsMatchedIn": {
-      "title": [],
-      "description": [
-        "LAN"
-      ]
-    },
-    "remoteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "onsiteIndicators": {
-      "title": [],
-      "description": []
-    },
-    "remotePossible": false,
-    "onsitePossible": true,
-    "brandNameLikely": false,
-    "brandNameIndicators": [],
-    "scopeIndicators": [],
-    "scopeRisk": false,
-    "workModeNotes": {
-      "onsiteRequired": false,
-      "onsiteAllowedStates": [
-        "AZ",
-        "Arizona"
-      ],
-      "placeOfPerformanceState": null
     },
     "timeToDeadlineDays": null,
     "bidEligible": true,
